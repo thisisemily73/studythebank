@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     CheckCircle2,
     XCircle,
@@ -10,55 +10,213 @@ import {
 import {
     addDoc,
     collection,
+    doc,
+    getDoc,
     getDocs,
     serverTimestamp,
+    setDoc,
 } from 'firebase/firestore';
 
 import { questionBank } from '../data/questionBank';
-
-console.log('QUESTION BANK:', questionBank);
-console.log('LENGTH:', questionBank.length);
-console.log('ITEM 0:', questionBank[0]);
-console.log('ITEM 1:', questionBank[1]);
-
 import { auth, db } from '../firebase';
 import DifficultyDots from '../components/DifficultyDots';
 import '../styles/pages/Practice.css';
 
-const SESSION_SIZE = 20;
+const QUESTION_COUNT_OPTIONS = [
+    10,
+    20,
+    50,
+    100,
+    'All available',
+];
+
+const DEFAULT_SUBTOPICS = {
+    'Information and Ideas': true,
+    'Craft and Structure': true,
+    'Expression of Ideas': true,
+    'Standard English Conventions': true,
+    Algebra: true,
+    'Advanced Math': true,
+    'Problem-Solving and Data Analysis': true,
+    'Geometry and Trigonometry': true,
+};
+
+const DEFAULT_DIFFICULTIES = {
+    Easy: true,
+    Medium: true,
+    Hard: true,
+};
 
 export default function Practice({ setIsDesmosOpen }) {
     const [phase, setPhase] = useState('setup');
 
     const [selectedTest, setSelectedTest] = useState('SAT');
 
-    const [subtopics, setSubtopics] = useState({
-        'Information and Ideas': true,
-        'Craft and Structure': true,
-        'Expression of Ideas': true,
-        'Standard English Conventions': true,
-        Algebra: true,
-        'Advanced Math': true,
-        'Problem-Solving and Data Analysis': true,
-        'Geometry and Trigonometry': true,
-    });
+    const [subtopics, setSubtopics] = useState(
+        DEFAULT_SUBTOPICS
+    );
 
-    const [selectedDifficulties, setSelectedDifficulties] = useState({
-        Easy: true,
-        Medium: true,
-        Hard: true,
-    });
+    const [selectedDifficulties, setSelectedDifficulties] =
+        useState(DEFAULT_DIFFICULTIES);
 
-    const [shuffle, setShuffle] = useState(true);
+    const [questionCount, setQuestionCount] =
+        useState(20);
 
-    const [activeQuestions, setActiveQuestions] = useState([]);
+    const [excludeCorrect, setExcludeCorrect] =
+        useState(true);
+
+    const [reviewMistakes, setReviewMistakes] =
+        useState(false);
+
+    const [activeQuestions, setActiveQuestions] =
+        useState([]);
+
     const [currentIndex, setCurrentIndex] = useState(0);
-    const [selectedOption, setSelectedOption] = useState(null);
-    const [isSubmitted, setIsSubmitted] = useState(false);
-    const [userAnswers, setUserAnswers] = useState({});
-    const [isStarting, setIsStarting] = useState(false);
-    const [isSaving, setIsSaving] = useState(false);
+    const [selectedOption, setSelectedOption] =
+        useState(null);
+
+    const [isSubmitted, setIsSubmitted] =
+        useState(false);
+
+    const [userAnswers, setUserAnswers] =
+        useState({});
+
+    const [isStarting, setIsStarting] =
+        useState(false);
+
+    const [isSaving, setIsSaving] =
+        useState(false);
+
+    const [isLoadingPreferences, setIsLoadingPreferences] =
+        useState(true);
+
     const [error, setError] = useState('');
+
+    const rwSubtopics = [
+        'Information and Ideas',
+        'Craft and Structure',
+        'Expression of Ideas',
+        'Standard English Conventions',
+    ];
+
+    const mathSubtopics = [
+        'Algebra',
+        'Advanced Math',
+        'Problem-Solving and Data Analysis',
+        'Geometry and Trigonometry',
+    ];
+
+    const mathDomains = [
+        'Algebra',
+        'Advanced Math',
+        'Problem-Solving and Data Analysis',
+        'Geometry and Trigonometry',
+    ];
+
+    useEffect(() => {
+        const loadPreferences = async () => {
+            const user = auth.currentUser;
+
+            if (!user) {
+                setIsLoadingPreferences(false);
+                return;
+            }
+
+            try {
+                const userRef = doc(
+                    db,
+                    'users',
+                    user.uid
+                );
+
+                const userSnapshot =
+                    await getDoc(userRef);
+
+                if (userSnapshot.exists()) {
+                    const data =
+                        userSnapshot.data();
+
+                    const preferences =
+                        data.practicePreferences;
+
+                    if (preferences) {
+                        if (
+                            preferences.subtopics
+                        ) {
+                            setSubtopics({
+                                ...DEFAULT_SUBTOPICS,
+                                ...preferences.subtopics,
+                            });
+                        }
+
+                        if (
+                            preferences.selectedDifficulties
+                        ) {
+                            setSelectedDifficulties({
+                                ...DEFAULT_DIFFICULTIES,
+                                ...preferences.selectedDifficulties,
+                            });
+                        }
+
+                        if (
+                            preferences.questionCount !==
+                            undefined
+                        ) {
+                            setQuestionCount(
+                                preferences.questionCount
+                            );
+                        }
+
+                        if (
+                            preferences.excludeCorrect !==
+                            undefined
+                        ) {
+                            setExcludeCorrect(
+                                preferences.excludeCorrect
+                            );
+                        }
+                    }
+                }
+            } catch (err) {
+                console.error(
+                    'LOAD PRACTICE PREFERENCES ERROR:',
+                    err
+                );
+            } finally {
+                setIsLoadingPreferences(false);
+            }
+        };
+
+        loadPreferences();
+    }, []);
+
+    const savePreferences = async () => {
+        const user = auth.currentUser;
+
+        if (!user) {
+            return;
+        }
+
+        try {
+            await setDoc(
+                doc(db, 'users', user.uid),
+                {
+                    practicePreferences: {
+                        subtopics,
+                        selectedDifficulties,
+                        questionCount,
+                        excludeCorrect,
+                    },
+                },
+                { merge: true }
+            );
+        } catch (err) {
+            console.error(
+                'SAVE PRACTICE PREFERENCES ERROR:',
+                err
+            );
+        }
+    };
 
     const toggleSubtopic = (key) => {
         setSubtopics((prev) => ({
@@ -67,7 +225,10 @@ export default function Practice({ setIsDesmosOpen }) {
         }));
     };
 
-    const toggleAllSection = (sectionKeys, value) => {
+    const toggleAllSection = (
+        sectionKeys,
+        value
+    ) => {
         setSubtopics((prev) => {
             const updated = { ...prev };
 
@@ -89,10 +250,19 @@ export default function Practice({ setIsDesmosOpen }) {
     const shuffleQuestions = (questions) => {
         const shuffled = [...questions];
 
-        for (let i = shuffled.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
+        for (
+            let i = shuffled.length - 1;
+            i > 0;
+            i--
+        ) {
+            const j = Math.floor(
+                Math.random() * (i + 1)
+            );
 
-            [shuffled[i], shuffled[j]] = [
+            [
+                shuffled[i],
+                shuffled[j],
+            ] = [
                 shuffled[j],
                 shuffled[i],
             ];
@@ -101,52 +271,56 @@ export default function Practice({ setIsDesmosOpen }) {
         return shuffled;
     };
 
-    const handleStartPractice = async () => {
-        console.log('QUESTION BANK:', questionBank);
-        console.log('IS ARRAY:', Array.isArray(questionBank));
+    const getQuestionList = () => {
+        if (!Array.isArray(questionBank)) {
+            return [];
+        }
 
+        return questionBank
+            .flat(Infinity)
+            .filter(
+                (item) =>
+                    item &&
+                    typeof item === 'object' &&
+                    item.id
+            );
+    };
+
+    const handleStartPractice = async () => {
         setError('');
         setIsStarting(true);
 
         try {
-            let flattened = [];
+            const flattened =
+                getQuestionList();
 
-            if (Array.isArray(questionBank)) {
-                flattened = questionBank
-                    .flat(Infinity)
-                    .filter(
-                        (item) =>
-                            item &&
-                            typeof item === 'object' &&
-                            item.id
-                    );
-            }
+            const filtered =
+                flattened.filter((q) => {
+                    const domain =
+                        q.domain ||
+                        'Standard English Conventions';
 
-            console.log('TOTAL QUESTIONS:', flattened.length);
-            console.log('FIRST QUESTION:', flattened[0]);
-            console.log(
-                'DOMAINS:',
-                [...new Set(flattened.map((q) => q.domain))]
-            );
-            console.log(
-                'DIFFICULTIES:',
-                [...new Set(flattened.map((q) => q.difficulty))]
-            );
+                    const difficulty =
+                        q.difficulty ||
+                        'Medium';
 
-            const filtered = flattened.filter((q) => {
-                const domain = q.domain || 'Standard English Conventions';
-                const difficulty = q.difficulty || 'Medium';
+                    if (
+                        subtopics[domain] ===
+                        false
+                    ) {
+                        return false;
+                    }
 
-                if (subtopics[domain] === false) {
-                    return false;
-                }
+                    if (
+                        !selectedDifficulties[
+                            difficulty
+                        ]
+                    ) {
+                        return false;
+                    }
 
-                if (!selectedDifficulties[difficulty]) {
-                    return false;
-                }
-
-                return true;
-            });
+                    return true;
+                });
 
             if (filtered.length === 0) {
                 setError(
@@ -155,59 +329,141 @@ export default function Practice({ setIsDesmosOpen }) {
                 return;
             }
 
-
-            let answeredQuestionIds = new Set();
-
             const user = auth.currentUser;
 
+            const latestResults = new Map();
+
             if (user) {
-                const attemptsRef = collection(
-                    db,
-                    'users',
-                    user.uid,
-                    'practiceAttempts'
-                );
+                const attemptsRef =
+                    collection(
+                        db,
+                        'users',
+                        user.uid,
+                        'practiceAttempts'
+                    );
 
-                const attemptsSnapshot = await getDocs(
-                    attemptsRef
-                );
+                const attemptsSnapshot =
+                    await getDocs(
+                        attemptsRef
+                    );
 
-                attemptsSnapshot.forEach((attempt) => {
-                    const data = attempt.data();
+                attemptsSnapshot.forEach(
+                    (attempt) => {
+                        const data =
+                            attempt.data();
 
-                    if (data.questionId) {
-                        answeredQuestionIds.add(data.questionId);
+                        if (
+                            !data.questionId
+                        ) {
+                            return;
+                        }
+
+                        const existing =
+                            latestResults.get(
+                                data.questionId
+                            );
+
+                        const existingTime =
+                            existing?.timestamp?.toMillis?.() ||
+                            0;
+
+                        const currentTime =
+                            data.timestamp?.toMillis?.() ||
+                            0;
+
+                        if (
+                            !existing ||
+                            currentTime >=
+                                existingTime
+                        ) {
+                            latestResults.set(
+                                data.questionId,
+                                data
+                            );
+                        }
                     }
-                });
+                );
             }
 
-            const unseenQuestions = filtered.filter(
-                (question) =>
-                    !answeredQuestionIds.has(question.id)
-            );
+            let availableQuestions =
+                filtered;
 
-            if (unseenQuestions.length === 0) {
-                setError(
-                    'You have answered every question matching these filters. Try changing your filters.'
-                );
+            if (reviewMistakes) {
+                availableQuestions =
+                    filtered.filter(
+                        (question) => {
+                            const result =
+                                latestResults.get(
+                                    question.id
+                                );
+
+                            return (
+                                result &&
+                                result.isCorrect ===
+                                    false
+                            );
+                        }
+                    );
+            } else if (excludeCorrect) {
+                availableQuestions =
+                    filtered.filter(
+                        (question) => {
+                            const result =
+                                latestResults.get(
+                                    question.id
+                                );
+
+                            return !(
+                                result &&
+                                result.isCorrect ===
+                                    true
+                            );
+                        }
+                    );
+            }
+
+            if (
+                availableQuestions.length ===
+                0
+            ) {
+                if (reviewMistakes) {
+                    setError(
+                        'You have no missed questions matching these filters.'
+                    );
+                } else {
+                    setError(
+                        'You have no unanswered questions matching these filters.'
+                    );
+                }
+
                 return;
             }
 
-            const randomized = shuffleQuestions(
-                unseenQuestions
+            const randomized =
+                shuffleQuestions(
+                    availableQuestions
+                );
+
+            const sessionQuestions =
+                questionCount ===
+                'All available'
+                    ? randomized
+                    : randomized.slice(
+                          0,
+                          questionCount
+                      );
+
+            setActiveQuestions(
+                sessionQuestions
             );
 
-            const sessionQuestions = randomized.slice(
-                0,
-                SESSION_SIZE
-            );
-
-            setActiveQuestions(sessionQuestions);
             setCurrentIndex(0);
             setSelectedOption(null);
             setIsSubmitted(false);
             setUserAnswers({});
             setPhase('active');
+
+            await savePreferences();
         } catch (err) {
             console.error(
                 'START PRACTICE ERROR:',
@@ -222,7 +478,8 @@ export default function Practice({ setIsDesmosOpen }) {
         }
     };
 
-    let rawQ = activeQuestions[currentIndex];
+    let rawQ =
+        activeQuestions[currentIndex];
 
     while (Array.isArray(rawQ)) {
         rawQ = rawQ[0];
@@ -232,7 +489,8 @@ export default function Practice({ setIsDesmosOpen }) {
 
     const innerQ =
         currentQ.question &&
-            typeof currentQ.question === 'object'
+        typeof currentQ.question ===
+            'object'
             ? currentQ.question
             : currentQ;
 
@@ -249,7 +507,7 @@ export default function Practice({ setIsDesmosOpen }) {
 
     const paragraphText =
         innerQ.paragraph &&
-            innerQ.paragraph !== 'null'
+        innerQ.paragraph !== 'null'
             ? innerQ.paragraph
             : currentQ.paragraph &&
                 currentQ.paragraph !== 'null'
@@ -267,94 +525,109 @@ export default function Practice({ setIsDesmosOpen }) {
         currentQ.correctOption ||
         'A';
 
-    const domain = currentQ.domain || '';
-    const difficulty =
-        currentQ.difficulty || 'Medium';
+    const domain =
+        currentQ.domain || '';
 
-    const mathDomains = [
-        'Algebra',
-        'Advanced Math',
-        'Problem-Solving and Data Analysis',
-        'Geometry and Trigonometry',
-    ];
+    const difficulty =
+        currentQ.difficulty ||
+        'Medium';
 
     const isMathDomain =
         mathDomains.includes(domain);
 
-    const questionSection = isMathDomain
-        ? 'Math'
-        : 'Reading and Writing';
+    const questionSection =
+        isMathDomain
+            ? 'Math'
+            : 'Reading and Writing';
 
     const handleSelect = (key) => {
-        if (isSubmitted || isSaving) {
+        if (
+            isSubmitted ||
+            isSaving
+        ) {
             return;
         }
 
         setSelectedOption(key);
     };
 
-    const handleSubmitAnswer = async () => {
-        if (!selectedOption || isSaving) {
-            return;
-        }
+    const handleSubmitAnswer =
+        async () => {
+            if (
+                !selectedOption ||
+                isSaving
+            ) {
+                return;
+            }
 
-        const user = auth.currentUser;
+            const user =
+                auth.currentUser;
 
-        if (!user) {
-            setIsSubmitted(true);
+            if (!user) {
+                setIsSubmitted(true);
 
-            setUserAnswers((prev) => ({
-                ...prev,
-                [currentIndex]: selectedOption,
-            }));
+                setUserAnswers(
+                    (prev) => ({
+                        ...prev,
+                        [currentIndex]:
+                            selectedOption,
+                    })
+                );
 
-            return;
-        }
+                return;
+            }
 
-        setIsSaving(true);
-        setError('');
+            setIsSaving(true);
+            setError('');
 
-        const isCorrect =
-            selectedOption === correctAnswer;
+            const isCorrect =
+                selectedOption ===
+                correctAnswer;
 
-        try {
-            await addDoc(
-                collection(
-                    db,
-                    'users',
-                    user.uid,
-                    'practiceAttempts'
-                ),
-                {
-                    questionId: currentQ.id,
-                    domain,
-                    difficulty,
-                    selectedAnswer: selectedOption,
-                    correctAnswer,
-                    isCorrect,
-                    timestamp: serverTimestamp(),
-                }
-            );
+            try {
+                await addDoc(
+                    collection(
+                        db,
+                        'users',
+                        user.uid,
+                        'practiceAttempts'
+                    ),
+                    {
+                        questionId:
+                            currentQ.id,
+                        domain,
+                        difficulty,
+                        selectedAnswer:
+                            selectedOption,
+                        correctAnswer,
+                        isCorrect,
+                        timestamp:
+                            serverTimestamp(),
+                    }
+                );
 
-            setUserAnswers((prev) => ({
-                ...prev,
-                [currentIndex]: selectedOption,
-            }));
+                setUserAnswers(
+                    (prev) => ({
+                        ...prev,
+                        [currentIndex]:
+                            selectedOption,
+                    })
+                );
 
-            setIsSubmitted(true);
-        } catch (err) {
-            console.error(
-                'SAVE ANSWER ERROR:',
-                err
-            );
+                setIsSubmitted(true);
+            } catch (err) {
+                console.error(
+                    'SAVE ANSWER ERROR:',
+                    err
+                );
 
-            setError(
-                'Your answer could not be saved. Please try again.'
-            );
-        } finally {
-            setIsSaving(false);
-        }
-    };
+                setError(
+                    'Your answer could not be saved. Please try again.'
+                );
+            } finally {
+                setIsSaving(false);
+            }
+        };
 
     const handleNext = () => {
         if (
@@ -364,14 +637,18 @@ export default function Practice({ setIsDesmosOpen }) {
             return;
         }
 
-        const nextIndex = currentIndex + 1;
+        const nextIndex =
+            currentIndex + 1;
 
         setCurrentIndex(nextIndex);
 
-        if (userAnswers[nextIndex]) {
+        if (
+            userAnswers[nextIndex]
+        ) {
             setSelectedOption(
                 userAnswers[nextIndex]
             );
+
             setIsSubmitted(true);
         } else {
             setSelectedOption(null);
@@ -387,12 +664,21 @@ export default function Practice({ setIsDesmosOpen }) {
         const previousIndex =
             currentIndex - 1;
 
-        setCurrentIndex(previousIndex);
+        setCurrentIndex(
+            previousIndex
+        );
 
-        if (userAnswers[previousIndex]) {
+        if (
+            userAnswers[
+                previousIndex
+            ]
+        ) {
             setSelectedOption(
-                userAnswers[previousIndex]
+                userAnswers[
+                    previousIndex
+                ]
             );
+
             setIsSubmitted(true);
         } else {
             setSelectedOption(null);
@@ -400,19 +686,17 @@ export default function Practice({ setIsDesmosOpen }) {
         }
     };
 
-    const rwSubtopics = [
-        'Information and Ideas',
-        'Craft and Structure',
-        'Expression of Ideas',
-        'Standard English Conventions',
-    ];
-
-    const mathSubtopics = [
-        'Algebra',
-        'Advanced Math',
-        'Problem-Solving and Data Analysis',
-        'Geometry and Trigonometry',
-    ];
+    if (
+        isLoadingPreferences
+    ) {
+        return (
+            <main className="practice-page">
+                <div className="practice-loading">
+                    Loading your practice preferences...
+                </div>
+            </main>
+        );
+    }
 
     if (phase === 'setup') {
         return (
@@ -453,34 +737,39 @@ export default function Practice({ setIsDesmosOpen }) {
                                     'SAT',
                                     'PSAT/NMSQT & PSAT 10',
                                     'PSAT 8/9',
-                                ].map((test) => (
-                                    <label
-                                        key={test}
-                                        className={`test-option ${selectedTest ===
-                                            test
-                                            ? 'selected'
-                                            : ''
-                                            }`}
-                                    >
-                                        <input
-                                            type="radio"
-                                            name="testType"
-                                            checked={
+                                ].map(
+                                    (test) => (
+                                        <label
+                                            key={test}
+                                            className={`test-option ${
                                                 selectedTest ===
                                                 test
-                                            }
-                                            onChange={() =>
-                                                setSelectedTest(
+                                                    ? 'selected'
+                                                    : ''
+                                            }`}
+                                        >
+                                            <input
+                                                type="radio"
+                                                name="testType"
+                                                checked={
+                                                    selectedTest ===
                                                     test
-                                                )
-                                            }
-                                        />
+                                                }
+                                                onChange={() =>
+                                                    setSelectedTest(
+                                                        test
+                                                    )
+                                                }
+                                            />
 
-                                        <span className="custom-radio" />
+                                            <span className="custom-radio" />
 
-                                        <span>{test}</span>
-                                    </label>
-                                ))}
+                                            <span>
+                                                {test}
+                                            </span>
+                                        </label>
+                                    )
+                                )}
                             </div>
                         </div>
 
@@ -529,21 +818,26 @@ export default function Practice({ setIsDesmosOpen }) {
 
                             <div className="subtopics-grid">
                                 {rwSubtopics.map(
-                                    (subtopic) => (
+                                    (
+                                        subtopic
+                                    ) => (
                                         <label
-                                            key={subtopic}
-                                            className={`subtopic-option ${subtopics[
+                                            key={
                                                 subtopic
-                                            ]
-                                                ? 'selected'
-                                                : ''
-                                                }`}
+                                            }
+                                            className={`subtopic-option ${
+                                                subtopics[
+                                                    subtopic
+                                                ]
+                                                    ? 'selected'
+                                                    : ''
+                                            }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     subtopics[
-                                                    subtopic
+                                                        subtopic
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -561,7 +855,9 @@ export default function Practice({ setIsDesmosOpen }) {
                                             </span>
 
                                             <span>
-                                                {subtopic}
+                                                {
+                                                    subtopic
+                                                }
                                             </span>
                                         </label>
                                     )
@@ -612,21 +908,26 @@ export default function Practice({ setIsDesmosOpen }) {
 
                             <div className="subtopics-grid">
                                 {mathSubtopics.map(
-                                    (subtopic) => (
+                                    (
+                                        subtopic
+                                    ) => (
                                         <label
-                                            key={subtopic}
-                                            className={`subtopic-option ${subtopics[
+                                            key={
                                                 subtopic
-                                            ]
-                                                ? 'selected'
-                                                : ''
-                                                }`}
+                                            }
+                                            className={`subtopic-option ${
+                                                subtopics[
+                                                    subtopic
+                                                ]
+                                                    ? 'selected'
+                                                    : ''
+                                            }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     subtopics[
-                                                    subtopic
+                                                        subtopic
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -644,7 +945,9 @@ export default function Practice({ setIsDesmosOpen }) {
                                             </span>
 
                                             <span>
-                                                {subtopic}
+                                                {
+                                                    subtopic
+                                                }
                                             </span>
                                         </label>
                                     )
@@ -680,18 +983,19 @@ export default function Practice({ setIsDesmosOpen }) {
                                             key={
                                                 difficultyOption
                                             }
-                                            className={`difficulty-option ${selectedDifficulties[
-                                                difficultyOption
-                                            ]
-                                                ? 'selected'
-                                                : ''
-                                                }`}
+                                            className={`difficulty-option ${
+                                                selectedDifficulties[
+                                                    difficultyOption
+                                                ]
+                                                    ? 'selected'
+                                                    : ''
+                                            }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     selectedDifficulties[
-                                                    difficultyOption
+                                                        difficultyOption
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -719,7 +1023,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             </div>
                         </div>
 
-                        <div className="practice-section practice-options-section">
+                        <div className="practice-section">
                             <div className="practice-section-header">
                                 <div>
                                     <span className="practice-step">
@@ -727,39 +1031,139 @@ export default function Practice({ setIsDesmosOpen }) {
                                     </span>
 
                                     <h2>
-                                        Options
+                                        Number of Questions
                                     </h2>
                                 </div>
                             </div>
 
-                            <label className="shuffle-option">
-                                <input
-                                    type="checkbox"
-                                    checked={shuffle}
-                                    onChange={() =>
-                                        setShuffle(
-                                            (prev) =>
-                                                !prev
-                                        )
-                                    }
-                                />
+                            <div className="question-count-options">
+                                {QUESTION_COUNT_OPTIONS.map(
+                                    (count) => (
+                                        <label
+                                            key={
+                                                count
+                                            }
+                                            className={`question-count-option ${
+                                                questionCount ===
+                                                count
+                                                    ? 'selected'
+                                                    : ''
+                                            }`}
+                                        >
+                                            <input
+                                                type="radio"
+                                                name="questionCount"
+                                                checked={
+                                                    questionCount ===
+                                                    count
+                                                }
+                                                onChange={() =>
+                                                    setQuestionCount(
+                                                        count
+                                                    )
+                                                }
+                                            />
 
-                                <span className="custom-checkbox">
-                                    {shuffle && '✓'}
-                                </span>
+                                            <span className="custom-radio" />
 
-                                <span>
-                                    <strong>
-                                        Shuffle questions
-                                    </strong>
+                                            <span>
+                                                {count ===
+                                                'All available'
+                                                    ? count
+                                                    : `${count} questions`}
+                                            </span>
+                                        </label>
+                                    )
+                                )}
+                            </div>
+                        </div>
 
-                                    <small>
-                                        Randomize the order
-                                        of questions in
-                                        your session.
-                                    </small>
-                                </span>
-                            </label>
+                        <div className="practice-section">
+                            <div className="practice-section-header">
+                                <div>
+                                    <span className="practice-step">
+                                        06
+                                    </span>
+
+                                    <h2>
+                                        Question Options
+                                    </h2>
+                                </div>
+                            </div>
+
+                            <div className="practice-toggle-list">
+                                <label className="practice-toggle-option">
+                                    <input
+                                        type="checkbox"
+                                        checked={
+                                            excludeCorrect
+                                        }
+                                        disabled={
+                                            reviewMistakes
+                                        }
+                                        onChange={() =>
+                                            setExcludeCorrect(
+                                                (prev) =>
+                                                    !prev
+                                            )
+                                        }
+                                    />
+
+                                    <span className="custom-checkbox">
+                                        {excludeCorrect &&
+                                            !reviewMistakes &&
+                                            '✓'}
+                                    </span>
+
+                                    <span>
+                                        <strong>
+                                            Exclude correctly answered
+                                            questions
+                                        </strong>
+
+                                        <small>
+                                            Once you get a
+                                            question right,
+                                            it won't appear
+                                            in normal practice
+                                            again.
+                                        </small>
+                                    </span>
+                                </label>
+
+                                <label className="practice-toggle-option review-mistakes-option">
+                                    <input
+                                        type="checkbox"
+                                        checked={
+                                            reviewMistakes
+                                        }
+                                        onChange={() =>
+                                            setReviewMistakes(
+                                                (prev) =>
+                                                    !prev
+                                            )
+                                        }
+                                    />
+
+                                    <span className="custom-checkbox">
+                                        {reviewMistakes &&
+                                            '✓'}
+                                    </span>
+
+                                    <span>
+                                        <strong>
+                                            Review mistakes
+                                        </strong>
+
+                                        <small>
+                                            Practice only
+                                            questions whose
+                                            latest result was
+                                            incorrect.
+                                        </small>
+                                    </span>
+                                </label>
+                            </div>
                         </div>
 
                         {error && (
@@ -773,7 +1177,9 @@ export default function Practice({ setIsDesmosOpen }) {
                             onClick={
                                 handleStartPractice
                             }
-                            disabled={isStarting}
+                            disabled={
+                                isStarting
+                            }
                             className="practice-start-button"
                         >
                             <Play
@@ -783,7 +1189,9 @@ export default function Practice({ setIsDesmosOpen }) {
 
                             {isStarting
                                 ? 'Building Session...'
-                                : 'Start Practice Session'}
+                                : reviewMistakes
+                                    ? 'Review Mistakes'
+                                    : 'Start Practice Session'}
                         </button>
                     </section>
                 </div>
@@ -810,7 +1218,9 @@ export default function Practice({ setIsDesmosOpen }) {
                         <button
                             type="button"
                             onClick={() =>
-                                setIsDesmosOpen(true)
+                                setIsDesmosOpen(
+                                    true
+                                )
                             }
                             className="desmos-button"
                         >
@@ -823,15 +1233,19 @@ export default function Practice({ setIsDesmosOpen }) {
                     <div className="practice-progress-info">
                         <span>
                             Question{' '}
-                            {currentIndex + 1} of{' '}
-                            {activeQuestions.length}
+                            {currentIndex + 1}{' '}
+                            of{' '}
+                            {
+                                activeQuestions.length
+                            }
                         </span>
 
                         <span>
                             {Math.round(
-                                ((currentIndex + 1) /
+                                ((currentIndex +
+                                    1) /
                                     activeQuestions.length) *
-                                100
+                                    100
                             )}
                             %
                         </span>
@@ -841,10 +1255,12 @@ export default function Practice({ setIsDesmosOpen }) {
                         <div
                             className="progress-fill"
                             style={{
-                                width: `${((currentIndex + 1) /
-                                    activeQuestions.length) *
+                                width: `${
+                                    ((currentIndex +
+                                        1) /
+                                        activeQuestions.length) *
                                     100
-                                    }%`,
+                                }%`,
                             }}
                         />
                     </div>
@@ -891,14 +1307,16 @@ export default function Practice({ setIsDesmosOpen }) {
 
                                 if (
                                     selectedOption ===
-                                    key &&
+                                        key &&
                                     !isSubmitted
                                 ) {
                                     stateClass =
                                         'selected';
                                 }
 
-                                if (isSubmitted) {
+                                if (
+                                    isSubmitted
+                                ) {
                                     if (
                                         key ===
                                         correctAnswer
@@ -907,9 +1325,9 @@ export default function Practice({ setIsDesmosOpen }) {
                                             'correct';
                                     } else if (
                                         selectedOption ===
-                                        key &&
+                                            key &&
                                         selectedOption !==
-                                        correctAnswer
+                                            correctAnswer
                                     ) {
                                         stateClass =
                                             'incorrect';
@@ -969,15 +1387,16 @@ export default function Practice({ setIsDesmosOpen }) {
                     ) : (
                         <div className="answer-feedback">
                             <div
-                                className={`feedback-box ${selectedOption ===
+                                className={`feedback-box ${
+                                    selectedOption ===
                                     correctAnswer
-                                    ? 'feedback-correct'
-                                    : 'feedback-incorrect'
-                                    }`}
+                                        ? 'feedback-correct'
+                                        : 'feedback-incorrect'
+                                }`}
                             >
                                 <div className="feedback-heading">
                                     {selectedOption ===
-                                        correctAnswer ? (
+                                    correctAnswer ? (
                                         <>
                                             <CheckCircle2
                                                 size={
@@ -1000,17 +1419,17 @@ export default function Practice({ setIsDesmosOpen }) {
 
                                 {selectedOption !==
                                     correctAnswer && (
-                                        <p className="correct-answer-text">
-                                            The correct
-                                            answer was{' '}
-                                            <strong>
-                                                {
-                                                    correctAnswer
-                                                }
-                                            </strong>
-                                            .
-                                        </p>
-                                    )}
+                                    <p className="correct-answer-text">
+                                        The correct
+                                        answer was{' '}
+                                        <strong>
+                                            {
+                                                correctAnswer
+                                            }
+                                        </strong>
+                                        .
+                                    </p>
+                                )}
 
                                 <div className="explanation">
                                     <span>
@@ -1027,20 +1446,20 @@ export default function Practice({ setIsDesmosOpen }) {
 
                             {currentIndex <
                                 activeQuestions.length -
-                                1 && (
-                                    <button
-                                        type="button"
-                                        onClick={
-                                            handleNext
-                                        }
-                                        className="next-question-button"
-                                    >
-                                        Next Question
-                                        <ArrowRight
-                                            size={17}
-                                        />
-                                    </button>
-                                )}
+                                    1 && (
+                                <button
+                                    type="button"
+                                    onClick={
+                                        handleNext
+                                    }
+                                    className="next-question-button"
+                                >
+                                    Next Question
+                                    <ArrowRight
+                                        size={17}
+                                    />
+                                </button>
+                            )}
                         </div>
                     )}
                 </section>
@@ -1050,7 +1469,8 @@ export default function Practice({ setIsDesmosOpen }) {
                         type="button"
                         onClick={handlePrev}
                         disabled={
-                            currentIndex === 0
+                            currentIndex ===
+                            0
                         }
                         className="navigation-button"
                     >
@@ -1060,7 +1480,9 @@ export default function Practice({ setIsDesmosOpen }) {
 
                     <span>
                         {currentIndex + 1} /{' '}
-                        {activeQuestions.length}
+                        {
+                            activeQuestions.length
+                        }
                     </span>
 
                     <button
@@ -1068,7 +1490,8 @@ export default function Practice({ setIsDesmosOpen }) {
                         onClick={handleNext}
                         disabled={
                             currentIndex ===
-                            activeQuestions.length - 1
+                            activeQuestions.length -
+                                1
                         }
                         className="navigation-button"
                     >
