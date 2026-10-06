@@ -71,6 +71,15 @@
   background: var(--primary-light);
 }
 
+.navbar-auth-link {
+    color: var(--primary);
+    font-weight: 750;
+}
+
+.navbar-auth-link:hover {
+    color: var(--primary-hover);
+}
+
 @media (max-width: 650px) {
   .navbar {
     padding: 0 1rem;
