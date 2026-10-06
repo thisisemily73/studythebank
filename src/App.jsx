@@ -1,11 +1,23 @@
 import React, { useEffect, useState } from 'react';
-import { onAuthStateChanged } from 'firebase/auth';
+import {
+  getRedirectResult,
+  onAuthStateChanged,
+} from 'firebase/auth';
+import {
+  doc,
+  getDoc,
+} from 'firebase/firestore';
 
-import { auth } from './firebase';
+import { auth, db } from './firebase';
 
+// Components
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+
+// Pages
 import Home from './pages/Home';
 import Practice from './pages/Practice';
+import Dashboard from './pages/Dashboard';
 import Diagnostic from './pages/Diagnostic';
 import Analytics from './pages/Analytics';
 import Auth from './pages/Auth';
@@ -19,12 +31,54 @@ export default function App() {
   const [isDesmosOpen, setIsDesmosOpen] = useState(false);
 
   useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+    const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
+      console.log("AUTH STATE CHANGED:", currentUser);
+
       setUser(currentUser);
-      setAuthLoading(false);
+
+      if (!currentUser) {
+        setAuthLoading(false);
+        return;
+      }
+
+      try {
+        const profileRef = doc(db, 'users', currentUser.uid);
+        const profileSnap = await getDoc(profileRef);
+
+        if (!profileSnap.exists()) {
+          setView('profileSetup');
+        } else {
+          const profile = profileSnap.data();
+
+          if (profile.profileComplete) {
+            setView('dashboard');
+          } else {
+            setView('profileSetup');
+          }
+        }
+      } catch (err) {
+        console.error("PROFILE CHECK ERROR:", err);
+      } finally {
+        setAuthLoading(false);
+      }
     });
 
     return unsubscribe;
+  }, []);
+
+  useEffect(() => {
+    const handleRedirectResult = async () => {
+      try {
+        await getRedirectResult(auth);
+      } catch (error) {
+        console.error(
+          'Google redirect error:',
+          error
+        );
+      }
+    };
+
+    handleRedirectResult();
   }, []);
 
   if (authLoading) {
@@ -32,15 +86,24 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="app">
       <Navbar
         setView={setView}
         activeView={view}
         user={user}
       />
 
-      <main className="flex-1 p-6">
-        {view === 'home' && <Home setView={setView} />}
+      <main>
+        {view === 'home' && (
+          <Home setView={setView} />
+        )}
+
+        {view === 'dashboard' && (
+          <Dashboard
+            user={user}
+            setView={setView}
+          />
+        )}
 
         {view === 'diagnostic' && (
           <Diagnostic
@@ -74,6 +137,8 @@ export default function App() {
           />
         )}
       </main>
+
+      <Footer setView={setView} />
 
       {isDesmosOpen && (
         <DesmosModal

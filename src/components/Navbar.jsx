@@ -5,7 +5,7 @@ export default function Navbar({ setView, activeView, user }) {
     return (
         <nav className="navbar">
             <h1
-                onClick={() => setView('home')}
+                onClick={() => setView(user ? 'dashboard' : 'home')}
                 className="navbar-brand"
             >
                 studythebank
@@ -14,18 +14,16 @@ export default function Navbar({ setView, activeView, user }) {
             <div className="navbar-links">
                 <button
                     onClick={() => setView('practice')}
-                    className={`navbar-link ${
-                        activeView === 'practice' ? 'active' : ''
-                    }`}
+                    className={`navbar-link ${activeView === 'practice' ? 'active' : ''
+                        }`}
                 >
                     Practice
                 </button>
 
                 <button
                     onClick={() => setView('analytics')}
-                    className={`navbar-link ${
-                        activeView === 'analytics' ? 'active' : ''
-                    }`}
+                    className={`navbar-link ${activeView === 'analytics' ? 'active' : ''
+                        }`}
                 >
                     Analytics
                 </button>
@@ -33,18 +31,16 @@ export default function Navbar({ setView, activeView, user }) {
                 {user ? (
                     <button
                         onClick={() => setView('settings')}
-                        className={`navbar-link ${
-                            activeView === 'settings' ? 'active' : ''
-                        }`}
+                        className={`navbar-link ${activeView === 'settings' ? 'active' : ''
+                            }`}
                     >
                         Settings
                     </button>
                 ) : (
                     <button
                         onClick={() => setView('auth')}
-                        className={`navbar-link navbar-auth-link ${
-                            activeView === 'auth' ? 'active' : ''
-                        }`}
+                        className={`navbar-link navbar-auth-link ${activeView === 'auth' ? 'active' : ''
+                            }`}
                     >
                         Sign Up / Log In
                     </button>
