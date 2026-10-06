@@ -64,6 +64,10 @@
 }
 
 .settings-section-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
     margin-bottom: 1rem;
 }
 
@@ -80,6 +84,15 @@
     color: var(--text-muted);
     font-size: 0.72rem;
 }
+
+.settings-saving {
+    flex-shrink: 0;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    font-weight: 650;
+}
+
+/* Account */
 
 .account-info {
     display: flex;
@@ -119,6 +132,8 @@
     color: var(--text-muted);
     font-size: 0.7rem;
 }
+
+/* SAT profile */
 
 .score-display {
     display: grid;
@@ -186,6 +201,28 @@
     border-color: var(--primary);
 }
 
+.settings-skill-section {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.settings-subsection-header {
+    margin-bottom: 1rem;
+}
+
+.settings-subsection-header h3 {
+    color: var(--text-main);
+    font-size: 0.85rem;
+    font-weight: 800;
+}
+
+.settings-subsection-header p {
+    margin-top: 0.2rem;
+    color: var(--text-muted);
+    font-size: 0.72rem;
+}
+
 .settings-skills {
     overflow: hidden;
     border: 1px solid var(--border-color);
@@ -245,6 +282,75 @@
     color: white;
 }
 
+/* Practice preferences */
+
+.settings-preferences {
+    display: flex;
+    flex-direction: column;
+}
+
+.settings-preference-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 1.15rem 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.settings-preference-row:first-child {
+    padding-top: 0;
+}
+
+.settings-preference-row:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.settings-preference-row > div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.settings-preference-row strong {
+    color: var(--text-main);
+    font-size: 0.82rem;
+    font-weight: 750;
+}
+
+.settings-preference-row span {
+    max-width: 580px;
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    line-height: 1.5;
+}
+
+.settings-preference-row select {
+    min-width: 150px;
+    min-height: 40px;
+    padding: 0.55rem 0.7rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    background: white;
+    color: var(--text-main);
+    font-size: 0.75rem;
+}
+
+.settings-preference-row select:focus {
+    outline: 2px solid rgba(59, 130, 246, 0.15);
+    border-color: var(--primary);
+}
+
+.settings-preference-row input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+    accent-color: var(--primary);
+}
+
+/* Save actions */
+
 .settings-actions {
     display: flex;
     justify-content: flex-end;
@@ -269,6 +375,7 @@
 
 .settings-cancel-button:hover {
     background: var(--bg-soft);
+    border-color: #cbd5e1;
 }
 
 .settings-save-button {
@@ -287,6 +394,94 @@
     opacity: 0.6;
     cursor: not-allowed;
 }
+
+/* Data & privacy */
+
+.settings-danger-actions {
+    display: flex;
+    flex-direction: column;
+}
+
+.settings-danger-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 1.15rem 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.settings-danger-row:first-child {
+    padding-top: 0;
+}
+
+.settings-danger-row:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.settings-danger-row > div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.settings-danger-row strong {
+    color: var(--text-main);
+    font-size: 0.82rem;
+    font-weight: 750;
+}
+
+.settings-danger-row span {
+    max-width: 580px;
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    line-height: 1.5;
+}
+
+.settings-reset-button,
+.settings-delete-button {
+    flex-shrink: 0;
+    min-height: 42px;
+    padding: 0.65rem 1rem;
+    border-radius: var(--radius-md);
+    font-size: 0.72rem;
+    font-weight: 750;
+    transition:
+        background-color 0.15s ease,
+        border-color 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.settings-reset-button {
+    border: 1px solid #fecaca;
+    background: white;
+    color: var(--error);
+}
+
+.settings-reset-button:hover {
+    background: var(--error-bg);
+    border-color: #fca5a5;
+}
+
+.settings-delete-button {
+    border: 1px solid var(--error);
+    background: var(--error);
+    color: white;
+}
+
+.settings-delete-button:hover {
+    background: #b91c1c;
+    border-color: #b91c1c;
+}
+
+.settings-reset-button:disabled,
+.settings-delete-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Sign out */
 
 .settings-danger-card {
     display: flex;
@@ -311,6 +506,8 @@
     background: var(--error-bg);
     border-color: #fca5a5;
 }
+
+/* Empty / loading / error states */
 
 .settings-empty {
     padding: 0.9rem;
@@ -338,6 +535,8 @@
     font-size: 0.75rem;
 }
 
+/* Mobile */
+
 @media (max-width: 600px) {
     .settings-page {
         padding: 2rem 1rem 3rem;
@@ -346,6 +545,10 @@
     .settings-header {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .settings-edit-button {
+        width: 100%;
     }
 
     .score-display {
@@ -370,9 +573,29 @@
         flex-direction: column;
     }
 
+    .settings-preference-row,
+    .settings-danger-row {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .settings-preference-row select {
+        width: 100%;
+    }
+
+    .settings-reset-button,
+    .settings-delete-button {
+        width: 100%;
+    }
+
     .settings-danger-card {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .settings-signout-button {
+        width: 100%;
     }
 
     .settings-actions {

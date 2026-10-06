@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     Target,
     Flame,
@@ -7,94 +7,338 @@ import {
     TrendingUp,
 } from 'lucide-react';
 
+import {
+    collection,
+    getDocs,
+    orderBy,
+    query,
+} from 'firebase/firestore';
+
+import { auth, db } from '../firebase';
 import '../styles/pages/Analytics.css';
 
+const SKILLS = [
+    {
+        name: 'Information and Ideas',
+        section: 'Reading and Writing',
+    },
+    {
+        name: 'Craft and Structure',
+        section: 'Reading and Writing',
+    },
+    {
+        name: 'Expression of Ideas',
+        section: 'Reading and Writing',
+    },
+    {
+        name: 'Standard English Conventions',
+        section: 'Reading and Writing',
+    },
+    {
+        name: 'Algebra',
+        section: 'Math',
+    },
+    {
+        name: 'Advanced Math',
+        section: 'Math',
+    },
+    {
+        name: 'Problem-Solving and Data Analysis',
+        section: 'Math',
+    },
+    {
+        name: 'Geometry and Trigonometry',
+        section: 'Math',
+    },
+];
+
 export default function Analytics({ setView }) {
-    // Temporary data until practice results are connected
-    const stats = {
-        questionsAnswered: 47,
-        accuracy: 72,
-        currentStreak: 4,
-        mastered: 21,
-    };
+    const [attempts, setAttempts] = useState([]);
+    const [isLoading, setIsLoading] = useState(true);
+    const [error, setError] = useState('');
 
-    const skills = [
-        {
-            name: 'Information and Ideas',
-            section: 'Reading and Writing',
-            accuracy: 82,
-            questions: 11,
-        },
-        {
-            name: 'Craft and Structure',
-            section: 'Reading and Writing',
-            accuracy: 74,
-            questions: 9,
-        },
-        {
-            name: 'Expression of Ideas',
-            section: 'Reading and Writing',
-            accuracy: 61,
-            questions: 8,
-        },
-        {
-            name: 'Standard English Conventions',
-            section: 'Reading and Writing',
-            accuracy: 78,
-            questions: 6,
-        },
-        {
-            name: 'Algebra',
-            section: 'Math',
-            accuracy: 86,
-            questions: 7,
-        },
-        {
-            name: 'Advanced Math',
-            section: 'Math',
-            accuracy: 58,
-            questions: 6,
-        },
-    ];
+    useEffect(() => {
+        const loadAnalytics = async () => {
+            const user = auth.currentUser;
 
-    // Lower accuracy means more practice is recommended
+            if (!user) {
+                setAttempts([]);
+                setIsLoading(false);
+                return;
+            }
+
+            try {
+                setError('');
+
+                const attemptsRef = collection(
+                    db,
+                    'users',
+                    user.uid,
+                    'practiceAttempts'
+                );
+
+                const attemptsQuery = query(
+                    attemptsRef,
+                    orderBy('timestamp', 'desc')
+                );
+
+                const snapshot = await getDocs(attemptsQuery);
+
+                const loadedAttempts = snapshot.docs.map((doc) => ({
+                    id: doc.id,
+                    ...doc.data(),
+                }));
+
+                setAttempts(loadedAttempts);
+            } catch (err) {
+                console.error('ANALYTICS ERROR:', err);
+
+                setError(
+                    'We could not load your practice data right now.'
+                );
+            } finally {
+                setIsLoading(false);
+            }
+        };
+
+        loadAnalytics();
+    }, []);
+
+    const questionsAnswered = attempts.length;
+
+    const correctAnswers = attempts.filter(
+        (attempt) => attempt.isCorrect
+    ).length;
+
+    const accuracy =
+        questionsAnswered > 0
+            ? Math.round(
+                  (correctAnswers / questionsAnswered) * 100
+              )
+            : 0;
+
+    // Find the most recent result for every question.
+    const latestAttempts = new Map();
+
+    attempts.forEach((attempt) => {
+        if (!attempt.questionId) {
+            return;
+        }
+
+        if (!latestAttempts.has(attempt.questionId)) {
+            latestAttempts.set(
+                attempt.questionId,
+                attempt
+            );
+        }
+    });
+
+    const mastered = Array.from(
+        latestAttempts.values()
+    ).filter((attempt) => attempt.isCorrect).length;
+
+    const skills = SKILLS.map((skill) => {
+        const skillAttempts = attempts.filter(
+            (attempt) =>
+                attempt.domain === skill.name
+        );
+
+        const skillCorrect = skillAttempts.filter(
+            (attempt) => attempt.isCorrect
+        ).length;
+
+        const skillAccuracy =
+            skillAttempts.length > 0
+                ? Math.round(
+                      (skillCorrect /
+                          skillAttempts.length) *
+                          100
+                  )
+                : 0;
+
+        return {
+            ...skill,
+            accuracy: skillAccuracy,
+            questions: skillAttempts.length,
+        };
+    });
+
+    // Lower accuracy means more practice is recommended.
+    // Skills with no attempts are excluded for now.
     const practiceRecommendations = [...skills]
-        .sort((a, b) => a.accuracy - b.accuracy)
+        .filter((skill) => skill.questions > 0)
+        .sort((a, b) => {
+            if (a.accuracy !== b.accuracy) {
+                return a.accuracy - b.accuracy;
+            }
+
+            return b.questions - a.questions;
+        })
         .slice(0, 3);
 
-    const getSkillStatus = (accuracy) => {
-        if (accuracy >= 80) return 'strong';
-        if (accuracy >= 65) return 'developing';
+    const getSkillStatus = (skillAccuracy) => {
+        if (skillAccuracy >= 80) {
+            return 'strong';
+        }
+
+        if (skillAccuracy >= 65) {
+            return 'developing';
+        }
+
         return 'needs-work';
     };
 
-    const getStatusLabel = (accuracy) => {
-        if (accuracy >= 80) return 'Strong';
-        if (accuracy >= 65) return 'Developing';
+    const getStatusLabel = (skillAccuracy) => {
+        if (skillAccuracy >= 80) {
+            return 'Strong';
+        }
+
+        if (skillAccuracy >= 65) {
+            return 'Developing';
+        }
+
         return 'Needs practice';
     };
+
+    const calculateStreak = () => {
+        if (attempts.length === 0) {
+            return 0;
+        }
+
+        const practiceDays = new Set();
+
+        attempts.forEach((attempt) => {
+            if (!attempt.timestamp?.toDate) {
+                return;
+            }
+
+            const date = attempt.timestamp.toDate();
+
+            const dayKey = date.toLocaleDateString(
+                'en-CA'
+            );
+
+            practiceDays.add(dayKey);
+        });
+
+        if (practiceDays.size === 0) {
+            return 0;
+        }
+
+        const days = Array.from(practiceDays)
+            .map((day) => new Date(`${day}T00:00:00`))
+            .sort((a, b) => b - a);
+
+        const today = new Date();
+
+        today.setHours(0, 0, 0, 0);
+
+        const mostRecentDay = days[0];
+
+        const daysSincePractice = Math.floor(
+            (today - mostRecentDay) /
+                (1000 * 60 * 60 * 24)
+        );
+
+        // If they haven't practiced today or yesterday,
+        // their current streak is no longer active.
+        if (daysSincePractice > 1) {
+            return 0;
+        }
+
+        let streak = 1;
+
+        for (let i = 0; i < days.length - 1; i++) {
+            const difference =
+                (days[i] - days[i + 1]) /
+                (1000 * 60 * 60 * 24);
+
+            if (difference === 1) {
+                streak++;
+            } else {
+                break;
+            }
+        }
+
+        return streak;
+    };
+
+    const currentStreak = calculateStreak();
+
+    if (isLoading) {
+        return (
+            <main className="analytics-page">
+                <div className="analytics-container">
+                    <div className="analytics-empty">
+                        <div className="analytics-empty-icon">
+                            <TrendingUp size={20} />
+                        </div>
+
+                        <h3>
+                            Loading your progress...
+                        </h3>
+
+                        <p>
+                            We're pulling in your latest
+                            practice results.
+                        </p>
+                    </div>
+                </div>
+            </main>
+        );
+    }
+
+    if (error) {
+        return (
+            <main className="analytics-page">
+                <div className="analytics-container">
+                    <div className="analytics-empty">
+                        <div className="analytics-empty-icon">
+                            <TrendingUp size={20} />
+                        </div>
+
+                        <h3>
+                            Something went wrong
+                        </h3>
+
+                        <p>{error}</p>
+
+                        <button
+                            type="button"
+                            onClick={() => setView('practice')}
+                            className="analytics-empty-button"
+                        >
+                            Back to practice
+                            <ArrowRight size={15} />
+                        </button>
+                    </div>
+                </div>
+            </main>
+        );
+    }
 
     return (
         <main className="analytics-page">
             <div className="analytics-container">
 
-                {/* Page header */}
                 <header className="analytics-header">
                     <div>
-                        <p className="analytics-eyebrow">Your Progress</p>
+                        <p className="analytics-eyebrow">
+                            Your Progress
+                        </p>
 
                         <h1 className="analytics-title">
                             See how you're doing
                         </h1>
 
                         <p className="analytics-subtitle">
-                            Track your performance and find the skills that
-                            deserve a little more practice.
+                            Track your performance and find
+                            the skills that deserve a little
+                            more practice.
                         </p>
                     </div>
                 </header>
 
-                {/* Overview stats */}
                 <section className="analytics-stats">
 
                     <div className="analytics-stat-card">
@@ -108,7 +352,7 @@ export default function Analytics({ setView }) {
                             </span>
 
                             <strong className="analytics-stat-value">
-                                {stats.questionsAnswered}
+                                {questionsAnswered}
                             </strong>
                         </div>
                     </div>
@@ -124,7 +368,7 @@ export default function Analytics({ setView }) {
                             </span>
 
                             <strong className="analytics-stat-value">
-                                {stats.accuracy}%
+                                {accuracy}%
                             </strong>
                         </div>
                     </div>
@@ -140,7 +384,7 @@ export default function Analytics({ setView }) {
                             </span>
 
                             <strong className="analytics-stat-value">
-                                {stats.currentStreak}
+                                {currentStreak}
                                 <small> days</small>
                             </strong>
                         </div>
@@ -157,14 +401,13 @@ export default function Analytics({ setView }) {
                             </span>
 
                             <strong className="analytics-stat-value">
-                                {stats.mastered}
+                                {mastered}
                             </strong>
                         </div>
                     </div>
 
                 </section>
 
-                {/* Skill performance */}
                 <section className="analytics-section">
 
                     <div className="analytics-section-header">
@@ -179,14 +422,18 @@ export default function Analytics({ setView }) {
                         </div>
 
                         <span className="analytics-section-note">
-                            Based on {stats.questionsAnswered} questions
+                            Based on {questionsAnswered}{' '}
+                            questions
                         </span>
                     </div>
 
                     <div className="skills-card">
 
                         {skills.map((skill) => {
-                            const status = getSkillStatus(skill.accuracy);
+                            const status =
+                                getSkillStatus(
+                                    skill.accuracy
+                                );
 
                             return (
                                 <div
@@ -200,19 +447,29 @@ export default function Analytics({ setView }) {
                                             </strong>
 
                                             <span>
-                                                {skill.section} ·{' '}
-                                                {skill.questions} questions
+                                                {skill.section}{' '}
+                                                ·{' '}
+                                                {skill.questions}{' '}
+                                                questions
                                             </span>
                                         </div>
 
                                         <div className="skill-result">
                                             <strong>
-                                                {skill.accuracy}%
+                                                {skill.questions > 0
+                                                    ? `${skill.accuracy}%`
+                                                    : '—'}
                                             </strong>
 
-                                            <span className={`skill-status ${status}`}>
-                                                {getStatusLabel(skill.accuracy)}
-                                            </span>
+                                            {skill.questions > 0 && (
+                                                <span
+                                                    className={`skill-status ${status}`}
+                                                >
+                                                    {getStatusLabel(
+                                                        skill.accuracy
+                                                    )}
+                                                </span>
+                                            )}
                                         </div>
                                     </div>
 
@@ -220,7 +477,10 @@ export default function Analytics({ setView }) {
                                         <div
                                             className={`skill-progress-fill ${status}`}
                                             style={{
-                                                width: `${skill.accuracy}%`,
+                                                width:
+                                                    skill.questions > 0
+                                                        ? `${skill.accuracy}%`
+                                                        : '0%',
                                             }}
                                         />
                                     </div>
@@ -232,7 +492,6 @@ export default function Analytics({ setView }) {
 
                 </section>
 
-                {/* Recommended practice */}
                 <section className="analytics-section">
 
                     <div className="analytics-section-header">
@@ -247,49 +506,90 @@ export default function Analytics({ setView }) {
                         </div>
                     </div>
 
-                    <div className="recommendations-grid">
+                    {practiceRecommendations.length > 0 ? (
+                        <div className="recommendations-grid">
 
-                        {practiceRecommendations.map((skill, index) => (
-                            <div
-                                key={skill.name}
-                                className="recommendation-card"
-                            >
-                                <div className="recommendation-number">
-                                    0{index + 1}
-                                </div>
-
-                                <div className="recommendation-content">
-                                    <span className="recommendation-section">
-                                        {skill.section}
-                                    </span>
-
-                                    <h3>
-                                        {skill.name}
-                                    </h3>
-
-                                    <p>
-                                        You're currently at{' '}
-                                        <strong>{skill.accuracy}%</strong>{' '}
-                                        accuracy here.
-                                    </p>
-
-                                    <button
-                                        type="button"
-                                        onClick={() => setView('practice')}
-                                        className="recommendation-button"
+                            {practiceRecommendations.map(
+                                (skill, index) => (
+                                    <div
+                                        key={skill.name}
+                                        className="recommendation-card"
                                     >
-                                        Practice this skill
-                                        <ArrowRight size={15} />
-                                    </button>
-                                </div>
-                            </div>
-                        ))}
+                                        <div className="recommendation-number">
+                                            0{index + 1}
+                                        </div>
 
-                    </div>
+                                        <div className="recommendation-content">
+                                            <span className="recommendation-section">
+                                                {skill.section}
+                                            </span>
+
+                                            <h3>
+                                                {skill.name}
+                                            </h3>
+
+                                            <p>
+                                                You're currently
+                                                at{' '}
+                                                <strong>
+                                                    {skill.accuracy}%
+                                                </strong>{' '}
+                                                accuracy here.
+                                            </p>
+
+                                            <button
+                                                type="button"
+                                                onClick={() =>
+                                                    setView(
+                                                        'practice'
+                                                    )
+                                                }
+                                                className="recommendation-button"
+                                            >
+                                                Practice this
+                                                skill
+                                                <ArrowRight
+                                                    size={15}
+                                                />
+                                            </button>
+                                        </div>
+                                    </div>
+                                )
+                            )}
+
+                        </div>
+                    ) : (
+                        <div className="analytics-empty">
+                            <div className="analytics-empty-icon">
+                                <Target size={20} />
+                            </div>
+
+                            <h3>
+                                Start practicing to get
+                                recommendations
+                            </h3>
+
+                            <p>
+                                Once you've answered some
+                                questions, we'll identify the
+                                areas where you can improve.
+                            </p>
+
+                            <button
+                                type="button"
+                                onClick={() =>
+                                    setView('practice')
+                                }
+                                className="analytics-empty-button"
+                            >
+                                Start practicing
+                                <ArrowRight size={15} />
+                            </button>
+                        </div>
+                    )}
 
                 </section>
 
-                {/* Empty future activity section */}
                 <section className="analytics-section">
 
                     <div className="analytics-section-header">
@@ -304,29 +604,56 @@ export default function Analytics({ setView }) {
                         </div>
                     </div>
 
-                    <div className="analytics-empty">
-                        <div className="analytics-empty-icon">
-                            <TrendingUp size={20} />
+                    {attempts.length > 0 ? (
+                        <div className="analytics-empty">
+                            <div className="analytics-empty-icon">
+                                <TrendingUp size={20} />
+                            </div>
+
+                            <h3>
+                                Your history is being
+                                recorded
+                            </h3>
+
+                            <p>
+                                You've answered{' '}
+                                <strong>
+                                    {attempts.length}
+                                </strong>{' '}
+                                questions so far. A visual
+                                progress chart can be added
+                                here next.
+                            </p>
                         </div>
+                    ) : (
+                        <div className="analytics-empty">
+                            <div className="analytics-empty-icon">
+                                <TrendingUp size={20} />
+                            </div>
 
-                        <h3>
-                            Your progress over time will appear here
-                        </h3>
+                            <h3>
+                                Your progress over time will
+                                appear here
+                            </h3>
 
-                        <p>
-                            Keep practicing and you'll be able to see how
-                            your accuracy changes over time.
-                        </p>
+                            <p>
+                                Keep practicing and you'll be
+                                able to see how your accuracy
+                                changes over time.
+                            </p>
 
-                        <button
-                            type="button"
-                            onClick={() => setView('practice')}
-                            className="analytics-empty-button"
-                        >
-                            Start practicing
-                            <ArrowRight size={15} />
-                        </button>
-                    </div>
+                            <button
+                                type="button"
+                                onClick={() =>
+                                    setView('practice')
+                                }
+                                className="analytics-empty-button"
+                            >
+                                Start practicing
+                                <ArrowRight size={15} />
+                            </button>
+                        </div>
+                    )}
 
                 </section>
 

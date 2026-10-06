@@ -382,6 +382,21 @@
     box-shadow: var(--shadow-sm);
 }
 
+.analytics-empty strong {
+    color: var(--text-main);
+}
+
+.analytics-empty-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.analytics-empty-button:hover {
+    background: var(--primary-hover);
+}
+
 
 /* Responsive layout */
 
