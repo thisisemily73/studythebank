@@ -1,0 +1,37 @@
+.difficulty-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+
+.difficulty-dots {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.difficulty-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #dbe2ea;
+}
+
+.difficulty-easy .difficulty-dot.filled {
+  background: #35a66f;
+}
+
+.difficulty-medium .difficulty-dot.filled {
+  background: #e5ae35;
+}
+
+.difficulty-hard .difficulty-dot.filled {
+  background: #df5b5b;
+}
+
+.difficulty-label {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
