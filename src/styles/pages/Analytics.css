@@ -1,0 +1,446 @@
+/* Page layout */
+
+.analytics-page {
+    min-height: calc(100vh - 64px);
+    padding: 3rem 1.25rem 4rem;
+}
+
+.analytics-container {
+    width: min(100%, 1000px);
+    margin: 0 auto;
+}
+
+
+/* Page header */
+
+.analytics-header {
+    margin-bottom: 2rem;
+}
+
+.analytics-eyebrow,
+.analytics-section-eyebrow {
+    margin-bottom: 0.4rem;
+    color: var(--primary);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.analytics-title {
+    color: var(--text-main);
+    font-size: clamp(1.75rem, 4vw, 2.25rem);
+    font-weight: 800;
+    letter-spacing: -0.035em;
+    line-height: 1.15;
+}
+
+.analytics-subtitle {
+    max-width: 600px;
+    margin-top: 0.6rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+
+/* Overview statistics */
+
+.analytics-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.8rem;
+    margin-bottom: 2.5rem;
+}
+
+.analytics-stat-card {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    min-height: 96px;
+    padding: 1rem;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+}
+
+.analytics-stat-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--primary-light);
+    color: var(--primary);
+}
+
+.analytics-stat-label {
+    display: block;
+    margin-bottom: 0.15rem;
+    color: var(--text-muted);
+    font-size: 0.68rem;
+    font-weight: 650;
+}
+
+.analytics-stat-value {
+    display: block;
+    color: var(--text-main);
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+}
+
+.analytics-stat-value small {
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    font-weight: 650;
+}
+
+
+/* Sections */
+
+.analytics-section {
+    margin-bottom: 2.5rem;
+}
+
+.analytics-section-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.9rem;
+}
+
+.analytics-section-header h2 {
+    color: var(--text-main);
+    font-size: 1.05rem;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+}
+
+.analytics-section-eyebrow {
+    margin-bottom: 0.2rem;
+    font-size: 0.65rem;
+}
+
+.analytics-section-note {
+    color: var(--text-light);
+    font-size: 0.7rem;
+    font-weight: 600;
+}
+
+
+/* Skill performance */
+
+.skills-card {
+    overflow: hidden;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-sm);
+}
+
+.skill-row {
+    padding: 1.15rem 1.4rem;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.skill-row:last-child {
+    border-bottom: 0;
+}
+
+.skill-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.7rem;
+}
+
+.skill-info > div:first-child {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.skill-info strong {
+    color: var(--text-secondary);
+    font-size: 0.82rem;
+    font-weight: 750;
+}
+
+.skill-info span {
+    color: var(--text-light);
+    font-size: 0.67rem;
+}
+
+.skill-result {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+}
+
+.skill-result > strong {
+    color: var(--text-main);
+    font-size: 0.85rem;
+}
+
+.skill-status {
+    padding: 0.22rem 0.45rem;
+    border-radius: 5px;
+    font-size: 0.6rem !important;
+    font-weight: 750 !important;
+}
+
+.skill-status.strong {
+    background: var(--success-bg);
+    color: #15803d;
+}
+
+.skill-status.developing {
+    background: var(--warning-bg);
+    color: #b45309;
+}
+
+.skill-status.needs-work {
+    background: var(--error-bg);
+    color: #dc2626;
+}
+
+.skill-progress {
+    width: 100%;
+    height: 6px;
+    overflow: hidden;
+    border-radius: 999px;
+    background: #edf1f5;
+}
+
+.skill-progress-fill {
+    height: 100%;
+    border-radius: inherit;
+}
+
+.skill-progress-fill.strong {
+    background: #4ade80;
+}
+
+.skill-progress-fill.developing {
+    background: #fbbf24;
+}
+
+.skill-progress-fill.needs-work {
+    background: #f87171;
+}
+
+
+/* Recommendations */
+
+.recommendations-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.8rem;
+}
+
+.recommendation-card {
+    display: flex;
+    gap: 0.8rem;
+    min-height: 200px;
+    padding: 1.15rem;
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    transition:
+        border-color 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.recommendation-card:hover {
+    border-color: #cbd5e1;
+    box-shadow: var(--shadow-md);
+}
+
+.recommendation-number {
+    color: #cbd5e1;
+    font-size: 0.7rem;
+    font-weight: 800;
+}
+
+.recommendation-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.recommendation-section {
+    margin-bottom: 0.25rem;
+    color: var(--primary);
+    font-size: 0.6rem;
+    font-weight: 750;
+    text-transform: uppercase;
+}
+
+.recommendation-content h3 {
+    margin-bottom: 0.45rem;
+    color: var(--text-main);
+    font-size: 0.9rem;
+    font-weight: 800;
+}
+
+.recommendation-content p {
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    line-height: 1.5;
+}
+
+.recommendation-content p strong {
+    color: var(--text-secondary);
+}
+
+.recommendation-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: auto;
+    padding: 0.45rem 0;
+    border: 0;
+    background: transparent;
+    color: var(--primary);
+    font-size: 0.7rem;
+    font-weight: 750;
+    cursor: pointer;
+}
+
+.recommendation-button:hover {
+    color: var(--primary-hover);
+}
+
+
+/* Empty activity state */
+
+.analytics-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    background: white;
+    border: 1px dashed var(--border-color);
+    border-radius: var(--radius-xl);
+}
+
+.analytics-empty-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    margin-bottom: 0.8rem;
+    border-radius: 11px;
+    background: var(--primary-light);
+    color: var(--primary);
+}
+
+.analytics-empty h3 {
+    margin-bottom: 0.35rem;
+    color: var(--text-main);
+    font-size: 0.9rem;
+    font-weight: 750;
+}
+
+.analytics-empty p {
+    max-width: 430px;
+    margin-bottom: 1rem;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    line-height: 1.55;
+}
+
+.analytics-empty-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 38px;
+    padding: 0.55rem 0.8rem;
+    border: 1px solid var(--primary);
+    border-radius: var(--radius-md);
+    background: var(--primary);
+    color: white;
+    font-size: 0.72rem;
+    font-weight: 750;
+    cursor: pointer;
+    transition:
+        background-color 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.analytics-empty-button:hover {
+    background: var(--primary-hover);
+    box-shadow: var(--shadow-sm);
+}
+
+
+/* Responsive layout */
+
+@media (max-width: 800px) {
+    .analytics-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .recommendations-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .recommendation-card {
+        min-height: 160px;
+    }
+}
+
+@media (max-width: 560px) {
+    .analytics-page {
+        padding: 2rem 1rem 3rem;
+    }
+
+    .analytics-stats {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.6rem;
+    }
+
+    .analytics-stat-card {
+        min-height: 85px;
+        padding: 0.8rem;
+    }
+
+    .analytics-stat-icon {
+        width: 32px;
+        height: 32px;
+    }
+
+    .analytics-stat-value {
+        font-size: 1.15rem;
+    }
+
+    .analytics-section-header {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .skill-row {
+        padding: 1rem;
+    }
+
+    .skill-info {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .skill-result {
+        width: 100%;
+        justify-content: space-between;
+    }
+}

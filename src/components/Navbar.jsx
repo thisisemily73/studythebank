@@ -17,12 +17,12 @@ export default function Navbar({ setView, activeView }) {
         >
           Practice
         </button>
-        <button 
+        {/* <button 
           onClick={() => setView('diagnostic')} 
           className={`navbar-link ${activeView === 'diagnostic' ? 'active' : ''}`}
         >
           Diagnostic
-        </button>
+        </button> */}
         <button 
           onClick={() => setView('analytics')} 
           className={`navbar-link ${activeView === 'analytics' ? 'active' : ''}`}
