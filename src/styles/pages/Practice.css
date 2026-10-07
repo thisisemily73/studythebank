@@ -232,24 +232,29 @@
 }
 
 .custom-checkbox {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 17px;
-  height: 17px;
-  flex-shrink: 0;
-  border: 1.5px solid #cbd5e1;
-  border-radius: 4px;
-  background: white;
-  color: white;
-  font-size: 0.65rem;
-  font-weight: 900;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 17px;
+    height: 17px;
+    flex-shrink: 0;
+
+    border: 1.5px solid #cbd5e1;
+    border-radius: 4px;
+    background: white;
+
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 900;
+    line-height: 1;
 }
 
 .subtopic-option.selected .custom-checkbox,
-.difficulty-option.selected .custom-checkbox {
-  border-color: var(--primary);
-  background: var(--primary);
+.difficulty-option.selected .custom-checkbox,
+.practice-toggle-option.selected .custom-checkbox {
+    border-color: var(--primary);
+    background: var(--primary);
 }
 
 

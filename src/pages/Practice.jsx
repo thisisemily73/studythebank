@@ -1035,19 +1035,19 @@ export default function Practice() {
                             </div>
 
                             <div className="practice-toggle-list">
-                                <label className="practice-toggle-option">
+                                <label
+                                    className={`practice-toggle-option ${excludeCorrect && !reviewMistakes
+                                            ? 'selected'
+                                            : ''
+                                        }`}
+                                >
                                     <input
                                         type="checkbox"
-                                        checked={
-                                            excludeCorrect
-                                        }
-                                        disabled={
-                                            reviewMistakes
-                                        }
+                                        checked={excludeCorrect}
+                                        disabled={reviewMistakes}
                                         onChange={() =>
                                             setExcludeCorrect(
-                                                (prev) =>
-                                                    !prev
+                                                (prev) => !prev
                                             )
                                         }
                                     />
@@ -1065,32 +1065,29 @@ export default function Practice() {
                                         </strong>
 
                                         <small>
-                                            Once you get a
-                                            question right,
-                                            it won't appear
-                                            in normal practice
+                                            Once you get a question right,
+                                            it won't appear in normal practice
                                             again.
                                         </small>
                                     </span>
                                 </label>
 
-                                <label className="practice-toggle-option review-mistakes-option">
+                                <label
+                                    className={`practice-toggle-option review-mistakes-option ${reviewMistakes ? 'selected' : ''
+                                        }`}
+                                >
                                     <input
                                         type="checkbox"
-                                        checked={
-                                            reviewMistakes
-                                        }
+                                        checked={reviewMistakes}
                                         onChange={() =>
                                             setReviewMistakes(
-                                                (prev) =>
-                                                    !prev
+                                                (prev) => !prev
                                             )
                                         }
                                     />
 
                                     <span className="custom-checkbox">
-                                        {reviewMistakes &&
-                                            '✓'}
+                                        {reviewMistakes && '✓'}
                                     </span>
 
                                     <span>
@@ -1099,10 +1096,8 @@ export default function Practice() {
                                         </strong>
 
                                         <small>
-                                            Practice only
-                                            questions whose
-                                            latest result was
-                                            incorrect.
+                                            Practice only questions whose
+                                            latest result was incorrect.
                                         </small>
                                     </span>
                                 </label>
@@ -1384,11 +1379,9 @@ export default function Practice() {
                                             Explanation
                                         </span>
 
-                                        <p>
-                                            {
-                                                explanationText
-                                            }
-                                        </p>
+                                        <FormattedText>
+                                            {explanationText}
+                                        </FormattedText>
                                     </div>
                                 </div>
 
