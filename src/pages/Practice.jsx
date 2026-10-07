@@ -47,8 +47,9 @@ const DEFAULT_DIFFICULTIES = {
     Hard: true,
 };
 
-export default function Practice({ setIsDesmosOpen }) {
+export default function Practice() {
     const [phase, setPhase] = useState('setup');
+    const [isDesmosOpen, setIsDesmosOpen] = useState(false);
 
     const [selectedTest, setSelectedTest] = useState('SAT');
 
@@ -263,9 +264,9 @@ export default function Practice({ setIsDesmosOpen }) {
                 shuffled[i],
                 shuffled[j],
             ] = [
-                shuffled[j],
-                shuffled[i],
-            ];
+                    shuffled[j],
+                    shuffled[i],
+                ];
         }
 
         return shuffled;
@@ -313,7 +314,7 @@ export default function Practice({ setIsDesmosOpen }) {
 
                     if (
                         !selectedDifficulties[
-                            difficulty
+                        difficulty
                         ]
                     ) {
                         return false;
@@ -374,7 +375,7 @@ export default function Practice({ setIsDesmosOpen }) {
                         if (
                             !existing ||
                             currentTime >=
-                                existingTime
+                            existingTime
                         ) {
                             latestResults.set(
                                 data.questionId,
@@ -400,7 +401,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             return (
                                 result &&
                                 result.isCorrect ===
-                                    false
+                                false
                             );
                         }
                     );
@@ -416,7 +417,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             return !(
                                 result &&
                                 result.isCorrect ===
-                                    true
+                                true
                             );
                         }
                     );
@@ -446,12 +447,12 @@ export default function Practice({ setIsDesmosOpen }) {
 
             const sessionQuestions =
                 questionCount ===
-                'All available'
+                    'All available'
                     ? randomized
                     : randomized.slice(
-                          0,
-                          questionCount
-                      );
+                        0,
+                        questionCount
+                    );
 
             setActiveQuestions(
                 sessionQuestions
@@ -489,7 +490,7 @@ export default function Practice({ setIsDesmosOpen }) {
 
     const innerQ =
         currentQ.question &&
-        typeof currentQ.question ===
+            typeof currentQ.question ===
             'object'
             ? currentQ.question
             : currentQ;
@@ -507,7 +508,7 @@ export default function Practice({ setIsDesmosOpen }) {
 
     const paragraphText =
         innerQ.paragraph &&
-        innerQ.paragraph !== 'null'
+            innerQ.paragraph !== 'null'
             ? innerQ.paragraph
             : currentQ.paragraph &&
                 currentQ.paragraph !== 'null'
@@ -670,12 +671,12 @@ export default function Practice({ setIsDesmosOpen }) {
 
         if (
             userAnswers[
-                previousIndex
+            previousIndex
             ]
         ) {
             setSelectedOption(
                 userAnswers[
-                    previousIndex
+                previousIndex
                 ]
             );
 
@@ -769,19 +770,18 @@ export default function Practice({ setIsDesmosOpen }) {
                                             key={
                                                 subtopic
                                             }
-                                            className={`subtopic-option ${
-                                                subtopics[
-                                                    subtopic
-                                                ]
-                                                    ? 'selected'
-                                                    : ''
-                                            }`}
+                                            className={`subtopic-option ${subtopics[
+                                                subtopic
+                                            ]
+                                                ? 'selected'
+                                                : ''
+                                                }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     subtopics[
-                                                        subtopic
+                                                    subtopic
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -859,19 +859,18 @@ export default function Practice({ setIsDesmosOpen }) {
                                             key={
                                                 subtopic
                                             }
-                                            className={`subtopic-option ${
-                                                subtopics[
-                                                    subtopic
-                                                ]
-                                                    ? 'selected'
-                                                    : ''
-                                            }`}
+                                            className={`subtopic-option ${subtopics[
+                                                subtopic
+                                            ]
+                                                ? 'selected'
+                                                : ''
+                                                }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     subtopics[
-                                                        subtopic
+                                                    subtopic
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -927,19 +926,18 @@ export default function Practice({ setIsDesmosOpen }) {
                                             key={
                                                 difficultyOption
                                             }
-                                            className={`difficulty-option ${
-                                                selectedDifficulties[
-                                                    difficultyOption
-                                                ]
-                                                    ? 'selected'
-                                                    : ''
-                                            }`}
+                                            className={`difficulty-option ${selectedDifficulties[
+                                                difficultyOption
+                                            ]
+                                                ? 'selected'
+                                                : ''
+                                                }`}
                                         >
                                             <input
                                                 type="checkbox"
                                                 checked={
                                                     selectedDifficulties[
-                                                        difficultyOption
+                                                    difficultyOption
                                                     ]
                                                 }
                                                 onChange={() =>
@@ -987,12 +985,11 @@ export default function Practice({ setIsDesmosOpen }) {
                                             key={
                                                 count
                                             }
-                                            className={`question-count-option ${
-                                                questionCount ===
+                                            className={`question-count-option ${questionCount ===
                                                 count
-                                                    ? 'selected'
-                                                    : ''
-                                            }`}
+                                                ? 'selected'
+                                                : ''
+                                                }`}
                                         >
                                             <input
                                                 type="radio"
@@ -1012,7 +1009,7 @@ export default function Practice({ setIsDesmosOpen }) {
 
                                             <span>
                                                 {count ===
-                                                'All available'
+                                                    'All available'
                                                     ? count
                                                     : `${count} questions`}
                                             </span>
@@ -1189,7 +1186,7 @@ export default function Practice({ setIsDesmosOpen }) {
                                 ((currentIndex +
                                     1) /
                                     activeQuestions.length) *
-                                    100
+                                100
                             )}
                             %
                         </span>
@@ -1199,214 +1196,237 @@ export default function Practice({ setIsDesmosOpen }) {
                         <div
                             className="progress-fill"
                             style={{
-                                width: `${
-                                    ((currentIndex +
-                                        1) /
-                                        activeQuestions.length) *
+                                width: `${((currentIndex +
+                                    1) /
+                                    activeQuestions.length) *
                                     100
-                                }%`,
+                                    }%`,
                             }}
                         />
                     </div>
                 </div>
 
-                <section className="question-card">
-                    <div className="question-meta">
-                        <span className="question-number">
-                            Question{' '}
-                            {currentIndex + 1}
-                        </span>
-
-                        <div className="question-tags">
-                            <span className="question-domain">
-                                {domain ||
-                                    questionSection}
+                <div className={`practice-workspace ${isDesmosOpen ? 'desmos-open' : ''}`}>
+                    <section className="question-card">
+                        <div className="question-meta">
+                            <span className="question-number">
+                                Question{' '}
+                                {currentIndex + 1}
                             </span>
 
-                            <DifficultyDots
-                                difficulty={
-                                    difficulty
-                                }
-                            />
-                        </div>
-                    </div>
+                            <div className="question-tags">
+                                <span className="question-domain">
+                                    {domain ||
+                                        questionSection}
+                                </span>
 
-                    {paragraphText && (
-                        <div className="passage-box">
-                            {paragraphText}
-                        </div>
-                    )}
-
-                    <div className="question-prompt">
-                        {questionText}
-                    </div>
-
-                    <div className="choices-list">
-                        {Object.entries(
-                            choicesMap
-                        ).map(
-                            ([key, value]) => {
-                                let stateClass =
-                                    '';
-
-                                if (
-                                    selectedOption ===
-                                        key &&
-                                    !isSubmitted
-                                ) {
-                                    stateClass =
-                                        'selected';
-                                }
-
-                                if (
-                                    isSubmitted
-                                ) {
-                                    if (
-                                        key ===
-                                        correctAnswer
-                                    ) {
-                                        stateClass =
-                                            'correct';
-                                    } else if (
-                                        selectedOption ===
-                                            key &&
-                                        selectedOption !==
-                                            correctAnswer
-                                    ) {
-                                        stateClass =
-                                            'incorrect';
+                                <DifficultyDots
+                                    difficulty={
+                                        difficulty
                                     }
-                                }
-
-                                return (
-                                    <button
-                                        key={key}
-                                        type="button"
-                                        onClick={() =>
-                                            handleSelect(
-                                                key
-                                            )
-                                        }
-                                        disabled={
-                                            isSubmitted ||
-                                            isSaving
-                                        }
-                                        className={`choice-option-btn ${stateClass}`}
-                                    >
-                                        <span className="choice-letter">
-                                            {key}
-                                        </span>
-
-                                        <span className="choice-text">
-                                            {value}
-                                        </span>
-                                    </button>
-                                );
-                            }
-                        )}
-                    </div>
-
-                    {error && (
-                        <p className="practice-error">
-                            {error}
-                        </p>
-                    )}
-
-                    {!isSubmitted ? (
-                        <button
-                            type="button"
-                            onClick={
-                                handleSubmitAnswer
-                            }
-                            disabled={
-                                !selectedOption ||
-                                isSaving
-                            }
-                            className="check-answer-button"
-                        >
-                            {isSaving
-                                ? 'Saving...'
-                                : 'Check Answer'}
-                        </button>
-                    ) : (
-                        <div className="answer-feedback">
-                            <div
-                                className={`feedback-box ${
-                                    selectedOption ===
-                                    correctAnswer
-                                        ? 'feedback-correct'
-                                        : 'feedback-incorrect'
-                                }`}
-                            >
-                                <div className="feedback-heading">
-                                    {selectedOption ===
-                                    correctAnswer ? (
-                                        <>
-                                            <CheckCircle2
-                                                size={
-                                                    18
-                                                }
-                                            />
-                                            Correct!
-                                        </>
-                                    ) : (
-                                        <>
-                                            <XCircle
-                                                size={
-                                                    18
-                                                }
-                                            />
-                                            Incorrect
-                                        </>
-                                    )}
-                                </div>
-
-                                {selectedOption !==
-                                    correctAnswer && (
-                                    <p className="correct-answer-text">
-                                        The correct
-                                        answer was{' '}
-                                        <strong>
-                                            {
-                                                correctAnswer
-                                            }
-                                        </strong>
-                                        .
-                                    </p>
-                                )}
-
-                                <div className="explanation">
-                                    <span>
-                                        Explanation
-                                    </span>
-
-                                    <p>
-                                        {
-                                            explanationText
-                                        }
-                                    </p>
-                                </div>
+                                />
                             </div>
+                        </div>
 
-                            {currentIndex <
-                                activeQuestions.length -
-                                    1 && (
-                                <button
-                                    type="button"
-                                    onClick={
-                                        handleNext
+                        {paragraphText && (
+                            <div className="passage-box">
+                                {paragraphText}
+                            </div>
+                        )}
+
+                        <div className="question-prompt">
+                            {questionText}
+                        </div>
+
+                        <div className="choices-list">
+                            {Object.entries(
+                                choicesMap
+                            ).map(
+                                ([key, value]) => {
+                                    let stateClass =
+                                        '';
+
+                                    if (
+                                        selectedOption ===
+                                        key &&
+                                        !isSubmitted
+                                    ) {
+                                        stateClass =
+                                            'selected';
                                     }
-                                    className="next-question-button"
-                                >
-                                    Next Question
-                                    <ArrowRight
-                                        size={17}
-                                    />
-                                </button>
+
+                                    if (
+                                        isSubmitted
+                                    ) {
+                                        if (
+                                            key ===
+                                            correctAnswer
+                                        ) {
+                                            stateClass =
+                                                'correct';
+                                        } else if (
+                                            selectedOption ===
+                                            key &&
+                                            selectedOption !==
+                                            correctAnswer
+                                        ) {
+                                            stateClass =
+                                                'incorrect';
+                                        }
+                                    }
+
+                                    return (
+                                        <button
+                                            key={key}
+                                            type="button"
+                                            onClick={() =>
+                                                handleSelect(
+                                                    key
+                                                )
+                                            }
+                                            disabled={
+                                                isSubmitted ||
+                                                isSaving
+                                            }
+                                            className={`choice-option-btn ${stateClass}`}
+                                        >
+                                            <span className="choice-letter">
+                                                {key}
+                                            </span>
+
+                                            <span className="choice-text">
+                                                {value}
+                                            </span>
+                                        </button>
+                                    );
+                                }
                             )}
                         </div>
-                    )}
-                </section>
+
+                        {error && (
+                            <p className="practice-error">
+                                {error}
+                            </p>
+                        )}
+
+                        {!isSubmitted ? (
+                            <button
+                                type="button"
+                                onClick={
+                                    handleSubmitAnswer
+                                }
+                                disabled={
+                                    !selectedOption ||
+                                    isSaving
+                                }
+                                className="check-answer-button"
+                            >
+                                {isSaving
+                                    ? 'Saving...'
+                                    : 'Check Answer'}
+                            </button>
+                        ) : (
+                            <div className="answer-feedback">
+                                <div
+                                    className={`feedback-box ${selectedOption ===
+                                        correctAnswer
+                                        ? 'feedback-correct'
+                                        : 'feedback-incorrect'
+                                        }`}
+                                >
+                                    <div className="feedback-heading">
+                                        {selectedOption ===
+                                            correctAnswer ? (
+                                            <>
+                                                <CheckCircle2
+                                                    size={
+                                                        18
+                                                    }
+                                                />
+                                                Correct!
+                                            </>
+                                        ) : (
+                                            <>
+                                                <XCircle
+                                                    size={
+                                                        18
+                                                    }
+                                                />
+                                                Incorrect
+                                            </>
+                                        )}
+                                    </div>
+
+                                    {selectedOption !==
+                                        correctAnswer && (
+                                            <p className="correct-answer-text">
+                                                The correct
+                                                answer was{' '}
+                                                <strong>
+                                                    {
+                                                        correctAnswer
+                                                    }
+                                                </strong>
+                                                .
+                                            </p>
+                                        )}
+
+                                    <div className="explanation">
+                                        <span>
+                                            Explanation
+                                        </span>
+
+                                        <p>
+                                            {
+                                                explanationText
+                                            }
+                                        </p>
+                                    </div>
+                                </div>
+
+                                {currentIndex <
+                                    activeQuestions.length -
+                                    1 && (
+                                        <button
+                                            type="button"
+                                            onClick={
+                                                handleNext
+                                            }
+                                            className="next-question-button"
+                                        >
+                                            Next Question
+                                            <ArrowRight
+                                                size={17}
+                                            />
+                                        </button>
+                                    )}
+                            </div>
+                        )}
+                    </section>
+
+                    <aside className="desmos-panel">
+                        <div className="desmos-panel-header">
+                            <span>Desmos</span>
+
+                            <button
+                                type="button"
+                                className="desmos-panel-close"
+                                onClick={() => setIsDesmosOpen(false)}
+                                aria-label="Close Desmos"
+                            >
+                                &times;
+                            </button>
+                        </div>
+
+                        <div className="desmos-panel-content">
+                            <iframe
+                                title="Desmos Graphing Calculator"
+                                src="https://www.desmos.com/calculator"
+                                className="desmos-iframe"
+                            />
+                        </div>
+                    </aside>
+                </div>
 
                 <div className="question-navigation">
                     <button
@@ -1435,7 +1455,7 @@ export default function Practice({ setIsDesmosOpen }) {
                         disabled={
                             currentIndex ===
                             activeQuestions.length -
-                                1
+                            1
                         }
                         className="navigation-button"
                     >

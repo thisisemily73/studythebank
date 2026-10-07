@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import {
   deleteUser,
   getRedirectResult,
@@ -11,6 +11,13 @@ import {
   getDoc,
   getDocs,
 } from 'firebase/firestore';
+import {
+  Navigate,
+  Route,
+  Routes,
+  useLocation,
+  useNavigate,
+} from 'react-router-dom';
 
 import { auth, db } from './firebase';
 
@@ -34,13 +41,44 @@ const DELETE_ACCOUNT_KEY =
 const DELETE_ACCOUNT_UID_KEY =
   'studythebank-delete-account-uid';
 
+const protectedPaths = [
+  '/dashboard',
+  '/analytics',
+  '/settings',
+  '/profile-setup',
+];
+
+const pathToView = {
+  '/': 'home',
+  '/dashboard': 'dashboard',
+  '/practice': 'practice',
+  '/diagnostic': 'diagnostic',
+  '/analytics': 'analytics',
+  '/auth': 'auth',
+  '/profile-setup': 'profileSetup',
+  '/settings': 'settings',
+};
+
 export default function App() {
-  const [view, setView] = useState('home');
+  const navigate = useNavigate();
+  const location = useLocation();
+
   const [user, setUser] = useState(null);
   const [authLoading, setAuthLoading] = useState(true);
   const [isDesmosOpen, setIsDesmosOpen] = useState(false);
 
-  const deletionStartedRef = React.useRef(false);
+  const deletionStartedRef = useRef(false);
+
+  const activeView = pathToView[location.pathname] || '';
+
+  const setView = (nextView) => {
+    const path =
+      nextView === 'home'
+        ? '/'
+        : `/${nextView}`;
+
+    navigate(path);
+  };
 
   useEffect(() => {
     let unsubscribe;
@@ -53,14 +91,7 @@ export default function App() {
         const pendingUid =
           localStorage.getItem(DELETE_ACCOUNT_UID_KEY);
 
-        console.log('DELETE FLOW CHECK:', {
-          deletionPending,
-          pendingUid,
-        });
-
-        const redirectResult = await getRedirectResult(auth);
-
-        console.log('REDIRECT RESULT:', redirectResult);
+        await getRedirectResult(auth);
 
         if (
           deletionPending &&
@@ -68,19 +99,13 @@ export default function App() {
           !deletionStartedRef.current
         ) {
           deletionStartedRef.current = true;
-          const currentUser = auth.currentUser;
 
-          console.log('CURRENT USER AFTER REDIRECT:', currentUser);
+          const currentUser = auth.currentUser;
 
           if (
             currentUser &&
             currentUser.uid === pendingUid
           ) {
-            console.log(
-              'FINISHING ACCOUNT DELETION:',
-              currentUser.uid
-            );
-
             setAuthLoading(true);
 
             const attemptsRef = collection(
@@ -90,14 +115,8 @@ export default function App() {
               'practiceAttempts'
             );
 
-            const attemptsSnapshot = await getDocs(
-              attemptsRef
-            );
-
-            console.log(
-              'PRACTICE ATTEMPTS TO DELETE:',
-              attemptsSnapshot.size
-            );
+            const attemptsSnapshot =
+              await getDocs(attemptsRef);
 
             await Promise.all(
               attemptsSnapshot.docs.map((attempt) =>
@@ -109,15 +128,7 @@ export default function App() {
               doc(db, 'users', currentUser.uid)
             );
 
-            console.log(
-              'FIRESTORE DATA DELETED'
-            );
-
             await deleteUser(currentUser);
-
-            console.log(
-              'FIREBASE AUTH ACCOUNT DELETED'
-            );
 
             localStorage.removeItem(
               DELETE_ACCOUNT_KEY
@@ -128,15 +139,11 @@ export default function App() {
             );
 
             setUser(null);
-            setView('home');
+            navigate('/', { replace: true });
             setAuthLoading(false);
 
             return;
           }
-
-          console.warn(
-            'DELETE FLOW DID NOT FIND EXPECTED USER'
-          );
 
           localStorage.removeItem(
             DELETE_ACCOUNT_KEY
@@ -150,15 +157,17 @@ export default function App() {
         unsubscribe = onAuthStateChanged(
           auth,
           async (currentUser) => {
-            console.log(
-              'AUTH STATE CHANGED:',
-              currentUser
-            );
-
             setUser(currentUser);
 
             if (!currentUser) {
-              setView('home');
+              if (
+                protectedPaths.includes(
+                  location.pathname
+                )
+              ) {
+                navigate('/auth', { replace: true });
+              }
+
               setAuthLoading(false);
               return;
             }
@@ -170,19 +179,28 @@ export default function App() {
                 currentUser.uid
               );
 
-              const profileSnap = await getDoc(
-                profileRef
-              );
+              const profileSnap =
+                await getDoc(profileRef);
 
               if (!profileSnap.exists()) {
-                setView('profileSetup');
+                navigate('/profile-setup', {
+                  replace: true,
+                });
               } else {
-                const profile = profileSnap.data();
+                const profile =
+                  profileSnap.data();
 
-                if (profile.profileComplete) {
-                  setView('dashboard');
-                } else {
-                  setView('profileSetup');
+                if (!profile.profileComplete) {
+                  navigate('/profile-setup', {
+                    replace: true,
+                  });
+                } else if (
+                  location.pathname === '/' ||
+                  location.pathname === '/auth'
+                ) {
+                  navigate('/dashboard', {
+                    replace: true,
+                  });
                 }
               }
             } catch (err) {
@@ -230,62 +248,85 @@ export default function App() {
     <div className="app">
       <Navbar
         setView={setView}
-        activeView={view}
+        activeView={activeView}
         user={user}
       />
 
       <main>
-        {view === 'home' && (
-          <Home setView={setView} />
-        )}
-
-        {view === 'dashboard' && (
-          <Dashboard
-            user={user}
-            setView={setView}
+        <Routes>
+          <Route
+            path="/"
+            element={<Home setView={setView} />}
           />
-        )}
 
-        {view === 'diagnostic' && (
-          <Diagnostic
-            setView={setView}
-            setIsDesmosOpen={setIsDesmosOpen}
+          <Route
+            path="/dashboard"
+            element={
+              <Dashboard
+                user={user}
+                setView={setView}
+              />
+            }
           />
-        )}
 
-        {view === 'practice' && (
-          <Practice
-            setIsDesmosOpen={setIsDesmosOpen}
+          <Route
+            path="/practice"
+            element={
+              <Practice
+                setIsDesmosOpen={setIsDesmosOpen}
+              />
+            }
           />
-        )}
 
-        {view === 'analytics' && (
-          <Analytics setView={setView} />
-        )}
-
-        {view === 'auth' && (
-          <Auth setView={setView} />
-        )}
-
-        {view === 'profileSetup' && (
-          <ProfileSetup setView={setView} />
-        )}
-
-        {view === 'settings' && (
-          <Settings
-            user={user}
-            setView={setView}
+          <Route
+            path="/diagnostic"
+            element={
+              <Diagnostic
+                setView={setView}
+                setIsDesmosOpen={setIsDesmosOpen}
+              />
+            }
           />
-        )}
+
+          <Route
+            path="/analytics"
+            element={
+              <Analytics setView={setView} />
+            }
+          />
+
+          <Route
+            path="/auth"
+            element={
+              <Auth setView={setView} />
+            }
+          />
+
+          <Route
+            path="/profile-setup"
+            element={
+              <ProfileSetup setView={setView} />
+            }
+          />
+
+          <Route
+            path="/settings"
+            element={
+              <Settings
+                user={user}
+                setView={setView}
+              />
+            }
+          />
+
+          <Route
+            path="*"
+            element={<Navigate to="/" replace />}
+          />
+        </Routes>
       </main>
 
       <Footer setView={setView} />
-
-      {isDesmosOpen && (
-        <DesmosModal
-          onClose={() => setIsDesmosOpen(false)}
-        />
-      )}
     </div>
   );
 }

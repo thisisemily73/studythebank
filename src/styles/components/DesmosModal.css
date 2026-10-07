@@ -1,0 +1,114 @@
+.practice-layout {
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+
+    overflow: hidden;
+}
+
+.practice-question {
+    width: 100%;
+    min-width: 0;
+
+    transition: width 0.3s ease;
+}
+
+.practice-layout.desmos-open .practice-question {
+    width: 55%;
+}
+
+.desmos-panel {
+    width: 45%;
+    min-width: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    background: white;
+    border-left: 1px solid var(--border-color);
+
+    animation: desmos-slide-in 0.3s ease;
+}
+
+.desmos-panel-header {
+    height: 52px;
+    flex-shrink: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 1rem;
+
+    border-bottom: 1px solid var(--border-color);
+
+    font-weight: 700;
+    color: var(--text-main);
+}
+
+.desmos-panel-close {
+    width: 36px;
+    height: 36px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    border-radius: var(--radius-sm);
+
+    background: transparent;
+    color: var(--text-muted);
+
+    font-size: 1.75rem;
+    line-height: 1;
+}
+
+.desmos-panel-close:hover {
+    background: var(--bg-soft);
+    color: var(--text-main);
+}
+
+.desmos-panel-content {
+    flex: 1;
+    min-height: 0;
+}
+
+.desmos-iframe {
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    border: none;
+}
+
+@keyframes desmos-slide-in {
+    from {
+        opacity: 0;
+        transform: translateX(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@media (max-width: 800px) {
+    .practice-layout.desmos-open {
+        flex-direction: column;
+    }
+
+    .practice-layout.desmos-open .practice-question {
+        width: 100%;
+    }
+
+    .desmos-panel {
+        width: 100%;
+        height: 60vh;
+        border-left: none;
+        border-top: 1px solid var(--border-color);
+    }
+}
