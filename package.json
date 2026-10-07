@@ -12,6 +12,7 @@
   "dependencies": {
     "firebase": "^12.19.0",
     "lucide-react": "^1.52.0",
+    "openai": "^7.30.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-markdown": "^10.1.0",

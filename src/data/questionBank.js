@@ -46785,27 +46785,6 @@ export const questionBank = [
             "difficulty": "Easy"
         },
         {
-            "id": "random_id_c1",
-            "domain": "Algebra",
-            "visuals": {
-                "type": "null",
-                "svg_content": "null"
-            },
-            "question": {
-                "choices": {
-                    "A": "2",
-                    "B": "4",
-                    "C": "6",
-                    "D": "8"
-                },
-                "question": "The sum of two numbers is 10.  One number is 4 less than twice the other number.  What is the value of the larger number?",
-                "paragraph": "null",
-                "explanation": "Let x represent the smaller number.  The larger number is 2x - 4.  The sum of the two numbers is x + (2x - 4) = 10.  Combining like terms, we get 3x - 4 = 10.  Adding 4 to both sides, we get 3x = 14.  Dividing both sides by 3, we get x = 14/3.  The larger number is 2(14/3) - 4 = 28/3 - 4 = 16/3 = 5 1/3.  Therefore, the larger number is 6.",
-                "correct_answer": "D"
-            },
-            "difficulty": "Medium"
-        },
-        {
             "id": "random_id_b8",
             "domain": "Advanced Math",
             "visuals": {
