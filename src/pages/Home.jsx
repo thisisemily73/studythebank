@@ -24,13 +24,13 @@ export default function Home({ setView }) {
         </p>
 
         <div className="home-actions">
-          <button
+          {/* <button
             onClick={() => setView('diagnostic')}
             className="btn-primary"
           >
             Start 20-question Diagnostic
             <ArrowRight size={18} />
-          </button>
+          </button> */}
 
           <button
             onClick={() => setView('practice')}

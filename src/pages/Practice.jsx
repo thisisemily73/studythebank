@@ -727,62 +727,6 @@ export default function Practice({ setIsDesmosOpen }) {
                                     </span>
 
                                     <h2>
-                                        Choose your test
-                                    </h2>
-                                </div>
-                            </div>
-
-                            <div className="test-options">
-                                {[
-                                    'SAT',
-                                    'PSAT/NMSQT & PSAT 10',
-                                    'PSAT 8/9',
-                                ].map(
-                                    (test) => (
-                                        <label
-                                            key={test}
-                                            className={`test-option ${
-                                                selectedTest ===
-                                                test
-                                                    ? 'selected'
-                                                    : ''
-                                            }`}
-                                        >
-                                            <input
-                                                type="radio"
-                                                name="testType"
-                                                checked={
-                                                    selectedTest ===
-                                                    test
-                                                }
-                                                onChange={() =>
-                                                    setSelectedTest(
-                                                        test
-                                                    )
-                                                }
-                                            />
-
-                                            <span className="custom-radio" />
-
-                                            <span>
-                                                {test}
-                                            </span>
-                                        </label>
-                                    )
-                                )}
-                            </div>
-                        </div>
-
-                        <div className="practice-divider" />
-
-                        <div className="practice-section">
-                            <div className="practice-section-header">
-                                <div>
-                                    <span className="practice-step">
-                                        02
-                                    </span>
-
-                                    <h2>
                                         Reading & Writing
                                     </h2>
                                 </div>
@@ -869,7 +813,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             <div className="practice-section-header">
                                 <div>
                                     <span className="practice-step">
-                                        03
+                                        02
                                     </span>
 
                                     <h2>
@@ -961,7 +905,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             <div className="practice-section-header">
                                 <div>
                                     <span className="practice-step">
-                                        04
+                                        03
                                     </span>
 
                                     <h2>
@@ -1027,7 +971,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             <div className="practice-section-header">
                                 <div>
                                     <span className="practice-step">
-                                        05
+                                        04
                                     </span>
 
                                     <h2>
@@ -1082,7 +1026,7 @@ export default function Practice({ setIsDesmosOpen }) {
                             <div className="practice-section-header">
                                 <div>
                                     <span className="practice-step">
-                                        06
+                                        05
                                     </span>
 
                                     <h2>
