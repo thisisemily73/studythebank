@@ -759,6 +759,13 @@
   }
 }
 
+/* Formatting */
+.question-prompt p,
+.passage-box p,
+.choice-text p {
+    margin: 0;
+}
+
 /* Passage */
 
 .passage-box {

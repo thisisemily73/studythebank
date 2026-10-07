@@ -22,6 +22,8 @@ import { auth, db } from '../firebase';
 import DifficultyDots from '../components/DifficultyDots';
 import '../styles/pages/Practice.css';
 
+import FormattedText from '../components/FormattedText';
+
 const QUESTION_COUNT_OPTIONS = [
     10,
     20,
@@ -1230,12 +1232,16 @@ export default function Practice() {
 
                         {paragraphText && (
                             <div className="passage-box">
-                                {paragraphText}
+                                <FormattedText>
+                                    {paragraphText}
+                                </FormattedText>
                             </div>
                         )}
 
                         <div className="question-prompt">
-                            {questionText}
+                            <FormattedText>
+                                {questionText}
+                            </FormattedText>
                         </div>
 
                         <div className="choices-list">
@@ -1295,7 +1301,9 @@ export default function Practice() {
                                             </span>
 
                                             <span className="choice-text">
-                                                {value}
+                                                <FormattedText>
+                                                    {value}
+                                                </FormattedText>
                                             </span>
                                         </button>
                                     );

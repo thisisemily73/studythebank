@@ -1,4 +1,5 @@
 @import './Variables.css';
+@import 'katex/dist/katex.min.css';
 
 * {
   box-sizing: border-box;
