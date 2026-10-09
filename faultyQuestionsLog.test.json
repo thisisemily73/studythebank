@@ -1,0 +1,1660 @@
+[
+  {
+    "id": "b307477f",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "This butterfly is the most interesting one I've ever seen, and I can’t wait to learn more about it.",
+        "B": "This butterfly is the most interesting one I've ever seen. I can’t wait to learn more about it.",
+        "C": "This butterfly is the most interesting one I've ever seen; I can’t wait to learn more about it.",
+        "D": "This butterfly is the most interesting one I've ever seen, and I can’t wait to learn more about it."
+      },
+      "question": "Which choice best revises the sentence to make it conform to the conventions of Standard English?",
+      "paragraph": "After years of research, a scientist announced the discovery of a new species of butterfly, one that was previously unknown to science.  The scientist, who had devoted years to the study of butterflies, was thrilled with the discovery, and the team of researchers that assisted her in the project were equally excited about the finding.  \"This butterfly is the most interesting one I've ever seen!\" the scientist exclaimed.  \"It has a unique wing pattern that I have never seen before. I believe it’s a new species, and I can’t wait to learn more about it.\"",
+      "explanation": "The original sentence contains a comma splice, a common error in which a comma is used to connect two independent clauses without a conjunction.  The correct way to fix this is to replace the comma with a period or a semicolon. Of the choices given, only choice B correctly uses a period to connect the two independent clauses.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_b9",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans, however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
+        "B": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans; however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
+        "C": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans; however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
+        "D": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans, however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+      "paragraph": "The team’s victory was due to a combination of factors. The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans.  However, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
+      "explanation": "Choice D is the best answer because it combines the sentences at the underlined portion with a comma and the conjunctive adverb \"however.\" This creates a grammatically correct sentence that is also stylistically effective because it uses a transition to connect the two ideas and avoid creating a comma splice. Choices A, B, and C are incorrect because they create comma splices. ",
+      "correct_answer": "D"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "67a4829f",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature; however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+        "B": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature, however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+        "C": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature, however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+        "D": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature—however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed."
+      },
+      "question": "Which of the following is the best way to correct the error in the sentence?",
+      "paragraph": "The following sentence contains an error in punctuation.  The sentence is:  \"As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature— however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.\"  Which of the following is the best way to correct the error in the sentence?",
+      "explanation": "The sentence contains a comma splice. A comma splice occurs when two independent clauses are joined together with only a comma. To correct the comma splice, the sentence should be separated by a semicolon or a conjunction. In this case, the use of a semicolon before \"however\" creates two independent clauses that are grammatically correct.  Choice A is incorrect because it results in a comma splice. Choice B is incorrect because it results in a comma splice. Choice C is incorrect because it results in a comma splice.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "f94c0c33",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "However, the novel’s popularity was not without its critics; who argued that the genre was too sentimental and unrealistic.",
+        "B": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental, and unrealistic.",
+        "C": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic.",
+        "D": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic."
+      },
+      "question": "Which choice makes the most effective change to the third sentence of the passage?",
+      "paragraph": "The 19th century saw the rise of the novel, a genre that allowed writers to explore new forms of storytelling and character development.  Writers like Jane Austen and Charles Dickens used the novel to create vivid portraits of life in England, while American authors like Nathaniel Hawthorne and Herman Melville used it to explore themes of morality and the human condition.  However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic.  Some critics even went so far as to say that the novel was nothing more than a form of escapism.  But despite the criticisms, the novel continued to thrive, and it has remained one of the most popular literary genres to this day.  Even today, writers are still using the novel to explore new ideas and to tell compelling stories.  Which of the following choices makes the most effective change to the third sentence of the passage?  ",
+      "explanation": "Choice C is the best answer because it uses a comma to separate the introductory phrase from the main clause, as is required by the rules of Standard English.  The other choices all contain errors in punctuation, specifically using a semicolon where a comma is needed, or using a comma where a semicolon is needed.  Choice C makes the most effective change to the third sentence of the passage, and it is the only choice that conforms to the conventions of Standard English.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "2175c79f",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "A large, complex project is being undertaken by the team, the group has taken on a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
+        "B": "A large, complex project is being undertaken by the team; the group has taken on a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
+        "C": "A large, complex project, which the team has undertaken, is a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
+        "D": "A large, complex project, which the team has undertaken, is a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly."
+      },
+      "question": "Which choice best combines the sentences above to create a grammatically correct and stylistically effective sentence?",
+      "paragraph": "A large, complex project is being undertaken by the team. The group has taken on a difficult endeavor. The goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly. ",
+      "explanation": "Choice D is the best option because it correctly combines the two independent clauses with a relative clause. The relative clause, \"which the team has undertaken,\" clarifies what the \"large, complex project\" is and smoothly connects the first two independent clauses. The use of a comma after \"endeavor\" separates the two independent clauses, making for a correctly punctuated sentence.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "197df82e",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "They knew that the data wouldn’t be clear until years after the experiment began, but they were confident in the overall methodology.",
+        "B": "They knew that the data wouldn’t be clear until years after the experiment began, and they were confident in the overall methodology.",
+        "C": "The scientist knew that the data would not be clear until years after the experiment began, and they were confident in the overall methodology.",
+        "D": "They knew that the data wouldn’t be clear until years after the experiment began, and they were confident in the overall methodology."
+      },
+      "question": "Which choice best revises the underlined portion of the sentence to maintain the formal style of the passage?",
+      "paragraph": "The scientist knew that the study would be lengthy, and they were looking for a volunteer who would be able to commit to a long-term project.  They had a hunch that the data would not be clear until years after the experiment began, but they were confident in the overall methodology.",
+      "explanation": "The underlined portion of the sentence should maintain consistency with the tense of the rest of the passage.  Since the passage uses the past tense, the past tense form of \"would not be\" is the most appropriate choice.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "f9939d2c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
+        "B": "The director is the one who, when he or she has a vision for a project, knows how to inspire the actors to embody it.",
+        "C": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
+        "D": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it."
+      },
+      "question": "Which choice corrects the grammatical error in the sentence above?",
+      "paragraph": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.  ",
+      "explanation": "The pronoun \"they\" is incorrect because the antecedent, \"the director,\" is singular.  Choice B corrects the error by using the pronoun \"he or she\" to agree with the singular antecedent.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "152d892d",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "However, I was able to get a glimpse of the famous painting \"The Starry Night.\"",
+        "B": "However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"",
+        "C": "However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"  ",
+        "D": "However, I was able to get a glimpse of the famous painting \"The Starry Night\". "
+      },
+      "question": "Which of the following revisions is needed to correct the punctuation error in the passage? ",
+      "paragraph": "The first time I went to the art museum, it was crowded with people, and the lines to see the most popular works were long. However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"  The curator told me that the artist, Vincent van Gogh, had a turbulent life, which is reflected in the art he made.  He struggled with mental health issues, and he died young, but his paintings have inspired generations of artists.",
+      "explanation": "The correct answer is A. In this sentence, the introductory phrase 'However, I was able to get a glimpse of the famous painting' is followed by a comma and then by the title of the painting, 'The Starry Night'.  The title of the painting should not be set off by commas. This sentence does not require any commas.  The other choices are incorrect because they all include commas that are not needed.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c3",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The artist is known for his intricate drawings of animals, often found in museums and galleries.",
+        "B": "The artist is known for his intricate drawings of animals that are often found in museums and galleries.",
+        "C": "The artist is known for his intricate drawings of animals, often found in museums and galleries.",
+        "D": "The artist is known for his intricate drawings of animals, which are often found in museums and galleries."
+      },
+      "question": "Which choice correctly combines the two sentences below into a single sentence with a participial phrase?\n\nThe artist is known for his intricate drawings of animals. They are often found in museums and galleries.",
+      "paragraph": "null",
+      "explanation": "The participial phrase \"often found in museums and galleries\" modifies the noun \"drawings\" and should be set off with commas. Choice A is incorrect because it creates a comma splice. Choice B is incorrect because the phrase \"that are\" creates a dependent clause, which is not grammatically correct. Choice D is incorrect because it uses a relative clause, which is not a participial phrase.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e4",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "already being felt by many parts of the world, and that, if not addressed, these effects will continue to grow more severe.",
+        "B": "already being felt by many parts of the world, and if not addressed, these effects will continue to grow more severe.",
+        "C": "already being felt by many parts of the world, and that if not addressed, these effects will continue to grow more severe.",
+        "D": "already being felt by many parts of the world, and that if not addressed, these effects will continue to grow more severe."
+      },
+      "question": "Which choice best combines the underlined portions of the passage into a single, correctly punctuated sentence?",
+      "paragraph": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are *already* being felt by many parts of the world, and that, if not addressed, these effects *will continue to grow* more severe.",
+      "explanation": "The correct choice avoids a comma splice, which is created when a comma is used to join two independent clauses without a conjunction. The correct choice also eliminates unnecessary punctuation and maintains the logical flow of the sentence.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "a little dinosaur, except for the fact that it is much smaller, cuter, and it doesn’t have teeth.",
+        "B": "a little dinosaur, except it is much smaller, cuter, and it doesn’t have teeth.",
+        "C": "a little dinosaur, except it is much smaller, cuter, and it doesn’t have teeth.",
+        "D": "a little dinosaur, except that it’s much smaller, cuter, and it doesn’t have teeth."
+      },
+      "question": "Which choice most effectively combines the sentences at the underlined portion?",
+      "paragraph": "The first time she saw a sea turtle hatchling, the young woman, who had always been terrified of reptiles, felt a rush of tenderness. \"It’s just like a little dinosaur,\" she thought. \"Except, you know, much smaller, cuter, and it doesn’t have teeth.\"",
+      "explanation": "Choice B is the most effective way to combine the sentences because it uses a comma to connect the two independent clauses and avoids unnecessary repetition. The phrase \"except it is\" is less wordy than \"except for the fact that it is.\"",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c7",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The scientist's hypothesis was that the new drug would have a positive effect on the patients.",
+        "B": "the scientist's hypothesis was that the new drug would have a positive effect on the patients.",
+        "C": "The Scientist's Hypothesis was that the new drug would have a positive effect on the patients.",
+        "D": "the scientist's Hypothesis was that the new drug would have a positive effect on the patients."
+      },
+      "question": "Which of the following changes to the sentence above would correct the capitalization error?",
+      "paragraph": "The scientist's hypothesis was that the new drug would have a positive effect on the patients.",
+      "explanation": "The only error in the sentence is the capitalization of the word \"Hypothesis.\" Only the first letter of the first word of a sentence should be capitalized, so the correct answer is A.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "That event, some historians consider the start of the space race, was a major turning point in human history.",
+        "B": "That event, which some historians consider the start of the space race, was a major turning point in human history.",
+        "C": "That event some historians consider the start of the space race, was a major turning point in human history.",
+        "D": "That event, some historians consider the start of the space race, was a major turning point in human history."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
+      "paragraph": "The first time that the United States successfully launched a rocket into space was in 1958. That event, which some historians consider the start of the space race, was a major turning point in human history.",
+      "explanation": "Choice B is the best answer because it correctly combines the two sentences using a relative clause introduced by \"which.\" This relative clause correctly modifies the noun phrase \"That event\" by providing additional information about it. The other choices are incorrect because they fail to use the correct punctuation or grammatical structure.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_b3",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The museum, that will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop.",
+        "B": "The museum, that will feature works by many artists from around the world, and it will highlight the history of art in the city, will also have a cafe and a gift shop.",
+        "C": "The museum, which will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop.",
+        "D": "The museum, which will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
+      "paragraph": "A new museum is opening in the city. The museum will feature works by many artists from around the world, and it will highlight the history of art in the city. The museum will also feature a cafe and a gift shop.  ",
+      "explanation": "Choice D is the best answer because it uses the correct relative pronoun (\"which\") to introduce a nonrestrictive clause that provides additional information about the museum. The other choices are incorrect because they use the incorrect relative pronoun (\"that\") or create a comma splice, which is a grammatical error.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "6f54812c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The team’s research found that people who regularly engage in physical activity, report a greater sense of wellbeing than people who don’t.",
+        "B": "The team’s research found that people who regularly engage in physical activity, report a greater sense of wellbeing than people who don’t.",
+        "C": "The team’s research found that people who regularly engage in physical activity report a greater sense of wellbeing, than people who don’t.",
+        "D": "The team’s research found that people who regularly engage in physical activity report, a greater sense of wellbeing than people who don’t."
+      },
+      "question": "Which of the following choices correctly uses a comma to separate a nonessential clause from the rest of the sentence?",
+      "paragraph": "The team’s research found that people who regularly engage in physical activity report a greater sense of wellbeing than people who don’t.",
+      "explanation": "A comma is used to separate a nonessential clause from the rest of the sentence. A nonessential clause is a clause that can be removed from the sentence without affecting the grammatical coherence of the sentence. In this sentence, the clause \"who regularly engage in physical activity\" is a nonessential clause because it can be removed from the sentence without affecting the grammatical coherence of the sentence. Therefore, the comma should be placed after the nonessential clause.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "2346d88f",
+    "domain": "Standard English Conventions",
+    "question": {
+      "choices": {
+        "A": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The *Great Plains* is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The *Great Plains* are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the *Great Plains* are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the *Great Plains* in danger of becoming a barren desert.",
+        "B": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert.",
+        "C": "It is said that all good things must come to an end. But in the case of the Great Plains, this is a bad thing. While most people see the Great Plains as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert.",
+        "D": "It is said that all good things must come to an end. But in the case of the Great Plains, this is a bad thing. While most people see the Great Plains as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert."
+      },
+      "visuals": {
+        "type": "null",
+        "svg_content": "null"
+      },
+      "question": "Which choice best corrects the capitalization error in the passage?",
+      "paragraph": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The *Great Plains* is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The *Great Plains* are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the *Great Plains* are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the *Great Plains* in danger of becoming a barren desert.",
+      "explanation": "The phrase \"Great Plains\" should be capitalized as it refers to a specific geographical area.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c4",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The artist’s work, a series of abstract paintings, is known for their vibrant colors and expressive textures.",
+        "B": "The artist’s work, a series of abstract paintings, are known for its vibrant colors and expressive textures.",
+        "C": "The artist’s work, a series of abstract paintings, is known for their vibrant colors and expressive textures.",
+        "D": "The artist’s work, a series of abstract paintings, are known for its vibrant color and expressive textures."
+      },
+      "question": "Which choice best corrects the grammatical error in the sentence?",
+      "paragraph": "The artist’s work, a series of abstract paintings, are known for their vibrant colors and expressive textures.",
+      "explanation": "The subject of the sentence is \"work,\" which is singular. Therefore, the verb should also be singular, \"is.\" The pronoun \"their\" correctly agrees in number with the plural noun \"paintings.\" The other choices are incorrect. Choice B uses the incorrect pronoun, \"its.\" Choices C and D use the incorrect verb, \"are.\"",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "19f69a7c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+        "B": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+        "C": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+        "D": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being."
+      },
+      "question": "Which choice best corrects the punctuation error in the passage?",
+      "paragraph": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety.  The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+      "explanation": "The comma after \"anxiety\" is incorrect because it creates a comma splice. Two independent clauses cannot be joined by a comma alone. The correct way to join these clauses is to use a comma followed by a coordinating conjunction, such as \"and.\" Choice C corrects this punctuation error by adding the conjunction \"and\" after the comma.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_b8",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "“The great thing about the Internet,” the speaker said, “is that you can access information from anywhere in the world at any time.”",
+        "B": "“The great thing about the Internet is that you can access information from anywhere in the world at any time,” the speaker said.",
+        "C": "The great thing about the Internet, the speaker said, is that you can access information from anywhere in the world at any time.",
+        "D": "The great thing about the Internet, the speaker said, is that you can access information from anywhere in the world at any time."
+      },
+      "question": "Which choice most effectively combines the two sentences into a single sentence without changing the meaning?",
+      "paragraph": "“The great thing about the Internet,” the speaker said, “is that you can access information from anywhere in the world at any time.”",
+      "explanation": "Choice B is the most effective combination because it places the speaker's statement in quotation marks and uses proper punctuation. Choice A incorrectly uses quotation marks around the entire sentence. Choice C uses a comma before “the speaker said,” which is incorrect because the sentence would then be a comma splice. Choice D uses a comma after “the speaker said,” which would be incorrect because the clause following “the speaker said” is an independent clause. An independent clause cannot be introduced with only a comma.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e8",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The song is a powerful reminder, that even in the darkest of times, there is always light to be found.",
+        "B": "The song is a powerful reminder, that even in the darkest of times, there is always light to be found.",
+        "C": "The song is a powerful reminder that even in the darkest of times, there is always light to be found.",
+        "D": "The song, is a powerful reminder that even in the darkest of times, there is always light to be found."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and clear sentence?",
+      "paragraph": "The first time I heard the song \"You Say\" by Lauren Daigle, I was immediately struck by its beautiful message of hope and redemption. The song is a powerful reminder that even in the darkest of times, there is always light to be found.",
+      "explanation": "The correct answer is C, which removes the unnecessary comma. Choice A is incorrect because it contains an unnecessary comma. Choice B is incorrect because it contains an unnecessary comma. Choice D is incorrect because it contains an unnecessary comma and an incorrect placement of a comma.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "6249b173",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "a master of language, used a series of vivid images",
+        "B": "a master of language, used a series of vivid images",
+        "C": "a master of language used a series of vivid images",
+        "D": "a master of language, used a series of vivid images"
+      },
+      "question": "Which choice best combines the underlined portions to create a grammatically correct and stylistically effective sentence?",
+      "paragraph": "The playwright,  _a master of language_,  used  _a series of vivid images_  to create a powerful and moving story about a woman who must overcome the challenges of poverty and prejudice. ",
+      "explanation": "The best way to combine the underlined portions is to remove the comma after \"language\" and the comma after \"images.\" This creates a grammatically correct and stylistically effective sentence without unnecessary punctuation.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a9",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere,",
+        "B": "The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere, ",
+        "C": "The ocean’s acidity is rising due to the absorption of carbon dioxide from the atmosphere,",
+        "D": "The ocean’s acidity is rising due to the absorption of carbon dioxide from the atmosphere, "
+      },
+      "question": "Which choice shows the correct way to punctuate the underlined portion of the sentence?",
+      "paragraph": "The article discusses the impact of climate change on the world’s oceans. It states that “The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere, which is causing a number of changes to marine ecosystems.” Which choice shows the correct way to punctuate the underlined portion of the sentence?",
+      "explanation": "The phrase “is rising due to the absorption of carbon dioxide from the atmosphere” is a nonessential clause that modifies the noun “acidity.” Nonessential clauses should be set off with commas. Choice A is incorrect because a comma should not be placed after a nonessential clause. Choice B is incorrect because a comma should not be placed before a nonessential clause. Choice D is incorrect because a comma should not be placed before and after a nonessential clause.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c7",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The poet's style, marked by a kind of restrained grace, adds to the beauty and poignancy of his work.",
+        "B": "The poet's style is marked by a kind of restrained grace, adding to the beauty and poignancy of his work.",
+        "C": "The poet's style, marked by a kind of restrained grace, adds to the beauty and poignancy of his work.",
+        "D": "The poet's style is marked by a kind of restrained grace that adds to the beauty and poignancy of his work."
+      },
+      "question": "The poet’s style is marked by a kind of restrained grace, which adds to the beauty and poignancy of his work. Which of the following is the most effective way to revise the underlined portion of the passage to create a sentence that is clear, concise, and grammatically correct?",
+      "paragraph": "The poet, a master of language, uses rhythm and rhyme to convey the emotion of the poem, but he never forces the language to do something it isn't capable of doing. The poet’s style is marked by a kind of restrained grace, which adds to the beauty and poignancy of his work. Which of the following is the most effective way to revise the underlined portion of the passage to create a sentence that is clear, concise, and grammatically correct?",
+      "explanation": "Choice A is the best way to revise the underlined portion of the passage. It is clear, concise, and grammatically correct. It uses a comma to separate the modifying phrase \"marked by a kind of restrained grace\" from the main clause of the sentence. This structure is both grammatically correct and helps to create a more concise and readable sentence.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_b7",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "As they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
+        "B": "As they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
+        "C": "Although they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
+        "D": "Because they are vastly different, their bond is unbreakable, and they support each other through thick and thin."
+      },
+      "question": "Which choice best completes the sentence so that it conforms to the conventions of Standard English?",
+      "paragraph": "The novel follows the lives of two sisters, Amelia and Beatrice, who are as different as night and day. Amelia is a bookish, introspective young woman, always lost in her thoughts, while Beatrice is vibrant and outgoing, a social butterfly who loves to be the center of attention.  While they are vastly different, their bond is unbreakable, and they support each other through thick and thin. ",
+      "explanation": "The sentence requires a transition that indicates a contrast between the two sisters' personalities and the strength of their bond. \"Although\" is the best choice to create this contrast, whereas the other choices are not appropriate.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
+        "B": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns;",
+        "C": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
+        "D": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns—"
+      },
+      "question": "______.  They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
+      "paragraph": "A recent study by researchers at the University of Oxford found that people who regularly listen to music are better at recognizing patterns.  This finding could have important implications for the development of new learning tools, as well as for our understanding of how the brain processes information. The researchers believe that music, like language, can help to strengthen the brain's ability to detect and process patterns. Which of the following choices most logically completes the text so that it conforms to the conventions of Standard English?",
+      "explanation": "The sentence contains two independent clauses, so a comma and a coordinating conjunction are needed to connect them. Choices B, C, and D are incorrect because they use incorrect punctuation to connect the clauses.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e4",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Avant-garde",
+        "B": "avant-garde",
+        "C": "Avant Garde",
+        "D": "Avant garde"
+      },
+      "question": "Which choice best completes the sentence with the correct capitalization? ",
+      "paragraph": "The artist was known for her *avant-garde* style, which often challenged the traditional norms of art making. ",
+      "explanation": "The word \"avant-garde\" is a proper noun when referring to a specific artistic movement. Proper nouns should be capitalized. ",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e8",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "First, bring water to a boil; then, add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, finally, add milk or sugar, if desired, and enjoy the tea.",
+        "B": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, finally add milk or sugar, if desired, and enjoy the tea.",
+        "C": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, and finally add milk or sugar, if desired, and enjoy the tea.",
+        "D": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, and finally add milk or sugar, if desired, and enjoy the tea."
+      },
+      "question": "Which choice best combines the sentences above into one grammatically correct sentence?",
+      "paragraph": "The process of making a cup of tea involves the following steps: first, bring water to a boil. Then, add tea leaves to the boiling water. After steeping for a few minutes, remove the tea leaves. Finally, add milk or sugar, if desired, and enjoy the tea.",
+      "explanation": "Choice C is the best answer because it uses a comma after the introductory phrase and combines all the steps of the process into one sentence with the help of commas and a conjunction. Choices A and B are incorrect because they incorrectly use semicolons in place of commas. Choice D is incorrect because it does not use a conjunction to connect the steps of the process, resulting in a comma splice.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a5",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "cool, dark, mysterious, and indifferent",
+        "B": "cool, dark, mysterious, and indifferent",
+        "C": "cool, dark, mysterious, and indifferent",
+        "D": "cool, dark, mysterious, and indifferent"
+      },
+      "question": "Which choice best maintains the parallel structure of the sentence?",
+      "paragraph": "The author of \"The Open Boat\" uses imagery to create a vivid impression of the lifeboat’s journey. For example, the author describes the ocean as a \"great, cool, dark, mysterious, and indifferent\" place.",
+      "explanation": "The original sentence uses a series of adjectives to describe the ocean. To maintain parallel structure, the adjectives must all have the same grammatical form. The correct choice, \"cool, dark, mysterious, and indifferent,\" uses all adjectives in their base form.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_3",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts, and other dishes.",
+        "B": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts and other dishes.",
+        "C": "The root of this plant is still a popular food source throughout South America and the Caribbean; where it is used in desserts and other dishes.",
+        "D": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts, and other dishes."
+      },
+      "question": "Which choice provides the best way to combine the sentences at the end of the passage into a single sentence with correct punctuation?",
+      "paragraph": "The term \"tapioca\" is derived from the indigenous Tupinambá language of Brazil. The word was originally spelled \"tupi'óka,\" and it referred to the starchy root of the cassava plant, which was a staple food for the Tupinambá people.  The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts and other dishes.",
+      "explanation": "Choice B is correct. The comma after \"Caribbean\" separates the two independent clauses in the sentence. The comma after \"desserts\" is necessary because it separates items in a series. Choices A and D are incorrect because they contain extra commas. Choice C is incorrect because it uses a semicolon to separate two independent clauses, which is not grammatically correct.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a5",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake, rather than a means to an end.",
+        "B": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake, rather than a means to an end.",
+        "C": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake rather than a means to an end.",
+        "D": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive: a desire to acquire information for its own sake, rather than a means to an end."
+      },
+      "question": "Which choice provides the best way to combine the sentences in the underlined portion without changing the meaning?",
+      "paragraph": "A study published in the journal Nature Communications suggests that people who have a high level of curiosity are more likely to engage in \"purposeless\" information-seeking behaviors: that is, seeking out information even when they know that they won’t benefit from it. This finding, the researchers say, supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.  This finding, the researchers say, supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
+      "explanation": "The best way to combine the sentences is to remove the comma and the dash and replace them with the word “rather.” This is because no punctuation is needed between the preposition “for” and its complement, the noun phrase “its own sake.”",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_42",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The poet’s use of vivid imagery, such as “the whispering wind,” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
+        "B": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
+        "C": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
+        "D": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars” effectively conveys the speaker’s feelings of awe and wonder."
+      },
+      "question": "Which choice best corrects the punctuation error in the sentence?",
+      "paragraph": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
+      "explanation": "The sentence includes two examples of vivid imagery: “the whispering wind” and “the shimmering stars.” When a series of examples is included in a sentence, a comma should be placed after each example except for the last one. Choice B is the only option that correctly places a comma after the first example and does not place a comma after the second example.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "245f9000",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "However, because the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
+        "B": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
+        "C": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
+        "D": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels."
+      },
+      "question": "Which choice best corrects the underlined portion of the passage to conform to the conventions of Standard English?",
+      "paragraph": "The following text is adapted from a biography of the author, Jane Austen, written in 1949. In this excerpt, the biographer is reflecting on Austen’s success as a novelist. \n[Austen] produced six novels, all within a few years of each other. While her books, in general, were well received by critics, the public’s response was mixed. Some novels, like *Pride and Prejudice*, are considered masterpieces of English literature, while others, such as *Mansfield Park*, were not as well regarded.  \nOne is tempted to wonder what Austen, a woman of great sensibility and talent, thought of the public’s indifference to some of her works. \nEven if she couldn’t have predicted the popularity of her novels, the fact that *Pride and Prejudice* is still a bestseller today is testament to Austen’s ability to write enduring stories. \nHowever, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels. \nPerhaps Austen, having learned to accept that readers often did not value her work, eventually grew indifferent to such critical reception. \nWhat would Austen, with her sharp intellect, think of the modern celebrity culture obsessed with recognition, awards, and prizes?",
+      "explanation": "The phrase \"because of\" creates a more direct and logical relationship between the two ideas in the sentence. This makes the sentence more concise and easier to understand.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "9a152541",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice,",
+        "B": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice; ",
+        "C": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice, ",
+        "D": "The team's success in the competition, which was marked by a last-minute goal; showed that they had worked hard in practice."
+      },
+      "question": "Which choice provides the best way to join the two sentences in the passage?",
+      "paragraph": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice.",
+      "explanation": "The semicolon is used to combine two independent clauses when they are closely related in meaning. However, a comma after an introductory phrase is required. Choice C is the only option that correctly employs the semicolon and comma.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "e88f7e33",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "It made possible the sharing of information on a global scale; the invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, was a pivotal moment in the development of the internet.",
+        "B": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale, was a pivotal moment in the development of the internet.",
+        "C": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale, was a pivotal moment in the development of the internet.",
+        "D": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale;  it was a pivotal moment in the development of the internet."
+      },
+      "question": "Which choice provides the most effective way to combine the second and third sentences of the passage?",
+      "paragraph": "During a speech on the history of the internet, the speaker said, “The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, was a pivotal moment in the development of the internet. It made possible the sharing of information on a global scale.”",
+      "explanation": "Choice C is the best way to combine the two sentences because it creates a grammatically correct sentence. The nonessential clause \"which was created by Tim Berners-Lee, a British computer scientist\" is set off with commas, and the two main clauses are joined with a comma and a coordinating conjunction. The other choices all result in grammatical errors: Choices A and D are comma splices; Choice B is a run-on sentence.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Tubman’s courage and determination are an inspiration to us all: she demonstrated that with hard work and dedication, we can overcome any obstacle.",
+        "B": "Tubman’s courage and determination are an inspiration to us all; she demonstrated that with hard work and dedication, we can overcome any obstacle.",
+        "C": "Tubman’s courage and determination are an inspiration to us all; she demonstrated that with hard work and dedication, we can overcome any obstacle.",
+        "D": "Tubman’s courage and determination are an inspiration to us all, she demonstrated that with hard work and dedication, we can overcome any obstacle."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+      "paragraph": "The history of the United States is full of remarkable stories of people who have overcome difficult challenges to achieve great things. One such story is that of Harriet Tubman, who escaped slavery and then risked her life to help others escape. Tubman’s courage and determination are an inspiration to us all. She demonstrated that with hard work and dedication, we can overcome any obstacle.",
+      "explanation": "The correct answer is D. It creates a complex sentence with a comma to separate the two independent clauses. This creates a smoother flow of the sentence than a colon, a semicolon, or a dash would.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "6758427d",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The heat did not effect the plants, and they continued to grow.",
+        "B": "The heat did not affect the plants, and they continued to grow.",
+        "C": "The heat did not affect the plants, and they continued to grow.",
+        "D": "The heat did not affect the plants, and they continued to grow."
+      },
+      "question": "Which of the following sentences demonstrates the correct use of the word \"affect\"?",
+      "paragraph": "The most common spelling error for the word \"affect\" is \"effect.\" This can be confusing because \"effect\" is a noun, while \"affect\" is a verb.  In this case, the writer is describing an action, so the correct spelling is \"affect.\"   While the two words sound similar, they have distinct meanings and grammatical uses. When referring to something that causes a change, you should use \"effect.\"  However, when describing something that produces a change, you should use \"affect.\" Which of the following sentences demonstrates the correct use of the word \"affect\"?",
+      "explanation": "The sentence demonstrates the correct use of the word \"affect\" because it describes an action (the heat producing a change in the plants).",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "23456789",
+    "domain": "Information and Ideas",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
+        "B": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
+        "C": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
+        "D": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality."
+      },
+      "question": "The author’s main argument is that",
+      "paragraph": "The author’s main argument is that the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.  One of the examples the author uses to support this argument is the way that the United States has a history of focusing on national unity over individual needs. This history has led to a culture that prioritizes conformity over individuality.  The author argues that, as a result of this history and culture, Americans are often reluctant to question authority or challenge the status quo. The author makes this point by suggesting that Americans are often reluctant to question authority or challenge the status quo.  The author suggests that, as a result, Americans are often reluctant to question authority or challenge the status quo. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that Americans are often reluctant to question authority or challenge the status quo. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality.  Which choice best describes the main point of the author's argument?",
+      "explanation": "The author's main point is that the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a10",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era; his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
+        "B": "Fitzgerald was a master of capturing the exuberance and the disillusionment of the era; his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
+        "C": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era, his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
+        "D": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era, his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion without changing the meaning?",
+      "paragraph": "The author of the novel “The Great Gatsby”, F. Scott Fitzgerald, was famous for his evocative descriptions of the Jazz Age.  Fitzgerald was a master of capturing the exuberance and the disillusionment of the era, and his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.  Fitzgerald’s novels are set in the Roaring Twenties, a time of great economic prosperity and social change, but they also explore the darker side of that era, the widespread materialism, the moral decay, and the sense of lost innocence that many Americans felt.",
+      "explanation": "Choice B is correct. The semicolon correctly joins the two independent clauses and maintains the original meaning. The other choices either incorrectly use commas or do not create grammatically correct sentences.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_english_1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Gagarin’s voyage, completed in 1961, was a momentous achievement",
+        "B": "Gagarin’s voyage, which was completed in 1961, was a momentous achievement",
+        "C": "Gagarin’s voyage was completed in 1961, was a momentous achievement",
+        "D": "Gagarin’s voyage, which was completed in 1961, was a momentous achievement"
+      },
+      "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
+      "paragraph": "The first person to successfully orbit the Earth was Yuri Gagarin, a Soviet cosmonaut.  Gagarin’s voyage, which was completed in 1961, was a momentous achievement in space exploration.",
+      "explanation": "The correct answer is A. To combine the sentences, we can use a comma and a participial phrase to modify the noun \"voyage.\" The participial phrase \"completed in 1961\" is a nonessential modifier, so it needs to be set off with commas.  The other options are incorrect because they either create a comma splice or don't use commas correctly.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "c293e98a",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect; their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
+        "B": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect, their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
+        "C": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect, and their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
+        "D": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect; their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*."
+      },
+      "question": "Which choice most effectively combines the sentences at the underlined portion?  \n\n  *Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect.*  **Their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*.**",
+      "paragraph": "The research team has been studying the effects of different types of fertilizer on the growth of corn. Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect. Their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*.",
+      "explanation": "Choice C is the best answer because it correctly combines the two sentences using a comma and a coordinating conjunction.  The comma separates the two independent clauses, and the conjunction “and” indicates that the second clause adds information to the first clause.  The other choices create errors in punctuation or sentence structure.  Choice A uses a semicolon, which is not correct because it does not separate two independent clauses.  Choice B creates a comma splice, which is incorrect because a comma cannot separate two independent clauses.  Choice D creates a run-on sentence because the two independent clauses are not properly separated. ",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "7c629b53",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby\", tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
+        "B": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
+        "C": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
+        "D": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. *The Great Gatsby* is a classic of American literature, and it is often studied in high school and college."
+      },
+      "question": "Which choice best corrects the error in capitalization in the passage?",
+      "paragraph": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald.  Fitzgerald’s most famous novel, \"The Great Gatsby\", tells the story of Jay Gatsby, a man who tries to recapture a lost love.  Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved.  Fitzgerald’s novel explores themes of wealth, love, and the American Dream.  The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
+      "explanation": "The title of a novel should be capitalized.  Because the title \"The Great Gatsby\" appears within a sentence, it should be enclosed in quotation marks.  The error in the original sentence is the lack of a comma after the title, making the sentence a comma splice.  Therefore, the correct answer is C.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "54b7c3c3",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "He took a moment to collect his thoughts, then he turned and walked out of the room.",
+        "B": "He took a moment to collect his thoughts, then he turned and walked out of the room.",
+        "C": "He took a moment to collect his thoughts, then turned and walked out of the room.",
+        "D": "He took a moment to collect his thoughts, then walking out of the room."
+      },
+      "question": "Which of the following sentences correctly uses the word \"then\" as an adverb?",
+      "paragraph": "The word \"then\" can be used as an adverb, as in \"She ran to the window, then looked out.\" It can also be used to introduce a clause, as in \"She ran to the window, then she looked out.\"  Both uses are correct, but they serve different functions. In the second sentence, the word \"then\" can be removed without changing the meaning, but the sentence in the first example would be grammatically incorrect if the word \"then\" were removed. Which sentence correctly uses the word \"then\" as an adverb? ",
+      "explanation": "The word \"then\" in choice C functions as an adverb because it modifies the verb \"turned.\"  The word \"then\" could be removed without changing the meaning of the sentence, making it a correctly placed adverb.  All other choices use \"then\" as a conjunction, which would require a comma before it in order to be grammatically correct.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_d3",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology; and it’s set in the future.",
+        "B": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology and it’s set in the future.",
+        "C": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future.",
+        "D": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future."
+      },
+      "question": "Which choice best corrects the punctuation error in the sentence?",
+      "paragraph": "The following sentence contains a punctuation error that can be corrected by inserting a comma: The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future.",
+      "explanation": "The correct answer is C. The sentence contains a comma splice.  A comma cannot be used to join two independent clauses without a coordinating conjunction. In this case, the comma after *mythology* needs to be replaced with a semicolon since there is no coordinating conjunction joining the two independent clauses. The correct answer is therefore: The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology; and it’s set in the future.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "e64458b4",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "erase, ",
+        "B": "erase—",
+        "C": "erase.",
+        "D": "erase,"
+      },
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? \n\nThe history of the world is full of moments in which people have tried to ______  their past.",
+      "paragraph": "null",
+      "explanation": "The best answer is C. The period after \"erase\" marks the boundary between the main clause and the supplementary phrase and is needed to make the sentence grammatically complete and clear.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_english_5",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "a change that was designed to boost morale and productivity, and  she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
+        "B": "a change that was designed to boost morale and productivity, and  she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
+        "C": "a change designed to boost morale and productivity, and she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
+        "D": "a change designed to boost morale and productivity, and she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines."
+      },
+      "question": "Which of the following revisions to the underlined portion of the passage is most accurate and grammatically correct?",
+      "paragraph": "The new CEO announced that she would be implementing  a new policy to encourage employees to use their vacation time,  a change that was designed to boost morale and productivity.  She also explained that  the policy  would  be  phased  in  over the next quarter,  giving  employees  time to adjust to the new guidelines.  She  believes  that  the  policy  will  have  a  positive impact on  employee  well-being,  and  improve  the company’s overall performance. ",
+      "explanation": "The most accurate and grammatically correct revision is to remove the unnecessary word “that” and the comma that follows it.  The phrase “a change designed to boost morale and productivity” is a nonessential modifying phrase that is correctly set off from the rest of the sentence by a comma.  The phrase “and she also explained” is redundant because the second clause in the sentence already implies that the CEO explained the policy. The phrase “giving employees time to adjust to the new guidelines” is a nonessential modifying phrase that is correctly set off from the rest of the sentence by a comma.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
+        "B": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
+        "C": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
+        "D": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity.  However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly."
+      },
+      "question": "Which choice best corrects the punctuation error in the passage?",
+      "paragraph": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics.  In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity.  However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
+      "explanation": "The sentence contains a comma splice, where two independent clauses are incorrectly joined together by a comma. To correct this error, the comma should be replaced with a semicolon, which separates two independent clauses without a coordinating conjunction.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e9",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code.",
+        "B": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code.",
+        "C": "The scientist’s discovery, proved critical to deciphering the human genetic code, was made by studying fossils.",
+        "D": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code."
+      },
+      "question": "Which choice provides the most effective and grammatically correct modifier for the sentence?",
+      "paragraph": "The author of the text wants to emphasize the importance of the scientist’s discovery. Which of the following choices best helps to accomplish that goal by adding a modifier to the sentence? The scientist’s discovery—which was made by studying fossils—proved critical to deciphering the human genetic code.",
+      "explanation": "Choice A provides the most effective modifier because it uses a non-restrictive clause to provide additional information about the scientist's discovery without changing the meaning or grammatical structure of the sentence.  The comma after 'fossils' is needed because the clause is nonrestrictive.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e5",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "We enjoyed the trip, it was to the zoo.",
+        "B": "We enjoyed the trip it was to the zoo.",
+        "C": "We enjoyed the trip; it was to the zoo.",
+        "D": "We enjoyed the trip, it was to the zoo."
+      },
+      "question": "Which choice correctly combines the sentences below?  *We enjoyed the trip. It was to the zoo.*",
+      "paragraph": "null",
+      "explanation": "The semicolon is the correct punctuation to use to combine two independent clauses. The other options are incorrect because they use punctuation that is not appropriate to combine independent clauses.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e8",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+        "B": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+        "C": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+        "D": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context."
+      },
+      "question": "Which choice best corrects the error in the underlined portion of the sentence?",
+      "paragraph": "The scientist’s research challenged the common belief that the use of external stimuli to reduce itching was ineffective, even when those stimuli seemed benign. Ward and colleagues found that while harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+      "explanation": "The underlined portion includes a comma splice, which occurs when two independent clauses are joined by a comma without a coordinating conjunction. To correct this error, the comma should be replaced with a semicolon. Choice C is the only choice that makes this correction.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c8",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "This discovery which is expected to be published soon, ",
+        "B": "This discovery, expected to be published soon, ",
+        "C": "This discovery, which is expected to be published soon, ",
+        "D": "This discovery, expected to be published soon,"
+      },
+      "question": "Which choice best revises the underlined portion of the sentence to create a grammatically correct and clear sentence?",
+      "paragraph": "The most recent discovery by scientists about the planet Mars has been met with much excitement.  The research team, led by Dr. Emily Carter, has been studying the planet's atmosphere and looking for signs of past life.  Dr. Carter and her colleagues have found evidence of methane, a gas that is a key indicator of life.  This discovery, which is expected to be published soon, has implications for our understanding of the planet, and the possibility of life beyond Earth.",
+      "explanation": "The underlined portion of the sentence is a nonrestrictive clause because it is not essential to the meaning of the sentence.  Therefore, it should be set off with commas.  Choice B is the only choice that correctly sets off the clause with commas.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "c891b25b",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo, and then they monitored the volunteers for a period of six months, measuring various immune system parameters.",
+        "B": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo; the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters.",
+        "C": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo, the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters.",
+        "D": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo; the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters."
+      },
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+      "paragraph": "The main purpose of the study was to examine the effects of a new drug on the body’s immune system. Researchers recruited volunteers for the study, who were randomly assigned to either a treatment group or a control group. The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo. The researchers then monitored the volunteers for a period of six months, measuring various immune system parameters. At the end of the study, the researchers found that the volunteers in the treatment group had a significantly lower incidence of infection than the volunteers in the control group.",
+      "explanation": "Choice C is the best answer. The sentence is grammatically correct and stylistically effective. The comma separates the two independent clauses, and the phrase “the researchers then” clearly connects the second clause to the first. Choice A is incorrect because the conjunction “and” is redundant and creates a comma splice. Choice B is incorrect because the semicolon creates a comma splice. Choice D is incorrect because the semicolon is redundant and creates a comma splice.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "7a45c12b",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, its candid exploration of personal and political themes.",
+        "B": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and it candidly explored personal and political themes.",
+        "C": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style; its candid exploration of personal and political themes.",
+        "D": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and it candidly explored personal and political themes."
+      },
+      "question": "Which choice provides the best way to combine the sentences at the end of the passage?  \"Ginsberg’s work, including his iconic poem \\\"Howl\\\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and its candid exploration of personal and political themes.\"  This sentence is currently punctuated correctly.  Select the choice that best combines the two sentences into one sentence without changing the intended meaning or making any unnecessary changes.",
+      "paragraph": "In the early 1960s, the United States witnessed a burgeoning interest in spoken-word poetry.  While previous generations of poets had relied on traditional forms of verse, a new wave of poets sought to break away from these conventions, embracing a more direct and personal style of expression.  One of the most prominent figures of this movement, was Allen Ginsberg, whose work often reflected his experiences with social alienation and the counterculture of the time.  Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and its candid exploration of personal and political themes.",
+      "explanation": "The best way to combine the two sentences is to replace the comma after \"style\" with a conjunction.  The conjunction \"and\" is the most logical choice because it clearly indicates that the two clauses are connected by a shared relationship.  The other choices either create comma splices or are grammatically incorrect.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e6",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
+        "B": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But, what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, and I will never forget it.",
+        "C": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, that I will never forget.",
+        "D": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, that I will never forget."
+      },
+      "question": "Which choice best corrects an error in the given passage?",
+      "paragraph": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But, what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
+      "explanation": "The original sentence uses a comma to separate two independent clauses. This is incorrect; a comma splice. The correct way to punctuate this sentence is to use a period. Choice A corrects this error.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "213957e6",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The group found the birds’ behavior rather curious, but they continue to enjoy the beauty of the forest.",
+        "B": "The group found the birds’ behavior rather curious, but they continued to enjoy the beauty of the forest.",
+        "C": "The group found the birds’ behavior rather curious, but they had continued to enjoy the beauty of the forest.",
+        "D": "The group found the birds’ behavior rather curious, but they had continued to enjoy the beauty of the forest."
+      },
+      "question": "Which choice best revises the underlined portion of the passage to maintain consistent verb tense?",
+      "paragraph": "The following is a passage from a novel written by an American author:  As they wandered through the forest, the group noticed a group of birds that seemed to be following them.  The birds chirped and fluttered, and their playful antics seemed to be directed at the group.   The birds seemed to be amused by the group’s presence, and they continued to follow them.  The group found the birds’ behavior rather curious, but they continued their walk, and they continued to enjoy the beauty of the forest.   Which choice best revises the passage to maintain consistent verb tense?",
+      "explanation": "The passage is written primarily in the past tense.  The phrase \"they continued to enjoy\" maintains the past tense, whereas the other options change the tense to the present tense or the past perfect tense, which is not consistent with the overall tense of the passage.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "7f7c3993",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Well boys, we got her at last!",
+        "B": "Well, boys, we've got her at last!",
+        "C": "Well, boys, we’ve got her at last!",
+        "D": "Well boys, we got her at last!"
+      },
+      "question": "Which choice best revises the underlined portion of the text so that it conforms to the conventions of Standard English?",
+      "paragraph": "The following text is adapted from \"The Open Boat\" by Stephen Crane, an American writer who became famous for his naturalist style.  The text describes a storm that is threatening a small lifeboat with four men aboard: \"Then the captain, in the manner of the old-time sea-captains who went down with their ships, said to the men:  \"Well, boys, we’ve got her at last!\" ",
+      "explanation": "The convention being tested is the use of contractions. The contraction \"we’ve\" is the correct form for the contraction of \"we have\" and matches the conventions of Standard English. The other choices are incorrect because they fail to use the correct contraction or don’t use any contraction at all.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_english_1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
+        "B": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
+        "C": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
+        "D": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience."
+      },
+      "question": "Which choice best completes the text so that it conforms to the conventions of Standard English?",
+      "paragraph": "The invention of the printing press in the 15th century was a pivotal moment in the history of communication, ushering in a new era of widespread literacy and knowledge dissemination. Before the printing press, the vast majority of books were copied by hand, a process that was both time-consuming and costly. As a result, access to books was limited to a small, privileged few.",
+      "explanation": "Choice A is the best option because it uses a semicolon to properly join the two independent clauses. Choice B uses an incorrect comma, creating a comma splice. Choice C uses an incorrect dash. Choice D uses an incorrect colon, creating a run-on sentence. Therefore, only Choice A conforms to the conventions of Standard English.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "f765438a",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The composer’s research progressed; he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
+        "B": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
+        "C": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history; he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
+        "D": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance."
+      },
+      "question": "Which choice provides the best way to combine the sentences at the end of the first paragraph to create a smoother flow?  \n\nThe composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition.  Making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
+      "paragraph": "In 1925, the Italian composer Ottorino Respighi began working on an orchestral work, the tone poem *The Pines of Rome,* which would become one of his most famous compositions.  The composition was inspired by Respighi’s early travels to Rome, where he was enchanted by the city’s pine trees, which were common in the region’s parks.  As the composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.  Respighi’s four movements, which are based on distinct phases in the life of the pine trees, include a depiction of the pine trees as they appear in the Roman countryside, their emergence as a symbol of the city’s power and growth, the way they are used in the city’s gardens and parks, and finally, their ultimate transformation as they become a symbol of the city’s past.  Respighi’s composition has been praised by music critics for its rich musical language, its vivid depiction of the pine trees, and its emotional power.  The work has been performed by orchestras around the world since it was first performed in 1924.",
+      "explanation": "Choice C is the best way to combine the sentences. The semicolon helps to separate the two independent clauses.  It also creates a smoother flow between the two parts of the sentence.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "119b489c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "B": "The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "C": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "D": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature."
+      },
+      "question": "Which choice most effectively combines the sentences at the underlined portion?",
+      "paragraph": "The recent discovery of a previously unknown species of deep-sea fish, the *Architeuthis dux*, has sent shockwaves through the scientific community. Scientists had long believed that the *Architeuthis dux* was a solitary creature, but the new findings suggest that it may be a social animal. The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet.  These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+      "explanation": "The best way to combine the sentences is to use a comma after the word \"size\" and to add the conjunction \"and\" to the second sentence. This creates a grammatically correct sentence and maintains the flow of the passage.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "87654321",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me, making us both Gemini twins!",
+        "B": "The first time I met my best friend I was surprised to learn that, he shared the same birthday as me, making us both Gemini twins!",
+        "C": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me, making us both Gemini twins! ",
+        "D": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me making us both Gemini twins!"
+      },
+      "question": "Which choice corrects the punctuation error in the passage?",
+      "paragraph": "The first time I met my best friend, I was surprised to learn that, he shared the same birthday as me, making us both Gemini twins! ",
+      "explanation": "The comma after \"learn\" is unnecessary because it separates a dependent clause from its independent clause.  The sentence should be: The first time I met my best friend, I was surprised to learn that he shared the same birthday as me, making us both Gemini twins!",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "92ef1d2e",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
+        "B": "it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
+        "C": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
+        "D": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad."
+      },
+      "question": "The debate is likely to continue for many years to come, but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
+      "paragraph": "The debate about the role of social media in modern society has been ongoing for years. Some people argue that social media is a valuable tool that can be used to connect with others, share information, and build community. They point to the many ways that social media has been used to organize protests, raise awareness about important issues, and provide support to those in need. Others argue that social media is a harmful force that can be used to spread misinformation, promote hatred, and create echo chambers. They point to the many cases of social media being used to spread false information, incite violence, and contribute to the spread of harmful ideologies. The debate is likely to continue for many years to come, but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad. Which of the following choices best completes the text so that it conforms to the conventions of Standard English? ",
+      "explanation": "Choice A is the best answer because it uses a comma to separate the two independent clauses that follow the conjunction \"but.\" This is the correct way to punctuate a complex sentence with two independent clauses. Choices B, C, and D are incorrect because they all result in comma splices, which occur when two independent clauses are joined together with only a comma.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "8f92374d",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "taller than those that did not; the researchers",
+        "B": "taller than those that did not, the researchers",
+        "C": "taller than those that did not. The researchers",
+        "D": "taller than those that did not; the researchers"
+      },
+      "question": "Which choice best revises the underlined portion of the passage to create a sentence that is consistent with the conventions of Standard English?",
+      "paragraph": "A team of researchers studied the impact of a new type of fertilizer on crop yield. The researchers grew two groups of corn plants, one group that received the new fertilizer and one group that did not. The researchers found that the corn plants that received the new fertilizer grew significantly taller than those that did not. The researchers concluded that the new fertilizer increased crop yield. ",
+      "explanation": "The original sentence contains a comma splice, which is an error in Standard English. A comma splice occurs when two independent clauses are joined together with only a comma. To correct the comma splice, we can either add a coordinating conjunction or separate the two clauses with a semicolon. In this case, the best way to revise the sentence is to replace the comma with a period and capitalize the first word of the next clause.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a2",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The most important thing is to learn from mistakes; I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
+        "B": "The most important thing is to learn from mistakes, and I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
+        "C": "The most important thing is to learn from mistakes, and I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
+        "D": "The most important thing is to learn from mistakes—I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them."
+      },
+      "question": "Which choice best revises the underlined portion of the passage to create a more effective and concise sentence?",
+      "paragraph": "The author hopes that the reader will understand the value of learning from mistakes by emphasizing how the speaker has learned from his own experiences. This approach is shown in a paragraph in which the author writes: *The most important thing is to learn from mistakes. *I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them. *I’ve learned that it’s okay to fail, and that failing can even be a good thing. *It’s okay to make mistakes, but it’s not okay to give up. *If you’re willing to learn from your mistakes, you can achieve anything you set your mind to.*",
+      "explanation": "Choice A is the best answer because it uses a semicolon to create two independent clauses. This is a more effective way to join two independent clauses, and it makes the sentence more concise. The other choices use either a comma or a dash, which are not the correct way to join two independent clauses. Choice B uses a comma splice, which is a grammatical error. Choice C uses a comma instead of a semicolon, which is not the correct way to join two independent clauses. Choice D uses a dash, which is not the correct way to join two independent clauses.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "54d6446b",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The African American novelist, Ernest Gaines, tells the story of an enslaved woman,",
+        "B": "The African American novelist Ernest Gaines tells the story of an enslaved woman, ",
+        "C": "The African American novelist, Ernest Gaines, tells the story of an enslaved woman",
+        "D": "The African American novelist Ernest Gaines tells the story of an enslaved woman,"
+      },
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "paragraph": "In her 1954 memoir, *The Autobiography of Miss Jane Pittman*, the African American novelist,  Ernest Gaines, tells the story of an enslaved woman,  who lives to see the end of the Jim Crow era. ",
+      "explanation": "Choice A correctly sets off the nonrestrictive appositive phrase  \"The African American novelist, Ernest Gaines\" with commas. The phrase is nonrestrictive because it provides additional information about the noun it modifies, \"the African American novelist,\" but it is not essential to the meaning of the sentence. The comma after \"Gaines\" also prevents a comma splice, which is the error of joining two independent clauses with only a comma.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "9812ca7b",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench, the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
+        "B": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench: the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
+        "C": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*, is significant because it was found in the deepest known part of the Mariana Trench; the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
+        "D": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*, is significant because it was found in the deepest known part of the Mariana Trench, the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean."
+      },
+      "question": "Which of the following is the most effective way to combine the sentences in this passage so that they conform to the conventions of Standard English?",
+      "paragraph": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench.  The *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
+      "explanation": "The most effective way to combine the sentences is to use a comma to separate the two independent clauses.  The second clause is nonessential, and the comma helps to clarify the relationship between the two clauses.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_english_1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The team's performance was impressive, they scored five goals and were the first team to reach the playoffs this season.",
+        "B": "The team's performance was impressive: they scored five goals, and they were the first team to reach the playoffs this season.",
+        "C": "The team's performance was impressive; they scored five goals, and were the first team to reach the playoffs this season.",
+        "D": "The team's performance was impressive, they scored five goals and were the first team to reach the playoffs this season."
+      },
+      "question": "What revision of the sentence is best?",
+      "paragraph": "The team's performance was impressive. They scored five goals, and they were the first team to reach the playoffs this season.  Which of the following is the best way to revise the sentence so that it conforms to the conventions of Standard English?",
+      "explanation": "The best way to revise the sentence is to use a semicolon to separate the two independent clauses.  This is because the two clauses are closely related in meaning.  The semicolon is the correct punctuation mark to join two independent clauses that are closely related.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a2",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.",
+        "B": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.",
+        "C": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies already yielded interesting insights into the potential impact of artificial light on human health.",
+        "D": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies are already yielding interesting insights into the potential impact of artificial light on human health."
+      },
+      "question": "Which choice best maintains the sentence’s consistent use of verb tense?",
+      "paragraph": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.  ",
+      "explanation": "The sentence should maintain a consistent verb tense. The first part of the sentence is in the present tense. Therefore, the second part should also be in the present tense. \"Have already yielded\" is correct because it maintains the present tense.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "\"The real power of computers lies not in their speed or memory, but in their ability to communicate.\"",
+        "B": "\"The real power of computers lies not in their speed or memory, but in their ability to communicate.\"",
+        "C": "\"The real power of computers lies not in their speed or memory but in their ability to communicate.\"",
+        "D": "\"The real power of computers lies not in their speed or memory but, in their ability to communicate.\""
+      },
+      "question": "Which of the following is the best way to punctuate the quotation in the essay?",
+      "paragraph": "A student is writing an essay about the history of the computer.  The student wants to use a quotation from a famous computer scientist to support their argument.  The quotation is: \"The real power of computers lies not in their speed or memory but in their ability to communicate.\"  The student wants to include the quotation in the essay, but they are unsure how to punctuate it.  The student knows that they need to set off the quotation with quotation marks but is unsure of where to put a comma.",
+      "explanation": "The correct answer is A. The comma should be placed after the introductory phrase \"The real power of computers lies not in their speed or memory,\" and before the independent clause \"but in their ability to communicate.\" This is because the comma separates the introductory phrase from the main clause of the sentence.  The other choices are incorrect because they either do not use a comma at all or place the comma in an incorrect location.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "257f017c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
+        "B": "The process of photosynthesis involves a series of steps, each requiring energy that result in the conversion of light energy into chemical energy that plants use to grow.",
+        "C": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
+        "D": "The process of photosynthesis involves a series of steps, each requiring energy that result in the conversion of light energy into chemical energy, that plants use to grow."
+      },
+      "question": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
+      "paragraph": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow. Which of the following choices is the best way to punctuate the sentence?",
+      "explanation": "The best way to punctuate the sentence is to use a comma after \"energy\" and after \"energy\" because the phrases \"each requiring energy\" and \"that result in the conversion of light energy into chemical energy that plants use to grow\" are nonrestrictive and should be set off with commas.  The comma after \"energy\" correctly separates the nonrestrictive phrase \"each requiring energy.\" The comma after \"energy\" correctly separates the nonrestrictive phrase \"that result in the conversion of light energy into chemical energy that plants use to grow.\"  All the other choices either incorrectly use no commas or incorrectly use a comma and a conjunction.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "89656d1c",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "While some worry that automation will lead to job losses, the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
+        "B": "While some worry that automation will lead to job losses the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
+        "C": "While some worry that automation will lead to job losses the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
+        "D": "While some worry that automation will lead to job losses, the author noted the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills."
+      },
+      "question": "Which choice provides the best way to correct the punctuation error in the passage? ",
+      "paragraph": "A recent article in the New York Times examined the relationship between the rise of artificial intelligence and the increasing demand for human workers in fields like healthcare. \"While some worry that automation will lead to job losses,\" the author noted, \"the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.\"  ",
+      "explanation": "The comma after \"noted\" is incorrect because it creates a comma splice; a comma cannot be used to join two independent clauses. The correction in choice A places a comma after \"losses,\" which separates the two independent clauses and is correct.",
+      "correct_answer": "A"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_e7",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "They carved intricate facades, into the sandstone cliffs, creating elaborate tombs and temples.",
+        "B": "They carved intricate facades, into the sandstone cliffs, creating elaborate tombs and temples.",
+        "C": "They carved intricate facades into the sandstone cliffs, creating elaborate tombs and temples.",
+        "D": "They carved intricate facades into the sandstone cliffs creating elaborate tombs and temples."
+      },
+      "question": "Which choice best corrects the error in the underlined portion?",
+      "paragraph": "The ancient city of Petra, in Jordan, is known for its elaborate rock-cut architecture, which was created by the Nabateans. They carved intricate facades into the sandstone cliffs, creating elaborate tombs and temples. The Nabateans used their impressive architectural skills to create a thriving city that was a major center of trade for centuries. Petra was abandoned, but its ruins remain a popular tourist attraction.",
+      "explanation": "The phrase \"into the sandstone cliffs\" is a prepositional phrase that modifies \"carved.\"  A prepositional phrase should not be separated from the word it modifies by a comma. Choice C correctly omits the unnecessary comma.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "domain": "Standard English Conventions",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle.",
+        "B": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle.",
+        "C": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle.",
+        "D": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle."
+      },
+      "question": "Which choice provides the best punctuation for the underlined portion?",
+      "paragraph": "The first time I ever saw a hummingbird, I was completely mesmerized. I had never seen a bird that could hover in mid-air, let alone fly backwards.  It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle. I watched, captivated, as it dipped it’s beak into a flower and then flew off to the next blossom.",
+      "explanation": "The best way to punctuate the sentence is to use an apostrophe in the word \"It’s\" and a period after \"still.\"  The possessive pronoun \"Its\" should be capitalized because it begins a new sentence.",
+      "correct_answer": "B"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c10",
+    "domain": "Advanced Math",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "$\\frac{x-2}{x+2}$",
+        "B": "$\\frac{x+2}{x-2}$",
+        "C": "$\\frac{x-2}{x+2}$",
+        "D": "$\\frac{x+2}{x+2}$"
+      },
+      "question": "What is the simplified form of the expression $\\frac{x^2 - 4}{x^2 + 4x + 4}$?",
+      "paragraph": "null",
+      "explanation": "The expression can be simplified by factoring the numerator and the denominator. The numerator is a difference of squares, and the denominator is a perfect square trinomial. We have: \\begin{align*} \\frac{x^2 - 4}{x^2 + 4x + 4} &= \\frac{(x+2)(x-2)}{(x+2)(x+2)}\\\\ &= \\frac{x-2}{x+2}. \\end{align*}",
+      "correct_answer": "A"
+    },
+    "difficulty": "Easy",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_c2",
+    "domain": "Advanced Math",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "$\\pi$ cm",
+        "B": "$\\pi$ cm",
+        "C": "10$\\pi$ cm",
+        "D": "25$\\pi$ cm"
+      },
+      "question": "A circle has a radius of 5 cm. What is the circumference of the circle in terms of $\\pi$?",
+      "paragraph": "null",
+      "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting 5 for $r$ gives $C = 2\\pi (5) = 10\\pi$.",
+      "correct_answer": "C"
+    },
+    "difficulty": "Medium",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_b8",
+    "domain": "Geometry and Trigonometry",
+    "visuals": {
+      "type": "null",
+      "svg_content": "null"
+    },
+    "question": {
+      "choices": {
+        "A": "$\\pi$",
+        "B": "$\\pi$",
+        "C": "$5\\pi$",
+        "D": "$25\\pi$"
+      },
+      "question": "A circle has a diameter of 10 centimeters. What is the area of the circle, in square centimeters, in terms of $\\pi$?",
+      "paragraph": "null",
+      "explanation": "The area of a circle is given by the formula $A = \\pi r^2$, where r is the radius of the circle. Since the diameter is 10 centimeters, the radius is 5 centimeters.  Therefore, the area of the circle is $A = \\pi (5)^2 = 25\\pi$ square centimeters.",
+      "correct_answer": "D"
+    },
+    "difficulty": "Hard",
+    "reason_for_fault": "Duplicate answer choices."
+  },
+  {
+    "id": "random_id_a1",
+    "section": "information and ideas",
+    "question": "In the essay \"On Liberty,\" John Stuart Mill argues that \"the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it.\"  What is Mill's main point in this passage?\n\nWhat is Mill's main point in this passage from \"On Liberty\"?",
+    "choices": [
+      "A) Suppressing opinions robs future generations of the chance to hear them, even if they disagree with them.",
+      "B) It is harmful to silence opinions that are held by a majority of people.",
+      "C) People who dissent from an opinion are more likely to be harmed by its suppression than those who hold it.",
+      "D) It is important to respect all opinions, even if they are wrong."
+    ],
+    "correct_answer": "A",
+    "explanation": "Mill argues that suppressing opinions is a harm to everyone, including future generations, because it prevents them from hearing and potentially engaging with these ideas.  He also emphasizes that those who disagree with the silenced opinion are more likely to be harmed because it prevents them from developing their own understanding and potentially challenging it.",
+    "audit_flags": [],
+    "reason_for_fault": "The passage supports both choice A and choice C as valid interpretations, so the question has more than one correct answer. The answer key is not uniquely correct."
+  },
+  {
+    "id": "random_id_d6",
+    "section": "standard english conventions",
+    "question": "The researchers concluded that, in fact, as many as half of the hunters in the groups they studied were female. This finding was a direct challenge to the accepted view that female participation in hunting was negligible.\n\nWhich choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+    "choices": [
+      "A) This finding was a direct challenge to the accepted view, that female participation in hunting was negligible.",
+      "B) This finding directly challenged the accepted view, that female participation in hunting was negligible.",
+      "C) This finding directly challenged the accepted view that female participation in hunting was negligible.",
+      "D) This finding, a direct challenge to the accepted view, that female participation in hunting was negligible."
+    ],
+    "correct_answer": "C",
+    "explanation": "Choice C is the best option because it combines the two sentences while maintaining a correct grammatical structure and avoiding a comma splice.  The phrase \"a direct challenge to the accepted view\" is nonessential, so it should be set off with commas.  The phrase \"that female participation in hunting was negligible\" is a restrictive clause, so no comma is needed between the clause and the rest of the sentence.",
+    "audit_flags": [],
+    "reason_for_fault": "The explanation incorrectly describes the grammatical structure of the correct choice. It claims that the phrase \"a direct challenge to the accepted view\" is nonessential and should be set off with commas, yet choice C does not contain that phrase at all. Consequently, the explanation is inaccurate."
+  }
+]

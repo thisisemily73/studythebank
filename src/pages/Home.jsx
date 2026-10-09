@@ -15,7 +15,7 @@ export default function Home({ setView }) {
 
         <h1 className="home-title">
           Master the SAT with
-          <span> explanations that actually make sense.</span>
+          <span> explanations that make sense.</span>
         </h1>
 
         <p className="home-subtitle">

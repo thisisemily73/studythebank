@@ -1,0 +1,28 @@
+[
+  {
+    "id": "random_id_e1",
+    "section": "standard english conventions",
+    "question": "Which of the following sentences correctly uses a comma to separate a nonessential phrase? ",
+    "choices": [
+      "A) The play, which was written by Shakespeare, is a comedy.",
+      "B) The play which was written by Shakespeare, is a comedy.",
+      "C) The play which was written by Shakespeare is a comedy.",
+      "D) The play which was written by Shakespeare, is a comedy"
+    ],
+    "correct_answer": "A",
+    "explanation": "A nonessential phrase can be removed from a sentence without changing the meaning of the sentence. In this case, the phrase \"which was written by Shakespeare\" is a nonessential phrase, and it is correctly separated from the rest of the sentence by a comma. This is because the phrase doesn’t provide information that is essential to the meaning of the sentence. The other sentences are incorrect because they use the comma incorrectly to separate a nonessential phrase."
+  },
+  {
+    "id": "9955574d",
+    "section": "expression of ideas",
+    "question": "The article argues that the way people use technology can be divided into two categories. One category is the use of technology for specific tasks, which the authors call \"instrumental\" use. The other category is the use of technology for pleasure or entertainment, which the authors call \"noninstrumental\" use. This distinction is important because it can help explain why people use technology in different ways, and how these different uses can affect people’s lives.  The authors claim that the distinction between instrumental and noninstrumental use is important for understanding how people use technology in the twenty-first century.\n\nWhat is the main idea of this article?",
+    "choices": [
+      "A) Instrumental use of technology is more important than noninstrumental use.",
+      "B) The distinction between instrumental and noninstrumental use of technology is important for understanding how people use technology in the twenty-first century.",
+      "C) Noninstrumental use of technology is more important than instrumental use.",
+      "D) The use of technology has a significant impact on people’s lives in the twenty-first century."
+    ],
+    "correct_answer": "B",
+    "explanation": "The article focuses on how the distinction between instrumental and noninstrumental use of technology helps understand how people use technology in the 21st century. This distinction, according to the article, is critical for understanding how different uses of technology can affect people's lives."
+  }
+]

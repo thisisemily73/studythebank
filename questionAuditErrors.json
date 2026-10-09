@@ -1,0 +1,44 @@
+[
+  {
+    "id": "random_id_a1",
+    "section": "information and ideas",
+    "question": "In the essay \"On Liberty,\" John Stuart Mill argues that \"the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it.\"  What is Mill's main point in this passage?\n\nWhat is Mill's main point in this passage from \"On Liberty\"?",
+    "choices": [
+      "A) Suppressing opinions robs future generations of the chance to hear them, even if they disagree with them.",
+      "B) It is harmful to silence opinions that are held by a majority of people.",
+      "C) People who dissent from an opinion are more likely to be harmed by its suppression than those who hold it.",
+      "D) It is important to respect all opinions, even if they are wrong."
+    ],
+    "correct_answer": "A",
+    "explanation": "Mill argues that suppressing opinions is a harm to everyone, including future generations, because it prevents them from hearing and potentially engaging with these ideas.  He also emphasizes that those who disagree with the silenced opinion are more likely to be harmed because it prevents them from developing their own understanding and potentially challenging it.",
+    "reason_for_fault": "Groq returned no content (finish reason: length)."
+  },
+  {
+    "id": "99315200",
+    "section": "information and ideas",
+    "question": "The author is most interested in the impact of the internet on the way information is spread, focusing on the ways that individuals have become more powerful in shaping and distributing information. One of the key points the author makes is that information is no longer solely controlled by institutions and governments. This can be seen, for example, in the rise of citizen journalism, where individuals are able to share their own observations and perspectives on current events. Another major point is that the internet has made it easier for people to access and share information from around the world, making the world a smaller and more interconnected place. The author also notes the downsides of the internet, such as the spread of misinformation and the erosion of trust in traditional sources of information. However, the author’s primary focus is on the positive ways that the internet has changed the way information is shared and how it has empowered individuals. What is the main point of the passage?\n\nWhich statement best describes the author’s main point?",
+    "choices": [
+      "A) The internet has revolutionized the way information is distributed, making it more accessible and empowering individuals.",
+      "B) The internet has both positive and negative effects on the way information is shared.",
+      "C) Traditional sources of information are no longer as trustworthy as they once were.",
+      "D) The internet has made the world a smaller place, making it easier for people to connect with one another."
+    ],
+    "correct_answer": "A",
+    "explanation": "The author is most interested in the ways that the internet has made information more accessible and empowered individuals. The passage discusses the rise of citizen journalism, the ease of accessing information from around the world, and the downsides of the internet, but the author's primary focus is on the positive ways that the internet has changed the way information is shared and how it has empowered individuals.",
+    "reason_for_fault": "Groq returned no content (finish reason: length)."
+  },
+  {
+    "id": "random_id_d6",
+    "section": "standard english conventions",
+    "question": "The researchers concluded that, in fact, as many as half of the hunters in the groups they studied were female. This finding was a direct challenge to the accepted view that female participation in hunting was negligible. \n\nWhich choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+    "choices": [
+      "A) This finding was a direct challenge to the accepted view, that female participation in hunting was negligible.",
+      "B) This finding directly challenged the accepted view, that female participation in hunting was negligible.",
+      "C) This finding directly challenged the accepted view that female participation in hunting was negligible.",
+      "D) This finding, a direct challenge to the accepted view, that female participation in hunting was negligible."
+    ],
+    "correct_answer": "C",
+    "explanation": "Choice C is the best option because it combines the two sentences while maintaining a correct grammatical structure and avoiding a comma splice.  The phrase \"a direct challenge to the accepted view\" is nonessential, so it should be set off with commas.  The phrase \"that female participation in hunting was negligible\" is a restrictive clause, so no comma is needed between the clause and the rest of the sentence.",
+    "reason_for_fault": "Groq returned no content (finish reason: length)."
+  }
+]

@@ -45,7 +45,7 @@ export default function Footer({ setView }) {
                 </div>
 
                 <p className="footer-copyright">
-                    © {new Date().getFullYear()} StudyTheBank
+                    © {new Date().getFullYear()} studythebank
                 </p>
             </div>
         </footer>
