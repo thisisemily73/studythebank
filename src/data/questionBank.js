@@ -21,6 +21,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d6",
         "domain": "Standard English Conventions",
@@ -42,6 +43,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9955574d",
         "domain": "Expression of Ideas",
@@ -63,6 +65,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "99315200",
         "domain": "Information and Ideas",
@@ -84,6 +87,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_e1",
         "domain": "Standard English Conventions",
@@ -105,6 +109,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e5d337a9",
         "domain": "Information and Ideas",
@@ -126,6 +131,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e2",
         "domain": "Information and Ideas",
@@ -147,6 +153,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5c7213da",
         "domain": "Standard English Conventions",
@@ -168,6 +175,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "22f23d12",
         "domain": "Expression of Ideas",
@@ -189,6 +197,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "432684e7",
         "domain": "Craft and Structure",
@@ -210,6 +219,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "209da12b",
         "domain": "Craft and Structure",
@@ -231,6 +241,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_c3",
         "domain": "Standard English Conventions",
@@ -252,6 +263,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_e3",
         "domain": "Information and Ideas",
@@ -273,6 +285,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a2",
         "domain": "Standard English Conventions",
@@ -294,6 +307,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "34ac6b78",
         "domain": "Standard English Conventions",
@@ -315,6 +329,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_3",
         "domain": "Standard English Conventions",
@@ -336,6 +351,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "98b54a6e",
         "domain": "Expression of Ideas",
@@ -357,6 +373,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4371a994",
         "domain": "Standard English Conventions",
@@ -378,6 +395,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "98765432",
         "domain": "Expression of Ideas",
@@ -399,6 +417,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a12a31a3",
         "domain": "Standard English Conventions",
@@ -420,6 +439,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8d2c3b7",
         "domain": "Expression of Ideas",
@@ -441,6 +461,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_b9",
         "domain": "Craft and Structure",
@@ -462,8 +483,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2a585461721814b1",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -483,6 +505,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5456da62",
         "domain": "Craft and Structure",
@@ -504,6 +527,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_d4",
         "domain": "Standard English Conventions",
@@ -525,6 +549,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54402e8c",
         "domain": "Information and Ideas",
@@ -546,6 +571,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4567ab90",
         "domain": "Standard English Conventions",
@@ -567,6 +593,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_c7",
         "domain": "Standard English Conventions",
@@ -588,8 +615,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_fc6ef240cda7e6b2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -609,6 +637,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f14b4b4b",
         "domain": "Standard English Conventions",
@@ -630,8 +659,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_abada74e2b13912a",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -651,6 +681,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "34f7d4e9",
         "domain": "Craft and Structure",
@@ -672,6 +703,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b307477f",
         "domain": "Standard English Conventions",
@@ -684,15 +716,16 @@ export const questionBank = [
                 "A": "This butterfly is the most interesting one I've ever seen, and I can’t wait to learn more about it.",
                 "B": "This butterfly is the most interesting one I've ever seen. I can’t wait to learn more about it.",
                 "C": "This butterfly is the most interesting one I've ever seen; I can’t wait to learn more about it.",
-                "D": "This butterfly is the most interesting one I've ever seen, and I can’t wait to learn more about it."
+                "D": "This butterfly is the most interesting one I have ever seen, I can’t wait to learn more about it."
             },
-            "question": "Which choice best revises the sentence to make it conform to the conventions of Standard English?",
+            "question": "Which choice replaces the comma between the clauses with a period?",
             "paragraph": "After years of research, a scientist announced the discovery of a new species of butterfly, one that was previously unknown to science.  The scientist, who had devoted years to the study of butterflies, was thrilled with the discovery, and the team of researchers that assisted her in the project were equally excited about the finding.  \"This butterfly is the most interesting one I've ever seen!\" the scientist exclaimed.  \"It has a unique wing pattern that I have never seen before. I believe it’s a new species, and I can’t wait to learn more about it.\"",
-            "explanation": "The original sentence contains a comma splice, a common error in which a comma is used to connect two independent clauses without a conjunction.  The correct way to fix this is to replace the comma with a period or a semicolon. Of the choices given, only choice B correctly uses a period to connect the two independent clauses.",
+            "explanation": "Choice B replaces the comma between the independent clauses with a period, as requested. A uses a coordinating conjunction, C uses a semicolon, and D leaves a comma splice.",
             "correct_answer": "B"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "564f68a7",
         "domain": "Information and Ideas",
@@ -714,6 +747,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_eng_1",
         "domain": "Standard English Conventions",
@@ -735,6 +769,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_c4",
         "domain": "Expression of Ideas",
@@ -756,8 +791,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_00d81400b039d88e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -777,6 +813,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "99ab9469",
         "domain": "Expression of Ideas",
@@ -798,8 +835,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_63055b369092019c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -807,18 +845,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans, however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
-                "B": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans; however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
-                "C": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans; however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
-                "D": "The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans, however, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season."
+                "A": "The museum's new exhibit showcases artifacts from the 18th century, and the curator, who has spent years researching the period, believes that the display will inspire visitors to learn more about the era.",
+                "B": "The museum's new exhibit showcases artifacts from the 18th century; the curator, who has spent years researching the period, believes that the display will inspire visitors to learn more about the era.",
+                "C": "The museum's new exhibit showcases artifacts from the 18th century, the curator, who has spent years researching the period, believes that the display will inspire visitors to learn more about the era.",
+                "D": "The museum's new exhibit showcases artifacts from the 18th century, and the curator who has spent years researching the period believes that the display will inspire visitors to learn more about the era."
             },
             "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
-            "paragraph": "The team’s victory was due to a combination of factors. The team’s hard work, their coach’s strategic planning, and the team’s unwavering support from the fans.  However, their success can be attributed mostly to the team’s hard work and determination, which were evident throughout the season.",
-            "explanation": "Choice D is the best answer because it combines the sentences at the underlined portion with a comma and the conjunctive adverb \"however.\" This creates a grammatically correct sentence that is also stylistically effective because it uses a transition to connect the two ideas and avoid creating a comma splice. Choices A, B, and C are incorrect because they create comma splices. ",
-            "correct_answer": "D"
+            "paragraph": "The museum's new exhibit showcases artifacts from the 18th century. [The curator, who has spent years researching the period, believes that the display will inspire visitors to learn more about the era.]",
+            "explanation": "Choice A is the best answer because it correctly joins two independent clauses with a coordinating conjunction and a comma, and it properly sets off the nonrestrictive relative clause with commas. Choice B also joins the clauses correctly with a semicolon, but the use of a semicolon is less stylistically effective in this context. Choice C creates a comma splice, which is grammatically incorrect. Choice D omits the comma that sets off the nonrestrictive clause, making the sentence less clear. Therefore, A is the most grammatically sound and stylistically effective option.",
+            "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_12",
         "domain": "Information and Ideas",
@@ -840,6 +879,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "857f92ba",
         "domain": "Standard English Conventions",
@@ -861,6 +901,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_a7",
         "domain": "Standard English Conventions",
@@ -882,6 +923,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "674c28d3",
         "domain": "Standard English Conventions",
@@ -903,6 +945,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f45830d7",
         "domain": "Standard English Conventions",
@@ -924,6 +967,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_eng1",
         "domain": "Standard English Conventions",
@@ -945,6 +989,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "67a4829f",
         "domain": "Standard English Conventions",
@@ -954,18 +999,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature; however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
-                "B": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature, however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
-                "C": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature, however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
-                "D": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature—however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed."
+                "A": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature, however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+                "B": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature; however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+                "C": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature—however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.",
+                "D": "As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature— however she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed."
             },
             "question": "Which of the following is the best way to correct the error in the sentence?",
             "paragraph": "The following sentence contains an error in punctuation.  The sentence is:  \"As a young girl, Margaret was a precocious reader, voraciously devouring books on history, science, and literature— however, she preferred to read in secret, hiding away in quiet corners, so as to not be disturbed.\"  Which of the following is the best way to correct the error in the sentence?",
-            "explanation": "The sentence contains a comma splice. A comma splice occurs when two independent clauses are joined together with only a comma. To correct the comma splice, the sentence should be separated by a semicolon or a conjunction. In this case, the use of a semicolon before \"however\" creates two independent clauses that are grammatically correct.  Choice A is incorrect because it results in a comma splice. Choice B is incorrect because it results in a comma splice. Choice C is incorrect because it results in a comma splice.",
-            "correct_answer": "D"
+            "explanation": "The sentence contains a dash before the word \"however\" and a comma after it.  The dash is inappropriate because the two clauses are independent; a semicolon is required to join them.  The comma after \"however\" is correct because \"however\" functions as a conjunctive adverb that must be followed by a comma.  Option B replaces the dash with a semicolon and keeps the comma after \"however,\" producing a grammatically sound sentence.  Option A uses only commas, creating a comma splice.  Option C keeps the dash but also keeps the comma after \"however,\" which is incorrect.  Option D has a space after the dash, which is a punctuation error.  Therefore, only option B is defensibly correct.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c1",
         "domain": "Standard English Conventions",
@@ -987,6 +1033,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a3",
         "domain": "Information and Ideas",
@@ -1008,6 +1055,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e4",
         "domain": "Standard English Conventions",
@@ -1029,6 +1077,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3c8d99a",
         "domain": "Information and Ideas",
@@ -1050,6 +1099,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_a3",
         "domain": "Information and Ideas",
@@ -1071,6 +1121,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8a3264e3",
         "domain": "Standard English Conventions",
@@ -1092,6 +1143,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8265dfc1",
         "domain": "Information and Ideas",
@@ -1113,6 +1165,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f94c0c33",
         "domain": "Standard English Conventions",
@@ -1125,15 +1178,16 @@ export const questionBank = [
                 "A": "However, the novel’s popularity was not without its critics; who argued that the genre was too sentimental and unrealistic.",
                 "B": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental, and unrealistic.",
                 "C": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic.",
-                "D": "However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic."
+                "D": "However, the novel’s popularity was not without its critics who argued that the genre was too sentimental and unrealistic."
             },
             "question": "Which choice makes the most effective change to the third sentence of the passage?",
-            "paragraph": "The 19th century saw the rise of the novel, a genre that allowed writers to explore new forms of storytelling and character development.  Writers like Jane Austen and Charles Dickens used the novel to create vivid portraits of life in England, while American authors like Nathaniel Hawthorne and Herman Melville used it to explore themes of morality and the human condition.  However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic.  Some critics even went so far as to say that the novel was nothing more than a form of escapism.  But despite the criticisms, the novel continued to thrive, and it has remained one of the most popular literary genres to this day.  Even today, writers are still using the novel to explore new ideas and to tell compelling stories.  Which of the following choices makes the most effective change to the third sentence of the passage?  ",
-            "explanation": "Choice C is the best answer because it uses a comma to separate the introductory phrase from the main clause, as is required by the rules of Standard English.  The other choices all contain errors in punctuation, specifically using a semicolon where a comma is needed, or using a comma where a semicolon is needed.  Choice C makes the most effective change to the third sentence of the passage, and it is the only choice that conforms to the conventions of Standard English.",
+            "paragraph": "The 19th century saw the rise of the novel, a genre that allowed writers to explore new forms of storytelling and character development.  Writers like Jane Austen and Charles Dickens used the novel to create vivid portraits of life in England, while American authors like Nathaniel Hawthorne and Herman Melville used it to explore themes of morality and the human condition.  However, the novel’s popularity was not without its critics, who argued that the genre was too sentimental and unrealistic.  Some critics even went so far as to say that the novel was nothing more than a form of escapism.  But despite the criticisms, the novel continued to thrive, and it has remained one of the most popular literary genres to this day.  Even today, writers are still using the novel to explore new ideas and to tell compelling stories.",
+            "explanation": "Choice C is the best answer because it correctly places a comma after \"critics\" to separate the introductory clause from the relative clause, and it does not use an unnecessary comma before \"and unrealistic.\" Choice A incorrectly uses a semicolon where a comma is required. Choice B incorrectly inserts a comma before \"and unrealistic,\" creating a comma splice. Choice D omits the necessary comma before \"who,\" resulting in a run‑on sentence.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "641d711e",
         "domain": "Craft and Structure",
@@ -1155,6 +1209,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a1696f3e",
         "domain": "Standard English Conventions",
@@ -1176,8 +1231,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_f7214b77dd2c7df9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1197,8 +1253,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_f4e732dcb3d28de5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1218,8 +1275,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2ef1dc8ee0380c93",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1239,8 +1297,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_735af46820c1395c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -1260,6 +1319,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83b354c7",
         "domain": "Standard English Conventions",
@@ -1281,8 +1341,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_03429e884ceaa088",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1302,6 +1363,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e39d251c",
         "domain": "Standard English Conventions",
@@ -1323,6 +1385,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "564389ac",
         "domain": "Standard English Conventions",
@@ -1344,6 +1407,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c8",
         "domain": "Standard English Conventions",
@@ -1365,6 +1429,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e7",
         "domain": "Standard English Conventions",
@@ -1386,8 +1451,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_28b6c7ca685e3896",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1407,6 +1473,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "89ad213c",
         "domain": "Expression of Ideas",
@@ -1428,8 +1495,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_8472d644c10ea02d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -1449,6 +1517,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c9",
         "domain": "Craft and Structure",
@@ -1470,6 +1539,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2175c79f",
         "domain": "Standard English Conventions",
@@ -1479,18 +1549,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "A large, complex project is being undertaken by the team, the group has taken on a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
-                "B": "A large, complex project is being undertaken by the team; the group has taken on a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
-                "C": "A large, complex project, which the team has undertaken, is a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly.",
-                "D": "A large, complex project, which the team has undertaken, is a difficult endeavor, and the goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly."
+                "A": "The company is launching a new product line, the launch will involve extensive research and development, and the aim is to create a product that meets customer needs while reducing environmental impact.",
+                "B": "The company is launching a new product line; the launch will involve extensive research and development, and the aim is to create a product that meets customer needs while reducing environmental impact.",
+                "C": "The company is launching a new product line, which will involve extensive research and development, and the aim is to create a product that meets customer needs while reducing environmental impact.",
+                "D": "The company is launching a new product line, and the launch will involve extensive research and development, with the aim of creating a product that meets customer needs while reducing environmental impact."
             },
             "question": "Which choice best combines the sentences above to create a grammatically correct and stylistically effective sentence?",
-            "paragraph": "A large, complex project is being undertaken by the team. The group has taken on a difficult endeavor. The goal of the project is to address the problem of how to ensure that the production of goods is done in a way that is both efficient and environmentally friendly. ",
-            "explanation": "Choice D is the best option because it correctly combines the two independent clauses with a relative clause. The relative clause, \"which the team has undertaken,\" clarifies what the \"large, complex project\" is and smoothly connects the first two independent clauses. The use of a comma after \"endeavor\" separates the two independent clauses, making for a correctly punctuated sentence.",
-            "correct_answer": "D"
+            "paragraph": "The company is launching a new product line. The launch will involve extensive research and development. The aim is to create a product that meets customer needs while reducing environmental impact.",
+            "explanation": "Choice C is the best option because it combines the three independent clauses into one sentence using a relative clause. The clause \"which will involve extensive research and development\" modifies \"new product line,\" linking the ideas smoothly. The commas correctly separate the clauses, and the sentence remains clear and concise. Choices A and B use commas or semicolons incorrectly, while D splits the idea into two clauses and adds an unnecessary \"with the aim of\" phrase, making the sentence less direct.",
+            "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_8",
         "domain": "Information and Ideas",
@@ -1512,8 +1583,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_508d5668acac412f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -1533,8 +1605,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_074ad4a7ae39993e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -1554,6 +1627,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a6b2f89c",
         "domain": "Standard English Conventions",
@@ -1575,6 +1649,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_e8",
         "domain": "Craft and Structure",
@@ -1596,8 +1671,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_62592884716d06ea",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -1617,6 +1693,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "926a764b",
         "domain": "Information and Ideas",
@@ -1638,6 +1715,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "197df82e",
         "domain": "Standard English Conventions",
@@ -1650,17 +1728,18 @@ export const questionBank = [
                 "A": "They knew that the data wouldn’t be clear until years after the experiment began, but they were confident in the overall methodology.",
                 "B": "They knew that the data wouldn’t be clear until years after the experiment began, and they were confident in the overall methodology.",
                 "C": "The scientist knew that the data would not be clear until years after the experiment began, and they were confident in the overall methodology.",
-                "D": "They knew that the data wouldn’t be clear until years after the experiment began, and they were confident in the overall methodology."
+                "D": "They knew that the data wouldn’t be clear until years after the experiment began; however, they were confident in the overall methodology."
             },
-            "question": "Which choice best revises the underlined portion of the sentence to maintain the formal style of the passage?",
+            "question": "Which choice uses “but” to show the contrast between the unclear data and confidence in the methodology?",
             "paragraph": "The scientist knew that the study would be lengthy, and they were looking for a volunteer who would be able to commit to a long-term project.  They had a hunch that the data would not be clear until years after the experiment began, but they were confident in the overall methodology.",
-            "explanation": "The underlined portion of the sentence should maintain consistency with the tense of the rest of the passage.  Since the passage uses the past tense, the past tense form of \"would not be\" is the most appropriate choice.",
+            "explanation": "Choice A uses “but” to express the contrast while retaining the passage’s past-tense wording. The other choices use different transitions or change the subject.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_278d38e40258eb1d",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -1680,6 +1759,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6f74b53f",
         "domain": "Standard English Conventions",
@@ -1701,8 +1781,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_d2bedaa8aa8416eb",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -1722,6 +1803,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f54c918d",
         "domain": "Information and Ideas",
@@ -1743,8 +1825,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_3c75929fc66fe9b7",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -1764,6 +1847,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "56a4794c",
         "domain": "Craft and Structure",
@@ -1785,6 +1869,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a983e3c5",
         "domain": "Craft and Structure",
@@ -1806,6 +1891,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a4",
         "domain": "Standard English Conventions",
@@ -1815,18 +1901,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "create a sense of intimacy and connection with the reader.",
-                "B": "describe the speaker’s feelings and experiences.",
-                "C": "emphasize the importance of the speaker’s message.",
-                "D": "suggest that the speaker is addressing a large audience."
+                "A": "establish a personal connection with the reader",
+                "B": "describe the speaker’s own experiences",
+                "C": "emphasize the importance of the message",
+                "D": "indicate that the speaker is addressing a large audience"
             },
-            "question": "In this passage, the word \"you\" is used to",
-            "paragraph": "The most obvious sign that the speaker is speaking directly to the reader is the use of the word \"you.\" There are other elements of the passage that may help to make the speaker seem more immediate and personal. The speaker refers to events and places that are familiar to the reader, and the speaker uses a conversational tone throughout the passage. What is the most likely reason why the writer uses the word \"you\"?",
-            "explanation": "The speaker is addressing the reader directly by using the word \"you.\" This creates a sense of intimacy and connection with the reader, which can help the reader feel more engaged with the message.",
+            "question": "In the following excerpt, the repeated use of \"you\" serves primarily to ______.",
+            "paragraph": "You might think that the world is moving too fast, but if you pause for a moment, you will notice the quiet moments that bring clarity. You are not alone in feeling this way, and I hope that by sharing my observations, you can find a path forward.",
+            "explanation": "The speaker uses the pronoun \"you\" repeatedly to directly address the reader, creating a sense of intimacy and making the reader feel personally involved in the discussion.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e9",
         "domain": "Standard English Conventions",
@@ -1848,6 +1935,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5f4c918d",
         "domain": "Craft and Structure",
@@ -1869,6 +1957,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f9939d2c",
         "domain": "Standard English Conventions",
@@ -1880,16 +1969,17 @@ export const questionBank = [
             "choices": {
                 "A": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
                 "B": "The director is the one who, when he or she has a vision for a project, knows how to inspire the actors to embody it.",
-                "C": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
-                "D": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it."
+                "C": "The director is someone whose vision helps inspire the actors to embody it.",
+                "D": "When a director has a vision for a project, they know how to inspire the actors to embody it."
             },
-            "question": "Which choice corrects the grammatical error in the sentence above?",
+            "question": "Which choice uses “he or she” to refer to the singular antecedent “the director”?",
             "paragraph": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.  ",
-            "explanation": "The pronoun \"they\" is incorrect because the antecedent, \"the director,\" is singular.  Choice B corrects the error by using the pronoun \"he or she\" to agree with the singular antecedent.",
+            "explanation": "Choice B uses “he or she” to refer to the singular antecedent “the director.” Singular “they” in A and D is also accepted in modern English; this question asks you to identify the he-or-she construction, not to treat singular they as incorrect.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8746f12b",
         "domain": "Information and Ideas",
@@ -1911,6 +2001,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a8f938c",
         "domain": "Standard English Conventions",
@@ -1932,6 +2023,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d9",
         "domain": "Standard English Conventions",
@@ -1953,6 +2045,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "22d4199f",
         "domain": "Information and Ideas",
@@ -1974,6 +2067,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2354c22d",
         "domain": "Standard English Conventions",
@@ -1995,6 +2089,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a5",
         "domain": "Standard English Conventions",
@@ -2016,6 +2111,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "2d26268d",
         "domain": "Standard English Conventions",
@@ -2037,6 +2133,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "01f48d2f",
         "domain": "Standard English Conventions",
@@ -2058,8 +2155,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_c7e898bac3763310",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -2079,8 +2177,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_51691ab7c64a431a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -2100,8 +2199,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_9d5c29d3563187a6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2121,6 +2221,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "b4244863",
         "domain": "Expression of Ideas",
@@ -2142,6 +2243,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9f6f96ff",
         "domain": "Craft and Structure",
@@ -2163,6 +2265,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "152d892d",
         "domain": "Standard English Conventions",
@@ -2174,18 +2277,19 @@ export const questionBank = [
             "choices": {
                 "A": "However, I was able to get a glimpse of the famous painting \"The Starry Night.\"",
                 "B": "However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"",
-                "C": "However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"  ",
-                "D": "However, I was able to get a glimpse of the famous painting \"The Starry Night\". "
+                "C": "However, I was able to get a glimpse of the famous painting \"The Starry Night\",",
+                "D": "However, I was able to get a glimpse of the famous painting, The Starry Night."
             },
-            "question": "Which of the following revisions is needed to correct the punctuation error in the passage? ",
+            "question": "Which of the following revisions is needed to correct the punctuation error in the passage?",
             "paragraph": "The first time I went to the art museum, it was crowded with people, and the lines to see the most popular works were long. However, I was able to get a glimpse of the famous painting, \"The Starry Night.\"  The curator told me that the artist, Vincent van Gogh, had a turbulent life, which is reflected in the art he made.  He struggled with mental health issues, and he died young, but his paintings have inspired generations of artists.",
-            "explanation": "The correct answer is A. In this sentence, the introductory phrase 'However, I was able to get a glimpse of the famous painting' is followed by a comma and then by the title of the painting, 'The Starry Night'.  The title of the painting should not be set off by commas. This sentence does not require any commas.  The other choices are incorrect because they all include commas that are not needed.",
+            "explanation": "The correct answer is A. In this sentence, the introductory phrase \"However, I was able to get a glimpse of the famous painting\" is followed directly by the title of the painting, \"The Starry Night.\" The title should not be set off by commas. Therefore, the sentence should read: \"However, I was able to get a glimpse of the famous painting \"The Starry Night.\" The other choices incorrectly place commas either before or after the title, creating unnecessary punctuation.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_cc1888d3abec1077",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -2205,6 +2309,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a6",
         "domain": "Information and Ideas",
@@ -2226,6 +2331,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "92d8e3a1",
         "domain": "Standard English Conventions",
@@ -2247,6 +2353,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "213f547d",
         "domain": "Information and Ideas",
@@ -2268,6 +2375,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a8",
         "domain": "Standard English Conventions",
@@ -2289,6 +2397,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3248e9df",
         "domain": "Craft and Structure",
@@ -2310,6 +2419,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a398b81f",
         "domain": "Standard English Conventions",
@@ -2331,6 +2441,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_23",
         "domain": "Standard English Conventions",
@@ -2352,6 +2463,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7844609b",
         "domain": "Craft and Structure",
@@ -2373,6 +2485,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5781f95d",
         "domain": "Craft and Structure",
@@ -2394,6 +2507,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c847b6fc",
         "domain": "Standard English Conventions",
@@ -2415,6 +2529,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "212c166c",
         "domain": "Craft and Structure",
@@ -2436,6 +2551,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d7",
         "domain": "Standard English Conventions",
@@ -2457,8 +2573,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_d1811b0606aeddf5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2478,8 +2595,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_1b3c644206a7ad82",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2499,6 +2617,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_1",
         "domain": "Craft and Structure",
@@ -2520,8 +2639,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_433e8e55492fb205",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2541,6 +2661,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d48359d2",
         "domain": "Information and Ideas",
@@ -2562,6 +2683,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f79eb931",
         "domain": "Information and Ideas",
@@ -2583,6 +2705,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c2",
         "domain": "Standard English Conventions",
@@ -2604,6 +2727,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f459c194",
         "domain": "Information and Ideas",
@@ -2625,6 +2749,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "82a9c55a",
         "domain": "Information and Ideas",
@@ -2646,6 +2771,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "84a521ab",
         "domain": "Information and Ideas",
@@ -2667,6 +2793,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "0168c914",
         "domain": "Information and Ideas",
@@ -2688,6 +2815,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "14337a4b",
         "domain": "Craft and Structure",
@@ -2709,6 +2837,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e32a2215",
         "domain": "Standard English Conventions",
@@ -2730,8 +2859,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_66364de37a52767e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2751,6 +2881,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4f76a74c",
         "domain": "Craft and Structure",
@@ -2772,6 +2903,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_b10",
         "domain": "Standard English Conventions",
@@ -2793,6 +2925,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f7a8174c",
         "domain": "Information and Ideas",
@@ -2814,6 +2947,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f22da632",
         "domain": "Standard English Conventions",
@@ -2835,8 +2969,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_14f8e03c162efa17",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2856,6 +2991,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e1b0f4c5",
         "domain": "Information and Ideas",
@@ -2877,6 +3013,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "574d5a2b",
         "domain": "Craft and Structure",
@@ -2898,8 +3035,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_1a8eb7dfb57eff44",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -2919,8 +3057,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_34b0760e19052868",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -2940,8 +3079,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_2b754cd01ac68693",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -2961,8 +3101,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_074517cf05be66be",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -2970,20 +3111,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The artist is known for his intricate drawings of animals, often found in museums and galleries.",
-                "B": "The artist is known for his intricate drawings of animals that are often found in museums and galleries.",
-                "C": "The artist is known for his intricate drawings of animals, often found in museums and galleries.",
-                "D": "The artist is known for his intricate drawings of animals, which are often found in museums and galleries."
+                "A": "The chef is famous for his innovative desserts, often served at high-end restaurants.",
+                "B": "The chef is famous for his innovative desserts that are often served at high-end restaurants.",
+                "C": "The chef is famous for his innovative desserts, which are often served at high-end restaurants.",
+                "D": "The chef is famous for his innovative desserts, often served at high-end restaurants, and he also creates savory dishes."
             },
-            "question": "Which choice correctly combines the two sentences below into a single sentence with a participial phrase?\n\nThe artist is known for his intricate drawings of animals. They are often found in museums and galleries.",
-            "paragraph": "null",
-            "explanation": "The participial phrase \"often found in museums and galleries\" modifies the noun \"drawings\" and should be set off with commas. Choice A is incorrect because it creates a comma splice. Choice B is incorrect because the phrase \"that are\" creates a dependent clause, which is not grammatically correct. Choice D is incorrect because it uses a relative clause, which is not a participial phrase.",
-            "correct_answer": "C"
+            "question": "Which choice correctly combines the two sentences below into a single sentence with a participial phrase?\n\nThe chef is famous for his innovative desserts. They are often served at high-end restaurants.",
+            "paragraph": "",
+            "explanation": "The participial phrase \"often served at high‑end restaurants\" modifies the noun \"desserts\" and should be set off with commas. Choice A correctly uses a participial phrase. Choice B turns the phrase into a relative clause, which is not a participial phrase. Choice C uses a relative clause with \"which are\", also incorrect. Choice D adds an unrelated clause, creating a comma splice. Therefore, A is the correct answer.",
+            "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_3f9cd74a420d2454",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3003,6 +3145,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e2a6928f",
         "domain": "Information and Ideas",
@@ -3024,6 +3167,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "12d8c11d",
         "domain": "Information and Ideas",
@@ -3045,8 +3189,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_588eac78ba50aee1",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -3066,6 +3211,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a345g682",
         "domain": "Standard English Conventions",
@@ -3087,8 +3233,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_b56b8d584d08298e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3108,6 +3255,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "837d44ac",
         "domain": "Craft and Structure",
@@ -3129,6 +3277,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_d2",
         "domain": "Craft and Structure",
@@ -3150,8 +3299,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_767721f50456e11c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3171,6 +3321,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23d8c11d",
         "domain": "Information and Ideas",
@@ -3192,6 +3343,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_eng",
         "domain": "Standard English Conventions",
@@ -3213,8 +3365,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_537ec7112921220f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3234,6 +3387,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8494737c",
         "domain": "Standard English Conventions",
@@ -3255,6 +3409,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e421849f",
         "domain": "Standard English Conventions",
@@ -3276,6 +3431,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4e9c1f6d",
         "domain": "Standard English Conventions",
@@ -3297,6 +3453,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "389581ab",
         "domain": "Information and Ideas",
@@ -3318,6 +3475,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "77e4818c",
         "domain": "Standard English Conventions",
@@ -3339,8 +3497,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_fd072a6417e223d4",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3360,6 +3519,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "547211e1",
         "domain": "Information and Ideas",
@@ -3381,8 +3541,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_356190a6255f8f98",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3402,8 +3563,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_110405d10110a5f0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3411,20 +3573,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "already being felt by many parts of the world, and that, if not addressed, these effects will continue to grow more severe.",
-                "B": "already being felt by many parts of the world, and if not addressed, these effects will continue to grow more severe.",
-                "C": "already being felt by many parts of the world, and that if not addressed, these effects will continue to grow more severe.",
-                "D": "already being felt by many parts of the world, and that if not addressed, these effects will continue to grow more severe."
+                "A": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are already being felt by many parts of the world, and that if not addressed these effects will continue to grow more severe.",
+                "B": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are already being felt by many parts of the world, and that, if not addressed, these effects will continue to grow more severe.",
+                "C": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are already being felt by many parts of the world, and that if not addressed, these effects will continue to grow more severe.",
+                "D": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are already being felt by many parts of the world, and that, if not addressed these effects will continue to grow more severe."
             },
             "question": "Which choice best combines the underlined portions of the passage into a single, correctly punctuated sentence?",
             "paragraph": "The author of the article, a renowned expert in climate science, argued that the effects of climate change are *already* being felt by many parts of the world, and that, if not addressed, these effects *will continue to grow* more severe.",
-            "explanation": "The correct choice avoids a comma splice, which is created when a comma is used to join two independent clauses without a conjunction. The correct choice also eliminates unnecessary punctuation and maintains the logical flow of the sentence.",
+            "explanation": "The correct choice uses commas to set off the conditional clause \"if not addressed,\" which is a non‑essential element that modifies the following clause. This punctuation avoids a comma splice and preserves the logical flow of the sentence. The other choices either omit necessary commas or place them incorrectly, resulting in a comma splice or a run‑on sentence.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_be93fb0afe19b816",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3444,8 +3607,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_9b19510980acee7c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3465,6 +3629,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_25",
         "domain": "Information and Ideas",
@@ -3486,8 +3651,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_a3f83121b84443fc",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3507,6 +3673,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9384ab21",
         "domain": "Craft and Structure",
@@ -3528,6 +3695,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "17d9ab3f",
         "domain": "Information and Ideas",
@@ -3549,6 +3717,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23453454",
         "domain": "Standard English Conventions",
@@ -3570,6 +3739,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_1",
         "domain": "Standard English Conventions",
@@ -3579,20 +3749,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "a little dinosaur, except for the fact that it is much smaller, cuter, and it doesn’t have teeth.",
-                "B": "a little dinosaur, except it is much smaller, cuter, and it doesn’t have teeth.",
-                "C": "a little dinosaur, except it is much smaller, cuter, and it doesn’t have teeth.",
-                "D": "a little dinosaur, except that it’s much smaller, cuter, and it doesn’t have teeth."
+                "A": "It’s just like a little dinosaur, except it is much smaller, cuter, and it doesn’t have teeth.",
+                "B": "It’s just like a little dinosaur, except that it is much smaller, cuter, and it doesn’t have teeth.",
+                "C": "It’s just like a little dinosaur, except for the fact that it is much smaller, cuter, and it doesn’t have teeth.",
+                "D": "It’s just like a little dinosaur, except that it’s much smaller, cuter, and it doesn’t have teeth."
             },
             "question": "Which choice most effectively combines the sentences at the underlined portion?",
-            "paragraph": "The first time she saw a sea turtle hatchling, the young woman, who had always been terrified of reptiles, felt a rush of tenderness. \"It’s just like a little dinosaur,\" she thought. \"Except, you know, much smaller, cuter, and it doesn’t have teeth.\"",
-            "explanation": "Choice B is the most effective way to combine the sentences because it uses a comma to connect the two independent clauses and avoids unnecessary repetition. The phrase \"except it is\" is less wordy than \"except for the fact that it is.\"",
+            "paragraph": "The first time she saw a baby penguin, the young woman, who had always been terrified of birds, felt a rush of tenderness. “It’s just like a little dinosaur,” she thought. “Except, you know, much smaller, cuter, and it doesn’t have teeth.”",
+            "explanation": "Choice B most effectively combines the sentences because it uses the idiomatic phrase ‘except that’ to introduce the contrast, and it avoids the wordy phrase ‘except for the fact that.’ The other choices either repeat words unnecessarily or use a contraction that is less formal for this context.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_08a4c5d12a7f93b3",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3612,6 +3783,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_e5",
         "domain": "Information and Ideas",
@@ -3633,8 +3805,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_31c2f2408b1e1705",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3654,6 +3827,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_2",
         "domain": "Information and Ideas",
@@ -3675,8 +3849,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_c1ca43f0ddec3a74",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3696,8 +3871,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5f543e68f9830dee",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3717,6 +3893,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b6",
         "domain": "Standard English Conventions",
@@ -3738,6 +3915,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "1e87639c",
         "domain": "Craft and Structure",
@@ -3759,6 +3937,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "76ea354b",
         "domain": "Information and Ideas",
@@ -3780,6 +3959,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a12",
         "domain": "Expression of Ideas",
@@ -3801,8 +3981,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_7dc679364961cecd",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -3822,6 +4003,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2835734f",
         "domain": "Standard English Conventions",
@@ -3843,8 +4025,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_2df309dd92426fa6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3864,8 +4047,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_f930713aa3dc3147",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3885,6 +4069,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c6",
         "domain": "Standard English Conventions",
@@ -3906,8 +4091,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_390f76ca0e53ad28",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -3927,6 +4113,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6f4c918d",
         "domain": "Craft and Structure",
@@ -3948,6 +4135,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f912357d",
         "domain": "Information and Ideas",
@@ -3969,8 +4157,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_dae56a3ee6d05ea9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -3980,18 +4169,19 @@ export const questionBank = [
             "choices": {
                 "A": "That event, some historians consider the start of the space race, was a major turning point in human history.",
                 "B": "That event, which some historians consider the start of the space race, was a major turning point in human history.",
-                "C": "That event some historians consider the start of the space race, was a major turning point in human history.",
-                "D": "That event, some historians consider the start of the space race, was a major turning point in human history."
+                "C": "That event, some historians consider the start of the space race was a major turning point in human history.",
+                "D": "That event, which some historians consider the start of the space race was a major turning point in human history."
             },
             "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
             "paragraph": "The first time that the United States successfully launched a rocket into space was in 1958. That event, which some historians consider the start of the space race, was a major turning point in human history.",
-            "explanation": "Choice B is the best answer because it correctly combines the two sentences using a relative clause introduced by \"which.\" This relative clause correctly modifies the noun phrase \"That event\" by providing additional information about it. The other choices are incorrect because they fail to use the correct punctuation or grammatical structure.",
+            "explanation": "Choice B is correct because it uses a non‑restrictive relative clause introduced by \"which,\" properly set off by commas, to add information about \"that event.\"  The other choices either omit the relative pronoun (A), fail to place the closing comma after the clause (C), or omit the closing comma after the clause while still using \"which\" (D).  These errors violate standard English punctuation and clause‑structure conventions.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_f60d4a03c69eec59",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4011,8 +4201,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_6cdc5b24431914d8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4032,6 +4223,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "334283e6",
         "domain": "Craft and Structure",
@@ -4053,6 +4245,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e4962f22",
         "domain": "Standard English Conventions",
@@ -4074,6 +4267,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d849a726",
         "domain": "Standard English Conventions",
@@ -4095,6 +4289,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "25ffb25d",
         "domain": "Information and Ideas",
@@ -4116,8 +4311,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_2d26a00419d843da",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -4137,6 +4333,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_c5",
         "domain": "Standard English Conventions",
@@ -4158,6 +4355,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c72d79e2",
         "domain": "Standard English Conventions",
@@ -4179,8 +4377,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_6ba804b8c89fb431",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -4200,6 +4399,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "781c312d",
         "domain": "Standard English Conventions",
@@ -4221,8 +4421,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_058c6d1c01cd28bc",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4242,6 +4443,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83c6c842",
         "domain": "Craft and Structure",
@@ -4263,6 +4465,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6546876b",
         "domain": "Information and Ideas",
@@ -4284,8 +4487,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_104891f67513f255",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4305,6 +4509,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e8671a2c",
         "domain": "Information and Ideas",
@@ -4326,8 +4531,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_11511839e56fe8b0",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -4347,8 +4553,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_be899e1de8e3d0f3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4368,6 +4575,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "91a230aa",
         "domain": "Standard English Conventions",
@@ -4389,6 +4597,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_b3",
         "domain": "Standard English Conventions",
@@ -4398,20 +4607,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The museum, that will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop.",
-                "B": "The museum, that will feature works by many artists from around the world, and it will highlight the history of art in the city, will also have a cafe and a gift shop.",
-                "C": "The museum, which will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop.",
-                "D": "The museum, which will feature works by many artists from around the world, and it will highlight the history of art in the city, will also feature a cafe and a gift shop."
+                "A": "The center, which will offer classes in art and music and will provide a library for residents, will also have a playground and a cafeteria.",
+                "B": "The center, that will offer classes in art and music and will provide a library for residents, will also have a playground and a cafeteria.",
+                "C": "The center, which will offer classes in art and music, and it will provide a library for residents, will also have a playground and a cafeteria.",
+                "D": "The center, which will offer classes in art and music and it will provide a library for residents, will also have a playground and a cafeteria."
             },
             "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
-            "paragraph": "A new museum is opening in the city. The museum will feature works by many artists from around the world, and it will highlight the history of art in the city. The museum will also feature a cafe and a gift shop.  ",
-            "explanation": "Choice D is the best answer because it uses the correct relative pronoun (\"which\") to introduce a nonrestrictive clause that provides additional information about the museum. The other choices are incorrect because they use the incorrect relative pronoun (\"that\") or create a comma splice, which is a grammatical error.",
-            "correct_answer": "D"
+            "paragraph": "A new community center is opening downtown. The center will offer classes in art and music, and it will provide a library for residents. The center will also have a playground and a cafeteria.",
+            "explanation": "Choice A is correct because it uses the nonrestrictive relative pronoun \"which\" and combines the two clauses into a single, properly punctuated sentence. It also includes both verbs correctly and avoids a comma splice. Choices B, C, and D are incorrect: B uses \"that\" in a nonrestrictive clause, C creates a comma splice by separating the clauses with a comma and \"and it will\", and D omits the auxiliary \"will\" before \"provide\" and also creates a comma splice.",
+            "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_b04979261db09075",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4431,8 +4641,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_1b204a0dc09d9765",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -4452,6 +4663,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "54dc6397",
         "domain": "Craft and Structure",
@@ -4473,6 +4685,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6f54812c",
         "domain": "Standard English Conventions",
@@ -4482,18 +4695,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The team’s research found that people who regularly engage in physical activity, report a greater sense of wellbeing than people who don’t.",
-                "B": "The team’s research found that people who regularly engage in physical activity, report a greater sense of wellbeing than people who don’t.",
-                "C": "The team’s research found that people who regularly engage in physical activity report a greater sense of wellbeing, than people who don’t.",
-                "D": "The team’s research found that people who regularly engage in physical activity report, a greater sense of wellbeing than people who don’t."
+                "A": "The committee’s decision, which was announced last week, will affect all members.",
+                "B": "The committee’s decision which was announced last week, will affect all members.",
+                "C": "The committee’s decision, which was announced last week will affect all members.",
+                "D": "The committee’s decision which was announced last week will affect all members."
             },
             "question": "Which of the following choices correctly uses a comma to separate a nonessential clause from the rest of the sentence?",
-            "paragraph": "The team’s research found that people who regularly engage in physical activity report a greater sense of wellbeing than people who don’t.",
-            "explanation": "A comma is used to separate a nonessential clause from the rest of the sentence. A nonessential clause is a clause that can be removed from the sentence without affecting the grammatical coherence of the sentence. In this sentence, the clause \"who regularly engage in physical activity\" is a nonessential clause because it can be removed from the sentence without affecting the grammatical coherence of the sentence. Therefore, the comma should be placed after the nonessential clause.",
+            "paragraph": "The committee’s decision which was announced last week will affect all members.",
+            "explanation": "A nonessential (or nonrestrictive) clause provides extra information that can be omitted without changing the core meaning of the sentence. Such clauses are set off by commas. In the sentence, \"which was announced last week\" is a nonessential clause that can be removed: \"The committee’s decision will affect all members.\" Therefore, commas must appear before and after the clause. Option A places commas correctly, while the other options either omit commas or place them incorrectly.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4f567b9c",
         "domain": "Craft and Structure",
@@ -4515,8 +4729,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_27844048df0ce6ed",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4536,8 +4751,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_6575039c8a2be097",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -4557,8 +4773,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_a80866cb5b17002f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4578,8 +4795,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_79079fbb755bef61",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4599,8 +4817,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_fc12df59651fc7d4",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4620,6 +4839,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b45636c2",
         "domain": "Craft and Structure",
@@ -4641,6 +4861,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "238384a4",
         "domain": "Craft and Structure",
@@ -4662,6 +4883,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "95f9229d",
         "domain": "Information and Ideas",
@@ -4683,6 +4905,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6169cb01",
         "domain": "Craft and Structure",
@@ -4704,6 +4927,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f94c078f",
         "domain": "Craft and Structure",
@@ -4725,8 +4949,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_7e8f26996f4ce30e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4746,8 +4971,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_a2a89297db7d51be",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -4767,6 +4993,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e6",
         "domain": "Standard English Conventions",
@@ -4788,8 +5015,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_70631cb58f070cc9",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4809,8 +5037,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_ea326a183e146683",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4830,27 +5059,29 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2346d88f",
         "domain": "Standard English Conventions",
         "question": {
             "choices": {
-                "A": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The *Great Plains* is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The *Great Plains* are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the *Great Plains* are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the *Great Plains* in danger of becoming a barren desert.",
-                "B": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert.",
-                "C": "It is said that all good things must come to an end. But in the case of the Great Plains, this is a bad thing. While most people see the Great Plains as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert.",
-                "D": "It is said that all good things must come to an end. But in the case of the Great Plains, this is a bad thing. While most people see the Great Plains as a monotonous landscape, it is truly a vital ecosystem.  The Great Plains is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The Great Plains are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the Great Plains are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the Great Plains in danger of becoming a barren desert."
+                "A": "Capitalize \"Great Plains\" in all instances, leaving \"the\" lowercase.",
+                "B": "Capitalize \"Great Plains\" in all instances and also capitalize \"the\" before it.",
+                "C": "Capitalize only the first instance of \"Great Plains\" and leave all other instances lowercase.",
+                "D": "Capitalize \"Great Plains\" in all instances but leave \"the\" lowercase, and also capitalize \"the\" in the phrase \"the Great Plains\" when it appears after a period."
             },
             "visuals": {
                 "type": "null",
                 "svg_content": "null"
             },
-            "question": "Which choice best corrects the capitalization error in the passage?",
+            "question": "Which choice best corrects the capitalization errors in the passage?",
             "paragraph": "It is said that all good things must come to an end. But in the case of the *Great Plains*, this is a bad thing. While most people see *the Great Plains* as a monotonous landscape, it is truly a vital ecosystem.  The *Great Plains* is a diverse area, rich in plant and animal life and is a crucial part of the migratory routes of many birds.  The *Great Plains* are crucial for the survival of the greater sage grouse, the black-footed ferret, and the swift fox.  These animals are all in danger, and the *Great Plains* are also at risk from human activity, such as oil drilling and agriculture. This has led to the loss of many species, with the *Great Plains* in danger of becoming a barren desert.",
-            "explanation": "The phrase \"Great Plains\" should be capitalized as it refers to a specific geographical area.",
-            "correct_answer": "C"
+            "explanation": "\"Great Plains\" is a proper noun and should be capitalized in every instance. The article \"the\" is not a proper noun and should remain lowercase.",
+            "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_a9",
         "domain": "Information and Ideas",
@@ -4872,6 +5103,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2487f39f",
         "domain": "Standard English Conventions",
@@ -4893,6 +5125,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8762c897",
         "domain": "Information and Ideas",
@@ -4914,6 +5147,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7890abcf",
         "domain": "Information and Ideas",
@@ -4935,6 +5169,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_15",
         "domain": "Craft and Structure",
@@ -4956,8 +5191,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_1605e7e2e3647d02",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4977,8 +5213,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_d0bd24a13a9cf88c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -4998,8 +5235,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_9fc3ff69056bfb77",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5019,6 +5257,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7863a982",
         "domain": "Standard English Conventions",
@@ -5040,6 +5279,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "213f1389",
         "domain": "Information and Ideas",
@@ -5061,6 +5301,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "2e57f6ab",
         "domain": "Craft and Structure",
@@ -5082,8 +5323,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_016db8d169ef24db",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5103,8 +5345,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_75277f58b2afdbdd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5124,6 +5367,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5e48c114",
         "domain": "Expression of Ideas",
@@ -5145,8 +5389,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_90cdfe261201530c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5166,6 +5411,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f72d411a",
         "domain": "Information and Ideas",
@@ -5187,8 +5433,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_3f78a5bffe4e1499",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5208,6 +5455,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a764777",
         "domain": "Craft and Structure",
@@ -5229,6 +5477,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f347892a",
         "domain": "Craft and Structure",
@@ -5250,8 +5499,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_a74f8c9c6c790400",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5259,20 +5509,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The artist’s work, a series of abstract paintings, is known for their vibrant colors and expressive textures.",
-                "B": "The artist’s work, a series of abstract paintings, are known for its vibrant colors and expressive textures.",
-                "C": "The artist’s work, a series of abstract paintings, is known for their vibrant colors and expressive textures.",
-                "D": "The artist’s work, a series of abstract paintings, are known for its vibrant color and expressive textures."
+                "A": "The group of students, who have studied hard, are going to the conference.",
+                "B": "The group of students, who has studied hard, is going to the conference.",
+                "C": "The group of students, who have studied hard, is going to the conference.",
+                "D": "The group of students, who has studied hard, are going to the conference."
             },
-            "question": "Which choice best corrects the grammatical error in the sentence?",
-            "paragraph": "The artist’s work, a series of abstract paintings, are known for their vibrant colors and expressive textures.",
-            "explanation": "The subject of the sentence is \"work,\" which is singular. Therefore, the verb should also be singular, \"is.\" The pronoun \"their\" correctly agrees in number with the plural noun \"paintings.\" The other choices are incorrect. Choice B uses the incorrect pronoun, \"its.\" Choices C and D use the incorrect verb, \"are.\"",
-            "correct_answer": "A"
+            "question": "Which choice best corrects the grammatical errors in the sentence?",
+            "paragraph": "The group of students, who has studied hard, are going to the conference.",
+            "explanation": "The subject of the sentence is \"group,\" which is singular, so the verb should be \"is.\" The relative clause refers to \"students,\" which is plural, so the pronoun should be \"who have.\" Choice C corrects both errors by using \"who have\" and \"is.\" Choices A and B correct only one error each, and choice D contains the original errors.",
+            "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_5280c25559776149",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -5292,8 +5543,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_c148d41526f5897b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5313,6 +5565,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "12345678",
         "domain": "Information and Ideas",
@@ -5334,8 +5587,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_735ad32d7ec0305e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -5355,8 +5609,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_ecefeb7b3ae1d11a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5376,8 +5631,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_c2327b43e83da1c8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5397,8 +5653,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6ffff92891b1b21d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5418,8 +5675,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_5ea9933edd970d46",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5439,6 +5697,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_a11",
         "domain": "Craft and Structure",
@@ -5460,8 +5719,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_4deb1ac6f5cd4c7b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5481,6 +5741,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "213ff303",
         "domain": "Expression of Ideas",
@@ -5502,6 +5763,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "39642578",
         "domain": "Standard English Conventions",
@@ -5523,8 +5785,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_ed64142a76331142",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5544,8 +5807,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_d7066d6ed447f191",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5565,8 +5829,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_fe8f965db08c4d9f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -5586,6 +5851,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6f45697b",
         "domain": "Information and Ideas",
@@ -5607,8 +5873,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_e896023f2038812e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5628,8 +5895,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_3d24638828712bad",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -5649,6 +5917,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "14f51290",
         "domain": "Information and Ideas",
@@ -5670,8 +5939,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_a3ef3a12763d8e6e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -5691,6 +5961,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_22",
         "domain": "Standard English Conventions",
@@ -5712,6 +5983,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e677fa6c",
         "domain": "Information and Ideas",
@@ -5733,6 +6005,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b1",
         "domain": "Standard English Conventions",
@@ -5754,6 +6027,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_8",
         "domain": "Craft and Structure",
@@ -5775,6 +6049,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "561884c4",
         "domain": "Standard English Conventions",
@@ -5796,8 +6071,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_94ee0adb4ca8cba6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -5817,8 +6093,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_19a82d397afe78e7",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -5838,6 +6115,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "894e121c",
         "domain": "Craft and Structure",
@@ -5859,6 +6137,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e727f82c",
         "domain": "Standard English Conventions",
@@ -5880,8 +6159,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_b4c68efc74b8ebab",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -5901,8 +6181,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_4735c2ccc4883738",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -5922,6 +6203,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "59335489",
         "domain": "Expression of Ideas",
@@ -5943,6 +6225,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "48ebf9ac",
         "domain": "Standard English Conventions",
@@ -5964,6 +6247,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b8",
         "domain": "Information and Ideas",
@@ -5985,8 +6269,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_e78943fdeea47839",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -6006,8 +6291,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_d8ba115112f700b0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6027,6 +6313,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d63e7502",
         "domain": "Craft and Structure",
@@ -6048,8 +6335,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_4928761c9f755a71",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6069,8 +6357,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_eng",
+        "id": "q_80dafe1f36770dcf",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6090,6 +6379,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "678a9c0b",
         "domain": "Information and Ideas",
@@ -6111,6 +6401,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_2",
         "domain": "Craft and Structure",
@@ -6132,6 +6423,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a83c762d",
         "domain": "Standard English Conventions",
@@ -6153,6 +6445,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f4b3e546",
         "domain": "Craft and Structure",
@@ -6174,6 +6467,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "397b667f",
         "domain": "Standard English Conventions",
@@ -6195,8 +6489,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_389505b529dff9d5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6216,6 +6511,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "45a109a3",
         "domain": "Craft and Structure",
@@ -6237,6 +6533,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6181819b",
         "domain": "Expression of Ideas",
@@ -6258,8 +6555,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_9c12c0f05dbc6770",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6279,6 +6577,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2173a929",
         "domain": "Standard English Conventions",
@@ -6300,8 +6599,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_7f66981178c3b0e6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6321,6 +6621,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b23a1d1b",
         "domain": "Standard English Conventions",
@@ -6342,8 +6643,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_862844d4bba8e4ea",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6363,8 +6665,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_81776781924db245",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6384,6 +6687,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1111111",
         "domain": "Standard English Conventions",
@@ -6405,8 +6709,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_43132585dbaba194",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6426,8 +6731,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_695346d2fc734101",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6447,6 +6753,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "64236d4f",
         "domain": "Standard English Conventions",
@@ -6468,8 +6775,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_865db16c90f9dc3c",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -6489,6 +6797,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "495164c8",
         "domain": "Information and Ideas",
@@ -6510,6 +6819,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8364a72c",
         "domain": "Standard English Conventions",
@@ -6531,8 +6841,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_7e34c5a3df00511c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6552,6 +6863,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8a4d4672",
         "domain": "Craft and Structure",
@@ -6573,6 +6885,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "45678910",
         "domain": "Craft and Structure",
@@ -6594,6 +6907,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "2321c54b",
         "domain": "Craft and Structure",
@@ -6615,8 +6929,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_956fa4a6eca751a0",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -6636,6 +6951,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "894f832a",
         "domain": "Craft and Structure",
@@ -6657,8 +6973,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_7de7f6c218beb8cf",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6678,6 +6995,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e12f48df",
         "domain": "Standard English Conventions",
@@ -6699,8 +7017,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_02e8e0975611d55a",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -6720,8 +7039,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_94a1a757425d0fd0",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6741,8 +7061,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_682750bd20750c09",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6762,6 +7083,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "645fd11a",
         "domain": "Craft and Structure",
@@ -6783,8 +7105,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_e0cf52dcc24777df",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6804,8 +7127,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_e41f29d33ae4978b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6825,8 +7149,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_7d8feb3c624d8e6e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -6846,8 +7171,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b1",
+        "id": "q_3ed8306427fee010",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -6867,6 +7193,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f74512b3",
         "domain": "Information and Ideas",
@@ -6888,6 +7215,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1d27d47",
         "domain": "Information and Ideas",
@@ -6909,8 +7237,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_94e2de4ae6010b96",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -6930,6 +7259,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f890dc20",
         "domain": "Standard English Conventions",
@@ -6951,6 +7281,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54c1b2dd",
         "domain": "Standard English Conventions",
@@ -6972,6 +7303,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5f75c25a",
         "domain": "Expression of Ideas",
@@ -6993,8 +7325,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_8ed91261734f0ad3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7014,8 +7347,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_0d5e776a7a1ab059",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -7035,6 +7369,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9d8c6671",
         "domain": "Information and Ideas",
@@ -7056,8 +7391,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_028efca996c1a592",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7077,6 +7413,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a8d9d83d",
         "domain": "Information and Ideas",
@@ -7098,6 +7435,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "86a2d34c",
         "domain": "Standard English Conventions",
@@ -7119,8 +7457,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_4dd7dfb0931c3f9e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7140,8 +7479,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_e2a3e44743bb3251",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7161,8 +7501,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_42ace5f5196e4939",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7182,6 +7523,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "67c2e18b",
         "domain": "Information and Ideas",
@@ -7203,6 +7545,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "48bdc13b",
         "domain": "Information and Ideas",
@@ -7224,6 +7567,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83849523",
         "domain": "Expression of Ideas",
@@ -7245,6 +7589,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f4b355d6",
         "domain": "Craft and Structure",
@@ -7266,6 +7611,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3f2d9b1",
         "domain": "Expression of Ideas",
@@ -7287,8 +7633,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_737624d7bfef506e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7308,6 +7655,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b839513f",
         "domain": "Craft and Structure",
@@ -7329,6 +7677,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8a8f15b6",
         "domain": "Standard English Conventions",
@@ -7350,6 +7699,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "648531f8",
         "domain": "Information and Ideas",
@@ -7371,6 +7721,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a5834ea4",
         "domain": "Standard English Conventions",
@@ -7392,6 +7743,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a47693b2",
         "domain": "Standard English Conventions",
@@ -7413,8 +7765,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_dd6d24a7faac442e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7434,8 +7787,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_130b16f3f1d6ae71",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7455,8 +7809,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_92cea96e857c9426",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7476,8 +7831,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_29f7a43fbb39ff1d",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -7497,6 +7853,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "19f69a7c",
         "domain": "Standard English Conventions",
@@ -7506,18 +7863,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
-                "B": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+                "A": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
+                "B": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety. The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
                 "C": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
-                "D": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized the importance of finding ways to incorporate meditation into daily life to promote overall well-being."
+                "D": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that meditation can help people to reduce stress and anxiety. The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being."
             },
             "question": "Which choice best corrects the punctuation error in the passage?",
             "paragraph": "The study concluded that people who meditate regularly, even for short periods of time, exhibit improved levels of concentration and focus. They also found that, meditation can help people to reduce stress and anxiety.  The research team further emphasized, the importance of finding ways to incorporate meditation into daily life to promote overall well-being.",
-            "explanation": "The comma after \"anxiety\" is incorrect because it creates a comma splice. Two independent clauses cannot be joined by a comma alone. The correct way to join these clauses is to use a comma followed by a coordinating conjunction, such as \"and.\" Choice C corrects this punctuation error by adding the conjunction \"and\" after the comma.",
+            "explanation": "The passage contains two unnecessary commas. The comma after \"that\" incorrectly separates the introductory word from the clause that follows; it should be removed. The comma after \"emphasized\" is also unnecessary because the phrase that follows is not a list but a single noun phrase. Removing both commas yields a grammatically correct passage, which is what choice C does.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "51f2a91c",
         "domain": "Standard English Conventions",
@@ -7539,8 +7897,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_34a20e1993a0a0a3",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7560,6 +7919,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "865c5753",
         "domain": "Standard English Conventions",
@@ -7581,6 +7941,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_b17",
         "domain": "Standard English Conventions",
@@ -7602,8 +7963,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_469b8b3793f7ff8c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7623,8 +7985,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "98765432",
+        "id": "q_9570eac1687ccdc4",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7644,6 +8007,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "3c59a3a6",
         "domain": "Standard English Conventions",
@@ -7665,8 +8029,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_cdd9400ab856e88f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7686,6 +8051,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "98743627",
         "domain": "Craft and Structure",
@@ -7707,6 +8073,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "b41a9f8a",
         "domain": "Standard English Conventions",
@@ -7728,8 +8095,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_93b4bddc424948eb",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7749,6 +8117,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8c862ab9",
         "domain": "Expression of Ideas",
@@ -7770,8 +8139,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_e67a1ffb2219d930",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7779,20 +8149,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "“The great thing about the Internet,” the speaker said, “is that you can access information from anywhere in the world at any time.”",
-                "B": "“The great thing about the Internet is that you can access information from anywhere in the world at any time,” the speaker said.",
-                "C": "The great thing about the Internet, the speaker said, is that you can access information from anywhere in the world at any time.",
-                "D": "The great thing about the Internet, the speaker said, is that you can access information from anywhere in the world at any time."
+                "A": "“The best part of traveling,” the guide explained, “is experiencing new cultures.”",
+                "B": "“The best part of traveling is experiencing new cultures,” the guide explained.",
+                "C": "The best part of traveling, the guide explained, is experiencing new cultures.",
+                "D": "The best part of traveling is experiencing new cultures, the guide explained."
             },
             "question": "Which choice most effectively combines the two sentences into a single sentence without changing the meaning?",
-            "paragraph": "“The great thing about the Internet,” the speaker said, “is that you can access information from anywhere in the world at any time.”",
-            "explanation": "Choice B is the most effective combination because it places the speaker's statement in quotation marks and uses proper punctuation. Choice A incorrectly uses quotation marks around the entire sentence. Choice C uses a comma before “the speaker said,” which is incorrect because the sentence would then be a comma splice. Choice D uses a comma after “the speaker said,” which would be incorrect because the clause following “the speaker said” is an independent clause. An independent clause cannot be introduced with only a comma.",
+            "paragraph": "\"The best part of traveling,\" the guide explained, \"is experiencing new cultures.\",",
+            "explanation": "Choice B is the most effective combination because it places the guide’s statement in quotation marks and ends the quotation before the attribution, using a comma after the closing quotation mark. Choice A simply repeats the original two‑sentence structure and does not combine them. Choice C omits quotation marks entirely, which changes the meaning and style. Choice D places the attribution after the sentence but fails to use quotation marks, again altering the intended structure. The correct punctuation for a single sentence with an attribution is to close the quotation before the attribution and separate it with a comma.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_2ddef038c0a317b2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -7812,8 +8183,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_32117449ed424159",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7833,8 +8205,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_103301c33860b962",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -7854,8 +8227,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_a9ed044752c9e494",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -7875,6 +8249,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "15678c4d",
         "domain": "Information and Ideas",
@@ -7896,6 +8271,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e892a937",
         "domain": "Information and Ideas",
@@ -7917,6 +8293,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "894f566c",
         "domain": "Standard English Conventions",
@@ -7938,6 +8315,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a7793d8e",
         "domain": "Information and Ideas",
@@ -7959,8 +8337,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_5426d841fa853c43",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -7980,6 +8359,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a99c827e",
         "domain": "Standard English Conventions",
@@ -8001,6 +8381,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3f833a7c",
         "domain": "Standard English Conventions",
@@ -8022,6 +8403,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e4d82e7a",
         "domain": "Standard English Conventions",
@@ -8043,8 +8425,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_7c68fc2e6c78489c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -8064,6 +8447,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "59a1634f",
         "domain": "Standard English Conventions",
@@ -8085,6 +8469,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1190214f",
         "domain": "Craft and Structure",
@@ -8106,8 +8491,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d2",
+        "id": "q_6b072566f35f89ed",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -8127,8 +8513,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f890dc20",
+        "id": "q_0756611c411a44b4",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8148,6 +8535,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "089f567b",
         "domain": "Craft and Structure",
@@ -8169,8 +8557,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_7ab53d4c5c43394a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8179,19 +8568,20 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "The song is a powerful reminder, that even in the darkest of times, there is always light to be found.",
-                "B": "The song is a powerful reminder, that even in the darkest of times, there is always light to be found.",
-                "C": "The song is a powerful reminder that even in the darkest of times, there is always light to be found.",
+                "B": "The song is a powerful reminder that even in the darkest of times, there is always light to be found.",
+                "C": "The song is a powerful reminder that even in the darkest of times there is always light to be found.",
                 "D": "The song, is a powerful reminder that even in the darkest of times, there is always light to be found."
             },
             "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and clear sentence?",
             "paragraph": "The first time I heard the song \"You Say\" by Lauren Daigle, I was immediately struck by its beautiful message of hope and redemption. The song is a powerful reminder that even in the darkest of times, there is always light to be found.",
-            "explanation": "The correct answer is C, which removes the unnecessary comma. Choice A is incorrect because it contains an unnecessary comma. Choice B is incorrect because it contains an unnecessary comma. Choice D is incorrect because it contains an unnecessary comma and an incorrect placement of a comma.",
+            "explanation": "The correct answer is C, which removes all unnecessary commas. Choice A incorrectly places a comma after \"reminder\". Choice B incorrectly keeps a comma after \"times\". Choice D incorrectly places a comma after \"song\". Removing these commas produces a clear, grammatically correct sentence.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_44c8f08c94dd1e45",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -8211,6 +8601,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "97ab5669",
         "domain": "Standard English Conventions",
@@ -8232,8 +8623,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_3c0d1c031c6255b4",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8253,8 +8645,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_c4c0aa8bdf1f60a5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8274,6 +8667,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2387b412",
         "domain": "Craft and Structure",
@@ -8295,8 +8689,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_21c3f87818f2de98",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8316,8 +8711,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_6a85a7fa6ddacecc",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -8337,6 +8733,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "234eb589",
         "domain": "Standard English Conventions",
@@ -8358,8 +8755,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_22",
+        "id": "q_c177433f7cd50e29",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8372,15 +8770,16 @@ export const questionBank = [
                 "C": "The old, weathered house stood at the end of the road; its windows boarded up.",
                 "D": "The old, weathered house, stood at the end of the road its windows boarded up."
             },
-            "question": "The sentence below contains an error in punctuation. Which choice corrects the error in the sentence? \u003Cbr\u003E **The old, weathered house, stood at the end of the road, its windows boarded up.**",
+            "question": "The sentence below contains an error in punctuation. Which choice corrects the error in the sentence? <br> **The old, weathered house, stood at the end of the road, its windows boarded up.**",
             "paragraph": "null",
             "explanation": "The original sentence incorrectly uses commas to separate the words \"house\" and \"stood.\" The correct sentence separates these words with a period, as in choice A.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_d6e1993d462917cd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8400,6 +8799,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f746488e",
         "domain": "Expression of Ideas",
@@ -8421,6 +8821,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c345c423",
         "domain": "Standard English Conventions",
@@ -8442,6 +8843,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "96a52c7d",
         "domain": "Standard English Conventions",
@@ -8463,8 +8865,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_c9211b2e5c244009",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8484,6 +8887,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "97e5bf55",
         "domain": "Information and Ideas",
@@ -8505,8 +8909,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_1bb1f08778016d25",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8526,6 +8931,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "93c38a01",
         "domain": "Standard English Conventions",
@@ -8547,8 +8953,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_00afd0e7cbd77f47",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -8568,6 +8975,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d95a85bf",
         "domain": "Standard English Conventions",
@@ -8589,6 +8997,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e7275b51",
         "domain": "Craft and Structure",
@@ -8610,6 +9019,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "145b7c3d",
         "domain": "Standard English Conventions",
@@ -8631,6 +9041,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e8123456",
         "domain": "Standard English Conventions",
@@ -8652,8 +9063,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_e88acda85a95209c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -8673,6 +9085,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b4",
         "domain": "Standard English Conventions",
@@ -8694,6 +9107,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "78b8f94d",
         "domain": "Craft and Structure",
@@ -8715,6 +9129,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "42387d1c",
         "domain": "Craft and Structure",
@@ -8736,8 +9151,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_503c45cc5e367b0a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8757,6 +9173,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6249b173",
         "domain": "Standard English Conventions",
@@ -8766,20 +9183,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "a master of language, used a series of vivid images",
-                "B": "a master of language, used a series of vivid images",
-                "C": "a master of language used a series of vivid images",
-                "D": "a master of language, used a series of vivid images"
+                "A": "The engineer, a pioneer in robotics, developed a set of advanced algorithms that revolutionized the industry.",
+                "B": "The engineer a pioneer in robotics developed a set of advanced algorithms that revolutionized the industry.",
+                "C": "The engineer, a pioneer in robotics developed a set of advanced algorithms that revolutionized the industry.",
+                "D": "The engineer a pioneer in robotics, developed a set of advanced algorithms that revolutionized the industry."
             },
             "question": "Which choice best combines the underlined portions to create a grammatically correct and stylistically effective sentence?",
-            "paragraph": "The playwright,  _a master of language_,  used  _a series of vivid images_  to create a powerful and moving story about a woman who must overcome the challenges of poverty and prejudice. ",
-            "explanation": "The best way to combine the underlined portions is to remove the comma after \"language\" and the comma after \"images.\" This creates a grammatically correct and stylistically effective sentence without unnecessary punctuation.",
-            "correct_answer": "C"
+            "paragraph": "The engineer, _a pioneer in robotics_, developed _a set of advanced algorithms_ that revolutionized the industry.",
+            "explanation": "The phrase \"a pioneer in robotics\" is an appositive that renames \"the engineer\" and must be set off by commas on both sides. The phrase \"a set of advanced algorithms\" is the direct object of \"developed\" and is not an appositive, so no comma follows it. Therefore, the only grammatically correct and stylistically effective sentence is choice A.",
+            "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_5379604c92652d25",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8787,18 +9205,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere,",
-                "B": "The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere, ",
-                "C": "The ocean’s acidity is rising due to the absorption of carbon dioxide from the atmosphere,",
-                "D": "The ocean’s acidity is rising due to the absorption of carbon dioxide from the atmosphere, "
+                "A": "The report notes that the new policy, which was introduced last month, will affect all employees.",
+                "B": "The report notes that the new policy which was introduced last month will affect all employees.",
+                "C": "The report notes that the new policy, which was introduced last month will affect all employees.",
+                "D": "The report notes that the new policy which was introduced last month, will affect all employees."
             },
-            "question": "Which choice shows the correct way to punctuate the underlined portion of the sentence?",
-            "paragraph": "The article discusses the impact of climate change on the world’s oceans. It states that “The ocean’s acidity, is rising due to the absorption of carbon dioxide from the atmosphere, which is causing a number of changes to marine ecosystems.” Which choice shows the correct way to punctuate the underlined portion of the sentence?",
-            "explanation": "The phrase “is rising due to the absorption of carbon dioxide from the atmosphere” is a nonessential clause that modifies the noun “acidity.” Nonessential clauses should be set off with commas. Choice A is incorrect because a comma should not be placed after a nonessential clause. Choice B is incorrect because a comma should not be placed before a nonessential clause. Choice D is incorrect because a comma should not be placed before and after a nonessential clause.",
-            "correct_answer": "C"
+            "question": "Which choice correctly punctuates the sentence below?",
+            "paragraph": "The report notes that the new policy, which was introduced last month, will affect all employees.",
+            "explanation": "The clause \"which was introduced last month\" is a nonessential (nonrestrictive) clause that provides additional information about \"the new policy.\" Nonessential clauses must be set off by commas on both sides. Choice A places commas correctly before and after the clause. Choice B omits all commas, treating the clause as essential. Choice C places a comma before the clause but omits the comma after it, leaving the clause improperly closed. Choice D places a comma before the clause but not after, and also incorrectly places a comma after the clause’s subject. Therefore, only choice A is correct.",
+            "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8e9e40e4",
         "domain": "Craft and Structure",
@@ -8820,8 +9239,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_94cc8de54d27a506",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -8841,6 +9261,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a36cb84b",
         "domain": "Standard English Conventions",
@@ -8862,6 +9283,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_4",
         "domain": "Information and Ideas",
@@ -8883,6 +9305,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_d8",
         "domain": "Craft and Structure",
@@ -8904,8 +9327,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_e6af28601da1922c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -8925,8 +9349,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_387b012f0574339f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -8946,8 +9371,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6d089be0feb55d6e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -8967,8 +9393,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_507aa4f144620dc1",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -8988,8 +9415,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_9d69650cf19e51a2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9009,6 +9437,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_a10",
         "domain": "Standard English Conventions",
@@ -9030,6 +9459,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "894a29d1",
         "domain": "Standard English Conventions",
@@ -9051,6 +9481,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "999244f5",
         "domain": "Craft and Structure",
@@ -9072,6 +9503,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e9451895",
         "domain": "Craft and Structure",
@@ -9093,6 +9525,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3db4913",
         "domain": "Standard English Conventions",
@@ -9114,6 +9547,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6c859629",
         "domain": "Information and Ideas",
@@ -9135,8 +9569,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_60fb9094ce653e5d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9144,18 +9579,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The poet's style, marked by a kind of restrained grace, adds to the beauty and poignancy of his work.",
-                "B": "The poet's style is marked by a kind of restrained grace, adding to the beauty and poignancy of his work.",
-                "C": "The poet's style, marked by a kind of restrained grace, adds to the beauty and poignancy of his work.",
-                "D": "The poet's style is marked by a kind of restrained grace that adds to the beauty and poignancy of his work."
+                "A": "The novel’s narrative is characterized by a subtle sense of irony that enhances the depth of its themes.",
+                "B": "The novel’s narrative is characterized by a subtle sense of irony, enhancing the depth of its themes.",
+                "C": "The novel’s narrative is characterized by a subtle sense of irony, which enhances the depth of its themes.",
+                "D": "The novel’s narrative is characterized by a subtle sense of irony, adding depth to its themes."
             },
-            "question": "The poet’s style is marked by a kind of restrained grace, which adds to the beauty and poignancy of his work. Which of the following is the most effective way to revise the underlined portion of the passage to create a sentence that is clear, concise, and grammatically correct?",
-            "paragraph": "The poet, a master of language, uses rhythm and rhyme to convey the emotion of the poem, but he never forces the language to do something it isn't capable of doing. The poet’s style is marked by a kind of restrained grace, which adds to the beauty and poignancy of his work. Which of the following is the most effective way to revise the underlined portion of the passage to create a sentence that is clear, concise, and grammatically correct?",
-            "explanation": "Choice A is the best way to revise the underlined portion of the passage. It is clear, concise, and grammatically correct. It uses a comma to separate the modifying phrase \"marked by a kind of restrained grace\" from the main clause of the sentence. This structure is both grammatically correct and helps to create a more concise and readable sentence.",
-            "correct_answer": "A"
+            "question": "The novel’s narrative is characterized by a subtle sense of irony, which enhances the depth of its themes. Which of the following is the most effective way to revise the underlined portion of the passage to create a sentence that is clear, concise, and grammatically correct?",
+            "paragraph": "The novel’s narrative is characterized by a subtle sense of irony, which enhances the depth of its themes.",
+            "explanation": "Choice D is the best revision because it replaces the nonrestrictive relative clause with a concise participial phrase that directly modifies \"irony.\" The phrase \"adding depth to its themes\" is shorter and eliminates the unnecessary comma and relative pronoun, making the sentence more streamlined while preserving the original meaning. Choice A changes the clause from nonrestrictive to restrictive, altering the nuance of the sentence. Choice B, while grammatically correct, is less concise than D because it retains the longer verb phrase \"enhancing the depth of its themes.\" Choice C is identical to the original sentence and therefore does not improve clarity or conciseness.",
+            "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f7658e72",
         "domain": "Expression of Ideas",
@@ -9177,6 +9613,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a98b543f",
         "domain": "Craft and Structure",
@@ -9198,8 +9635,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_62469440f18c84cf",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -9219,8 +9657,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_a43e0d4ee9153c0e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9240,6 +9679,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c915a0c9",
         "domain": "Information and Ideas",
@@ -9261,6 +9701,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e45f93a2",
         "domain": "Craft and Structure",
@@ -9282,6 +9723,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6465f78d",
         "domain": "Standard English Conventions",
@@ -9303,8 +9745,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_9689288fd6604c7e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -9324,8 +9767,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_ecf1e71961646a99",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9345,8 +9789,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_dca97536ad3061f8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9366,8 +9811,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_4a503a8d489f035f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9387,8 +9833,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_dc58b636af0b5a89",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -9408,6 +9855,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e434518e",
         "domain": "Information and Ideas",
@@ -9429,8 +9877,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_f8e4c6834199b819",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9450,6 +9899,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d7f62ac5",
         "domain": "Craft and Structure",
@@ -9471,6 +9921,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a6a22048",
         "domain": "Information and Ideas",
@@ -9492,6 +9943,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f3498a32",
         "domain": "Craft and Structure",
@@ -9513,8 +9965,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_38b1b3467d1b62eb",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -9534,8 +9987,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_ebea9ce63204886f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9555,6 +10009,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e54c918d",
         "domain": "Information and Ideas",
@@ -9576,8 +10031,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_eng1",
+        "id": "q_2f457eb761203b19",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -9597,8 +10053,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_b57c4007bdd662f5",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -9618,6 +10075,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_34",
         "domain": "Information and Ideas",
@@ -9639,8 +10097,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_83dc5d80c299278f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9660,8 +10119,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_9da478075fb6e80e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -9681,8 +10141,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_161d8d3d14247c36",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -9702,8 +10163,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_9ab827a1a889b8b9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9723,6 +10185,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6c74b494",
         "domain": "Information and Ideas",
@@ -9744,6 +10207,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6ab9173a",
         "domain": "Standard English Conventions",
@@ -9765,8 +10229,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_437f1f5bcbf70a66",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9786,6 +10251,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "73a7d521",
         "domain": "Standard English Conventions",
@@ -9807,6 +10273,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "234d443f",
         "domain": "Standard English Conventions",
@@ -9828,6 +10295,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c6803ed7",
         "domain": "Craft and Structure",
@@ -9849,6 +10317,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a967243c",
         "domain": "Standard English Conventions",
@@ -9870,6 +10339,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "649b99ab",
         "domain": "Expression of Ideas",
@@ -9891,8 +10361,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_deb45b7bd1573e94",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -9912,6 +10383,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6b01c6ff",
         "domain": "Standard English Conventions",
@@ -9933,6 +10405,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "64b3e55a",
         "domain": "Standard English Conventions",
@@ -9954,6 +10427,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7658ab29",
         "domain": "Information and Ideas",
@@ -9975,8 +10449,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_4134fc551d50b7da",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -9996,8 +10471,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "45a109a3",
+        "id": "q_84768af6c4c6a29d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -10017,6 +10493,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a3547b96",
         "domain": "Craft and Structure",
@@ -10038,6 +10515,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_b7",
         "domain": "Standard English Conventions",
@@ -10048,17 +10526,18 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "As they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
-                "B": "As they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
+                "B": "If they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
                 "C": "Although they are vastly different, their bond is unbreakable, and they support each other through thick and thin.",
                 "D": "Because they are vastly different, their bond is unbreakable, and they support each other through thick and thin."
             },
-            "question": "Which choice best completes the sentence so that it conforms to the conventions of Standard English?",
+            "question": "Which choice uses “although” to introduce the contrast between the sisters’ differences and their bond?",
             "paragraph": "The novel follows the lives of two sisters, Amelia and Beatrice, who are as different as night and day. Amelia is a bookish, introspective young woman, always lost in her thoughts, while Beatrice is vibrant and outgoing, a social butterfly who loves to be the center of attention.  While they are vastly different, their bond is unbreakable, and they support each other through thick and thin. ",
-            "explanation": "The sentence requires a transition that indicates a contrast between the two sisters' personalities and the strength of their bond. \"Although\" is the best choice to create this contrast, whereas the other choices are not appropriate.",
+            "explanation": "Choice C uses “although” to introduce the contrast between the sisters’ different personalities and their strong bond. The other choices use different transitions.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d3",
         "domain": "Standard English Conventions",
@@ -10080,6 +10559,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e6645191",
         "domain": "Information and Ideas",
@@ -10101,8 +10581,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_e10a719ebfe384c9",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -10122,6 +10603,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "2a49c11d",
         "domain": "Expression of Ideas",
@@ -10143,6 +10625,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8b3829d6",
         "domain": "Craft and Structure",
@@ -10164,6 +10647,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8942f3d8",
         "domain": "Standard English Conventions",
@@ -10185,6 +10669,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8977781",
         "domain": "Expression of Ideas",
@@ -10206,8 +10691,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_089e7129484042a7",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10227,8 +10713,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_6a956fc790abf664",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -10248,6 +10735,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4743652d",
         "domain": "Standard English Conventions",
@@ -10269,6 +10757,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6e26f32e",
         "domain": "Standard English Conventions",
@@ -10290,8 +10779,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_6fda0c1027fd7925",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10311,6 +10801,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a7849c49",
         "domain": "Expression of Ideas",
@@ -10332,8 +10823,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_5dcc956d3d914bf5",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10353,8 +10845,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_e71ecc8e89f85444",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -10374,8 +10867,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_b58bc66723a45d45",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10395,6 +10889,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a84e518f",
         "domain": "Standard English Conventions",
@@ -10416,8 +10911,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_037c5703dd6bed9f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10437,8 +10933,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_8c0f8dceac559b38",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10458,8 +10955,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_f73092453fa3f5d3",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -10479,6 +10977,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "76a4975b",
         "domain": "Standard English Conventions",
@@ -10500,8 +10999,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_9284c760dbd45bf6",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10521,6 +11021,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b2c9639a",
         "domain": "Information and Ideas",
@@ -10542,8 +11043,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_5fa5ac34a4a8e58e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10563,6 +11065,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "30b18d1a",
         "domain": "Craft and Structure",
@@ -10584,8 +11087,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_5868600d2de21625",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10605,6 +11109,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e37ff869",
         "domain": "Standard English Conventions",
@@ -10626,8 +11131,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_4d65617f4f407352",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10647,8 +11153,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_26d0b876b07e75e1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10668,6 +11175,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d38923e4",
         "domain": "Craft and Structure",
@@ -10689,8 +11197,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_ef045af78835bbd7",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10710,6 +11219,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8746123b",
         "domain": "Information and Ideas",
@@ -10731,6 +11241,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "71014fb1",
         "domain": "Standard English Conventions",
@@ -10752,6 +11263,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7477d48c",
         "domain": "Standard English Conventions",
@@ -10773,8 +11285,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_a61a0f3ad6c169d6",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -10794,6 +11307,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c2723142",
         "domain": "Craft and Structure",
@@ -10815,6 +11329,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a4563784",
         "domain": "Standard English Conventions",
@@ -10836,8 +11351,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_920e1af6c4e6800b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -10857,6 +11373,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "98d12b73",
         "domain": "Craft and Structure",
@@ -10878,8 +11395,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_de37092e54574599",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10899,8 +11417,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_23",
+        "id": "q_57274bf23f3bc418",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10920,6 +11439,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c759854d",
         "domain": "Information and Ideas",
@@ -10941,8 +11461,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_058db2c876f7264c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -10962,6 +11483,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "86204d3a",
         "domain": "Standard English Conventions",
@@ -10983,8 +11505,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_e8911b3c5f61158c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11004,6 +11527,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "95f1ab7d",
         "domain": "Information and Ideas",
@@ -11025,8 +11549,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_4ae596154626ce03",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11046,8 +11571,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_4e8b949766769bd1",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11067,8 +11593,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_0c9b7dcb91229197",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11088,8 +11615,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "54c1b2dd",
+        "id": "q_59b3914e55aed472",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11109,8 +11637,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_9a101f915835c902",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -11130,6 +11659,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_e12",
         "domain": "Information and Ideas",
@@ -11151,6 +11681,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "213a45cf",
         "domain": "Information and Ideas",
@@ -11172,6 +11703,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9ac321de",
         "domain": "Standard English Conventions",
@@ -11193,8 +11725,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_a699860c7a4068db",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11214,8 +11747,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_e51bfeb0b361e7aa",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11223,18 +11757,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
-                "B": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns;",
-                "C": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
-                "D": "They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns—"
+                "A": "Students who read daily exhibit higher comprehension scores",
+                "B": "Students who read daily exhibit higher comprehension scores, and",
+                "C": "Students who read daily exhibit higher comprehension scores; and",
+                "D": "Students who read daily exhibit higher comprehension scores—"
             },
-            "question": "______.  They are particularly interested in how music, like language, can help to strengthen the brain’s ability to detect and process patterns.",
-            "paragraph": "A recent study by researchers at the University of Oxford found that people who regularly listen to music are better at recognizing patterns.  This finding could have important implications for the development of new learning tools, as well as for our understanding of how the brain processes information. The researchers believe that music, like language, can help to strengthen the brain's ability to detect and process patterns. Which of the following choices most logically completes the text so that it conforms to the conventions of Standard English?",
-            "explanation": "The sentence contains two independent clauses, so a comma and a coordinating conjunction are needed to connect them. Choices B, C, and D are incorrect because they use incorrect punctuation to connect the clauses.",
-            "correct_answer": "A"
+            "question": "______. This suggests that regular reading may improve critical thinking skills.",
+            "paragraph": "A recent survey conducted by the National Literacy Council revealed that students who read daily exhibit higher comprehension scores. This suggests that regular reading may improve critical thinking skills.",
+            "explanation": "The sentence contains two independent clauses. To join them correctly, a comma followed by a coordinating conjunction is required. Choice B provides the proper punctuation. Choices A, C, and D either omit the conjunction or use inappropriate punctuation (semicolon or dash) for a compound sentence.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "849fb8d7",
         "domain": "Craft and Structure",
@@ -11256,6 +11791,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "987bd4f1",
         "domain": "Standard English Conventions",
@@ -11277,8 +11813,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_81fb226f5ad19b7a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -11298,6 +11835,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english",
         "domain": "Standard English Conventions",
@@ -11319,8 +11857,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_dd17cbb10fd5a0ce",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11340,6 +11879,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "64a57358",
         "domain": "Expression of Ideas",
@@ -11361,8 +11901,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_english_8",
+        "id": "q_982e0395d7656fd8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -11382,6 +11923,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_10",
         "domain": "Craft and Structure",
@@ -11403,8 +11945,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_745ee045007000bd",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11424,6 +11967,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "456d23fc",
         "domain": "Standard English Conventions",
@@ -11445,6 +11989,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4976e132",
         "domain": "Standard English Conventions",
@@ -11466,8 +12011,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_b30d5acca2fa6c52",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11487,6 +12033,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "65d2a562",
         "domain": "Standard English Conventions",
@@ -11508,8 +12055,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_cded47d5f5cac582",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11529,6 +12077,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a6f8b97d",
         "domain": "Information and Ideas",
@@ -11550,6 +12099,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a9285f0b",
         "domain": "Information and Ideas",
@@ -11571,6 +12121,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "91647c3c",
         "domain": "Expression of Ideas",
@@ -11592,6 +12143,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "67998ab3",
         "domain": "Standard English Conventions",
@@ -11613,6 +12165,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83dc91b2",
         "domain": "Information and Ideas",
@@ -11634,8 +12187,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_7d94f10a5dd1156d",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11655,8 +12209,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_79cad171532e4002",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11676,8 +12231,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_137ea76dc9595927",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11697,8 +12253,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_90272f4ef5eb8a2c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -11718,8 +12275,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_c2dcab3db01e0c33",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11727,18 +12285,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "First, bring water to a boil; then, add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, finally, add milk or sugar, if desired, and enjoy the tea.",
-                "B": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, finally add milk or sugar, if desired, and enjoy the tea.",
-                "C": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, and finally add milk or sugar, if desired, and enjoy the tea.",
-                "D": "First, bring water to a boil, then add tea leaves to the boiling water, after steeping for a few minutes, remove the tea leaves, and finally add milk or sugar, if desired, and enjoy the tea."
+                "A": "First, bring water to a boil, then add tea leaves to the boiling water; steep them for a few minutes, remove them, and finally add milk or sugar if desired.",
+                "B": "First bring water to a boil; then, add tea leaves to the boiling water, after steeping for a few minutes, remove the leaves, finally add milk or sugar if desired.",
+                "C": "First, bring water to a boil; then add tea leaves to the boiling water, steep them for a few minutes, remove them, and finally add milk or sugar if desired.",
+                "D": "First, bring water to a boil then add tea leaves to the boiling water, steep them for a few minutes, remove them, and finally add milk or sugar if desired."
             },
-            "question": "Which choice best combines the sentences above into one grammatically correct sentence?",
+            "question": "Which choice combines the tea-making steps into one grammatically correct sentence?",
             "paragraph": "The process of making a cup of tea involves the following steps: first, bring water to a boil. Then, add tea leaves to the boiling water. After steeping for a few minutes, remove the tea leaves. Finally, add milk or sugar, if desired, and enjoy the tea.",
-            "explanation": "Choice C is the best answer because it uses a comma after the introductory phrase and combines all the steps of the process into one sentence with the help of commas and a conjunction. Choices A and B are incorrect because they incorrectly use semicolons in place of commas. Choice D is incorrect because it does not use a conjunction to connect the steps of the process, resulting in a comma splice.",
+            "explanation": "Choice C correctly joins the first two independent commands with a semicolon and lists the remaining steps with commas and a final “and.” A has a comma splice, B mispunctuates the transition after “then,” and D runs the first commands together.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7a578b5c",
         "domain": "Information and Ideas",
@@ -11760,6 +12319,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "148d683e",
         "domain": "Expression of Ideas",
@@ -11781,6 +12341,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "493d9112",
         "domain": "Craft and Structure",
@@ -11802,6 +12363,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f818141a",
         "domain": "Standard English Conventions",
@@ -11823,6 +12385,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b8049c7f",
         "domain": "Craft and Structure",
@@ -11844,8 +12407,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_73ee87bf2bd8136b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -11865,8 +12429,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_c29c69056ff8ad86",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -11886,6 +12451,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9a9a72f2",
         "domain": "Craft and Structure",
@@ -11907,8 +12473,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6dd2681d7b5b3ad0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -11928,6 +12495,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "65482aa8",
         "domain": "Craft and Structure",
@@ -11949,6 +12517,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "486e510e",
         "domain": "Information and Ideas",
@@ -11970,6 +12539,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "234df29c",
         "domain": "Standard English Conventions",
@@ -11991,8 +12561,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_bb73010f1341941d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12012,8 +12583,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_83fada00efba9cc6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12033,6 +12605,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "57b987d7",
         "domain": "Expression of Ideas",
@@ -12054,6 +12627,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "83928d7d",
         "domain": "Standard English Conventions",
@@ -12075,8 +12649,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_d48196ad716142a1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12096,8 +12671,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_b6e1ae9a85343c29",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12117,8 +12693,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_5092a49d678fc071",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -12138,8 +12715,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_97616c792429173e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12159,6 +12737,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "546c18c9",
         "domain": "Standard English Conventions",
@@ -12180,6 +12759,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b87e29a5",
         "domain": "Standard English Conventions",
@@ -12201,6 +12781,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "682c1854",
         "domain": "Standard English Conventions",
@@ -12222,6 +12803,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e364a82e",
         "domain": "Standard English Conventions",
@@ -12243,6 +12825,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "234234e5",
         "domain": "Standard English Conventions",
@@ -12264,6 +12847,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "19876543",
         "domain": "Information and Ideas",
@@ -12285,6 +12869,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "948f5136",
         "domain": "Craft and Structure",
@@ -12306,6 +12891,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "34ff582d",
         "domain": "Standard English Conventions",
@@ -12327,6 +12913,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "666672cc",
         "domain": "Standard English Conventions",
@@ -12348,8 +12935,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_eng",
+        "id": "q_8712fa4f032dde00",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12369,6 +12957,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_3",
         "domain": "Standard English Conventions",
@@ -12390,8 +12979,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_b9e9e5bbc470c5e9",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -12411,8 +13001,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_b226fc9d06766db1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12432,8 +13023,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_fc4c803684bc9ef0",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -12453,8 +13045,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_de9c02bcba5db276",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12474,8 +13067,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_db1fbcd2a9bbcc62",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -12495,8 +13089,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_5d1b5b78903b711e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12516,6 +13111,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9ac6559b",
         "domain": "Standard English Conventions",
@@ -12537,8 +13133,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_7638962fec4ad585",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12558,8 +13155,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_aef35cbb03f197d4",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -12579,6 +13177,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7c57718d",
         "domain": "Expression of Ideas",
@@ -12600,8 +13199,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_22ff9ab775fe946c",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -12621,6 +13221,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f234a556",
         "domain": "Craft and Structure",
@@ -12642,6 +13243,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d5",
         "domain": "Information and Ideas",
@@ -12663,8 +13265,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_53b6d470d0cf8432",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12684,6 +13287,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7d724c5b",
         "domain": "Standard English Conventions",
@@ -12705,8 +13309,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_77bbd3a65574c1de",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12726,8 +13331,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_a99dae83f0618267",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -12747,6 +13353,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a348b9d2",
         "domain": "Standard English Conventions",
@@ -12768,8 +13375,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_57a9f0d25512c726",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12789,8 +13397,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_60d12d42d45f5f06",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -12810,8 +13419,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_749831c7c115e255",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12831,8 +13441,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b7",
+        "id": "q_a0adcc979c20bcf5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12852,6 +13463,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6e22d484",
         "domain": "Information and Ideas",
@@ -12873,8 +13485,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_63fef375571a63cc",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -12894,8 +13507,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_3b5faa343fdac556",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -12915,6 +13529,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_b5",
         "domain": "Craft and Structure",
@@ -12936,6 +13551,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f6874e8c",
         "domain": "Craft and Structure",
@@ -12957,8 +13573,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_c5507594b2049c17",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -12966,18 +13583,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "cool, dark, mysterious, and indifferent",
-                "B": "cool, dark, mysterious, and indifferent",
-                "C": "cool, dark, mysterious, and indifferent",
-                "D": "cool, dark, mysterious, and indifferent"
+                "A": "violent, terrifying, and loud",
+                "B": "violent, terrifying, and terrifyingly loud",
+                "C": "violent, terrifying, and terrifying",
+                "D": "violent, terrifying, and terrifyingly"
             },
             "question": "Which choice best maintains the parallel structure of the sentence?",
-            "paragraph": "The author of \"The Open Boat\" uses imagery to create a vivid impression of the lifeboat’s journey. For example, the author describes the ocean as a \"great, cool, dark, mysterious, and indifferent\" place.",
-            "explanation": "The original sentence uses a series of adjectives to describe the ocean. To maintain parallel structure, the adjectives must all have the same grammatical form. The correct choice, \"cool, dark, mysterious, and indifferent,\" uses all adjectives in their base form.",
+            "paragraph": "The author describes the storm as a force that is both violent, terrifying, and terrifyingly loud.",
+            "explanation": "The original sentence uses a series of adjectives to describe the storm. To maintain parallel structure, all modifiers must be adjectives. Choice A lists three adjectives—\"violent,\" \"terrifying,\" and \"loud\"—which are in the same grammatical form. The other choices mix adjectives with an adverbial phrase or repeat the same adjective, breaking the parallelism.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a65f2b47",
         "domain": "Information and Ideas",
@@ -12999,8 +13617,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_10f69b75c50e6bb0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13011,7 +13630,7 @@ export const questionBank = [
                 "A": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts, and other dishes.",
                 "B": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts and other dishes.",
                 "C": "The root of this plant is still a popular food source throughout South America and the Caribbean; where it is used in desserts and other dishes.",
-                "D": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts, and other dishes."
+                "D": "The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts and, other dishes."
             },
             "question": "Which choice provides the best way to combine the sentences at the end of the passage into a single sentence with correct punctuation?",
             "paragraph": "The term \"tapioca\" is derived from the indigenous Tupinambá language of Brazil. The word was originally spelled \"tupi'óka,\" and it referred to the starchy root of the cassava plant, which was a staple food for the Tupinambá people.  The root of this plant is still a popular food source throughout South America and the Caribbean, where it is used in desserts and other dishes.",
@@ -13020,6 +13639,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a86c0b1b",
         "domain": "Standard English Conventions",
@@ -13041,6 +13661,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d71223f4",
         "domain": "Craft and Structure",
@@ -13062,6 +13683,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a73a5e77",
         "domain": "Information and Ideas",
@@ -13083,6 +13705,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "67f3a123",
         "domain": "Information and Ideas",
@@ -13104,6 +13727,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "63ab2a5d",
         "domain": "Expression of Ideas",
@@ -13125,8 +13749,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_b4eb7124718bdbb6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13134,18 +13759,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake, rather than a means to an end.",
-                "B": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake, rather than a means to an end.",
-                "C": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive, a desire to acquire information for its own sake rather than a means to an end.",
-                "D": "This finding, the researchers say, supports the idea that curiosity is an intrinsic drive: a desire to acquire information for its own sake, rather than a means to an end."
+                "A": "The study found that people with high curiosity often seek information even when it doesn't benefit them; the researchers say this supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
+                "B": "The study found that people with high curiosity often seek information even when it doesn't benefit them, and the researchers say this supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
+                "C": "The study found that people with high curiosity often seek information even when it doesn't benefit them: the researchers say this supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
+                "D": "The study found that people with high curiosity often seek information even when it doesn't benefit them—the researchers say this supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end."
             },
-            "question": "Which choice provides the best way to combine the sentences in the underlined portion without changing the meaning?",
-            "paragraph": "A study published in the journal Nature Communications suggests that people who have a high level of curiosity are more likely to engage in \"purposeless\" information-seeking behaviors: that is, seeking out information even when they know that they won’t benefit from it. This finding, the researchers say, supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.  This finding, the researchers say, supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
-            "explanation": "The best way to combine the sentences is to remove the comma and the dash and replace them with the word “rather.” This is because no punctuation is needed between the preposition “for” and its complement, the noun phrase “its own sake.”",
-            "correct_answer": "C"
+            "question": "Which choice provides the best way to combine the two sentences in the paragraph without changing the meaning?",
+            "paragraph": "The study found that people with high curiosity often seek information even when it doesn't benefit them. The researchers say this supports the idea that curiosity is an intrinsic drive—a desire to acquire information for its own sake, rather than a means to an end.",
+            "explanation": "The two sentences are independent clauses that can be joined with a semicolon. A semicolon correctly links them without implying a direct cause‑effect relationship. A comma with ‘and’ is acceptable but less formal; a colon would incorrectly suggest that the second clause explains the first, and a dash is inappropriate for joining two independent clauses.",
+            "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5869c31a",
         "domain": "Standard English Conventions",
@@ -13167,8 +13793,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_990802dbbcb4f44a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13188,6 +13815,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a23c9548",
         "domain": "Standard English Conventions",
@@ -13209,6 +13837,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "891a7c71",
         "domain": "Expression of Ideas",
@@ -13230,6 +13859,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "138e21f6",
         "domain": "Standard English Conventions",
@@ -13251,8 +13881,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_98407bee7781b26f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13272,6 +13903,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e7889801",
         "domain": "Standard English Conventions",
@@ -13293,6 +13925,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e9342c71",
         "domain": "Standard English Conventions",
@@ -13314,6 +13947,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "56ac51ee",
         "domain": "Expression of Ideas",
@@ -13335,8 +13969,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_ae929ac56f240ce4",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13356,6 +13991,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "61a3b21c",
         "domain": "Information and Ideas",
@@ -13377,8 +14013,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6a61310a97439f69",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -13398,6 +14035,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "5168a520",
         "domain": "Craft and Structure",
@@ -13419,6 +14057,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "75f852f9",
         "domain": "Expression of Ideas",
@@ -13440,6 +14079,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "3283a74d",
         "domain": "Expression of Ideas",
@@ -13461,8 +14101,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_f29d0936c5d86ce5",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13482,6 +14123,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "99d81235",
         "domain": "Standard English Conventions",
@@ -13503,6 +14145,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "528c96ab",
         "domain": "Standard English Conventions",
@@ -13524,8 +14167,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_6deee3ef926982a1",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -13545,8 +14189,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_3144f72d360237c2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13566,6 +14211,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23c4b67a",
         "domain": "Standard English Conventions",
@@ -13587,6 +14233,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "41699936",
         "domain": "Standard English Conventions",
@@ -13608,8 +14255,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_3a9faa206ebb5677",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13629,6 +14277,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "02962534",
         "domain": "Standard English Conventions",
@@ -13650,8 +14299,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_a521cb56c71c81ff",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13671,8 +14321,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b10",
+        "id": "q_5ddbf0708c995de6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13692,6 +14343,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1246d53",
         "domain": "Expression of Ideas",
@@ -13713,8 +14365,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_c2e15ec541ac65d9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13734,8 +14387,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_d6d60b601da36d6c",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -13755,6 +14409,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e9a0503e",
         "domain": "Craft and Structure",
@@ -13776,6 +14431,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23456789",
         "domain": "Standard English Conventions",
@@ -13797,6 +14453,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8751d87",
         "domain": "Craft and Structure",
@@ -13818,6 +14475,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "89e65539",
         "domain": "Information and Ideas",
@@ -13839,8 +14497,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_a4bb43bd72295379",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -13860,8 +14519,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12345678",
+        "id": "q_38b42597875c0c40",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -13881,6 +14541,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "293bd81f",
         "domain": "Craft and Structure",
@@ -13902,6 +14563,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9841328c",
         "domain": "Standard English Conventions",
@@ -13923,6 +14585,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f297c641",
         "domain": "Craft and Structure",
@@ -13944,6 +14607,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7d4c8319",
         "domain": "Standard English Conventions",
@@ -13965,6 +14629,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "34e87911",
         "domain": "Standard English Conventions",
@@ -13986,6 +14651,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "64882a73",
         "domain": "Standard English Conventions",
@@ -14007,8 +14673,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_6de273cf99401fc4",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14028,6 +14695,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "42a86a6a",
         "domain": "Expression of Ideas",
@@ -14049,6 +14717,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e32f468a",
         "domain": "Standard English Conventions",
@@ -14070,8 +14739,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_fd328a01650e36ea",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14091,6 +14761,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f65132a9",
         "domain": "Standard English Conventions",
@@ -14112,8 +14783,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_24d8a9d326890956",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14133,6 +14805,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_b2",
         "domain": "Information and Ideas",
@@ -14154,6 +14827,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f9896b7c",
         "domain": "Craft and Structure",
@@ -14175,6 +14849,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2376c971",
         "domain": "Information and Ideas",
@@ -14196,6 +14871,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "934f304c",
         "domain": "Craft and Structure",
@@ -14217,8 +14893,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "a86c0b1b",
+        "id": "q_f3618e5af3f73296",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -14238,8 +14915,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_6fa8542be0cf0dd7",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14259,8 +14937,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_57ea37f844c0be0e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14280,8 +14959,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_0ccf84717bcb6cdd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14301,8 +14981,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_81065c4fd4097245",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14322,8 +15003,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_b90d63568473bea2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14343,8 +15025,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_3c2a9b7d36cd2f68",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14364,8 +15047,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_78afa3e3647ec5a6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14385,6 +15069,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "63f12476",
         "domain": "Standard English Conventions",
@@ -14406,6 +15091,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a77a4b5",
         "domain": "Information and Ideas",
@@ -14427,6 +15113,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c12ef321",
         "domain": "Standard English Conventions",
@@ -14448,6 +15135,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "947bc92f",
         "domain": "Standard English Conventions",
@@ -14469,8 +15157,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_4fb588971736f37b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14490,6 +15179,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a7f2f153",
         "domain": "Information and Ideas",
@@ -14511,6 +15201,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54a35d65",
         "domain": "Craft and Structure",
@@ -14532,6 +15223,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "90d43b95",
         "domain": "Standard English Conventions",
@@ -14553,6 +15245,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "67fb56e4",
         "domain": "Information and Ideas",
@@ -14574,8 +15267,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_a34e1d12da863a84",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14595,8 +15289,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_52e46a0737481ffe",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -14616,6 +15311,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "42d96f7e",
         "domain": "Standard English Conventions",
@@ -14637,8 +15333,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_22",
+        "id": "q_5d7c89dea5ba9344",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -14658,6 +15355,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "34859a2c",
         "domain": "Standard English Conventions",
@@ -14679,8 +15377,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_fb14c71719c21a3c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14700,6 +15399,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "76ac865f",
         "domain": "Expression of Ideas",
@@ -14721,8 +15421,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d6",
+        "id": "q_d18c8125b9083215",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14742,6 +15443,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "45ad213b",
         "domain": "Standard English Conventions",
@@ -14763,6 +15465,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1532c114",
         "domain": "Information and Ideas",
@@ -14784,8 +15487,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_3c87355a8fc4b0ad",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14805,8 +15509,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_ce75a8c4aec32b67",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14826,8 +15531,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_a67e7ca98c44d945",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14847,8 +15553,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_a0c37a47fafc7819",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -14868,6 +15575,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "62ac916c",
         "domain": "Information and Ideas",
@@ -14889,8 +15597,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_fc39534ea96aaec9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14910,8 +15619,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_1b87fa0b427cbfc0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -14931,6 +15641,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "805f9387",
         "domain": "Standard English Conventions",
@@ -14952,6 +15663,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7b8d49a2",
         "domain": "Craft and Structure",
@@ -14973,6 +15685,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a4291344",
         "domain": "Standard English Conventions",
@@ -14994,8 +15707,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_0ba33c5d5ced07e6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15015,6 +15729,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f4f82c9b",
         "domain": "Expression of Ideas",
@@ -15036,6 +15751,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23a8c11d",
         "domain": "Expression of Ideas",
@@ -15057,8 +15773,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_23",
+        "id": "q_4d3b86e2784a83c0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15078,6 +15795,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "48a1235d",
         "domain": "Craft and Structure",
@@ -15099,6 +15817,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_42",
         "domain": "Standard English Conventions",
@@ -15110,16 +15829,17 @@ export const questionBank = [
             "choices": {
                 "A": "The poet’s use of vivid imagery, such as “the whispering wind,” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
                 "B": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
-                "C": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
+                "C": "The poet’s use of vivid imagery, such as “the whispering wind,” and “the shimmering stars” effectively conveys the speaker’s feelings of awe and wonder.",
                 "D": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars” effectively conveys the speaker’s feelings of awe and wonder."
             },
             "question": "Which choice best corrects the punctuation error in the sentence?",
-            "paragraph": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars,” effectively conveys the speaker’s feelings of awe and wonder.",
-            "explanation": "The sentence includes two examples of vivid imagery: “the whispering wind” and “the shimmering stars.” When a series of examples is included in a sentence, a comma should be placed after each example except for the last one. Choice B is the only option that correctly places a comma after the first example and does not place a comma after the second example.",
+            "paragraph": "The poet’s use of vivid imagery, such as “the whispering wind” and “the shimmering stars” effectively conveys the speaker’s feelings of awe and wonder.",
+            "explanation": "The phrase \"such as\" introduces examples. The examples are \"the whispering wind\" and \"the shimmering stars.\" The parenthetical phrase ends after the second example, so a comma must follow \"stars\" to separate the parenthetical from the rest of the sentence. No comma is needed after \"wind\" because the conjunction \"and\" already separates the two items. Therefore choice B is the only correct punctuation.",
             "correct_answer": "B"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "2c58678d",
         "domain": "Standard English Conventions",
@@ -15134,15 +15854,16 @@ export const questionBank = [
                 "C": "Although the painting was recently rediscovered in a dusty attic, it was clearly a masterpiece; the colors vibrant and the brushstrokes bold and confident.",
                 "D": "Although the painting was recently rediscovered in a dusty attic, it was clearly a masterpiece the colors vibrant and the brushstrokes bold and confident."
             },
-            "question": "The sentence below contains an error in punctuation. Which choice corrects the error? \u003Cbr\u003E Although the painting was recently rediscovered in a dusty attic, it was clearly a masterpiece, the colors vibrant and the brushstrokes bold and confident.",
+            "question": "The sentence below contains an error in punctuation. Which choice corrects the error? <br> Although the painting was recently rediscovered in a dusty attic, it was clearly a masterpiece, the colors vibrant and the brushstrokes bold and confident.",
             "paragraph": "null",
             "explanation": "The sentence contains a comma splice. The comma after \"masterpiece\" is incorrectly used to separate two independent clauses. To correct the comma splice, we can insert a comma followed by a coordinating conjunction. Choice B correctly uses a comma followed by the coordinating conjunction \"and\" to separate the two independent clauses.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_e06d9fe854208692",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -15162,8 +15883,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_2533058afe257b47",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15183,8 +15905,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_72065516e0d0e2f8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -15204,6 +15927,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54f9a4d3",
         "domain": "Standard English Conventions",
@@ -15225,6 +15949,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "622a351d",
         "domain": "Craft and Structure",
@@ -15246,6 +15971,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f453a864",
         "domain": "Standard English Conventions",
@@ -15267,8 +15993,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_eng_1",
+        "id": "q_c97c5bbfea06c89e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -15288,8 +16015,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_250a094c5d747246",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15309,8 +16037,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_0ec45920f68b62e3",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -15330,6 +16059,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d6f6f68d",
         "domain": "Standard English Conventions",
@@ -15351,8 +16081,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_449573779eac2356",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15372,8 +16103,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_463093a3ddb12cf6",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -15393,6 +16125,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a134913c",
         "domain": "Information and Ideas",
@@ -15414,6 +16147,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "32ef691a",
         "domain": "Information and Ideas",
@@ -15435,6 +16169,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9828f842",
         "domain": "Standard English Conventions",
@@ -15456,8 +16191,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_e6ee319845c8cf1c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15477,6 +16213,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c486a23b",
         "domain": "Standard English Conventions",
@@ -15498,6 +16235,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a7893d9d",
         "domain": "Standard English Conventions",
@@ -15519,8 +16257,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_39c95ef2f5cf2a21",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15540,6 +16279,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a2382a1f",
         "domain": "Information and Ideas",
@@ -15561,6 +16301,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "23423424",
         "domain": "Craft and Structure",
@@ -15582,6 +16323,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4a6c98ef",
         "domain": "Standard English Conventions",
@@ -15603,6 +16345,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f9c69993",
         "domain": "Information and Ideas",
@@ -15624,6 +16367,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "62478b2b",
         "domain": "Information and Ideas",
@@ -15645,6 +16389,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f174e85a",
         "domain": "Standard English Conventions",
@@ -15666,6 +16411,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2a903f45",
         "domain": "Standard English Conventions",
@@ -15687,8 +16433,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_f19811d4290496b3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15708,6 +16455,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7239as8f",
         "domain": "Craft and Structure",
@@ -15729,8 +16477,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_8f2ef8ccde27fafe",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -15750,6 +16499,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "765444e7",
         "domain": "Expression of Ideas",
@@ -15771,6 +16521,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8123b3ab",
         "domain": "Standard English Conventions",
@@ -15792,6 +16543,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "245f9000",
         "domain": "Standard English Conventions",
@@ -15803,16 +16555,17 @@ export const questionBank = [
             "choices": {
                 "A": "However, because the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
                 "B": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
-                "C": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
-                "D": "However, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels."
+                "C": "However, although of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels.",
+                "D": "However, due the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels."
             },
             "question": "Which choice best corrects the underlined portion of the passage to conform to the conventions of Standard English?",
             "paragraph": "The following text is adapted from a biography of the author, Jane Austen, written in 1949. In this excerpt, the biographer is reflecting on Austen’s success as a novelist. \n[Austen] produced six novels, all within a few years of each other. While her books, in general, were well received by critics, the public’s response was mixed. Some novels, like *Pride and Prejudice*, are considered masterpieces of English literature, while others, such as *Mansfield Park*, were not as well regarded.  \nOne is tempted to wonder what Austen, a woman of great sensibility and talent, thought of the public’s indifference to some of her works. \nEven if she couldn’t have predicted the popularity of her novels, the fact that *Pride and Prejudice* is still a bestseller today is testament to Austen’s ability to write enduring stories. \nHowever, because of the public’s indifferent response to some of her works, it’s also reasonable to assume that Austen may have been disappointed by the lack of recognition for her novels. \nPerhaps Austen, having learned to accept that readers often did not value her work, eventually grew indifferent to such critical reception. \nWhat would Austen, with her sharp intellect, think of the modern celebrity culture obsessed with recognition, awards, and prizes?",
-            "explanation": "The phrase \"because of\" creates a more direct and logical relationship between the two ideas in the sentence. This makes the sentence more concise and easier to understand.",
+            "explanation": "Choice B correctly uses “because of” to introduce the cause. Choice A omits “of” after “because,” choice C incorrectly uses “although of,” and choice D omits “to” after “due.",
             "correct_answer": "B"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9a152541",
         "domain": "Standard English Conventions",
@@ -15822,18 +16575,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice,",
-                "B": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice; ",
-                "C": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice, ",
-                "D": "The team's success in the competition, which was marked by a last-minute goal; showed that they had worked hard in practice."
+                "A": "The committee approved the new policy, which was expected to reduce paperwork and the staff celebrated the change.",
+                "B": "The committee approved the new policy, which was expected to reduce paperwork; the staff celebrated the change.",
+                "C": "The committee approved the new policy which was expected to reduce paperwork; the staff celebrated the change.",
+                "D": "The committee approved the new policy, which was expected to reduce paperwork; and the staff celebrated the change."
             },
             "question": "Which choice provides the best way to join the two sentences in the passage?",
-            "paragraph": "The team's success in the competition, which was marked by a last-minute goal, showed that they had worked hard in practice.",
-            "explanation": "The semicolon is used to combine two independent clauses when they are closely related in meaning. However, a comma after an introductory phrase is required. Choice C is the only option that correctly employs the semicolon and comma.",
-            "correct_answer": "C"
+            "paragraph": "The committee approved the new policy, which was expected to reduce paperwork. The staff celebrated the change.",
+            "explanation": "The passage contains two independent clauses. The relative clause \"which was expected to reduce paperwork\" must be set off by commas. The two independent clauses should be joined by a semicolon or by a coordinating conjunction with a comma. Choice B correctly uses a semicolon to join the clauses and correctly places commas around the relative clause. Choice A joins the clauses with a comma splice, which is incorrect. Choice C omits the comma before the relative clause, violating the rule for non‑restrictive clauses. Choice D incorrectly places a semicolon before the coordinating conjunction \"and,\" creating a punctuation error. Therefore, only Choice B is defensibly correct.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4a51d3b2",
         "domain": "Craft and Structure",
@@ -15855,8 +16609,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_cf6bd255239f0604",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -15876,6 +16631,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "98f5698d",
         "domain": "Standard English Conventions",
@@ -15897,8 +16653,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_27756abd170364f2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15918,8 +16675,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_62eabbd68cd21b00",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -15939,8 +16697,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_eng1",
+        "id": "q_3f81355541d69d76",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -15960,6 +16719,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a21c3798",
         "domain": "Standard English Conventions",
@@ -15981,6 +16741,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "32c7801a",
         "domain": "Standard English Conventions",
@@ -16002,8 +16763,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_549411dd591c76b3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16023,8 +16785,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_10f2a2e6b903278b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16044,8 +16807,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_7070c974b899bd91",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16065,6 +16829,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e88f7e33",
         "domain": "Standard English Conventions",
@@ -16074,20 +16839,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "It made possible the sharing of information on a global scale; the invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, was a pivotal moment in the development of the internet.",
-                "B": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale, was a pivotal moment in the development of the internet.",
-                "C": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale, was a pivotal moment in the development of the internet.",
-                "D": "The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, made possible the sharing of information on a global scale;  it was a pivotal moment in the development of the internet."
+                "A": "The melting of polar ice caps is accelerating, and it is causing sea levels to rise; this trend threatens coastal communities worldwide.",
+                "B": "The melting of polar ice caps is accelerating, and it is causing sea levels to rise, this trend threatens coastal communities worldwide.",
+                "C": "The melting of polar ice caps is accelerating and it is causing sea levels to rise; this trend threatens coastal communities worldwide.",
+                "D": "The melting of polar ice caps is accelerating and it is causing sea levels to rise, this trend threatens coastal communities worldwide."
             },
-            "question": "Which choice provides the most effective way to combine the second and third sentences of the passage?",
-            "paragraph": "During a speech on the history of the internet, the speaker said, “The invention of the world wide web, which was created by Tim Berners-Lee, a British computer scientist, was a pivotal moment in the development of the internet. It made possible the sharing of information on a global scale.”",
-            "explanation": "Choice C is the best way to combine the two sentences because it creates a grammatically correct sentence. The nonessential clause \"which was created by Tim Berners-Lee, a British computer scientist\" is set off with commas, and the two main clauses are joined with a comma and a coordinating conjunction. The other choices all result in grammatical errors: Choices A and D are comma splices; Choice B is a run-on sentence.",
-            "correct_answer": "C"
+            "question": "During a lecture on climate change, the professor said, “The melting of polar ice caps is accelerating, and it is causing sea levels to rise. This trend threatens coastal communities worldwide.” Which choice provides the most effective way to combine the second and third sentences of the passage?",
+            "paragraph": "During a lecture on climate change, the professor said, “The melting of polar ice caps is accelerating, and it is causing sea levels to rise. This trend threatens coastal communities worldwide.”",
+            "explanation": "The two sentences are independent clauses that can be joined with a semicolon, which correctly separates them while maintaining the logical connection. Choice A uses a semicolon after the second clause, producing a grammatically sound sentence. Choices B and D incorrectly use a comma to join the clauses, creating a comma splice. Choice C omits the necessary comma after \"accelerating,\" which makes the sentence harder to read and slightly alters the intended rhythm. Therefore, choice A is the best option.",
+            "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_65c4303c4747c710",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16107,6 +16873,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e821a353",
         "domain": "Standard English Conventions",
@@ -16128,6 +16895,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "234589a1",
         "domain": "Craft and Structure",
@@ -16149,8 +16917,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_1c479dfd582c72ca",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16170,6 +16939,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6518f995",
         "domain": "Standard English Conventions",
@@ -16191,6 +16961,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "921a46bc",
         "domain": "Standard English Conventions",
@@ -16212,8 +16983,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_3451440e819ab564",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16233,6 +17005,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "12f5411d",
         "domain": "Standard English Conventions",
@@ -16254,6 +17027,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d25ac458",
         "domain": "Expression of Ideas",
@@ -16275,6 +17049,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a39f125",
         "domain": "Craft and Structure",
@@ -16296,8 +17071,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_2ce0045d60a365df",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16317,8 +17093,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "97ab5669",
+        "id": "q_3a82e9b89ed18e5e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16338,6 +17115,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "82ab5679",
         "domain": "Standard English Conventions",
@@ -16359,8 +17137,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_8a2ac701b835becd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16380,8 +17159,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_166fb2d50d73562e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16401,6 +17181,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b7a981b2",
         "domain": "Craft and Structure",
@@ -16422,8 +17203,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_d321e2e314cd0f2b",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -16443,8 +17225,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_8ee730798553d73a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16464,6 +17247,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3c77395d",
         "domain": "Standard English Conventions",
@@ -16485,8 +17269,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_432587e0981ced1e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16506,8 +17291,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_e4e0a2a0819648fe",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16515,20 +17301,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "Tubman’s courage and determination are an inspiration to us all: she demonstrated that with hard work and dedication, we can overcome any obstacle.",
-                "B": "Tubman’s courage and determination are an inspiration to us all; she demonstrated that with hard work and dedication, we can overcome any obstacle.",
-                "C": "Tubman’s courage and determination are an inspiration to us all; she demonstrated that with hard work and dedication, we can overcome any obstacle.",
-                "D": "Tubman’s courage and determination are an inspiration to us all, she demonstrated that with hard work and dedication, we can overcome any obstacle."
+                "A": "The city council approved the new park plan; residents will have a place to relax and enjoy nature.",
+                "B": "The city council approved the new park plan, residents will have a place to relax and enjoy nature.",
+                "C": "The city council approved the new park plan, and residents will have a place to relax and enjoy nature.",
+                "D": "The city council approved the new park plan and residents will have a place to relax and enjoy nature."
             },
             "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
-            "paragraph": "The history of the United States is full of remarkable stories of people who have overcome difficult challenges to achieve great things. One such story is that of Harriet Tubman, who escaped slavery and then risked her life to help others escape. Tubman’s courage and determination are an inspiration to us all. She demonstrated that with hard work and dedication, we can overcome any obstacle.",
-            "explanation": "The correct answer is D. It creates a complex sentence with a comma to separate the two independent clauses. This creates a smoother flow of the sentence than a colon, a semicolon, or a dash would.",
-            "correct_answer": "D"
+            "paragraph": "The city council approved the new park plan. Residents will have a place to relax and enjoy nature.",
+            "explanation": "Both sentences are independent clauses. The most natural and stylistically smooth way to join them is with a comma followed by the coordinating conjunction \"and,\" which is what choice C does. Choice A uses a semicolon, which is grammatically correct but less fluid in this context. Choices B and D omit the necessary comma before \"and,\" creating a comma splice or run‑on sentence. Therefore, choice C is the best option.",
+            "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_21b5e25a76a809f1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16548,6 +17335,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8d99f348",
         "domain": "Standard English Conventions",
@@ -16569,6 +17357,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1a966f88",
         "domain": "Standard English Conventions",
@@ -16590,8 +17379,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_e9abb461d21a6a71",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16611,6 +17401,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "22e46f75",
         "domain": "Craft and Structure",
@@ -16632,6 +17423,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2c20a342",
         "domain": "Craft and Structure",
@@ -16653,6 +17445,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "89f131a2",
         "domain": "Standard English Conventions",
@@ -16674,6 +17467,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8097b20d",
         "domain": "Information and Ideas",
@@ -16695,8 +17489,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_19af12aece71a4c4",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -16716,6 +17511,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8d66548c",
         "domain": "Expression of Ideas",
@@ -16737,6 +17533,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a444088e",
         "domain": "Craft and Structure",
@@ -16758,6 +17555,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6288a321",
         "domain": "Standard English Conventions",
@@ -16779,6 +17577,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6758427d",
         "domain": "Standard English Conventions",
@@ -16790,18 +17589,19 @@ export const questionBank = [
             "choices": {
                 "A": "The heat did not effect the plants, and they continued to grow.",
                 "B": "The heat did not affect the plants, and they continued to grow.",
-                "C": "The heat did not affect the plants, and they continued to grow.",
-                "D": "The heat did not affect the plants, and they continued to grow."
+                "C": "The heat did not effects the plants, and they continued to grow.",
+                "D": "The heat did not have an affect on the plants, and they continued to grow."
             },
-            "question": "Which of the following sentences demonstrates the correct use of the word \"affect\"?",
+            "question": "Which sentence uses affect correctly as a verb?",
             "paragraph": "The most common spelling error for the word \"affect\" is \"effect.\" This can be confusing because \"effect\" is a noun, while \"affect\" is a verb.  In this case, the writer is describing an action, so the correct spelling is \"affect.\"   While the two words sound similar, they have distinct meanings and grammatical uses. When referring to something that causes a change, you should use \"effect.\"  However, when describing something that produces a change, you should use \"affect.\" Which of the following sentences demonstrates the correct use of the word \"affect\"?",
             "explanation": "The sentence demonstrates the correct use of the word \"affect\" because it describes an action (the heat producing a change in the plants).",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_281fc7431dd4279b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16821,6 +17621,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1431da92",
         "domain": "Information and Ideas",
@@ -16842,6 +17643,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6a9a9784",
         "domain": "Standard English Conventions",
@@ -16863,8 +17665,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_fd229c480b349352",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -16884,8 +17687,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_589b84307d6a63f1",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16905,8 +17709,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_a40e53297d32a57c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -16926,8 +17731,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_71c717eb4b34932c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -16947,8 +17753,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_571e0e35ef33ff78",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -16968,6 +17775,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "832873a6",
         "domain": "Craft and Structure",
@@ -16989,8 +17797,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_68a5a71006cb1477",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17010,6 +17819,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "432c1256",
         "domain": "Craft and Structure",
@@ -17031,6 +17841,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a9f49382",
         "domain": "Craft and Structure",
@@ -17052,6 +17863,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f148b5f1",
         "domain": "Craft and Structure",
@@ -17073,6 +17885,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "86e80d9c",
         "domain": "Craft and Structure",
@@ -17094,6 +17907,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b7865c92",
         "domain": "Standard English Conventions",
@@ -17115,6 +17929,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b57c41ea",
         "domain": "Information and Ideas",
@@ -17136,8 +17951,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "97ab5669",
+        "id": "q_4f8442819da57006",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17157,6 +17973,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "259f495a",
         "domain": "Information and Ideas",
@@ -17178,6 +17995,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "876334df",
         "domain": "Standard English Conventions",
@@ -17199,8 +18017,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_aa06cda9d83d1353",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17220,8 +18039,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_234a49b7861bedc2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17241,6 +18061,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f862589d",
         "domain": "Standard English Conventions",
@@ -17262,6 +18083,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b9013f58",
         "domain": "Standard English Conventions",
@@ -17283,8 +18105,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_d2",
+        "id": "q_372836a2c63d93d5",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17304,6 +18127,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "876ff31a",
         "domain": "Craft and Structure",
@@ -17325,8 +18149,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_80067fea6ef10dcc",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17346,8 +18171,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_bf4be2ba8ac87536",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17367,8 +18193,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_6ee43c5c1233d3c9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17388,6 +18215,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e3819102",
         "domain": "Standard English Conventions",
@@ -17409,6 +18237,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e7f38c8c",
         "domain": "Craft and Structure",
@@ -17430,8 +18259,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "23456789",
+        "id": "q_499dde8d95728caf",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17439,18 +18269,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
-                "B": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
-                "C": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
-                "D": "the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality."
+                "A": "A historical emphasis on national unity over individual needs has helped create a culture that favors conformity over individuality.",
+                "B": "Americans have always rejected national unity in favor of individual interests.",
+                "C": "The author argues that conformity is caused only by social media.",
+                "D": "The passage claims that questioning authority is the main cause of national unity."
             },
-            "question": "The author’s main argument is that",
-            "paragraph": "The author’s main argument is that the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.  One of the examples the author uses to support this argument is the way that the United States has a history of focusing on national unity over individual needs. This history has led to a culture that prioritizes conformity over individuality.  The author argues that, as a result of this history and culture, Americans are often reluctant to question authority or challenge the status quo. The author makes this point by suggesting that Americans are often reluctant to question authority or challenge the status quo.  The author suggests that, as a result, Americans are often reluctant to question authority or challenge the status quo. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that Americans are often reluctant to question authority or challenge the status quo. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality. The author suggests that this reluctance is a product of a culture that prioritizes conformity over individuality.  Which choice best describes the main point of the author's argument?",
-            "explanation": "The author's main point is that the United States has a history of focusing on national unity over individual needs, and this history has led to a culture that prioritizes conformity over individuality.",
+            "question": "Which choice best states the author’s main argument?",
+            "paragraph": "Some observers argue that throughout U.S. history, national unity has often been prioritized over individual needs. They contend that this emphasis can encourage conformity and make people reluctant to question authority or challenge the status quo.",
+            "explanation": "Choice A summarizes the argument that prioritizing national unity over individual needs can encourage conformity. The other choices reverse the claim, introduce a cause not discussed, or mistake an effect for the cause.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7b58f6a2",
         "domain": "Craft and Structure",
@@ -17472,8 +18303,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english",
+        "id": "q_ac9553e717ac5ed2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17493,8 +18325,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_49c2da1f1cc7af3d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17514,6 +18347,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a11f9132",
         "domain": "Craft and Structure",
@@ -17535,8 +18369,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_8c8fe7c19d9f9675",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17556,6 +18391,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "7689a989",
         "domain": "Expression of Ideas",
@@ -17577,8 +18413,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_85ab1f8a56fba471",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17598,8 +18435,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_4cbf65f596f8db80",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17619,6 +18457,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e86a412c",
         "domain": "Craft and Structure",
@@ -17640,6 +18479,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8d9d1279",
         "domain": "Craft and Structure",
@@ -17661,6 +18501,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f83457dd",
         "domain": "Standard English Conventions",
@@ -17682,8 +18523,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_53c9b1924426d325",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -17703,8 +18545,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_087a8420033fa571",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17724,6 +18567,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a75428b6",
         "domain": "Expression of Ideas",
@@ -17745,6 +18589,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c8c2e146",
         "domain": "Standard English Conventions",
@@ -17766,8 +18611,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_f71e1f7e5591f116",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -17787,8 +18633,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a10",
+        "id": "q_9b964477329bd98b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17799,15 +18646,16 @@ export const questionBank = [
                 "A": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era; his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
                 "B": "Fitzgerald was a master of capturing the exuberance and the disillusionment of the era; his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
                 "C": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era, his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.",
-                "D": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era, his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche."
+                "D": "Fitzgerald was a master of capturing the exuberance and disillusionment of the era his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche."
             },
-            "question": "Which choice best combines the sentences at the underlined portion without changing the meaning?",
+            "question": "Which choice uses a semicolon and preserves the phrase “the disillusionment” from the original?",
             "paragraph": "The author of the novel “The Great Gatsby”, F. Scott Fitzgerald, was famous for his evocative descriptions of the Jazz Age.  Fitzgerald was a master of capturing the exuberance and the disillusionment of the era, and his works are often praised for their lyrical prose, their sharp social commentary, and their insights into the American psyche.  Fitzgerald’s novels are set in the Roaring Twenties, a time of great economic prosperity and social change, but they also explore the darker side of that era, the widespread materialism, the moral decay, and the sense of lost innocence that many Americans felt.",
-            "explanation": "Choice B is correct. The semicolon correctly joins the two independent clauses and maintains the original meaning. The other choices either incorrectly use commas or do not create grammatically correct sentences.",
+            "explanation": "Choice B uses a semicolon to join the independent clauses and preserves the original wording “the disillusionment.” C is a comma splice, D is a fused sentence, and A omits “the” from the original phrase.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e86d4e5c",
         "domain": "Information and Ideas",
@@ -17829,8 +18677,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_b9d4e44be12013f2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17850,6 +18699,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "948a8b67",
         "domain": "Craft and Structure",
@@ -17871,8 +18721,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_e1488a9644e25cc4",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17892,8 +18743,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_c5c50d6c33027b68",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -17913,8 +18765,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b3",
+        "id": "q_de1ada29fe3e6750",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -17934,8 +18787,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_1838af4a25d9bf4a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -17955,6 +18809,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6e7664a7",
         "domain": "Standard English Conventions",
@@ -17976,6 +18831,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_21",
         "domain": "Craft and Structure",
@@ -17997,6 +18853,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "11221101",
         "domain": "Standard English Conventions",
@@ -18018,8 +18875,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_51e48ee69fb43f73",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -18039,6 +18897,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "61db47f4",
         "domain": "Information and Ideas",
@@ -18060,6 +18919,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "81c61705",
         "domain": "Standard English Conventions",
@@ -18081,6 +18941,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_english_6",
         "domain": "Craft and Structure",
@@ -18102,8 +18963,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_03e22f30eaef293e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -18123,8 +18985,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b3",
+        "id": "q_89be80223275a6e0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18144,8 +19007,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_5a7b599b208da035",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18165,8 +19029,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_83dc4401b94f86c7",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18186,6 +19051,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "12b7f144",
         "domain": "Standard English Conventions",
@@ -18207,6 +19073,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "84b5125b",
         "domain": "Standard English Conventions",
@@ -18228,6 +19095,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "79c147ac",
         "domain": "Information and Ideas",
@@ -18249,8 +19117,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_1e75866cadcb6d31",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18270,6 +19139,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a982e8b8",
         "domain": "Standard English Conventions",
@@ -18291,6 +19161,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2c6a51ff",
         "domain": "Craft and Structure",
@@ -18312,8 +19183,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_0325b9a8873e6c03",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18333,6 +19205,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "941a2379",
         "domain": "Craft and Structure",
@@ -18354,8 +19227,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_435d217585349a1c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18364,19 +19238,20 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "Gagarin’s voyage, completed in 1961, was a momentous achievement",
-                "B": "Gagarin’s voyage, which was completed in 1961, was a momentous achievement",
+                "B": "Gagarin’s voyage, which was completed in 1961 was a momentous achievement",
                 "C": "Gagarin’s voyage was completed in 1961, was a momentous achievement",
-                "D": "Gagarin’s voyage, which was completed in 1961, was a momentous achievement"
+                "D": "Gagarin’s voyage which was completed in 1961, was a momentous achievement"
             },
-            "question": "Which choice best combines the sentences at the underlined portion so that it conforms to the conventions of Standard English?",
+            "question": "Which choice uses a nonrestrictive participial phrase to combine the sentences?",
             "paragraph": "The first person to successfully orbit the Earth was Yuri Gagarin, a Soviet cosmonaut.  Gagarin’s voyage, which was completed in 1961, was a momentous achievement in space exploration.",
-            "explanation": "The correct answer is A. To combine the sentences, we can use a comma and a participial phrase to modify the noun \"voyage.\" The participial phrase \"completed in 1961\" is a nonessential modifier, so it needs to be set off with commas.  The other options are incorrect because they either create a comma splice or don't use commas correctly.",
+            "explanation": "Choice A uses the nonrestrictive participial phrase “completed in 1961,” correctly set off by commas. B and D misplace commas around a relative clause, and C creates a comma splice.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_english_8",
+        "id": "q_a059409e6f85792c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18396,6 +19271,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e6666126",
         "domain": "Standard English Conventions",
@@ -18417,6 +19293,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "13865c71",
         "domain": "Standard English Conventions",
@@ -18438,8 +19315,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_a641f63817381b7e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18459,6 +19337,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e8359a8c",
         "domain": "Standard English Conventions",
@@ -18480,8 +19359,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_8aa9771c29dcbe2f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18501,8 +19381,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_4",
+        "id": "q_c116e0007fe16053",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -18522,8 +19403,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_eng_1",
+        "id": "q_5ce0cf731ce3c025",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18543,8 +19425,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_840bdc7d4f3001a3",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -18564,8 +19447,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_134f074e80a2a834",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18585,6 +19469,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c293e98a",
         "domain": "Standard English Conventions",
@@ -18597,17 +19482,18 @@ export const questionBank = [
                 "A": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect; their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
                 "B": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect, their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
                 "C": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect, and their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*. ",
-                "D": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect; their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*."
+                "D": "Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect, therefore their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*."
             },
-            "question": "Which choice most effectively combines the sentences at the underlined portion?  \n\n  *Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect.*  **Their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*.**",
+            "question": "Which choice combines the two sentences using a comma and a coordinating conjunction?",
             "paragraph": "The research team has been studying the effects of different types of fertilizer on the growth of corn. Their studies have shown that some types of fertilizer can increase the yield of corn, while other types of fertilizer have no effect. Their latest study, which examines the effects of a new type of fertilizer, has been published in the journal *Agricultural Science*.",
-            "explanation": "Choice C is the best answer because it correctly combines the two sentences using a comma and a coordinating conjunction.  The comma separates the two independent clauses, and the conjunction “and” indicates that the second clause adds information to the first clause.  The other choices create errors in punctuation or sentence structure.  Choice A uses a semicolon, which is not correct because it does not separate two independent clauses.  Choice B creates a comma splice, which is incorrect because a comma cannot separate two independent clauses.  Choice D creates a run-on sentence because the two independent clauses are not properly separated. ",
+            "explanation": "Choice C joins the independent clauses with a comma and the coordinating conjunction “and.” A uses a semicolon instead, B is a comma splice, and D incorrectly uses a comma before the conjunctive adverb “therefore.”",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_a60284c63458e220",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -18627,6 +19513,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "873634bc",
         "domain": "Standard English Conventions",
@@ -18648,6 +19535,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a413a91b",
         "domain": "Information and Ideas",
@@ -18669,8 +19557,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_8422e55bd621f6fa",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18690,8 +19579,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_a37efc2db35f4870",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -18711,8 +19601,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_5d7df2696ff4941e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18732,8 +19623,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_b2ab918dcb677e91",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18753,8 +19645,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_20106c3a72be8605",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -18774,8 +19667,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_92c8fdf08def0c14",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18795,6 +19689,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "7c629b53",
         "domain": "Standard English Conventions",
@@ -18805,19 +19700,20 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby\", tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
-                "B": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
+                "B": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby;\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
                 "C": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
-                "D": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby,\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. *The Great Gatsby* is a classic of American literature, and it is often studied in high school and college."
+                "D": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald. Fitzgerald’s most famous novel, \"The Great Gatsby\" tells the story of Jay Gatsby, a man who tries to recapture a lost love. Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved. Fitzgerald’s novel explores themes of wealth, love, and the American Dream. *The Great Gatsby* is a classic of American literature, and it is often studied in high school and college."
             },
-            "question": "Which choice best corrects the error in capitalization in the passage?",
+            "question": "Which choice correctly places the comma after the quoted novel title in the second sentence?",
             "paragraph": "The author of \"The Great Gatsby\" is F. Scott Fitzgerald.  Fitzgerald’s most famous novel, \"The Great Gatsby\", tells the story of Jay Gatsby, a man who tries to recapture a lost love.  Gatsby throws extravagant parties in the hopes of attracting the attention of Daisy Buchanan, a woman he once loved.  Fitzgerald’s novel explores themes of wealth, love, and the American Dream.  The Great Gatsby is a classic of American literature, and it is often studied in high school and college.",
-            "explanation": "The title of a novel should be capitalized.  Because the title \"The Great Gatsby\" appears within a sentence, it should be enclosed in quotation marks.  The error in the original sentence is the lack of a comma after the title, making the sentence a comma splice.  Therefore, the correct answer is C.",
+            "explanation": "Choice C places the comma inside the closing quotation mark, following standard American punctuation. A places it outside the quotation marks, B uses a semicolon, and D omits the comma after the appositive title.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_06ff7ec393c7d899",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -18837,6 +19733,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "43f5344f",
         "domain": "Information and Ideas",
@@ -18858,8 +19755,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_7400f9628deee9ad",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18879,6 +19777,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_a",
         "domain": "Information and Ideas",
@@ -18900,6 +19799,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9e921f67",
         "domain": "Craft and Structure",
@@ -18921,6 +19821,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "93948b7b",
         "domain": "Information and Ideas",
@@ -18942,6 +19843,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "26b7d87a",
         "domain": "Craft and Structure",
@@ -18963,8 +19865,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_c29e201af7099ff5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -18984,8 +19887,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_7ae249ae9fbb53ad",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19005,8 +19909,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_1d330dce500f3b21",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19026,8 +19931,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_f7f4bffae930ae68",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19047,6 +19953,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f2745a1b",
         "domain": "Craft and Structure",
@@ -19068,8 +19975,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d9",
+        "id": "q_8ff5b4e8feaa4b37",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19089,8 +19997,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2152a607ee49d78e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19110,6 +20019,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54b7c3c3",
         "domain": "Standard English Conventions",
@@ -19120,7 +20030,7 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "He took a moment to collect his thoughts, then he turned and walked out of the room.",
-                "B": "He took a moment to collect his thoughts, then he turned and walked out of the room.",
+                "B": "He took a moment to collect his thoughts, then he turns and walks out of the room.",
                 "C": "He took a moment to collect his thoughts, then turned and walked out of the room.",
                 "D": "He took a moment to collect his thoughts, then walking out of the room."
             },
@@ -19131,8 +20041,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_b7607d3ff86a591d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19143,7 +20054,7 @@ export const questionBank = [
                 "A": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology; and it’s set in the future.",
                 "B": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology and it’s set in the future.",
                 "C": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future.",
-                "D": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future."
+                "D": "The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, it’s set in the future."
             },
             "question": "Which choice best corrects the punctuation error in the sentence?",
             "paragraph": "The following sentence contains a punctuation error that can be corrected by inserting a comma: The author’s most recent novel is about a fictional world that’s based on ancient Greek mythology, and it’s set in the future.",
@@ -19152,6 +20063,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8f19582d",
         "domain": "Standard English Conventions",
@@ -19173,6 +20085,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "45672391",
         "domain": "Standard English Conventions",
@@ -19194,8 +20107,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_fc49d543658ec04c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19215,6 +20129,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1214d568",
         "domain": "Standard English Conventions",
@@ -19236,6 +20151,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9c34c883",
         "domain": "Standard English Conventions",
@@ -19257,6 +20173,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "69f9d248",
         "domain": "Standard English Conventions",
@@ -19278,6 +20195,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d5888493",
         "domain": "Information and Ideas",
@@ -19299,8 +20217,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_cc6728414d41c75e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19320,6 +20239,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "823f7e45",
         "domain": "Standard English Conventions",
@@ -19341,6 +20261,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9876c53a",
         "domain": "Standard English Conventions",
@@ -19362,8 +20283,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_f09a68104634c829",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19383,8 +20305,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_e40231d31a6accf5",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19404,6 +20327,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a9c34a6d",
         "domain": "Craft and Structure",
@@ -19425,8 +20349,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_d5ece6c1dd832e0c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19446,6 +20371,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5ac61c67",
         "domain": "Standard English Conventions",
@@ -19467,8 +20393,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_fc1054565f54db3e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19488,8 +20415,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_f32f526d19ae3a2b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19509,8 +20437,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_a6f8a8cb9c0d8599",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19530,6 +20459,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "62b987df",
         "domain": "Standard English Conventions",
@@ -19551,8 +20481,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_761fd03a37027ac1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19572,6 +20503,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e8f49d7f",
         "domain": "Standard English Conventions",
@@ -19593,8 +20525,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_8d1b57c4c81b56e3",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19614,8 +20547,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ffff36c34785aa1d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19635,8 +20569,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_31b2aae94df6ce28",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19656,6 +20591,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a9d2a133",
         "domain": "Craft and Structure",
@@ -19677,8 +20613,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "45a109a3",
+        "id": "q_5a5791ed1a8889f8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19698,6 +20635,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_english_b7",
         "domain": "Standard English Conventions",
@@ -19719,8 +20657,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_45c16b5ad16db08f",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -19740,6 +20679,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "28e2c7d8",
         "domain": "Standard English Conventions",
@@ -19761,8 +20701,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_a742fdce771a2046",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19782,8 +20723,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_aec433abc9ea5feb",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -19803,6 +20745,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b6212182",
         "domain": "Standard English Conventions",
@@ -19824,8 +20767,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_db7f3b3e53e106ad",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -19845,6 +20789,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "30d1594d",
         "domain": "Information and Ideas",
@@ -19866,6 +20811,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "546d8f1a",
         "domain": "Craft and Structure",
@@ -19887,8 +20833,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_eb9092012c6f2d53",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -19908,8 +20855,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_f8f15ff9dbb2f6a2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -19929,8 +20877,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_0299f5709780f630",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -19950,8 +20899,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_33e0e65f1b1989d8",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -19971,6 +20921,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9748c70a",
         "domain": "Craft and Structure",
@@ -19992,8 +20943,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_839b814cc0fa5f70",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20013,8 +20965,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_c95c299a04dd39cd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20034,6 +20987,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8231a4b2",
         "domain": "Standard English Conventions",
@@ -20055,6 +21009,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f92a4381",
         "domain": "Expression of Ideas",
@@ -20076,6 +21031,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "71f740dd",
         "domain": "Standard English Conventions",
@@ -20097,8 +21053,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_e72728fbd6e3ae95",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20118,6 +21075,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "82b7f59b",
         "domain": "Expression of Ideas",
@@ -20139,8 +21097,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_8eabd0c552932711",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -20160,8 +21119,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_83f262674d6700d2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20181,6 +21141,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8f7d78fc",
         "domain": "Standard English Conventions",
@@ -20202,8 +21163,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "e677fa6c",
+        "id": "q_d1a6dd5a0acc002e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -20223,8 +21185,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2fc486aa798006d0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20244,6 +21207,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9874239a",
         "domain": "Standard English Conventions",
@@ -20265,8 +21229,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_d072892f1420b23d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20286,6 +21251,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "728d85c4",
         "domain": "Standard English Conventions",
@@ -20307,6 +21273,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "29c9be28",
         "domain": "Standard English Conventions",
@@ -20328,6 +21295,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_27",
         "domain": "Craft and Structure",
@@ -20349,6 +21317,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e64458b4",
         "domain": "Standard English Conventions",
@@ -20361,17 +21330,18 @@ export const questionBank = [
                 "A": "erase, ",
                 "B": "erase—",
                 "C": "erase.",
-                "D": "erase,"
+                "D": "erase: "
             },
-            "question": "Which choice completes the text so that it conforms to the conventions of Standard English? \n\nThe history of the world is full of moments in which people have tried to ______  their past.",
+            "question": "Which choice places a period at the boundary between the main clause and the supplementary phrase?\n\nThe history of the world is full of moments in which people have tried to ______  their past.",
             "paragraph": "null",
-            "explanation": "The best answer is C. The period after \"erase\" marks the boundary between the main clause and the supplementary phrase and is needed to make the sentence grammatically complete and clear.",
+            "explanation": "Choice C places a period at the clause boundary. A and D use a comma and colon, respectively; B uses an em dash.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_12372802f568d499",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20391,6 +21361,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b91d99ac",
         "domain": "Craft and Structure",
@@ -20412,6 +21383,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_44",
         "domain": "Craft and Structure",
@@ -20433,8 +21405,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_e2dae6c3b806c036",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20454,8 +21427,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_6170680ca3b8afee",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20475,8 +21449,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_4503e14d3fbf6459",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20496,8 +21471,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_dfc9a5561d65b9f6",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -20517,8 +21493,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_9268aebb66c0c42d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20538,8 +21515,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_c7cc02ea771ca8bb",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20559,8 +21537,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_ff25325e7be7de73",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20580,8 +21559,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english",
+        "id": "q_48f9e5dda00241f5",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -20601,8 +21581,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_fa8fccc95169ff12",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -20622,6 +21603,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "647980b1",
         "domain": "Information and Ideas",
@@ -20643,8 +21625,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_7d51e3ef5d4bf4ba",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -20664,8 +21647,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_6605a720c66a9a6b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -20685,6 +21669,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "28f37645",
         "domain": "Information and Ideas",
@@ -20706,8 +21691,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_6fc8d2674c0ee151",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20727,8 +21713,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_75cf9d684b77d857",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -20748,6 +21735,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_5",
         "domain": "Standard English Conventions",
@@ -20758,17 +21746,18 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "a change that was designed to boost morale and productivity, and  she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
-                "B": "a change that was designed to boost morale and productivity, and  she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
+                "B": "a change that was designed to boost morale and productivity; and she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
                 "C": "a change designed to boost morale and productivity, and she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines.",
-                "D": "a change designed to boost morale and productivity, and she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines."
+                "D": "a change designed to boost morale and productivity she also explained that the policy would be phased in over the next quarter, giving employees time to adjust to the new guidelines."
             },
-            "question": "Which of the following revisions to the underlined portion of the passage is most accurate and grammatically correct?",
+            "question": "Which revision removes “that” while correctly setting off the nonessential modifier with a comma?",
             "paragraph": "The new CEO announced that she would be implementing  a new policy to encourage employees to use their vacation time,  a change that was designed to boost morale and productivity.  She also explained that  the policy  would  be  phased  in  over the next quarter,  giving  employees  time to adjust to the new guidelines.  She  believes  that  the  policy  will  have  a  positive impact on  employee  well-being,  and  improve  the company’s overall performance. ",
-            "explanation": "The most accurate and grammatically correct revision is to remove the unnecessary word “that” and the comma that follows it.  The phrase “a change designed to boost morale and productivity” is a nonessential modifying phrase that is correctly set off from the rest of the sentence by a comma.  The phrase “and she also explained” is redundant because the second clause in the sentence already implies that the CEO explained the policy. The phrase “giving employees time to adjust to the new guidelines” is a nonessential modifying phrase that is correctly set off from the rest of the sentence by a comma.",
+            "explanation": "Choice C removes “that” and sets off the nonessential modifier “designed to boost morale and productivity” with a comma. A and B retain “that”; D omits the conjunction needed to connect the clauses.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2f119146",
         "domain": "Craft and Structure",
@@ -20790,6 +21779,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c82f3c17",
         "domain": "Expression of Ideas",
@@ -20811,8 +21801,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_70e91e600764b250",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -20832,6 +21823,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3452f782",
         "domain": "Standard English Conventions",
@@ -20853,6 +21845,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "57dbb694",
         "domain": "Expression of Ideas",
@@ -20874,8 +21867,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_6bbc9fe7302c0218",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20895,8 +21889,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_66d7512dc9d87e07",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20916,8 +21911,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5997847d628f811d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -20937,6 +21933,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "765eb62e",
         "domain": "Craft and Structure",
@@ -20958,8 +21955,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_ec06b32b3f6ef38d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -20979,8 +21977,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_4787d22aee3c5362",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21000,8 +21999,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "e677fa6c",
+        "id": "q_24465c6e78c66a84",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -21021,8 +22021,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_4372e4b16d3d9140",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -21042,8 +22043,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_34843e83b97f4812",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21051,20 +22053,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
-                "B": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
-                "C": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity. However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
-                "D": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics. In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity.  However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly."
+                "A": "Artificial intelligence can be used for malicious purposes; it must be developed responsibly.",
+                "B": "Artificial intelligence can be used for malicious purposes, it must be developed responsibly.",
+                "C": "Artificial intelligence can be used for malicious purposes, and it must be developed responsibly.",
+                "D": "Artificial intelligence can be used for malicious purposes: it must be developed responsibly."
             },
-            "question": "Which choice best corrects the punctuation error in the passage?",
-            "paragraph": "The author of this book is a leading expert in the field of artificial intelligence, and his work has been widely praised by critics.  In his book, he examines the ethical implications of AI, arguing that it is not just a technological tool, but a force that will shape the future of humanity.  However, he also warns that AI has the potential to be used for malicious purposes, and that we must be careful to ensure that it is developed and used responsibly.",
-            "explanation": "The sentence contains a comma splice, where two independent clauses are incorrectly joined together by a comma. To correct this error, the comma should be replaced with a semicolon, which separates two independent clauses without a coordinating conjunction.",
+            "question": "Which choice combines the two sentences with a semicolon?",
+            "paragraph": "The author warns that artificial intelligence can be used for malicious purposes. We must ensure that it is developed responsibly.",
+            "explanation": "Choice A joins the independent clauses with a semicolon. B is a comma splice, C uses a coordinating conjunction, and D uses a colon.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_57378f899820b25e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -21084,8 +22087,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_6398c0c066d3e69f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21105,6 +22109,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "89e5d9a6",
         "domain": "Standard English Conventions",
@@ -21126,6 +22131,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7a9e8d71",
         "domain": "Craft and Structure",
@@ -21147,8 +22153,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_f4b8f859f26d3cbc",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21168,6 +22175,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d764f3a8",
         "domain": "Information and Ideas",
@@ -21189,6 +22197,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e9140d6d",
         "domain": "Standard English Conventions",
@@ -21210,8 +22219,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_c6cdbce27aa22219",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21231,6 +22241,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "80d7f886",
         "domain": "Standard English Conventions",
@@ -21252,6 +22263,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a9176b8c",
         "domain": "Information and Ideas",
@@ -21273,8 +22285,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_1423bc69bcd38a45",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -21294,8 +22307,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_444aa2fc0c777dcb",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21315,6 +22329,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c7c0532e",
         "domain": "Standard English Conventions",
@@ -21336,8 +22351,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english",
+        "id": "q_7b139b72310ebd3f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -21357,8 +22373,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_9b5e747bae937f4a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21378,6 +22395,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f84f5d1c",
         "domain": "Standard English Conventions",
@@ -21399,8 +22417,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_4b7b73fc0f2a514c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -21420,6 +22439,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "93ca694b",
         "domain": "Standard English Conventions",
@@ -21441,6 +22461,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4321097f",
         "domain": "Information and Ideas",
@@ -21462,8 +22483,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_214bd56f1e3e568b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21483,8 +22505,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2e181946115882b8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21504,8 +22527,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_ad3b5de74b00a785",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21525,8 +22549,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_89fbde18db4b5115",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21546,8 +22571,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_927d24d1a7a5f0c2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21556,17 +22582,18 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code.",
-                "B": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code.",
+                "B": "The scientist’s discovery, which was made by studying fossils proved critical to deciphering the human genetic code.",
                 "C": "The scientist’s discovery, proved critical to deciphering the human genetic code, was made by studying fossils.",
-                "D": "The scientist’s discovery, which was made by studying fossils, proved critical to deciphering the human genetic code."
+                "D": "The scientist’s discovery which was made by studying fossils, proved critical to deciphering the human genetic code."
             },
-            "question": "Which choice provides the most effective and grammatically correct modifier for the sentence?",
+            "question": "Which choice correctly uses a nonrestrictive relative clause as a modifier?",
             "paragraph": "The author of the text wants to emphasize the importance of the scientist’s discovery. Which of the following choices best helps to accomplish that goal by adding a modifier to the sentence? The scientist’s discovery—which was made by studying fossils—proved critical to deciphering the human genetic code.",
-            "explanation": "Choice A provides the most effective modifier because it uses a non-restrictive clause to provide additional information about the scientist's discovery without changing the meaning or grammatical structure of the sentence.  The comma after 'fossils' is needed because the clause is nonrestrictive.",
+            "explanation": "Choice A correctly sets off the nonrestrictive relative clause with commas. B omits the closing comma, D omits the opening comma, and C separates the subject from its predicate.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "55811424",
         "domain": "Standard English Conventions",
@@ -21588,6 +22615,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e89f23a1",
         "domain": "Information and Ideas",
@@ -21609,8 +22637,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_64dc67812b24f22a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21630,6 +22659,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "425b415a",
         "domain": "Craft and Structure",
@@ -21651,8 +22681,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_cad5c23b71ca3a70",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21663,15 +22694,16 @@ export const questionBank = [
                 "A": "We enjoyed the trip, it was to the zoo.",
                 "B": "We enjoyed the trip it was to the zoo.",
                 "C": "We enjoyed the trip; it was to the zoo.",
-                "D": "We enjoyed the trip, it was to the zoo."
+                "D": "We enjoyed the trip; it was the zoo."
             },
-            "question": "Which choice correctly combines the sentences below?  *We enjoyed the trip. It was to the zoo.*",
+            "question": "Which choice correctly combines the two independent clauses with a semicolon?",
             "paragraph": "null",
             "explanation": "The semicolon is the correct punctuation to use to combine two independent clauses. The other options are incorrect because they use punctuation that is not appropriate to combine independent clauses.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a89bc234",
         "domain": "Information and Ideas",
@@ -21693,8 +22725,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_df79ff80daee7f0b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21702,18 +22735,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
-                "B": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
-                "C": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
-                "D": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context."
+                "A": "While harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. this finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                "B": "While harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock: this finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                "C": "While harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock; this finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                "D": "While harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock, this finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context."
             },
-            "question": "Which choice best corrects the error in the underlined portion of the sentence?",
+            "question": "Which choice replaces the comma between the two independent clauses with a semicolon?",
             "paragraph": "The scientist’s research challenged the common belief that the use of external stimuli to reduce itching was ineffective, even when those stimuli seemed benign. Ward and colleagues found that while harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
-            "explanation": "The underlined portion includes a comma splice, which occurs when two independent clauses are joined by a comma without a coordinating conjunction. To correct this error, the comma should be replaced with a semicolon. Choice C is the only choice that makes this correction.",
+            "explanation": "Choice C uses a semicolon to join the two independent clauses. Choice A uses a period, choice B uses a colon, and choice D leaves a comma splice; only C uses the punctuation specified in the question.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "945f08d2",
         "domain": "Craft and Structure",
@@ -21735,6 +22769,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7632d1ad",
         "domain": "Information and Ideas",
@@ -21756,6 +22791,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3259104e",
         "domain": "Expression of Ideas",
@@ -21777,6 +22813,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9d921b1f",
         "domain": "Standard English Conventions",
@@ -21798,8 +22835,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_dbf416444e220e78",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21819,6 +22857,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6c38c21a",
         "domain": "Information and Ideas",
@@ -21840,6 +22879,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f489ab3f",
         "domain": "Craft and Structure",
@@ -21861,8 +22901,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_51cddcd295466e8e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21882,8 +22923,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_f89898803b1e8db4",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -21903,6 +22945,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d2d203e9",
         "domain": "Information and Ideas",
@@ -21924,6 +22967,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e6777a6c",
         "domain": "Craft and Structure",
@@ -21945,6 +22989,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1b7c635",
         "domain": "Standard English Conventions",
@@ -21966,6 +23011,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3f8c42b",
         "domain": "Standard English Conventions",
@@ -21987,6 +23033,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "42b5c78a",
         "domain": "Standard English Conventions",
@@ -22008,8 +23055,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_50848c1d5b0f6654",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -22029,6 +23077,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e876f234",
         "domain": "Standard English Conventions",
@@ -22050,6 +23099,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d4889d2b",
         "domain": "Craft and Structure",
@@ -22071,8 +23121,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_2de8a030432b4d08",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22092,8 +23143,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_57d9ab146ffd1174",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22113,6 +23165,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_b12",
         "domain": "Standard English Conventions",
@@ -22134,8 +23187,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_6abefe05a410551c",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22155,6 +23209,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83c8a64f",
         "domain": "Standard English Conventions",
@@ -22176,6 +23231,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "42a9b890",
         "domain": "Craft and Structure",
@@ -22197,6 +23253,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7348f097",
         "domain": "Craft and Structure",
@@ -22218,8 +23275,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_431166663026bee2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22239,8 +23297,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_bee7079e8f14f871",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22260,6 +23319,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7d6217a7",
         "domain": "Craft and Structure",
@@ -22281,8 +23341,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_698733ad9f64ac29",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22302,8 +23363,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_8307d59bf98b61f1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22323,6 +23385,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "628e561d",
         "domain": "Standard English Conventions",
@@ -22344,8 +23407,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_753aacf34c93aa55",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22365,6 +23429,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a3e2a3b4",
         "domain": "Standard English Conventions",
@@ -22386,6 +23451,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "61f099e4",
         "domain": "Craft and Structure",
@@ -22407,8 +23473,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_142bacbf314b4935",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22419,17 +23486,18 @@ export const questionBank = [
                 "A": "This discovery which is expected to be published soon, ",
                 "B": "This discovery, expected to be published soon, ",
                 "C": "This discovery, which is expected to be published soon, ",
-                "D": "This discovery, expected to be published soon,"
+                "D": "This discovery, expected to be published soon"
             },
-            "question": "Which choice best revises the underlined portion of the sentence to create a grammatically correct and clear sentence?",
+            "question": "Which choice uses a reduced nonrestrictive modifier, set off by commas, to revise the underlined portion?",
             "paragraph": "The most recent discovery by scientists about the planet Mars has been met with much excitement.  The research team, led by Dr. Emily Carter, has been studying the planet's atmosphere and looking for signs of past life.  Dr. Carter and her colleagues have found evidence of methane, a gas that is a key indicator of life.  This discovery, which is expected to be published soon, has implications for our understanding of the planet, and the possibility of life beyond Earth.",
-            "explanation": "The underlined portion of the sentence is a nonrestrictive clause because it is not essential to the meaning of the sentence.  Therefore, it should be set off with commas.  Choice B is the only choice that correctly sets off the clause with commas.",
+            "explanation": "Choice B uses the reduced nonrestrictive modifier “expected to be published soon,” set off by commas. A omits the opening comma, C uses a relative clause rather than a reduced modifier, and D omits the closing comma.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_e851f9323b0de77e",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22449,6 +23517,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9548887b",
         "domain": "Standard English Conventions",
@@ -22470,8 +23539,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_423ac2e274705893",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22491,8 +23561,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_b1bb48289ea6fa79",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22512,8 +23583,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_86f02f15d61088d1",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22533,8 +23605,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_eng_1",
+        "id": "q_bca8f1003aa4aa1d",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22554,6 +23627,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2a67536d",
         "domain": "Standard English Conventions",
@@ -22575,6 +23649,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6c335f2d",
         "domain": "Expression of Ideas",
@@ -22596,6 +23671,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c891b25b",
         "domain": "Standard English Conventions",
@@ -22608,17 +23684,18 @@ export const questionBank = [
                 "A": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo, and then they monitored the volunteers for a period of six months, measuring various immune system parameters.",
                 "B": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo; the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters.",
                 "C": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo, the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters.",
-                "D": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo; the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters."
+                "D": "The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo the researchers then monitored the volunteers for a period of six months, measuring various immune system parameters."
             },
-            "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+            "question": "Which choice joins the independent clauses with a semicolon?",
             "paragraph": "The main purpose of the study was to examine the effects of a new drug on the body’s immune system. Researchers recruited volunteers for the study, who were randomly assigned to either a treatment group or a control group. The volunteers in the treatment group received the new drug, while the volunteers in the control group received a placebo. The researchers then monitored the volunteers for a period of six months, measuring various immune system parameters. At the end of the study, the researchers found that the volunteers in the treatment group had a significantly lower incidence of infection than the volunteers in the control group.",
-            "explanation": "Choice C is the best answer. The sentence is grammatically correct and stylistically effective. The comma separates the two independent clauses, and the phrase “the researchers then” clearly connects the second clause to the first. Choice A is incorrect because the conjunction “and” is redundant and creates a comma splice. Choice B is incorrect because the semicolon creates a comma splice. Choice D is incorrect because the semicolon is redundant and creates a comma splice.",
-            "correct_answer": "C"
+            "explanation": "Choice B uses a semicolon to separate the two independent clauses. A combines them with a coordinating conjunction, C is a comma splice, and D is also a comma splice.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_4b6444253e350e5a",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -22638,6 +23715,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "94440b84",
         "domain": "Information and Ideas",
@@ -22659,8 +23737,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_fa0aafd6b833d41c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22680,8 +23759,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_61ab8ae7ce46f666",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -22701,6 +23781,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9626132b",
         "domain": "Information and Ideas",
@@ -22722,8 +23803,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_17568593884b5a79",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22743,6 +23825,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_11",
         "domain": "Standard English Conventions",
@@ -22764,8 +23847,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_d8",
+        "id": "q_af24fb618feb7492",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22785,6 +23869,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7a45c12b",
         "domain": "Standard English Conventions",
@@ -22797,17 +23882,18 @@ export const questionBank = [
                 "A": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, its candid exploration of personal and political themes.",
                 "B": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and it candidly explored personal and political themes.",
                 "C": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style; its candid exploration of personal and political themes.",
-                "D": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and it candidly explored personal and political themes."
+                "D": "Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and it candidly explore personal and political themes."
             },
-            "question": "Which choice provides the best way to combine the sentences at the end of the passage?  \"Ginsberg’s work, including his iconic poem \\\"Howl\\\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and its candid exploration of personal and political themes.\"  This sentence is currently punctuated correctly.  Select the choice that best combines the two sentences into one sentence without changing the intended meaning or making any unnecessary changes.",
+            "question": "Which choice joins the two independent clauses with the coordinating conjunction “and”?",
             "paragraph": "In the early 1960s, the United States witnessed a burgeoning interest in spoken-word poetry.  While previous generations of poets had relied on traditional forms of verse, a new wave of poets sought to break away from these conventions, embracing a more direct and personal style of expression.  One of the most prominent figures of this movement, was Allen Ginsberg, whose work often reflected his experiences with social alienation and the counterculture of the time.  Ginsberg’s work, including his iconic poem \"Howl\" (1956), was characterized by its free-flowing, often stream-of-consciousness style, and its candid exploration of personal and political themes.",
-            "explanation": "The best way to combine the two sentences is to replace the comma after \"style\" with a conjunction.  The conjunction \"and\" is the most logical choice because it clearly indicates that the two clauses are connected by a shared relationship.  The other choices either create comma splices or are grammatically incorrect.",
+            "explanation": "Choice B joins the independent clauses with the coordinating conjunction “and” and keeps the verb “explored” in agreement with “it.” A changes the clause structure, C leaves a fragment after the semicolon, and D has subject-verb disagreement.",
             "correct_answer": "B"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_2abe55f19468f15c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22827,6 +23913,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f245a678",
         "domain": "Standard English Conventions",
@@ -22848,6 +23935,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "627f8327",
         "domain": "Craft and Structure",
@@ -22869,8 +23957,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_4b18d9745a236a71",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22890,6 +23979,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8f785a98",
         "domain": "Standard English Conventions",
@@ -22911,8 +24001,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_59e9d1a676c1a95d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22932,6 +24023,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a44897d3",
         "domain": "Information and Ideas",
@@ -22953,8 +24045,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_d863a69661dc34ea",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -22974,8 +24067,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_62869fc52deedc77",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -22983,18 +24077,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
+                "A": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
                 "B": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But, what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, and I will never forget it.",
-                "C": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, that I will never forget.",
-                "D": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe, that I will never forget."
+                "C": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating; was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
+                "D": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But what I found most fascinating: was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget."
             },
-            "question": "Which choice best corrects an error in the given passage?",
+            "question": "Which choice removes the comma that incorrectly separates the subject from its verb?",
             "paragraph": "The first time I heard the news about the new planet, I was overwhelmed with excitement. The discovery of a potentially habitable world, orbiting a star so far away, filled me with wonder. My curiosity was piqued as I sought to learn more about its atmosphere, its surface, and the possibility of life. But, what I found most fascinating, was how this discovery could change our understanding of the universe. It was a moment of pure joy and awe that I will never forget.",
-            "explanation": "The original sentence uses a comma to separate two independent clauses. This is incorrect; a comma splice. The correct way to punctuate this sentence is to use a period. Choice A corrects this error.",
+            "explanation": "Choice A removes the comma between the subject “what I found most fascinating” and its verb “was.” A comma does not belong between a subject and its verb.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "26534f85",
         "domain": "Standard English Conventions",
@@ -23016,8 +24111,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_ae86e6269840253b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23037,6 +24133,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a7d69241",
         "domain": "Information and Ideas",
@@ -23058,8 +24155,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_98c27ce743647cc8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23079,8 +24177,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_775e303699f7f255",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23100,8 +24199,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_b5a8eaca6826a4d5",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23121,6 +24221,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2a69865c",
         "domain": "Information and Ideas",
@@ -23142,8 +24243,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_e03ac31a7f549daf",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -23163,8 +24265,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_7b73f761972c27c8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23184,6 +24287,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d64749a8",
         "domain": "Standard English Conventions",
@@ -23205,6 +24309,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "849d8c8d",
         "domain": "Standard English Conventions",
@@ -23226,8 +24331,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_616b172a54b6ea36",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -23247,8 +24353,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_8b7a9dfeeebdc87e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23268,8 +24375,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_0eb6b4fc36e92dca",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23289,8 +24397,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "45a109a3",
+        "id": "q_dfcd873804a02760",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23310,6 +24419,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "94c8e716",
         "domain": "Information and Ideas",
@@ -23331,6 +24441,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "213957e6",
         "domain": "Standard English Conventions",
@@ -23343,7 +24454,7 @@ export const questionBank = [
                 "A": "The group found the birds’ behavior rather curious, but they continue to enjoy the beauty of the forest.",
                 "B": "The group found the birds’ behavior rather curious, but they continued to enjoy the beauty of the forest.",
                 "C": "The group found the birds’ behavior rather curious, but they had continued to enjoy the beauty of the forest.",
-                "D": "The group found the birds’ behavior rather curious, but they had continued to enjoy the beauty of the forest."
+                "D": "The group found the birds’ behavior rather curious, but they will continue to enjoy the beauty of the forest."
             },
             "question": "Which choice best revises the underlined portion of the passage to maintain consistent verb tense?",
             "paragraph": "The following is a passage from a novel written by an American author:  As they wandered through the forest, the group noticed a group of birds that seemed to be following them.  The birds chirped and fluttered, and their playful antics seemed to be directed at the group.   The birds seemed to be amused by the group’s presence, and they continued to follow them.  The group found the birds’ behavior rather curious, but they continued their walk, and they continued to enjoy the beauty of the forest.   Which choice best revises the passage to maintain consistent verb tense?",
@@ -23352,8 +24463,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_5e423ef40fe7046c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23373,6 +24485,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "55e03a7d",
         "domain": "Craft and Structure",
@@ -23394,6 +24507,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c8f8e80e",
         "domain": "Craft and Structure",
@@ -23415,8 +24529,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_ea9bac5028fab8a8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23436,6 +24551,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7f7c3993",
         "domain": "Standard English Conventions",
@@ -23447,18 +24563,19 @@ export const questionBank = [
             "choices": {
                 "A": "Well boys, we got her at last!",
                 "B": "Well, boys, we've got her at last!",
-                "C": "Well, boys, we’ve got her at last!",
-                "D": "Well boys, we got her at last!"
+                "C": "Well, boys, we’s got her at last!",
+                "D": "Well boys, we has got her at last!"
             },
-            "question": "Which choice best revises the underlined portion of the text so that it conforms to the conventions of Standard English?",
+            "question": "Which choice uses the contraction “we’ve” and commas around the person being addressed?",
             "paragraph": "The following text is adapted from \"The Open Boat\" by Stephen Crane, an American writer who became famous for his naturalist style.  The text describes a storm that is threatening a small lifeboat with four men aboard: \"Then the captain, in the manner of the old-time sea-captains who went down with their ships, said to the men:  \"Well, boys, we’ve got her at last!\" ",
-            "explanation": "The convention being tested is the use of contractions. The contraction \"we’ve\" is the correct form for the contraction of \"we have\" and matches the conventions of Standard English. The other choices are incorrect because they fail to use the correct contraction or don’t use any contraction at all.",
+            "explanation": "Choice B uses the contraction “we’ve” and sets off the direct address “boys” with commas. C uses an incorrect contraction, while A and D do not use the required contraction and punctuation.",
             "correct_answer": "B"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_3d257f20828518a8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23478,6 +24595,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b8f19839",
         "domain": "Craft and Structure",
@@ -23499,6 +24617,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d82c611c",
         "domain": "Standard English Conventions",
@@ -23520,8 +24639,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_00b5e6adefc39e3a",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -23541,8 +24661,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_862cf2d0150ee24f",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23562,6 +24683,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a7c9b23e",
         "domain": "Information and Ideas",
@@ -23583,6 +24705,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4f38b714",
         "domain": "Craft and Structure",
@@ -23604,8 +24727,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12345678",
+        "id": "q_c0a25f625f20e9d9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23625,8 +24749,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_c7f8acb6cf38ed41",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23634,20 +24759,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
-                "B": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
-                "C": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience.",
-                "D": "Consequently, the invention of the printing press had a profound impact on society, enabling the spread of ideas and knowledge to a much wider audience."
+                "A": "Access to books had been limited to a small, privileged few; the printing press enabled ideas and knowledge to reach a much wider audience.",
+                "B": "Access to books had been limited to a small, privileged few, the printing press enabled ideas and knowledge to reach a much wider audience.",
+                "C": "Access to books had been limited to a small, privileged few: the printing press enabled ideas and knowledge to reach a much wider audience.",
+                "D": "Access to books had been limited to a small, privileged few, and the printing press enabled ideas and knowledge to reach a much wider audience."
             },
-            "question": "Which choice best completes the text so that it conforms to the conventions of Standard English?",
-            "paragraph": "The invention of the printing press in the 15th century was a pivotal moment in the history of communication, ushering in a new era of widespread literacy and knowledge dissemination. Before the printing press, the vast majority of books were copied by hand, a process that was both time-consuming and costly. As a result, access to books was limited to a small, privileged few.",
-            "explanation": "Choice A is the best option because it uses a semicolon to properly join the two independent clauses. Choice B uses an incorrect comma, creating a comma splice. Choice C uses an incorrect dash. Choice D uses an incorrect colon, creating a run-on sentence. Therefore, only Choice A conforms to the conventions of Standard English.",
+            "question": "Which choice best joins the two ideas with a semicolon?",
+            "paragraph": "Before the printing press, most books were copied by hand, so access to books was limited to a small, privileged few. The invention of the printing press made it possible to distribute ideas and knowledge to a much wider audience.",
+            "explanation": "Choice A joins the two independent clauses with a semicolon. Choice B is a comma splice, choice C uses a colon, and choice D uses a coordinating conjunction instead of a semicolon.",
             "correct_answer": "A"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_eb1a388a290d7ae0",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23667,8 +24793,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_509e24c610ad0440",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23688,8 +24815,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_8105b1e506f88a51",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -23709,6 +24837,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f765438a",
         "domain": "Standard English Conventions",
@@ -23721,15 +24850,16 @@ export const questionBank = [
                 "A": "The composer’s research progressed; he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
                 "B": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
                 "C": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history; he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
-                "D": "The composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance."
+                "D": "The composer’s research progressed he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance."
             },
-            "question": "Which choice provides the best way to combine the sentences at the end of the first paragraph to create a smoother flow?  \n\nThe composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition.  Making the poem a reflection of both the beauty of the pine trees and their cultural significance.",
+            "question": "Which choice correctly combines the sentences using a semicolon between the first two independent clauses?",
             "paragraph": "In 1925, the Italian composer Ottorino Respighi began working on an orchestral work, the tone poem *The Pines of Rome,* which would become one of his most famous compositions.  The composition was inspired by Respighi’s early travels to Rome, where he was enchanted by the city’s pine trees, which were common in the region’s parks.  As the composer’s research progressed, he discovered that the pine trees of Rome had a long and interesting history, and he decided to incorporate this history into the composition, making the poem a reflection of both the beauty of the pine trees and their cultural significance.  Respighi’s four movements, which are based on distinct phases in the life of the pine trees, include a depiction of the pine trees as they appear in the Roman countryside, their emergence as a symbol of the city’s power and growth, the way they are used in the city’s gardens and parks, and finally, their ultimate transformation as they become a symbol of the city’s past.  Respighi’s composition has been praised by music critics for its rich musical language, its vivid depiction of the pine trees, and its emotional power.  The work has been performed by orchestras around the world since it was first performed in 1924.",
-            "explanation": "Choice C is the best way to combine the sentences. The semicolon helps to separate the two independent clauses.  It also creates a smoother flow between the two parts of the sentence.",
-            "correct_answer": "C"
+            "explanation": "Choice A uses a semicolon to join the first two independent clauses, then connects the final clause with “and.” C leaves a comma splice before its semicolon; B is also a comma splice, and D is a fused sentence.",
+            "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a149f288",
         "domain": "Standard English Conventions",
@@ -23751,8 +24881,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_f557452c16ad996b",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -23772,8 +24903,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_6d528ae26ba30b0f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23793,6 +24925,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e150a912",
         "domain": "Standard English Conventions",
@@ -23814,6 +24947,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "34d9f783",
         "domain": "Standard English Conventions",
@@ -23835,8 +24969,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_7d5205858962cf9c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23856,8 +24991,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_58dbfa57e4a871c6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23877,8 +25013,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_c87a5e75f7e17879",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -23898,8 +25035,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_6369d827e4cb880b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -23919,6 +25057,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "14e78231",
         "domain": "Standard English Conventions",
@@ -23940,6 +25079,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "674da74e",
         "domain": "Information and Ideas",
@@ -23961,6 +25101,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "24129c1a",
         "domain": "Craft and Structure",
@@ -23982,6 +25123,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a613bc8d",
         "domain": "Information and Ideas",
@@ -24003,8 +25145,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_98eb07352a13e690",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24024,8 +25167,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "e677fa6c",
+        "id": "q_506e8230eb141b53",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -24045,6 +25189,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a4759a25",
         "domain": "Standard English Conventions",
@@ -24066,8 +25211,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_0c1a62fc8ede993f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24087,8 +25233,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_3c5d9b23b0ad2f40",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24108,6 +25255,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4515c65d",
         "domain": "Standard English Conventions",
@@ -24129,6 +25277,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "64f4e4a9",
         "domain": "Information and Ideas",
@@ -24150,8 +25299,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_8000091f1e6475cc",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24171,8 +25321,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_b911a55bcbf29a3f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -24192,8 +25343,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_064fccc72f424513",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24213,6 +25365,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e1e1401f",
         "domain": "Craft and Structure",
@@ -24234,8 +25387,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_fb1a219340bed1b8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24255,8 +25409,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_9c1b80d501fcb5dd",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24276,6 +25431,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "14f5733f",
         "domain": "Information and Ideas",
@@ -24297,6 +25453,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f2a1487a",
         "domain": "Standard English Conventions",
@@ -24311,13 +25468,14 @@ export const questionBank = [
                 "C": "The novel’s plot is complex; it involves multiple twists and turns.",
                 "D": "The novel’s plot is complex, involving multiple twists and turns."
             },
-            "question": "Which choice correctly combines the sentences below into a single sentence with correct punctuation? \u003Cbr\u003E The novel’s plot is complex. It involves multiple twists and turns. ",
+            "question": "Which choice correctly combines the sentences below into a single sentence with correct punctuation? <br> The novel’s plot is complex. It involves multiple twists and turns. ",
             "paragraph": "null",
             "explanation": "The correct answer is D. Choice D is the best answer because it creates a single sentence using a participial phrase to modify the subject.  A participial phrase can be used to modify the noun or pronoun that comes before the phrase.  It is separated by a comma from the rest of the sentence. Choice A is incorrect because it uses a comma splice, which is when two sentences are joined by only a comma. Choice B is incorrect because a colon is used to introduce an explanation or definition, not to combine two sentences. Choice C is incorrect because a semicolon is used to combine two closely related sentences, not to combine a sentence with a participial phrase.  ",
             "correct_answer": "D"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "68290fd1",
         "domain": "Information and Ideas",
@@ -24339,6 +25497,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "74e41e9f",
         "domain": "Information and Ideas",
@@ -24360,6 +25519,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c101984b",
         "domain": "Information and Ideas",
@@ -24381,8 +25541,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_46b92a96bc2388ff",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24402,6 +25563,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "89230131",
         "domain": "Standard English Conventions",
@@ -24423,6 +25585,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f24c90c5",
         "domain": "Information and Ideas",
@@ -24444,6 +25607,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f6d22f0b",
         "domain": "Standard English Conventions",
@@ -24465,8 +25629,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_8",
+        "id": "q_55a6d7ef80c970f4",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24486,6 +25651,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "595b271e",
         "domain": "Standard English Conventions",
@@ -24507,8 +25673,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_51598f733d40be80",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -24528,8 +25695,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_fe9bde9f20b6903a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24549,6 +25717,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6666c697",
         "domain": "Standard English Conventions",
@@ -24570,6 +25739,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8a2932f",
         "domain": "Standard English Conventions",
@@ -24591,6 +25761,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "457324da",
         "domain": "Standard English Conventions",
@@ -24612,6 +25783,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e8731968",
         "domain": "Information and Ideas",
@@ -24633,8 +25805,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_83f6d9196b32294c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24654,6 +25827,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f8423a9d",
         "domain": "Standard English Conventions",
@@ -24675,6 +25849,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8d8298df",
         "domain": "Standard English Conventions",
@@ -24696,8 +25871,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_463280b14be54c6b",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24717,6 +25893,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "472c409e",
         "domain": "Craft and Structure",
@@ -24738,8 +25915,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_a86b7ba6520a70c9",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -24759,8 +25937,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_7c793d5cc95a760a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -24780,6 +25959,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b577194d",
         "domain": "Standard English Conventions",
@@ -24801,8 +25981,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_e38f3fbc65a06cdb",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -24822,6 +26003,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a8d4f72c",
         "domain": "Expression of Ideas",
@@ -24843,6 +26025,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "119b489c",
         "domain": "Standard English Conventions",
@@ -24855,15 +26038,16 @@ export const questionBank = [
                 "A": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
                 "B": "The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
                 "C": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
-                "D": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature."
+                "D": "The *Architeuthis dux*, a type of squid is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature."
             },
-            "question": "Which choice most effectively combines the sentences at the underlined portion?",
+            "question": "Which choice combines the information with an appositive and repeats the subject in the second independent clause?",
             "paragraph": "The recent discovery of a previously unknown species of deep-sea fish, the *Architeuthis dux*, has sent shockwaves through the scientific community. Scientists had long believed that the *Architeuthis dux* was a solitary creature, but the new findings suggest that it may be a social animal. The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet.  These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
-            "explanation": "The best way to combine the sentences is to use a comma after the word \"size\" and to add the conjunction \"and\" to the second sentence. This creates a grammatically correct sentence and maintains the flow of the passage.",
+            "explanation": "Choice A uses the appositive “a type of squid” and repeats “it” as the subject of the second independent clause. B uses a relative clause instead; C does not repeat the subject, and D omits the comma closing the appositive.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f8767a8f",
         "domain": "Standard English Conventions",
@@ -24885,8 +26069,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_c1816ce291341e7b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24906,8 +26091,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_93ae42be0c2d7989",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24927,6 +26113,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "47f6c5d4",
         "domain": "Craft and Structure",
@@ -24948,8 +26135,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_0459c68adceb340f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -24969,6 +26157,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f999c801",
         "domain": "Expression of Ideas",
@@ -24990,6 +26179,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "87654321",
         "domain": "Standard English Conventions",
@@ -25001,7 +26191,7 @@ export const questionBank = [
             "choices": {
                 "A": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me, making us both Gemini twins!",
                 "B": "The first time I met my best friend I was surprised to learn that, he shared the same birthday as me, making us both Gemini twins!",
-                "C": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me, making us both Gemini twins! ",
+                "C": "The first time I met my best friend, I was surprised to learn that, he shared the same birthday as me, making us both Gemini twins!",
                 "D": "The first time I met my best friend, I was surprised to learn that he shared the same birthday as me making us both Gemini twins!"
             },
             "question": "Which choice corrects the punctuation error in the passage?",
@@ -25011,6 +26201,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a6c30fa",
         "domain": "Standard English Conventions",
@@ -25032,6 +26223,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "957b0602",
         "domain": "Craft and Structure",
@@ -25053,6 +26245,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5423ac01",
         "domain": "Standard English Conventions",
@@ -25074,8 +26267,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_e7083f1d50a30a74",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -25095,8 +26289,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_825bff393c272d4b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25116,6 +26311,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "70f2a59a",
         "domain": "Information and Ideas",
@@ -25137,6 +26333,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b456777a",
         "domain": "Craft and Structure",
@@ -25158,6 +26355,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "0739f512",
         "domain": "Standard English Conventions",
@@ -25179,6 +26377,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8464956f",
         "domain": "Standard English Conventions",
@@ -25200,6 +26399,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f21e275e",
         "domain": "Expression of Ideas",
@@ -25221,8 +26421,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_06f76de7c2c3c13a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25242,6 +26443,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8123596d",
         "domain": "Standard English Conventions",
@@ -25263,6 +26465,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6a7f420c",
         "domain": "Standard English Conventions",
@@ -25284,6 +26487,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a34e70f",
         "domain": "Standard English Conventions",
@@ -25305,6 +26509,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4e71293d",
         "domain": "Standard English Conventions",
@@ -25326,6 +26531,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7248511d",
         "domain": "Craft and Structure",
@@ -25347,6 +26553,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "46ab1c1e",
         "domain": "Craft and Structure",
@@ -25368,6 +26575,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "92ef1d2e",
         "domain": "Standard English Conventions",
@@ -25379,16 +26587,17 @@ export const questionBank = [
             "choices": {
                 "A": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
                 "B": "it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
-                "C": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
-                "D": "but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad."
+                "C": "but it is clear that social media has had a profound impact on modern society, and important to understand the ways in which it can be used for both good and bad.",
+                "D": "but is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad."
             },
-            "question": "The debate is likely to continue for many years to come, but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad.",
+            "question": "Which choice completes the sentence using “but” to introduce a contrast?",
             "paragraph": "The debate about the role of social media in modern society has been ongoing for years. Some people argue that social media is a valuable tool that can be used to connect with others, share information, and build community. They point to the many ways that social media has been used to organize protests, raise awareness about important issues, and provide support to those in need. Others argue that social media is a harmful force that can be used to spread misinformation, promote hatred, and create echo chambers. They point to the many cases of social media being used to spread false information, incite violence, and contribute to the spread of harmful ideologies. The debate is likely to continue for many years to come, but it is clear that social media has had a profound impact on modern society, and it is important to understand the ways in which it can be used for both good and bad. Which of the following choices best completes the text so that it conforms to the conventions of Standard English? ",
-            "explanation": "Choice A is the best answer because it uses a comma to separate the two independent clauses that follow the conjunction \"but.\" This is the correct way to punctuate a complex sentence with two independent clauses. Choices B, C, and D are incorrect because they all result in comma splices, which occur when two independent clauses are joined together with only a comma.",
+            "explanation": "Choice A completes the sentence with “but,” which introduces the contrast, and it keeps both following clauses grammatically complete. B omits the contrast conjunction; C omits “it is” before “important”; D omits the subject “it” before “is clear.”",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "21c55a17",
         "domain": "Standard English Conventions",
@@ -25410,8 +26619,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_5a64e5eba1d06d64",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25431,8 +26641,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_a217618382a5adf1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25452,6 +26663,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3284b112",
         "domain": "Information and Ideas",
@@ -25473,6 +26685,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_english_b2",
         "domain": "Standard English Conventions",
@@ -25494,8 +26707,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_464a554fe258fcc9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25515,6 +26729,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b123456",
         "domain": "Information and Ideas",
@@ -25536,6 +26751,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6a578c7d",
         "domain": "Standard English Conventions",
@@ -25557,6 +26773,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "61b87506",
         "domain": "Standard English Conventions",
@@ -25578,6 +26795,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a19a46ff",
         "domain": "Standard English Conventions",
@@ -25599,6 +26817,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "37f8a72d",
         "domain": "Expression of Ideas",
@@ -25620,6 +26839,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a7791e3e",
         "domain": "Standard English Conventions",
@@ -25641,8 +26861,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_6cff694b9c3b837a",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -25662,8 +26883,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_8173d18b8a30e36f",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -25683,8 +26905,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_7de51471ea2c856c",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -25704,8 +26927,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_269c574e8d1e144d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -25725,8 +26949,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_d1778871014fa5da",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -25746,6 +26971,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a73a908a",
         "domain": "Standard English Conventions",
@@ -25767,6 +26993,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "869f3e3d",
         "domain": "Information and Ideas",
@@ -25788,6 +27015,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a9f8ac28",
         "domain": "Craft and Structure",
@@ -25809,6 +27037,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a92840d5",
         "domain": "Expression of Ideas",
@@ -25830,6 +27059,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "2039ab12",
         "domain": "Expression of Ideas",
@@ -25851,6 +27081,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "85939da5",
         "domain": "Standard English Conventions",
@@ -25872,6 +27103,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "b6d4475e",
         "domain": "Standard English Conventions",
@@ -25893,8 +27125,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_e63f07963500ae92",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -25914,8 +27147,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_2a22caab621804cb",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -25935,6 +27169,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "8c04f4c1",
         "domain": "Craft and Structure",
@@ -25956,8 +27191,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_21",
+        "id": "q_242d32c0536536cb",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -25977,8 +27213,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_502d3394a80daee9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -25998,8 +27235,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_8ac47e0deac910a1",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26019,8 +27257,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_166fec388e272440",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26040,6 +27279,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "78f24c9a",
         "domain": "Standard English Conventions",
@@ -26061,8 +27301,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b3",
+        "id": "q_93c6a63da245c9c9",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26082,6 +27323,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8f92374d",
         "domain": "Standard English Conventions",
@@ -26094,15 +27336,16 @@ export const questionBank = [
                 "A": "taller than those that did not; the researchers",
                 "B": "taller than those that did not, the researchers",
                 "C": "taller than those that did not. The researchers",
-                "D": "taller than those that did not; the researchers"
+                "D": "taller than those that did not: the researchers"
             },
-            "question": "Which choice best revises the underlined portion of the passage to create a sentence that is consistent with the conventions of Standard English?",
+            "question": "Which choice replaces the comma splice with a period?",
             "paragraph": "A team of researchers studied the impact of a new type of fertilizer on crop yield. The researchers grew two groups of corn plants, one group that received the new fertilizer and one group that did not. The researchers found that the corn plants that received the new fertilizer grew significantly taller than those that did not. The researchers concluded that the new fertilizer increased crop yield. ",
-            "explanation": "The original sentence contains a comma splice, which is an error in Standard English. A comma splice occurs when two independent clauses are joined together with only a comma. To correct the comma splice, we can either add a coordinating conjunction or separate the two clauses with a semicolon. In this case, the best way to revise the sentence is to replace the comma with a period and capitalize the first word of the next clause.",
+            "explanation": "Choice C replaces the comma splice with a period and begins a new sentence. A uses a semicolon, B retains a comma splice, and D uses a colon.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a8c763f5",
         "domain": "Expression of Ideas",
@@ -26124,6 +27367,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c2234b92",
         "domain": "Information and Ideas",
@@ -26145,6 +27389,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9686361b",
         "domain": "Standard English Conventions",
@@ -26166,6 +27411,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54f9445a",
         "domain": "Information and Ideas",
@@ -26187,6 +27433,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e965f132",
         "domain": "Information and Ideas",
@@ -26208,6 +27455,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a34c9d58",
         "domain": "Information and Ideas",
@@ -26229,8 +27477,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_7e258cf379af38a8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -26250,6 +27499,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b89af982",
         "domain": "Standard English Conventions",
@@ -26271,6 +27521,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "234ds124",
         "domain": "Craft and Structure",
@@ -26292,6 +27543,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e755b10c",
         "domain": "Information and Ideas",
@@ -26313,8 +27565,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_834518b8219f4315",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26334,6 +27587,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a456c789",
         "domain": "Craft and Structure",
@@ -26355,8 +27609,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_962957233f816f8a",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26376,6 +27631,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "412c942b",
         "domain": "Craft and Structure",
@@ -26397,6 +27653,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f635d36c",
         "domain": "Craft and Structure",
@@ -26418,8 +27675,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_45e01a99d6f66704",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26439,8 +27697,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_72e0001cc8a064b6",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26460,8 +27719,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_936b36882f6218f6",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26481,8 +27741,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_23",
+        "id": "q_4a3bfee911318315",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26502,8 +27763,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_6157b2e775576de0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26513,16 +27775,17 @@ export const questionBank = [
             "choices": {
                 "A": "The most important thing is to learn from mistakes; I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
                 "B": "The most important thing is to learn from mistakes, and I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
-                "C": "The most important thing is to learn from mistakes, and I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them.",
+                "C": "The most important thing is to learn from mistakes, and I have made a lot of mistakes in my life; but I have also learned a lot from them.",
                 "D": "The most important thing is to learn from mistakes—I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them."
             },
-            "question": "Which choice best revises the underlined portion of the passage to create a more effective and concise sentence?",
+            "question": "Which choice joins the independent clauses with a semicolon?",
             "paragraph": "The author hopes that the reader will understand the value of learning from mistakes by emphasizing how the speaker has learned from his own experiences. This approach is shown in a paragraph in which the author writes: *The most important thing is to learn from mistakes. *I’ve made a lot of mistakes in my life, but I’ve also learned a lot from them. *I’ve learned that it’s okay to fail, and that failing can even be a good thing. *It’s okay to make mistakes, but it’s not okay to give up. *If you’re willing to learn from your mistakes, you can achieve anything you set your mind to.*",
-            "explanation": "Choice A is the best answer because it uses a semicolon to create two independent clauses. This is a more effective way to join two independent clauses, and it makes the sentence more concise. The other choices use either a comma or a dash, which are not the correct way to join two independent clauses. Choice B uses a comma splice, which is a grammatical error. Choice C uses a comma instead of a semicolon, which is not the correct way to join two independent clauses. Choice D uses a dash, which is not the correct way to join two independent clauses.",
+            "explanation": "Choice A uses a semicolon to join the independent clauses. B and C use coordinating conjunctions or punctuation other than a semicolon, and D uses an em dash.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5421a600",
         "domain": "Standard English Conventions",
@@ -26544,8 +27807,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_e2cc097674a6f942",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26565,8 +27829,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_679fa75d25a2d8c3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26586,8 +27851,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_8e1b3fa5d37323cd",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -26607,6 +27873,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "b897992a",
         "domain": "Information and Ideas",
@@ -26628,6 +27895,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8626288",
         "domain": "Information and Ideas",
@@ -26649,8 +27917,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_d986c4ee0eea6d4e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26670,6 +27939,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8519485a",
         "domain": "Standard English Conventions",
@@ -26691,8 +27961,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_813c7a441c5630d9",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26712,6 +27983,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6e777d8f",
         "domain": "Standard English Conventions",
@@ -26733,6 +28005,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "54d6446b",
         "domain": "Standard English Conventions",
@@ -26744,16 +28017,17 @@ export const questionBank = [
             "choices": {
                 "A": "The African American novelist, Ernest Gaines, tells the story of an enslaved woman,",
                 "B": "The African American novelist Ernest Gaines tells the story of an enslaved woman, ",
-                "C": "The African American novelist, Ernest Gaines, tells the story of an enslaved woman",
-                "D": "The African American novelist Ernest Gaines tells the story of an enslaved woman,"
+                "C": "The African American novelist, Ernest Gaines tells the story of an enslaved woman",
+                "D": "The African American novelist Ernest Gaines, tells the story of an enslaved woman,"
             },
-            "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+            "question": "Which choice sets off “Ernest Gaines” as a nonrestrictive appositive with commas?",
             "paragraph": "In her 1954 memoir, *The Autobiography of Miss Jane Pittman*, the African American novelist,  Ernest Gaines, tells the story of an enslaved woman,  who lives to see the end of the Jim Crow era. ",
             "explanation": "Choice A correctly sets off the nonrestrictive appositive phrase  \"The African American novelist, Ernest Gaines\" with commas. The phrase is nonrestrictive because it provides additional information about the noun it modifies, \"the African American novelist,\" but it is not essential to the meaning of the sentence. The comma after \"Gaines\" also prevents a comma splice, which is the error of joining two independent clauses with only a comma.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a698587d",
         "domain": "Standard English Conventions",
@@ -26775,8 +28049,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_32de56cf170ec14a",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -26796,8 +28071,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_05d0905c692c8ca2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26817,8 +28093,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_7c15f372fa81df77",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26838,6 +28115,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e5b5fbdd",
         "domain": "Standard English Conventions",
@@ -26859,8 +28137,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_9b46178f32a4457b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26880,8 +28159,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b2",
+        "id": "q_a26efda2a5487c80",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -26901,8 +28181,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_ec9487b537386b54",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26922,8 +28203,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_b56ff85b1050e80b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -26943,8 +28225,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_a62f511d43411440",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -26964,6 +28247,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d46e161b",
         "domain": "Standard English Conventions",
@@ -26985,6 +28269,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "945f2186",
         "domain": "Expression of Ideas",
@@ -27006,6 +28291,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f81a356f",
         "domain": "Standard English Conventions",
@@ -27027,6 +28313,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f9324f89",
         "domain": "Standard English Conventions",
@@ -27048,8 +28335,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "45a109a3",
+        "id": "q_768c08590eeabc81",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27069,8 +28357,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_9afbd688cdf6f01e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -27090,6 +28379,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6860a419",
         "domain": "Expression of Ideas",
@@ -27111,6 +28401,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4b265092",
         "domain": "Standard English Conventions",
@@ -27132,6 +28423,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "12d8c11e",
         "domain": "Standard English Conventions",
@@ -27153,8 +28445,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_de11ee92af9d8c2f",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27174,6 +28467,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "44489ac4",
         "domain": "Information and Ideas",
@@ -27195,6 +28489,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d4237e9c",
         "domain": "Craft and Structure",
@@ -27216,6 +28511,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6435329d",
         "domain": "Standard English Conventions",
@@ -27237,6 +28533,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2345d987",
         "domain": "Standard English Conventions",
@@ -27258,6 +28555,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "632e801f",
         "domain": "Standard English Conventions",
@@ -27279,8 +28577,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_727d1c5cb0cdd42b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27300,6 +28599,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "472e85c5",
         "domain": "Information and Ideas",
@@ -27321,8 +28621,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_49b21df11dc974bd",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27342,6 +28643,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "1f2f37a9",
         "domain": "Standard English Conventions",
@@ -27363,8 +28665,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_6ef48e6f03e96cf8",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27384,6 +28687,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f87234fa",
         "domain": "Craft and Structure",
@@ -27405,8 +28709,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_7fd61d8d30fe0a07",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27426,6 +28731,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "499cb491",
         "domain": "Standard English Conventions",
@@ -27447,6 +28753,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "82b8f914",
         "domain": "Standard English Conventions",
@@ -27468,8 +28775,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_9bd1ed9ba9b91363",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27489,8 +28797,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_9cfb98d6277d01f0",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -27510,8 +28819,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_d3bb6daab5d67a8c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27531,8 +28841,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_86ea17207d6499b0",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -27552,6 +28863,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "489e14b7",
         "domain": "Information and Ideas",
@@ -27573,6 +28885,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "27b12601",
         "domain": "Information and Ideas",
@@ -27594,6 +28907,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "956f234a",
         "domain": "Standard English Conventions",
@@ -27615,6 +28929,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a451c338",
         "domain": "Craft and Structure",
@@ -27636,8 +28951,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12345678",
+        "id": "q_f9aa30af074ae218",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -27657,6 +28973,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f8d7a57c",
         "domain": "Standard English Conventions",
@@ -27678,6 +28995,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a6e26915",
         "domain": "Standard English Conventions",
@@ -27699,6 +29017,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7964532b",
         "domain": "Information and Ideas",
@@ -27720,8 +29039,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_eedc83daff236796",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -27741,6 +29061,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8e9677e6",
         "domain": "Information and Ideas",
@@ -27762,8 +29083,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_f82045dd65c5f8be",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -27783,8 +29105,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_3ef311fbfefefbb7",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -27804,6 +29127,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "47598085",
         "domain": "Information and Ideas",
@@ -27825,8 +29149,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_1f16453708ba0e34",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27846,6 +29171,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "541ab21f",
         "domain": "Information and Ideas",
@@ -27867,6 +29193,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7c2727f0",
         "domain": "Standard English Conventions",
@@ -27888,8 +29215,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e6",
+        "id": "q_d194a85c424822c0",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27909,6 +29237,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9317a986",
         "domain": "Information and Ideas",
@@ -27930,6 +29259,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d220e27e",
         "domain": "Standard English Conventions",
@@ -27951,6 +29281,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9481235b",
         "domain": "Standard English Conventions",
@@ -27972,8 +29303,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_1986dfd28c19ed18",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -27993,6 +29325,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "43efb000",
         "domain": "Standard English Conventions",
@@ -28014,8 +29347,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_533989a7188de023",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28035,8 +29369,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_eng",
+        "id": "q_e4f1d9f7bee6b1cf",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28056,8 +29391,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_d508540a81ae3e89",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28077,8 +29413,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_e759a098a8cf6232",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28098,6 +29435,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4c65f78e",
         "domain": "Expression of Ideas",
@@ -28119,8 +29457,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_a45b35b18baef8a5",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28140,8 +29479,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_328207e0fea0dc95",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28161,8 +29501,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_3f540003eeedd286",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28182,8 +29523,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_d9b4cb05b32d3263",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28203,8 +29545,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_9a648b63bb986f09",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28224,8 +29567,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_50acc9d68d088843",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28245,6 +29589,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5a46b33c",
         "domain": "Craft and Structure",
@@ -28266,6 +29611,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9812ca7b",
         "domain": "Standard English Conventions",
@@ -28275,20 +29621,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench, the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
+                "A": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*, is significant because it was found in the deepest known part of the Mariana Trench the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
                 "B": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench: the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
                 "C": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*, is significant because it was found in the deepest known part of the Mariana Trench; the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
                 "D": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*, is significant because it was found in the deepest known part of the Mariana Trench, the *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean."
             },
-            "question": "Which of the following is the most effective way to combine the sentences in this passage so that they conform to the conventions of Standard English?",
+            "question": "Which choice uses a semicolon to join the two independent clauses?",
             "paragraph": "The discovery of a new species of deep-sea fish, the *Pseudoliparis swirei*,  is significant because it was found in the deepest known part of the Mariana Trench.  The *P. swirei* is small, translucent, and lacks scales, and it is a reminder of the vastness of the deep ocean.",
-            "explanation": "The most effective way to combine the sentences is to use a comma to separate the two independent clauses.  The second clause is nonessential, and the comma helps to clarify the relationship between the two clauses.",
-            "correct_answer": "D"
+            "explanation": "Choice C uses a semicolon to join the independent clause about the discovery with the independent clause describing the fish. A is a fused sentence, B uses a colon, and D uses a comma splice.",
+            "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_2e14a67867458cd6",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28308,8 +29655,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_ca1d4e8e620f8c3c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28329,6 +29677,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e86676e9",
         "domain": "Standard English Conventions",
@@ -28350,6 +29699,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a3c8d73c",
         "domain": "Craft and Structure",
@@ -28371,6 +29721,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_english_12",
         "domain": "Expression of Ideas",
@@ -28392,6 +29743,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "45a48213",
         "domain": "Information and Ideas",
@@ -28413,8 +29765,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_1",
+        "id": "q_3d5ee2820fe60f51",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28425,17 +29778,18 @@ export const questionBank = [
                 "A": "The team's performance was impressive, they scored five goals and were the first team to reach the playoffs this season.",
                 "B": "The team's performance was impressive: they scored five goals, and they were the first team to reach the playoffs this season.",
                 "C": "The team's performance was impressive; they scored five goals, and were the first team to reach the playoffs this season.",
-                "D": "The team's performance was impressive, they scored five goals and were the first team to reach the playoffs this season."
+                "D": "The team’s performance was impressive they scored five goals and were the first team to reach the playoffs this season."
             },
-            "question": "What revision of the sentence is best?",
+            "question": "Which revision joins the independent clauses with a semicolon?",
             "paragraph": "The team's performance was impressive. They scored five goals, and they were the first team to reach the playoffs this season.  Which of the following is the best way to revise the sentence so that it conforms to the conventions of Standard English?",
-            "explanation": "The best way to revise the sentence is to use a semicolon to separate the two independent clauses.  This is because the two clauses are closely related in meaning.  The semicolon is the correct punctuation mark to join two independent clauses that are closely related.",
+            "explanation": "Choice C joins the independent clauses with a semicolon. A is a comma splice, B uses a colon, and D is a fused sentence.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_de02a7b7759709bb",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28455,8 +29809,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_626bbc2038722e12",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28476,8 +29831,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_8d8fc1726aa3e438",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28497,8 +29853,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_d8322b71cb26a8ba",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28507,19 +29864,20 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.",
-                "B": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.",
+                "B": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies had already yielded interesting insights into the potential impact of artificial light on human health.",
                 "C": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies already yielded interesting insights into the potential impact of artificial light on human health.",
                 "D": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies are already yielding interesting insights into the potential impact of artificial light on human health."
             },
-            "question": "Which choice best maintains the sentence’s consistent use of verb tense?",
+            "question": "Which choice uses the present perfect tense for the results?",
             "paragraph": "The study of the effects of prolonged exposure to artificial light on the human circadian rhythm is a relatively new field, however, the results of these studies have already yielded interesting insights into the potential impact of artificial light on human health.  ",
-            "explanation": "The sentence should maintain a consistent verb tense. The first part of the sentence is in the present tense. Therefore, the second part should also be in the present tense. \"Have already yielded\" is correct because it maintains the present tense.",
+            "explanation": "Choice A uses the present perfect phrase “have already yielded.” B uses the past perfect, C omits the auxiliary verb, and D uses the present progressive.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_2c201a7e24fb3fef",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28539,8 +29897,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d6",
+        "id": "q_7a2057e9b283a500",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28560,6 +29919,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "238f8392",
         "domain": "Craft and Structure",
@@ -28581,8 +29941,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_92e513f9c8bf0b44",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28602,8 +29963,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6ff9436c07130a8d",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28623,8 +29985,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_8659a36c7a60d105",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28644,8 +30007,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_2aacf93800e6ad1d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28665,6 +30029,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f13e0657",
         "domain": "Craft and Structure",
@@ -28686,8 +30051,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_305782aef69ca46e",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28707,8 +30073,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_f0f7cb9a4f6d7b88",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28728,6 +30095,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "25e61f2c",
         "domain": "Standard English Conventions",
@@ -28749,6 +30117,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "98754f91",
         "domain": "Craft and Structure",
@@ -28770,8 +30139,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_ce8bdbf6ad4a5eba",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28791,8 +30161,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_cba8388fbb4c5132",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28812,8 +30183,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_0279cc989681d69e",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28833,8 +30205,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_84c21ac6fb1d1b7d",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -28854,6 +30227,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d4f3a11d",
         "domain": "Standard English Conventions",
@@ -28875,8 +30249,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_007c7a70f7edee91",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28896,8 +30271,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_b272f968c77c5843",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28917,8 +30293,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_english_2",
+        "id": "q_dee492bac2ed90e2",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -28938,8 +30315,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_e3ea0c387f605c6f",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -28959,6 +30337,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "547f912a",
         "domain": "Standard English Conventions",
@@ -28980,6 +30359,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e12b9944",
         "domain": "Craft and Structure",
@@ -29001,8 +30381,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_ff03adb988930b5b",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29011,17 +30392,18 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "\"The real power of computers lies not in their speed or memory, but in their ability to communicate.\"",
-                "B": "\"The real power of computers lies not in their speed or memory, but in their ability to communicate.\"",
+                "B": "\"The real power of computers lies not in their speed or memory; but in their ability to communicate.\"",
                 "C": "\"The real power of computers lies not in their speed or memory but in their ability to communicate.\"",
                 "D": "\"The real power of computers lies not in their speed or memory but, in their ability to communicate.\""
             },
-            "question": "Which of the following is the best way to punctuate the quotation in the essay?",
+            "question": "Which choice places a comma before “but” in the quotation?",
             "paragraph": "A student is writing an essay about the history of the computer.  The student wants to use a quotation from a famous computer scientist to support their argument.  The quotation is: \"The real power of computers lies not in their speed or memory but in their ability to communicate.\"  The student wants to include the quotation in the essay, but they are unsure how to punctuate it.  The student knows that they need to set off the quotation with quotation marks but is unsure of where to put a comma.",
-            "explanation": "The correct answer is A. The comma should be placed after the introductory phrase \"The real power of computers lies not in their speed or memory,\" and before the independent clause \"but in their ability to communicate.\" This is because the comma separates the introductory phrase from the main clause of the sentence.  The other choices are incorrect because they either do not use a comma at all or place the comma in an incorrect location.",
+            "explanation": "Choice A places a comma before “but,” as requested. B uses a semicolon where the clauses are not independent, C omits the comma, and D places the comma after “but.”",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "45a4979f",
         "domain": "Craft and Structure",
@@ -29043,8 +30425,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_63fda957a5c61f50",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -29064,6 +30447,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d76c9d61",
         "domain": "Standard English Conventions",
@@ -29085,8 +30469,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_015490bf951c3bb0",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -29106,6 +30491,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c9f172f7",
         "domain": "Standard English Conventions",
@@ -29127,6 +30513,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "257f017c",
         "domain": "Standard English Conventions",
@@ -29136,18 +30523,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
+                "A": "The process of photosynthesis involves a series of steps each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
                 "B": "The process of photosynthesis involves a series of steps, each requiring energy that result in the conversion of light energy into chemical energy that plants use to grow.",
                 "C": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
                 "D": "The process of photosynthesis involves a series of steps, each requiring energy that result in the conversion of light energy into chemical energy, that plants use to grow."
             },
-            "question": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow.",
+            "question": "Which choice sets off the supplementary phrase “each requiring energy” with commas?",
             "paragraph": "The process of photosynthesis involves a series of steps, each requiring energy, that result in the conversion of light energy into chemical energy that plants use to grow. Which of the following choices is the best way to punctuate the sentence?",
-            "explanation": "The best way to punctuate the sentence is to use a comma after \"energy\" and after \"energy\" because the phrases \"each requiring energy\" and \"that result in the conversion of light energy into chemical energy that plants use to grow\" are nonrestrictive and should be set off with commas.  The comma after \"energy\" correctly separates the nonrestrictive phrase \"each requiring energy.\" The comma after \"energy\" correctly separates the nonrestrictive phrase \"that result in the conversion of light energy into chemical energy that plants use to grow.\"  All the other choices either incorrectly use no commas or incorrectly use a comma and a conjunction.",
+            "explanation": "Choice C sets off the supplementary phrase “each requiring energy” with a comma before and after it. The other choices omit or misplace one or both commas.",
             "correct_answer": "C"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "54f7813e",
         "domain": "Expression of Ideas",
@@ -29169,6 +30557,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "89656d1c",
         "domain": "Standard English Conventions",
@@ -29178,18 +30567,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "While some worry that automation will lead to job losses, the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
-                "B": "While some worry that automation will lead to job losses the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
-                "C": "While some worry that automation will lead to job losses the author noted, the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.",
-                "D": "While some worry that automation will lead to job losses, the author noted the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills."
+                "A": "“While some worry that automation will lead to job losses,” the author noted, “the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.”",
+                "B": "“While some worry that automation will lead to job losses” the author noted, “the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.”",
+                "C": "“While some worry that automation will lead to job losses,” the author noted “the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.”",
+                "D": "“While some worry that automation will lead to job losses” the author noted “the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.”"
             },
-            "question": "Which choice provides the best way to correct the punctuation error in the passage? ",
+            "question": "Which choice correctly punctuates the interrupted quotation around the dialogue tag?",
             "paragraph": "A recent article in the New York Times examined the relationship between the rise of artificial intelligence and the increasing demand for human workers in fields like healthcare. \"While some worry that automation will lead to job losses,\" the author noted, \"the healthcare industry is in desperate need of workers, so it’s important to see how these technologies can be used to enhance, not replace, human skills.\"  ",
-            "explanation": "The comma after \"noted\" is incorrect because it creates a comma splice; a comma cannot be used to join two independent clauses. The correction in choice A places a comma after \"losses,\" which separates the two independent clauses and is correct.",
+            "explanation": "Choice A uses a comma before the closing quotation mark and a comma after “noted” to set off the dialogue tag. The other choices omit one or both commas.",
             "correct_answer": "A"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5c5184ab",
         "domain": "Standard English Conventions",
@@ -29211,6 +30601,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4f52918f",
         "domain": "Information and Ideas",
@@ -29232,8 +30623,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_f71aeb2ba76ab4f2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29253,8 +30645,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_10156df6749c9a67",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -29274,6 +30667,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e8973d4d",
         "domain": "Expression of Ideas",
@@ -29295,6 +30689,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e95d4a98",
         "domain": "Standard English Conventions",
@@ -29316,8 +30711,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_7db5cfe4b2d3a2ea",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -29337,6 +30733,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "13f4998b",
         "domain": "Information and Ideas",
@@ -29358,6 +30755,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a278691d",
         "domain": "Information and Ideas",
@@ -29379,8 +30777,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_17a13baf7ed80d25",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29389,7 +30788,7 @@ export const questionBank = [
         "question": {
             "choices": {
                 "A": "They carved intricate facades, into the sandstone cliffs, creating elaborate tombs and temples.",
-                "B": "They carved intricate facades, into the sandstone cliffs, creating elaborate tombs and temples.",
+                "B": "They carved intricate facades, into the sandstone cliffs creating elaborate tombs and temples.",
                 "C": "They carved intricate facades into the sandstone cliffs, creating elaborate tombs and temples.",
                 "D": "They carved intricate facades into the sandstone cliffs creating elaborate tombs and temples."
             },
@@ -29400,6 +30799,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1243g53",
         "domain": "Craft and Structure",
@@ -29421,6 +30821,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9e89235d",
         "domain": "Information and Ideas",
@@ -29442,6 +30843,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a70cbc53",
         "domain": "Craft and Structure",
@@ -29463,6 +30865,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3e49c84b",
         "domain": "Standard English Conventions",
@@ -29484,6 +30887,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e642020c",
         "domain": "Craft and Structure",
@@ -29505,6 +30909,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "848592c2",
         "domain": "Standard English Conventions",
@@ -29526,6 +30931,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "6b889d3c",
         "domain": "Craft and Structure",
@@ -29547,8 +30953,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_03142047da1ac64d",
         "domain": "Expression of Ideas",
         "visuals": {
             "type": "null",
@@ -29568,8 +30975,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_5e8151afea5d1472",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29589,8 +30997,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_44355f55db6795f8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29610,6 +31019,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9845213a",
         "domain": "Expression of Ideas",
@@ -29631,8 +31041,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_e9b8a1b0afd4a1e8",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -29652,8 +31063,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_acef399d5195c62c",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29661,18 +31073,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle.",
-                "B": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle.",
-                "C": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle.",
-                "D": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle."
+                "A": "It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle.",
+                "B": "Its wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle.",
+                "C": "Its wings beat so rapidly creating a blur, yet the hummingbird remained perfectly still. Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle.",
+                "D": "Its wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still, Its colors were brilliant, and its beak, long and slender, looked like a tiny, iridescent needle."
             },
-            "question": "Which choice provides the best punctuation for the underlined portion?",
+            "question": "Which choice correctly uses the possessive pronoun “its” and separates the two sentences with a period?",
             "paragraph": "The first time I ever saw a hummingbird, I was completely mesmerized. I had never seen a bird that could hover in mid-air, let alone fly backwards.  It’s wings beat so rapidly, creating a blur, yet the hummingbird remained perfectly still. It’s colors were brilliant, and it’s beak, long and slender, looked like a tiny, iridescent needle. I watched, captivated, as it dipped it’s beak into a flower and then flew off to the next blossom.",
-            "explanation": "The best way to punctuate the sentence is to use an apostrophe in the word \"It’s\" and a period after \"still.\"  The possessive pronoun \"Its\" should be capitalized because it begins a new sentence.",
+            "explanation": "Choice B uses the possessive pronoun “its” without an apostrophe and separates the two sentences with a period. A incorrectly uses “it’s” in the first sentence, C omits needed commas, and D creates a comma splice.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3b8c42e",
         "domain": "Standard English Conventions",
@@ -29694,8 +31107,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_c82413651b13dfa2",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29715,6 +31129,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "18961d20",
         "domain": "Standard English Conventions",
@@ -29736,6 +31151,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f803c2b6",
         "domain": "Craft and Structure",
@@ -29757,8 +31173,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e1",
+        "id": "q_0c74ecb1c8730786",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29778,6 +31195,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "13c01a2b",
         "domain": "Standard English Conventions",
@@ -29799,6 +31217,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "564781b2",
         "domain": "Information and Ideas",
@@ -29820,8 +31239,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_670e6f533aaa68f3",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29841,6 +31261,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "13dd337f",
         "domain": "Standard English Conventions",
@@ -29862,8 +31283,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e2",
+        "id": "q_6260062eb94c0ff8",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29883,8 +31305,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_619d72c94dd03bab",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -29904,6 +31327,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9a2f7d56",
         "domain": "Expression of Ideas",
@@ -29925,8 +31349,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_ed782141f8be6a41",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -29946,6 +31371,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f678a74b",
         "domain": "Craft and Structure",
@@ -29967,6 +31393,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "876fc521",
         "domain": "Expression of Ideas",
@@ -29988,8 +31415,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_5b9e8fc49a17776a",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -30009,6 +31437,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f81d448f",
         "domain": "Craft and Structure",
@@ -30030,6 +31459,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b41b7924",
         "domain": "Standard English Conventions",
@@ -30051,6 +31481,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "60f67a8c",
         "domain": "Standard English Conventions",
@@ -30072,6 +31503,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a698e32b",
         "domain": "Standard English Conventions",
@@ -30093,6 +31525,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7796753e",
         "domain": "Craft and Structure",
@@ -30114,6 +31547,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6b21c548",
         "domain": "Information and Ideas",
@@ -30135,6 +31569,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "37148a9f",
         "domain": "Standard English Conventions",
@@ -30156,8 +31591,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_ba13c988786be513",
         "domain": "Standard English Conventions",
         "visuals": {
             "type": "null",
@@ -30177,6 +31613,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "c674e894",
         "domain": "Craft and Structure",
@@ -30198,6 +31635,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a452c78f",
         "domain": "Information and Ideas",
@@ -30219,6 +31657,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "892f182a",
         "domain": "Information and Ideas",
@@ -30240,6 +31679,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "d79f1d90",
         "domain": "Craft and Structure",
@@ -30261,8 +31701,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_fb552f8915007762",
         "domain": "Information and Ideas",
         "visuals": {
             "type": "null",
@@ -30282,8 +31723,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_4a922a02f4dd8537",
         "domain": "Craft and Structure",
         "visuals": {
             "type": "null",
@@ -30303,6 +31745,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
 
     // Math
     {
@@ -30326,6 +31769,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b81173a5",
         "domain": "Advanced Math",
@@ -30347,8 +31791,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_272c87e3af99ccd6",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30368,6 +31813,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9f6f8f8f",
         "domain": "Problem-Solving and Data Analysis",
@@ -30389,8 +31835,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_4a64bc13d0bc33a2",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -30410,8 +31857,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_09a3c6b895595a56",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30431,8 +31879,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_eafdf38f2ca6fa56",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30452,8 +31901,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_1f21aea6925fbd13",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -30473,6 +31923,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d45a749b",
         "domain": "Geometry and Trigonometry",
@@ -30494,8 +31945,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_fdd08b9d3199fa17",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -30515,8 +31967,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_64115bd7d027524f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30536,8 +31989,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b12",
+        "id": "q_bf47f9e6a57f615b",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -30557,6 +32011,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "79802835",
         "domain": "Advanced Math",
@@ -30578,6 +32033,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f41b3483",
         "domain": "Geometry and Trigonometry",
@@ -30599,6 +32055,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "893a69b2",
         "domain": "Algebra",
@@ -30620,8 +32077,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_c976142f3855a2a9",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30641,8 +32099,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_3c0df81ce469b201",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30657,11 +32116,12 @@ export const questionBank = [
             },
             "question": "The function *f* is defined by *f*(x) = 3x^2 - 5x + 2. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 8.",
-            "correct_answer": "C"
+            "explanation": "Substitute 2 for x: f(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4. Therefore, choice A is correct.",
+            "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d8f2679c",
         "domain": "Geometry and Trigonometry",
@@ -30683,8 +32143,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_a0ca528b35159393",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30704,8 +32165,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_6ee2a32f122e1259",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -30725,6 +32187,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c10",
         "domain": "Advanced Math",
@@ -30736,7 +32199,7 @@ export const questionBank = [
             "choices": {
                 "A": "$\\frac{x-2}{x+2}$",
                 "B": "$\\frac{x+2}{x-2}$",
-                "C": "$\\frac{x-2}{x+2}$",
+                "C": "$\\frac{x^2-2}{x^2+4}$",
                 "D": "$\\frac{x+2}{x+2}$"
             },
             "question": "What is the simplified form of the expression $\\frac{x^2 - 4}{x^2 + 4x + 4}$?",
@@ -30746,6 +32209,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_f8",
         "domain": "Algebra",
@@ -30767,8 +32231,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_8f07702d46f1acb9",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -30788,6 +32253,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d9a8c19e",
         "domain": "Problem-Solving and Data Analysis",
@@ -30809,8 +32275,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_d92b14be3d698b5d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30830,8 +32297,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_55553a1b44f96fbe",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -30851,6 +32319,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "734eb82c",
         "domain": "Problem-Solving and Data Analysis",
@@ -30872,8 +32341,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_85eeeb550110f601",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30893,8 +32363,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_9004fc8553b8d1e5",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30914,6 +32385,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_f7",
         "domain": "Problem-Solving and Data Analysis",
@@ -30935,8 +32407,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_f06fd7d1664fd8dd",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30956,8 +32429,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_3f66fcbf7f80b46c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -30977,8 +32451,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_f4d4586a3f45a4d3",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -30998,8 +32473,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_123db85dc333f65b",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -31019,6 +32495,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a23b7c3e",
         "domain": "Advanced Math",
@@ -31033,13 +32510,14 @@ export const questionBank = [
                 "C": "11",
                 "D": "17"
             },
-            "question": "The function *f* is defined by *f*(x) = 2*x*\u003Csup\u003E2\u003C/sup\u003E – 3*x* + 1. What is the value of *f*(–2)?",
+            "question": "The function *f* is defined by *f*(x) = 2*x*<sup>2</sup> – 3*x* + 1. What is the value of *f*(–2)?",
             "paragraph": "null",
-            "explanation": "We substitute -2 for *x* in the function: *f*(–2) = 2(–2)\u003Csup\u003E2\u003C/sup\u003E – 3(–2) + 1.  Simplifying, we get *f*(–2) = 2(4) + 6 + 1 = 8 + 6 + 1 = 15.  Therefore, *f*(–2) = 15.",
+            "explanation": "We substitute -2 for *x* in the function: *f*(–2) = 2(–2)<sup>2</sup> – 3(–2) + 1.  Simplifying, we get *f*(–2) = 2(4) + 6 + 1 = 8 + 6 + 1 = 15.  Therefore, *f*(–2) = 15.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_5",
         "domain": "Advanced Math",
@@ -31061,8 +32539,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_d5da619e6995599c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31082,6 +32561,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "784322d6",
         "domain": "Advanced Math",
@@ -31103,8 +32583,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_ace9a1900cfcf24f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31124,8 +32605,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_a6405b44fbec2f61",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31145,6 +32627,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "627f145a",
         "domain": "Geometry and Trigonometry",
@@ -31166,6 +32649,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "178f291d",
         "domain": "Algebra",
@@ -31175,20 +32659,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 17$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 17 gives 5x = 20, so x = 4. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_22",
+        "id": "q_39e6a5b74d8c5168",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31208,8 +32693,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_d9a2393b6ac3eb0d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31229,8 +32715,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_516c93b2d32dc83d",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -31250,6 +32737,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f84da248",
         "domain": "Algebra",
@@ -31271,6 +32759,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9f501aaf",
         "domain": "Geometry and Trigonometry",
@@ -31292,6 +32781,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3c28f16b",
         "domain": "Geometry and Trigonometry",
@@ -31313,8 +32803,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_df49f2b8d448174f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31334,8 +32825,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_b9528a001355e65d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31355,6 +32847,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9479c17e",
         "domain": "Algebra",
@@ -31376,6 +32869,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9827b6c3",
         "domain": "Problem-Solving and Data Analysis",
@@ -31397,8 +32891,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_adb5a6c533bc08ed",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31418,8 +32913,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_5172365d3895ac8d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31439,6 +32935,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "74735a92",
         "domain": "Geometry and Trigonometry",
@@ -31460,6 +32957,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f5943e1b",
         "domain": "Advanced Math",
@@ -31481,8 +32979,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_f98a9b9a203b9003",
         "domain": "Problem-Solving and Data Analysis",
         "question": {
             "choices": {
@@ -31502,8 +33001,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_62c62302ad84cfbe",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31523,8 +33023,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_2c809f38504fe6e7",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31544,8 +33045,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_d1d2ddf54d2d57b4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -31565,8 +33067,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_76ba971e20ec0c86",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31586,6 +33089,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f123456",
         "domain": "Advanced Math",
@@ -31602,13 +33106,14 @@ export const questionBank = [
             },
             "question": "The function *f* is defined by *f*(x) = 3x^2 - 2x + 1. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "Substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 2(2) + 1 = 3(4) - 4 + 1 = 12 - 4 + 1 = 13.",
-            "correct_answer": "C"
+            "explanation": "Substitute 2 for x: f(2) = 3(2)^2 - 2(2) + 1 = 12 - 4 + 1 = 9. Therefore, choice A is correct.",
+            "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_21",
+        "id": "q_4cbd25abaf47213d",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31628,8 +33133,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_5762f44bddaeecb6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31649,6 +33155,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "75da8b92",
         "domain": "Geometry and Trigonometry",
@@ -31670,8 +33177,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_592d9399c130e48d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31691,6 +33199,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "89f638d2",
         "domain": "Advanced Math",
@@ -31712,6 +33221,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1915b42d",
         "domain": "Algebra",
@@ -31733,8 +33243,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_23",
+        "id": "q_3df3f8f825469545",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31754,8 +33265,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_94073d36eb7a6b9d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31763,8 +33275,8 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "$\\pi$ cm",
-                "B": "$\\pi$ cm",
+                "A": "2$\\pi$ cm",
+                "B": "5$\\pi$ cm",
                 "C": "10$\\pi$ cm",
                 "D": "25$\\pi$ cm"
             },
@@ -31775,8 +33287,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_8f97627ea67bea19",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31796,6 +33309,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9821f84b",
         "domain": "Problem-Solving and Data Analysis",
@@ -31817,8 +33331,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_859460ee19a731ea",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -31838,8 +33353,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_168c8e6d99b1cb77",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31859,8 +33375,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_d26f4a72c8d2ef53",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31880,6 +33397,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_9",
         "domain": "Advanced Math",
@@ -31901,8 +33419,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7a89505aee7d331c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -31922,8 +33441,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_597c386ec74230ba",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31943,8 +33463,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_fbeedce8a53a23e5",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -31964,6 +33485,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "842454c",
         "domain": "Geometry and Trigonometry",
@@ -31985,6 +33507,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c41b7f94",
         "domain": "Algebra",
@@ -32006,8 +33529,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_070fd227aabc316d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32027,6 +33551,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e55931d8",
         "domain": "Geometry and Trigonometry",
@@ -32048,8 +33573,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_fee776c76d98806f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32069,8 +33595,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d6",
+        "id": "q_c9ae34c7e3e54b48",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -32090,8 +33617,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_952a7af9943f6808",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32111,8 +33639,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_6d25fca9f068f912",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32132,8 +33661,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_c57b0fd57956184b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32153,8 +33683,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_1953d298ea382c09",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32174,8 +33705,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_45118cd59f60b3ac",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32195,8 +33727,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_d50a1a023d4871b2",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32216,8 +33749,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_3f4828001b8dbbd7",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32237,8 +33771,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_4311018bee296cb6",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32258,8 +33793,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f890dc20",
+        "id": "q_1a1fbc92f3b4b247",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32279,8 +33815,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_040f70b6b71bc54e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32288,18 +33825,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "324",
+                "B": "648",
+                "C": "1296",
+                "D": "2592"
             },
-            "question": "A circle with a radius of 5 units is inscribed in a square. What is the area, in square units, of the square?",
+            "question": "A circle with a radius of 18 units is inscribed in a square. What is the area, in square units, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5 units, the diameter is 10 units. Therefore, the side length of the square is 10 units, and the area of the square is 10^2 = 100 square units.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 18 = 36, so the square area is 36^2 = 1296 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a9f12c4a",
         "domain": "Algebra",
@@ -32321,8 +33859,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_fe11ac741b28498a",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -32332,18 +33871,19 @@ export const questionBank = [
             "choices": {
                 "A": "1",
                 "B": "2",
-                "C": "3",
+                "C": "2.4",
                 "D": "4"
             },
             "question": "If $3x + 2y = 10$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 2, we get $2x - 2y = 2$. Adding this equation to the first equation, we get $5x = 12$. Dividing both sides by 5, we get $x = \\frac{12}{5}$.",
-            "correct_answer": "B"
+            "explanation": "From x - y = 1, y = x - 1. Substitute into 3x + 2y = 10: 3x + 2(x - 1) = 10, so 5x = 12 and x = 12/5 = 2.4. Therefore, choice C is correct.",
+            "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_e7b3036ccf56b711",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -32363,8 +33903,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_b040ce5c385827f9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32384,8 +33925,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_74eed8b0600c4987",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32405,8 +33947,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12d8c11e",
+        "id": "q_4a790081a9cd84e5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32426,8 +33969,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_24c45978048050e2",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32447,8 +33991,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_0d34cb3e74aaa522",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32468,8 +34013,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_3c533b741933607c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -32489,8 +34035,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_174b3b487840a0b0",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32510,8 +34057,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_66aacf08bbd44f2d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32531,8 +34079,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_5ce2534bce363698",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32552,8 +34101,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_11",
+        "id": "q_afd2dc98f7b8ba2e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32573,6 +34123,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f8b7928d",
         "domain": "Geometry and Trigonometry",
@@ -32594,6 +34145,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1e45287a",
         "domain": "Advanced Math",
@@ -32615,8 +34167,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_4cf611316204281b",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32636,6 +34189,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6b2173d9",
         "domain": "Advanced Math",
@@ -32657,8 +34211,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_ae699ef4f9ec032e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -32678,6 +34233,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a618f78a",
         "domain": "Advanced Math",
@@ -32699,6 +34255,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8493e142",
         "domain": "Advanced Math",
@@ -32720,6 +34277,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "23b4567c",
         "domain": "Geometry and Trigonometry",
@@ -32741,6 +34299,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "84fd464d",
         "domain": "Advanced Math",
@@ -32762,8 +34321,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_ecec9f26e4df7d63",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32783,8 +34343,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c10",
+        "id": "q_2279ed4ba8799344",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -32804,8 +34365,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_bf8b6c58abdf3bc9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32825,8 +34387,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_613a63b51a15a4af",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32846,6 +34409,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f876d354",
         "domain": "Geometry and Trigonometry",
@@ -32867,8 +34431,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_c322930488cef9be",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -32888,8 +34453,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_5471f7ef07f715d2",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -32909,8 +34475,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_7a8172145ee1066b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -32923,13 +34490,14 @@ export const questionBank = [
                 "C": "46",
                 "D": "48"
             },
-            "question": "The function *f* is defined by *f*(x) = 3*x*\u003Csup\u003E2\u003C/sup\u003E - 2. What is the value of *f*(4)?",
+            "question": "The function *f* is defined by *f*(x) = 3*x*<sup>2</sup> - 2. What is the value of *f*(4)?",
             "paragraph": "null",
-            "explanation": "To find *f*(4), we substitute 4 for *x* in the function's definition: *f*(4) = 3(4)\u003Csup\u003E2\u003C/sup\u003E - 2.  Simplifying, we get *f*(4) = 3(16) - 2 = 48 - 2 = 46.",
+            "explanation": "To find *f*(4), we substitute 4 for *x* in the function's definition: *f*(4) = 3(4)<sup>2</sup> - 2.  Simplifying, we get *f*(4) = 3(16) - 2 = 48 - 2 = 46.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "83d2d1d7",
         "domain": "Geometry and Trigonometry",
@@ -32951,8 +34519,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_317e2a9cb3f542f6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -32972,6 +34541,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "6e28133d",
         "domain": "Advanced Math",
@@ -32993,8 +34563,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_32a55c7471755621",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33014,6 +34585,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d759b3ad",
         "domain": "Advanced Math",
@@ -33035,6 +34607,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e32a83a4",
         "domain": "Problem-Solving and Data Analysis",
@@ -33056,8 +34629,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_ee9b94ca64f7551f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -33077,8 +34651,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_df0d79ea6cb2177a",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -33098,8 +34673,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d8",
+        "id": "q_168f1048b96da1d6",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33119,8 +34695,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_5fb45dd44359e45f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33140,8 +34717,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_fae4659c7adc29ce",
         "domain": "Advanced Math",
         "question": {
             "choices": {
@@ -33157,8 +34735,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_dff9b65ca93a3539",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33178,8 +34757,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_6a3e1feaf84fb9ad",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33199,8 +34779,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_447f461b1529ae23",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -33220,6 +34801,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4353498f",
         "domain": "Problem-Solving and Data Analysis",
@@ -33241,6 +34823,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e135f8a7",
         "domain": "Advanced Math",
@@ -33262,8 +34845,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_93bc3e6261a6c3aa",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33283,6 +34867,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f1234567",
         "domain": "Geometry and Trigonometry",
@@ -33304,8 +34889,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_04aa8ed6735fbbaf",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33325,8 +34911,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_4",
+        "id": "q_603f730e17f5ee11",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -33346,8 +34933,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_87159c85044520c8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33367,8 +34955,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_adc7395dfcdfe4f9",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33388,8 +34977,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_8b467843e753657b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33409,6 +34999,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9874b9c7",
         "domain": "Geometry and Trigonometry",
@@ -33430,6 +35021,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f21f58b1",
         "domain": "Advanced Math",
@@ -33451,8 +35043,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_50781f340f920c54",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33472,6 +35065,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_24",
         "domain": "Problem-Solving and Data Analysis",
@@ -33493,8 +35087,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_0c2d21e6b75b69c2",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -33514,8 +35109,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_b03d1fc767db5407",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33535,6 +35131,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_29",
         "domain": "Algebra",
@@ -33544,18 +35141,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "7"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 22$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ by using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 22 gives 5x = 25, so x = 5. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f249d34f",
         "domain": "Problem-Solving and Data Analysis",
@@ -33577,8 +35175,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_11ee69b01e812eb6",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33598,6 +35197,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5d7815cf",
         "domain": "Advanced Math",
@@ -33619,6 +35219,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "28b0f83f",
         "domain": "Algebra",
@@ -33640,6 +35241,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "a3e423d5",
         "domain": "Geometry and Trigonometry",
@@ -33661,6 +35263,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "67d896a1",
         "domain": "Geometry and Trigonometry",
@@ -33682,6 +35285,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "15624ef5",
         "domain": "Advanced Math",
@@ -33703,6 +35307,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8f564a2d",
         "domain": "Problem-Solving and Data Analysis",
@@ -33724,6 +35329,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "24e42f58",
         "domain": "Advanced Math",
@@ -33745,8 +35351,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_4f9caae8e600aa8a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33766,6 +35373,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e879416b",
         "domain": "Problem-Solving and Data Analysis",
@@ -33787,6 +35395,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9462ef8d",
         "domain": "Geometry and Trigonometry",
@@ -33808,8 +35417,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_9c92dc820a5291f3",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33829,6 +35439,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d66b53aa",
         "domain": "Algebra",
@@ -33840,18 +35451,19 @@ export const questionBank = [
             "choices": {
                 "A": "1",
                 "B": "2",
-                "C": "3",
+                "C": "2.4",
                 "D": "4"
             },
             "question": "If $3x + 2y = 10$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use the elimination method. Multiplying the second equation by 2, we get $2x - 2y = 2$. Adding this equation to the first equation, we get $5x = 12$. Dividing both sides by 5, we get $x = \\frac{12}{5}$, or $x = 2.4$.",
+            "explanation": "From x - y = 1, y = x - 1. Substitute into 3x + 2y = 10: 3x + 2(x - 1) = 10, so 5x = 12 and x = 12/5 = 2.4. Therefore, choice C is correct.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_11",
+        "id": "q_1b27cd12fa00f115",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33871,8 +35483,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_a0023e03ffdfad0e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33892,8 +35505,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_11",
+        "id": "q_0276c1038fa5af62",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -33913,8 +35527,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_af6be9fda6768ee4",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -33934,6 +35549,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a9e73934",
         "domain": "Advanced Math",
@@ -33955,8 +35571,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_c5b139a8dffd0862",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -33976,8 +35593,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_23",
+        "id": "q_17983d2859cc993a",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -33985,20 +35603,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "5",
+                "B": "6",
+                "C": "7",
+                "D": "8"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 27$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for x by using the elimination method.  Multiplying the second equation by 3, we get $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 27 gives 5x = 30, so x = 6. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_0e6dae257a691c36",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34018,8 +35637,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_5312e17b91cf5279",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34039,6 +35659,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "92b8c91d",
         "domain": "Problem-Solving and Data Analysis",
@@ -34060,6 +35681,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "788fb45b",
         "domain": "Advanced Math",
@@ -34081,8 +35703,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_f9cb9f1e768d2769",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34102,6 +35725,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7d6c67e3",
         "domain": "Problem-Solving and Data Analysis",
@@ -34123,8 +35747,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_b0ea724c8658a806",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -34144,6 +35769,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7160cbb4",
         "domain": "Advanced Math",
@@ -34158,13 +35784,14 @@ export const questionBank = [
                 "C": "22",
                 "D": "28"
             },
-            "question": "The function *f* is defined by *f*(x) = 3x\u003Csup\u003E2\u003C/sup\u003E + 4. What is the value of *f*(2)?",
+            "question": "The function *f* is defined by *f*(x) = 3x<sup>2</sup> + 4. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the equation *f*(x) = 3x\u003Csup\u003E2\u003C/sup\u003E + 4. This gives us *f*(2) = 3(2)\u003Csup\u003E2\u003C/sup\u003E + 4 = 3(4) + 4 = 12 + 4 = 16.",
+            "explanation": "To find *f*(2), we substitute 2 for *x* in the equation *f*(x) = 3x<sup>2</sup> + 4. This gives us *f*(2) = 3(2)<sup>2</sup> + 4 = 3(4) + 4 = 12 + 4 = 16.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b23",
         "domain": "Advanced Math",
@@ -34186,6 +35813,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "78f6c593",
         "domain": "Algebra",
@@ -34207,8 +35835,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_e29d7e60548d4f8b",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -34218,16 +35847,17 @@ export const questionBank = [
             "choices": {
                 "A": "1",
                 "B": "2",
-                "C": "3",
+                "C": "2.4",
                 "D": "4"
             },
             "question": "If $3x + 2y = 10$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can use elimination to solve this system of equations. Multiplying the second equation by 2, we get $2x - 2y = 2$. Adding this equation to the first equation, we get $5x = 12$. Solving for x, we get $x = \\frac{12}{5}$. However, none of the answer choices match this value. It is likely the question was designed with an error. We can check each of the answer choices by substituting them back into the system of equations to see if they make a true statement. Substituting 2 for x in the first equation gives us $3(2) + 2y = 10$, or $6 + 2y = 10$, or $2y = 4$, or $y = 2$. Substituting 2 for x in the second equation gives us $2 - 2 = 1$. This is a true statement, so the value of x is 2.",
-            "correct_answer": "B"
+            "explanation": "From x - y = 1, y = x - 1. Substitute into 3x + 2y = 10: 3x + 2(x - 1) = 10, so 5x = 12 and x = 12/5 = 2.4. Therefore, choice C is correct.",
+            "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f65119c4",
         "domain": "Advanced Math",
@@ -34249,6 +35879,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d6a4f412",
         "domain": "Algebra",
@@ -34270,8 +35901,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_91c380994a8232b8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34291,6 +35923,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_6",
         "domain": "Advanced Math",
@@ -34312,8 +35945,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_84b5c159b32e8654",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34333,8 +35967,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_4be40759dcec721e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34354,6 +35989,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4c98f1a6",
         "domain": "Geometry and Trigonometry",
@@ -34375,8 +36011,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_36d96921b92e8581",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -34396,6 +36033,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "5464496a",
         "domain": "Problem-Solving and Data Analysis",
@@ -34417,6 +36055,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4f8a7902",
         "domain": "Problem-Solving and Data Analysis",
@@ -34438,8 +36077,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_8f3a289a0d30bde8",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -34459,6 +36099,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "986421af",
         "domain": "Advanced Math",
@@ -34480,8 +36121,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_267266e9d15fc184",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34501,8 +36143,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_2260cc4ba5b72b46",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34522,8 +36165,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_21554045c5a25582",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34543,6 +36187,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "837421b1",
         "domain": "Advanced Math",
@@ -34564,8 +36209,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_99edba761fcb0a40",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34585,6 +36231,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "7a98f4e4",
         "domain": "Advanced Math",
@@ -34606,8 +36253,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_42",
+        "id": "q_51e3e1e72635eb0f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34627,8 +36275,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_880c03878146684d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34648,8 +36297,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_66a0903a39cbf11e",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -34657,18 +36307,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "6",
+                "B": "7",
+                "C": "8",
+                "D": "9"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 32$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ using the substitution method. Solving the second equation for $y$, we get $y = x - 1$. Substituting this into the first equation gives us $2x + 3(x - 1) = 12$. Simplifying the equation, we get $2x + 3x - 3 = 12$, or $5x - 3 = 12$. Adding 3 to both sides gives us $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 32 gives 5x = 35, so x = 7. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "34c8629c",
         "domain": "Advanced Math",
@@ -34690,6 +36341,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4321657a",
         "domain": "Advanced Math",
@@ -34711,8 +36363,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_3e8c49a367faa2fc",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34732,6 +36385,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a218e3c2",
         "domain": "Advanced Math",
@@ -34753,8 +36407,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_5a28c72f7aa18ddd",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34774,8 +36429,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_45d09c7ebe48ae8f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -34795,8 +36451,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_48b014be69ff3ab4",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -34816,6 +36473,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "33c2025c",
         "domain": "Algebra",
@@ -34825,20 +36483,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "7",
+                "B": "8",
+                "C": "9",
+                "D": "10"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 37$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ by using elimination.  Multiply the second equation by 3, which gives $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 37 gives 5x = 40, so x = 8. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d9",
+        "id": "q_4105f815e10f478a",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -34853,13 +36512,14 @@ export const questionBank = [
             },
             "question": "If $3x + 2y = 12$ and $x - 2y = 4$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for *x*, we can add the two equations together.  Notice that the *y* terms cancel out.  This gives us  $3x + 2y + (x - 2y) = 12 + 4$, or $4x = 16$. Dividing both sides by 4, we get $x = 4$. ",
-            "correct_answer": "C"
+            "explanation": "Add the equations 3x + 2y = 12 and x - 2y = 4 to eliminate y. This gives 4x = 16, so x = 4. Therefore, choice B is correct.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_1e8fa760136ae917",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -34879,8 +36539,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_189c792f076dd982",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -34900,8 +36561,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_756fc153e07a8408",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -34921,6 +36583,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "26f856bf",
         "domain": "Advanced Math",
@@ -34942,6 +36605,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8a5e763b",
         "domain": "Advanced Math",
@@ -34963,6 +36627,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "67eb899b",
         "domain": "Advanced Math",
@@ -34984,6 +36649,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b8a69f0c",
         "domain": "Advanced Math",
@@ -35005,6 +36671,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_d1",
         "domain": "Algebra",
@@ -35026,8 +36693,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_64f6a8174fd6877f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35047,6 +36715,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f66432b2",
         "domain": "Advanced Math",
@@ -35068,6 +36737,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a9012a34",
         "domain": "Geometry and Trigonometry",
@@ -35089,8 +36759,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_a651295a67b93586",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35110,8 +36781,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d2",
+        "id": "q_cbc9c1a8929c6a47",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35131,8 +36803,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_d71a1f794fc1b3d9",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -35152,6 +36825,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9b262b21",
         "domain": "Problem-Solving and Data Analysis",
@@ -35173,6 +36847,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "45e13b6a",
         "domain": "Geometry and Trigonometry",
@@ -35194,6 +36869,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a2f4d6d2",
         "domain": "Geometry and Trigonometry",
@@ -35215,8 +36891,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_07ed14b584a46d4f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -35236,8 +36913,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_7497e9dbd4924874",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35257,8 +36935,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_5ad87dfa473316b3",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -35278,8 +36957,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_d6c06a11d7dd7d2d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35299,8 +36979,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_e78353032e69b9a5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35320,8 +37001,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_fa6a8e9f2835b6fe",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35341,8 +37023,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_e503a319ed8f64b8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35362,8 +37045,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_94fe9bb83737a237",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35383,6 +37067,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "321984ad",
         "domain": "Geometry and Trigonometry",
@@ -35404,6 +37089,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "76ab9e6b",
         "domain": "Advanced Math",
@@ -35425,6 +37111,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3a82227f",
         "domain": "Advanced Math",
@@ -35446,8 +37133,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_abf97d371780d379",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35467,6 +37155,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "834b21df",
         "domain": "Advanced Math",
@@ -35488,6 +37177,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e37429b7",
         "domain": "Advanced Math",
@@ -35509,8 +37199,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_21ee18d1c1c24b41",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -35530,8 +37221,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_fb5bb65d43252180",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -35539,20 +37231,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "8",
+                "B": "9",
+                "C": "10",
+                "D": "11"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 42$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for x by using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we find $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 42 gives 5x = 45, so x = 9. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_c3d5b205aa4a6cc9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -35572,8 +37265,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "281a4f3b",
+        "id": "q_61c4463885a2b129",
         "domain": "Algebra",
         "question": {
             "choices": {
@@ -35589,8 +37283,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_63a9ea94c4e155e4",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -35610,6 +37305,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a9d72d33",
         "domain": "Algebra",
@@ -35631,6 +37327,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "2b779c0b",
         "domain": "Advanced Math",
@@ -35652,6 +37349,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a604979b",
         "domain": "Algebra",
@@ -35673,6 +37371,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e51f3a8c",
         "domain": "Geometry and Trigonometry",
@@ -35694,8 +37393,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_d622603b1cfacb8c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35715,6 +37415,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "435b892d",
         "domain": "Advanced Math",
@@ -35736,6 +37437,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a232ac8e",
         "domain": "Geometry and Trigonometry",
@@ -35757,6 +37459,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_47",
         "domain": "Geometry and Trigonometry",
@@ -35778,8 +37481,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_22",
+        "id": "q_9ec7bc1e3577d7ef",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35799,8 +37503,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_fbcbf3cfe683e85c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35820,6 +37525,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a987f231",
         "domain": "Advanced Math",
@@ -35841,6 +37547,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "49c1fd52",
         "domain": "Problem-Solving and Data Analysis",
@@ -35862,6 +37569,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "234e3498",
         "domain": "Geometry and Trigonometry",
@@ -35883,8 +37591,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_e741c37e521ee62c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35904,6 +37613,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_20",
         "domain": "Algebra",
@@ -35925,6 +37635,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_99",
         "domain": "Advanced Math",
@@ -35946,8 +37657,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_591822cd4f400b95",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -35967,8 +37679,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_d02b56e40ee8ff6a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -35988,6 +37701,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "94772ea2",
         "domain": "Algebra",
@@ -36009,8 +37723,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_cd88f9693d2526ab",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -36030,8 +37745,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_a269f44516b8f553",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36051,8 +37767,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_244ae45fd48cfe5c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36065,13 +37782,14 @@ export const questionBank = [
                 "C": "7",
                 "D": "13"
             },
-            "question": "The function *f* is defined by *f*(x) = *x*\u003Csup\u003E2\u003C/sup\u003E + 3. What is the value of *f*(-2)?",
+            "question": "The function *f* is defined by *f*(x) = *x*<sup>2</sup> + 3. What is the value of *f*(-2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(-2), we substitute -2 for *x* in the equation *f*(x) = *x*\u003Csup\u003E2\u003C/sup\u003E + 3: \n *f*(-2) = (-2)\u003Csup\u003E2\u003C/sup\u003E + 3 = 4 + 3 = 7.",
+            "explanation": "To find *f*(-2), we substitute -2 for *x* in the equation *f*(x) = *x*<sup>2</sup> + 3: \n *f*(-2) = (-2)<sup>2</sup> + 3 = 4 + 3 = 7.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a32b1c8e",
         "domain": "Problem-Solving and Data Analysis",
@@ -36093,8 +37811,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_226faddad3d052a4",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36114,8 +37833,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_331f89b961be53a4",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -36135,8 +37855,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_29e6996daf14731c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36144,20 +37865,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "36",
+                "B": "72",
+                "C": "144",
+                "D": "288"
             },
-            "question": "A circle with radius 5 is inscribed in a square.  What is the area of the square?",
+            "question": "A circle with radius 6 is inscribed in a square.  What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5, the diameter is 10.  Therefore, the area of the square is 10^2 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 6 = 12, so the square area is 12^2 = 144.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_b4cd0e7fcaa744f9",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36177,8 +37899,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_8b6f7066adf83d20",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36198,8 +37921,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_3a96cbbafbc925b0",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36219,8 +37943,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_beae1f769963ed4c",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36240,8 +37965,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_a5fb813b6f746dc0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36261,8 +37987,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_8b6cf3ed90168fbe",
         "domain": "Problem-Solving and Data Analysis",
         "question": {
             "choices": {
@@ -36282,8 +38009,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_d2afc1cf0c8d02f9",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36303,8 +38031,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_d7f74619f937fbf1",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36324,6 +38053,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f1326ef1",
         "domain": "Advanced Math",
@@ -36338,13 +38068,14 @@ export const questionBank = [
                 "C": "3",
                 "D": "9"
             },
-            "question": "The function *f* is defined by *f*(x) = 2x\u003Csup\u003E2\u003C/sup\u003E + 3x - 1. What is the value of *f*(-2)?",
+            "question": "The function *f* is defined by *f*(x) = 2x<sup>2</sup> + 3x - 1. What is the value of *f*(-2)?",
             "paragraph": "null",
-            "explanation": "Substituting -2 for *x* in the function *f*(x) = 2x\u003Csup\u003E2\u003C/sup\u003E + 3x - 1, we get *f*(-2) = 2(-2)\u003Csup\u003E2\u003C/sup\u003E + 3(-2) - 1 = 8 - 6 - 1 = 1. Therefore, the value of *f*(-2) is -9.",
+            "explanation": "Substituting -2 for *x* in the function *f*(x) = 2x<sup>2</sup> + 3x - 1, we get *f*(-2) = 2(-2)<sup>2</sup> + 3(-2) - 1 = 8 - 6 - 1 = 1. Therefore, the value of *f*(-2) is -9.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9839f420",
         "domain": "Advanced Math",
@@ -36366,6 +38097,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f4b32a65",
         "domain": "Geometry and Trigonometry",
@@ -36387,8 +38119,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_1d26d533d0a69460",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36408,8 +38141,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_536a66d52b7b98e0",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36429,8 +38163,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_63b9e1792849c0ce",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36450,6 +38185,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_13",
         "domain": "Algebra",
@@ -36471,8 +38207,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_6d3130a5d49af265",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36492,6 +38229,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "5ae186b4",
         "domain": "Advanced Math",
@@ -36513,6 +38251,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "84b5125c",
         "domain": "Algebra",
@@ -36534,8 +38273,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_534e881a71f92953",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -36555,8 +38295,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_72b97dd68adaa5a0",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36576,8 +38317,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_abd2901370443546",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -36597,8 +38339,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_96741b891300193b",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -36618,6 +38361,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f779a5bf",
         "domain": "Geometry and Trigonometry",
@@ -36639,6 +38383,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "42d8c34f",
         "domain": "Geometry and Trigonometry",
@@ -36660,8 +38405,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_354c70cc5536e8c2",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36681,8 +38427,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_de3f51ee73f6cc98",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36702,8 +38449,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_5a5e79caab61c43f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36723,8 +38471,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_67622e3c5eaa4197",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36744,6 +38493,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3d892d23",
         "domain": "Geometry and Trigonometry",
@@ -36765,8 +38515,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_7e4a029bc42de2af",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36774,20 +38525,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "9",
+                "B": "10",
+                "C": "11",
+                "D": "12"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 47$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 3, we get  $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 47 gives 5x = 50, so x = 10. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_7642aa372fca2065",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36807,6 +38559,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f4783a7d",
         "domain": "Algebra",
@@ -36828,8 +38581,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_8ef1d271c0129654",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36837,20 +38591,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "10",
+                "B": "11",
+                "C": "12",
+                "D": "13"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 52$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5, we find that $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 52 gives 5x = 55, so x = 11. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_5b54931175a97257",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36870,6 +38625,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a214411",
         "domain": "Algebra",
@@ -36879,20 +38635,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "11",
+                "B": "12",
+                "C": "13",
+                "D": "14"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 57$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve this system of equations, we can use elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $(2x + 3y) + (3x - 3y) = 12 + 3$, which simplifies to $5x = 15$.  Dividing both sides by 5 gives us $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 57 gives 5x = 60, so x = 12. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_7978e3ab9a862ca0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36912,8 +38669,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b10",
+        "id": "q_8d8e25d8859c0102",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -36933,8 +38691,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_6",
+        "id": "q_732ff7d37ab6ef1c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -36954,8 +38713,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_5354b856102a3c57",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -36975,6 +38735,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b94a2009",
         "domain": "Algebra",
@@ -36996,6 +38757,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a13a582e",
         "domain": "Advanced Math",
@@ -37017,8 +38779,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_bd926632a61e4af0",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -37038,6 +38801,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8928d7a2",
         "domain": "Advanced Math",
@@ -37059,8 +38823,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_31ced17728533320",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37080,6 +38845,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "b69b3b19",
         "domain": "Geometry and Trigonometry",
@@ -37101,6 +38867,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "78a213bf",
         "domain": "Advanced Math",
@@ -37122,6 +38889,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9389fa32",
         "domain": "Geometry and Trigonometry",
@@ -37131,18 +38899,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "49",
+                "B": "98",
+                "C": "196",
+                "D": "392"
             },
-            "question": "A circle with radius 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with radius 7 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5, the diameter is 10. The area of the square is then side length squared, or 10 * 10 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 7 = 14, so the square area is 14^2 = 196.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "85a7b24c",
         "domain": "Advanced Math",
@@ -37164,8 +38933,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_2c9f144dd35bbcae",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -37173,18 +38943,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "12",
+                "B": "13",
+                "C": "14",
+                "D": "15"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 62$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we find that $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 62 gives 5x = 65, so x = 13. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "52678a95",
         "domain": "Problem-Solving and Data Analysis",
@@ -37206,8 +38977,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_a2e0cfc3c9fd8d33",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37227,6 +38999,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7e3f821b",
         "domain": "Algebra",
@@ -37248,8 +39021,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_84c2d11d35259673",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -37269,8 +39043,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_3af06866f518ea54",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37290,6 +39065,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "5e05357e",
         "domain": "Geometry and Trigonometry",
@@ -37311,8 +39087,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_6",
+        "id": "q_0c75a9bb77bc7a47",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37332,6 +39109,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9e9f61f3",
         "domain": "Problem-Solving and Data Analysis",
@@ -37353,8 +39131,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_cf4678e07395f804",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37374,8 +39153,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_3ced646ca2fded30",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -37395,8 +39175,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_4c8a09ef7e917fa6",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37416,6 +39197,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a7a8542d",
         "domain": "Problem-Solving and Data Analysis",
@@ -37437,8 +39219,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_04669e8ed17d4761",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -37446,20 +39229,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "13",
+                "B": "14",
+                "C": "15",
+                "D": "16"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 67$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ by using elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 67 gives 5x = 70, so x = 14. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_2de126093e0513dd",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -37479,6 +39263,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a4321a76",
         "domain": "Algebra",
@@ -37500,6 +39285,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "4ab21938",
         "domain": "Advanced Math",
@@ -37521,6 +39307,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "12e8c776",
         "domain": "Advanced Math",
@@ -37537,13 +39324,14 @@ export const questionBank = [
             },
             "question": "The function *f* is defined by *f*(x) = 3x^2 - 5x + 2. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 5(2) + 2.  Simplifying, we get *f*(2) = 12 - 10 + 2 = 4.",
+            "explanation": "Substitute 2 for x: f(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4. Therefore, choice A is correct.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_5dece35290b13070",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37563,6 +39351,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f123a45f",
         "domain": "Advanced Math",
@@ -37584,8 +39373,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_2a8f187ed1281a1a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37605,6 +39395,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a71a4247",
         "domain": "Algebra",
@@ -37614,20 +39405,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "14",
+                "B": "15",
+                "C": "16",
+                "D": "17"
             },
-            "question": "If  $2x + 3y = 12$ and  $x - y = 1$, what is the value of $x$?",
+            "question": "If  $2x + 3y = 72$ and  $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for *x*, we can use elimination. Multiplying the second equation by 3, we get  $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 72 gives 5x = 75, so x = 15. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_34",
+        "id": "q_c57efa9af3406510",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37647,8 +39439,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_2ede0329140f9614",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -37668,8 +39461,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_236c0829428dcdb0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37689,8 +39483,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_9f8e53d41259a761",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37710,6 +39505,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f254610a",
         "domain": "Advanced Math",
@@ -37731,6 +39527,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e4e2398f",
         "domain": "Algebra",
@@ -37748,8 +39545,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_c6bfd9661eb034c7",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -37769,6 +39567,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f5c91883",
         "domain": "Algebra",
@@ -37790,8 +39589,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_355cc73e78746a1a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37811,6 +39611,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e8460d41",
         "domain": "Algebra",
@@ -37827,13 +39628,14 @@ export const questionBank = [
             },
             "question": "If $3x + 2y = 12$ and $x - 2y = 4$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for $x$, we can add the two equations together.  This eliminates the $y$ terms, leaving us with $4x = 16$.  Dividing both sides by 4, we get $x = 4$.",
+            "explanation": "Add the equations 3x + 2y = 12 and x - 2y = 4 to eliminate y. This gives 4x = 16, so x = 4. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_5b3770c6fce21d99",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -37853,6 +39655,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f42c912f",
         "domain": "Geometry and Trigonometry",
@@ -37874,6 +39677,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f711e94e",
         "domain": "Geometry and Trigonometry",
@@ -37895,6 +39699,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4231c004",
         "domain": "Algebra",
@@ -37916,6 +39721,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "849f432a",
         "domain": "Advanced Math",
@@ -37937,8 +39743,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_6a51654739260b8b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -37958,8 +39765,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_2b202393183474b2",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -37979,6 +39787,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "1543281b",
         "domain": "Algebra",
@@ -38000,6 +39809,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "2365d47f",
         "domain": "Advanced Math",
@@ -38014,13 +39824,14 @@ export const questionBank = [
                 "C": "15",
                 "D": "21"
             },
-            "question": "The function *f* is defined by *f*(x) = 2x\u003Csup\u003E2\u003C/sup\u003E + 3x - 1.  What is the value of *f*(2)?",
+            "question": "The function *f* is defined by *f*(x) = 2x<sup>2</sup> + 3x - 1.  What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 2(2)\u003Csup\u003E2\u003C/sup\u003E + 3(2) - 1.  Simplifying, we get *f*(2) = 8 + 6 - 1 = 13.",
+            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 2(2)<sup>2</sup> + 3(2) - 1.  Simplifying, we get *f*(2) = 8 + 6 - 1 = 13.",
             "correct_answer": "D"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "25c21c5b",
         "domain": "Algebra",
@@ -38042,8 +39853,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_cc06803112021b88",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -38063,8 +39875,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_9e9db49342ee125a",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -38084,6 +39897,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a987655b",
         "domain": "Algebra",
@@ -38105,8 +39919,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_263608b6444c7acd",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38126,6 +39941,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e8a94f9a",
         "domain": "Advanced Math",
@@ -38147,6 +39963,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a934f7dd",
         "domain": "Algebra",
@@ -38168,8 +39985,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_10",
+        "id": "q_ebcb3259ddcc30e0",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -38189,6 +40007,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b8e213d6",
         "domain": "Geometry and Trigonometry",
@@ -38210,6 +40029,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c4594b5d",
         "domain": "Geometry and Trigonometry",
@@ -38231,6 +40051,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4a85fea6",
         "domain": "Advanced Math",
@@ -38252,6 +40073,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d4e91cb7",
         "domain": "Advanced Math",
@@ -38273,6 +40095,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a23f283c",
         "domain": "Advanced Math",
@@ -38294,6 +40117,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3e679962",
         "domain": "Advanced Math",
@@ -38315,8 +40139,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_3e134e06cb8d4c6f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -38336,8 +40161,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_9cbf9f64aff89728",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38357,8 +40183,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_e2e2332d4f82eea2",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -38378,8 +40205,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_842fb668305c0fda",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38399,6 +40227,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "949c662a",
         "domain": "Advanced Math",
@@ -38420,6 +40249,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8436f365",
         "domain": "Advanced Math",
@@ -38441,8 +40271,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_82faeba2bad799d6",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -38462,6 +40293,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8976e141",
         "domain": "Geometry and Trigonometry",
@@ -38483,6 +40315,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "34652f15",
         "domain": "Geometry and Trigonometry",
@@ -38492,20 +40325,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "$\\pi$",
-                "B": "$5\\pi$",
-                "C": "$10\\pi$",
-                "D": "$25\\pi$"
+                "A": "$16\\pi$",
+                "B": "$32\\pi$",
+                "C": "$256\\pi$",
+                "D": "$512\\pi$"
             },
-            "question": "A circle has a radius of 5 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
+            "question": "A circle has a radius of 16 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius of the circle.  Substituting 5 for $r$, we get $C = 2\\pi(5) = 10\\pi$.",
-            "correct_answer": "C"
+            "explanation": "The circumference formula is C = 2πr. With radius 16, C = 2π(16) = 32π cm.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_c87ff784341d1fc4",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -38525,8 +40359,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_be27dee292bd763d",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -38546,8 +40381,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_931bcc32e538c4c8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38555,18 +40391,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "100\\pi"
+                "A": "484",
+                "B": "968",
+                "C": "1936",
+                "D": "3872"
             },
-            "question": "A circle has a radius of 5 units.  What is the area of the circle, in square units?",
+            "question": "A circle has a radius of 22 units.  What is the area of the circle, in square units?",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula $A = \\pi r^2$, where r is the radius of the circle.  Substituting r = 5 into the formula gives $A = \\pi (5)^2 = 25\\pi$.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 22 = 44, so the square area is 44^2 = 1936 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e9ff8933",
         "domain": "Geometry and Trigonometry",
@@ -38588,8 +40425,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_b3c59f2957ef8af0",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -38609,8 +40447,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e9",
+        "id": "q_7c127dcb4e9cacd7",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38630,8 +40469,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_cdf4d246f9a40a8a",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -38651,6 +40491,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f4a9fd2e",
         "domain": "Advanced Math",
@@ -38672,6 +40513,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e16a3ff5",
         "domain": "Advanced Math",
@@ -38693,6 +40535,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f86d2a4f",
         "domain": "Geometry and Trigonometry",
@@ -38702,20 +40545,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "$\\pi$",
-                "B": "$5\\pi$",
-                "C": "$10\\pi$",
-                "D": "$25\\pi$"
+                "A": "$17\\pi$",
+                "B": "$34\\pi$",
+                "C": "$289\\pi$",
+                "D": "$578\\pi$"
             },
-            "question": "A circle has a radius of 5 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
+            "question": "A circle has a radius of 17 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting 5 for $r$ gives $C = 2\\pi (5) = 10\\pi$.",
-            "correct_answer": "C"
+            "explanation": "The circumference formula is C = 2πr. With radius 17, C = 2π(17) = 34π cm.",
+            "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_1b9e330ffc793f95",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -38735,8 +40579,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_0aca4fe2a73a45fb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38756,8 +40601,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a11",
+        "id": "q_ab978046394d003c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38777,6 +40623,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "54f587b2",
         "domain": "Problem-Solving and Data Analysis",
@@ -38798,6 +40645,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "97fb89f7",
         "domain": "Geometry and Trigonometry",
@@ -38819,8 +40667,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_36b3def0ca89724e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38840,8 +40689,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_37dc7d5ffe8aedd6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -38861,8 +40711,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_5ebe500c560fec10",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -38882,6 +40733,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "848271a7",
         "domain": "Geometry and Trigonometry",
@@ -38903,8 +40755,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_0364138dc7eef705",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38924,8 +40777,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_ea0bab93575c65ba",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -38945,8 +40799,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_bc1fd46901eba5af",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -38966,6 +40821,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1e2974c",
         "domain": "Advanced Math",
@@ -38987,8 +40843,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d6",
+        "id": "q_343856f3cec8a12a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39008,8 +40865,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_58bacfc8e492fafa",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39029,6 +40887,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "12d8c11f",
         "domain": "Geometry and Trigonometry",
@@ -39038,20 +40897,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "14",
+                "B": "21",
+                "C": "28",
+                "D": "42"
             },
-            "question": "A regular hexagon is inscribed in a circle with a radius of 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with a radius 7. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles. The side length of each equilateral triangle is equal to the radius of the circle, which is 6. The perimeter of the hexagon is 6 times the side length of one of the equilateral triangles, or 6(6) = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 7, so the perimeter is 6 × 7 = 42.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_f1936fc39b0d4183",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39071,8 +40931,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_49e5a71ac298289e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39092,8 +40953,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_285369cff2ab731a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39113,6 +40975,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "67a37043",
         "domain": "Algebra",
@@ -39134,6 +40997,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e49119d5",
         "domain": "Algebra",
@@ -39155,8 +41019,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_ee3f2c3e05b0eaa6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39176,8 +41041,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_bcf8a3811a78e94f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39185,20 +41051,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "676",
+                "B": "1352",
+                "C": "2704",
+                "D": "5408"
             },
-            "question": "A circle has a radius of 5 units.  What is the area of the circle in square units? ",
+            "question": "A circle has a radius of 26 units.  What is the area of the circle in square units? ",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula $A = \\pi r^2$, where $r$ is the radius.  Substituting 5 for $r$ in this formula gives $A = \\pi(5)^2$, or $A = 25\\pi$.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 26 = 52, so the square area is 52^2 = 2704 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_e3f0f66b9870bd16",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39206,18 +41073,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "16",
+                "B": "24",
+                "C": "32",
+                "D": "48"
             },
-            "question": "A regular hexagon is inscribed in a circle with a radius of 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with a radius 8. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles.  The side length of each equilateral triangle is equal to the radius of the circle, which is 6.  The perimeter of the hexagon is then 6 times the side length of the equilateral triangle, or 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 8, so the perimeter is 6 × 8 = 48.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "43417ac6",
         "domain": "Advanced Math",
@@ -39239,8 +41107,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_e02d8b696ad8592b",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39260,8 +41129,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_69041f5657b04060",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39269,20 +41139,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "15",
+                "B": "16",
+                "C": "17",
+                "D": "18"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 77$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5 gives us $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 77 gives 5x = 80, so x = 16. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_54f7671cd66eee06",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39302,8 +41173,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_554bfdc97872e048",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39323,8 +41195,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_0cbc9ed2a71c05f7",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39344,8 +41217,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_24",
+        "id": "q_aac4e61e4a84a66e",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39365,8 +41239,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_fad7c55644382943",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39386,8 +41261,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_3084d88d0c9d9095",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39407,8 +41283,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_d0035b6a70b97cf1",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39428,8 +41305,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_2bcb86a59736eb5a",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39449,8 +41327,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_ec8b1c7943f06a86",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39470,8 +41349,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_14019eba183a44ba",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39491,8 +41371,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_319c5ae282429081",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39512,6 +41393,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e4c26f1d",
         "domain": "Advanced Math",
@@ -39533,6 +41415,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b6a1d6f7",
         "domain": "Algebra",
@@ -39554,8 +41437,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_295af9d0369c53be",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39575,8 +41459,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_414cf56346352a3b",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39596,8 +41481,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_23c61c107fa5ae68",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39617,6 +41503,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f486a329",
         "domain": "Geometry and Trigonometry",
@@ -39638,6 +41525,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_14",
         "domain": "Geometry and Trigonometry",
@@ -39659,6 +41547,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e466132d",
         "domain": "Algebra",
@@ -39680,6 +41569,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f249a16a",
         "domain": "Advanced Math",
@@ -39701,8 +41591,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_cbbb8d53639a7a1e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39722,6 +41613,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3682ab77",
         "domain": "Geometry and Trigonometry",
@@ -39743,8 +41635,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7273afee6de9a450",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39764,8 +41657,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_8173cecb0c0b24b8",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39785,8 +41679,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_573badfd3a23a768",
         "domain": "Advanced Math",
         "question": {
             "choices": {
@@ -39802,8 +41697,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_27",
+        "id": "q_1ef4b575b48f4ef3",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39823,6 +41719,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a763b7a2",
         "domain": "Advanced Math",
@@ -39844,8 +41741,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_8e7f337f4a55f88c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -39865,8 +41763,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_fab46eaf3008e513",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -39874,20 +41773,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "16",
+                "B": "17",
+                "C": "18",
+                "D": "19"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 82$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for $x$, we can use the elimination method.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$, which means $x = 3$. ",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 82 gives 5x = 85, so x = 17. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "f890dc20",
+        "id": "q_9509f25a2e1ff683",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39907,8 +41807,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_f00dad0fde37165d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -39928,6 +41829,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8d3b424f",
         "domain": "Advanced Math",
@@ -39949,8 +41851,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_4b59279c40d509c6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39970,8 +41873,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_94e082c2604de298",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -39991,8 +41895,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_59beb8eaec172782",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40012,8 +41917,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d8",
+        "id": "q_75671a1a1b8c5a6b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40033,8 +41939,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_a15869b62cd62628",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40054,6 +41961,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "841d1d98",
         "domain": "Geometry and Trigonometry",
@@ -40075,8 +41983,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_7c3328d6402fc9d1",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40096,6 +42005,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a4e419b",
         "domain": "Advanced Math",
@@ -40117,8 +42027,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_946e395b0d840dd0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40138,6 +42049,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "37a147e1",
         "domain": "Advanced Math",
@@ -40159,6 +42071,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "5a67db99",
         "domain": "Advanced Math",
@@ -40180,8 +42093,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_1b9534cb428bb96d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40201,6 +42115,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "927383ac",
         "domain": "Geometry and Trigonometry",
@@ -40222,8 +42137,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_c6cf966709b7abe4",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -40243,8 +42159,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_47",
+        "id": "q_0df00efc30f5a6bb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40264,8 +42181,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b2",
+        "id": "q_b835bdb20664611c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40285,8 +42203,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_23dadcca66aa056a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40299,13 +42218,14 @@ export const questionBank = [
                 "C": "3",
                 "D": "4"
             },
-            "question": "The function *f* is defined by  *f*( *x* ) =  *x*\u003Csup\u003E2\u003C/sup\u003E  +  *x*  - 2. If  *f*( *a* ) = 10, what is the value of *a*?",
+            "question": "The function *f* is defined by  *f*( *x* ) =  *x*<sup>2</sup>  +  *x*  - 2. If  *f*( *a* ) = 10, what is the value of *a*?",
             "paragraph": "null",
-            "explanation": "We can solve for *a* by substituting 10 for *f*( *a* ) in the equation and then solving the quadratic equation. This gives us  10 =  *a*\u003Csup\u003E2\u003C/sup\u003E  +  *a*  - 2. Subtracting 10 from both sides of this equation, we get  0 =  *a*\u003Csup\u003E2\u003C/sup\u003E  +  *a*  - 12. Factoring the quadratic expression, we get ( *a* + 4 )( *a* - 3 ) = 0. The solutions are *a* = -4 and *a* = 3. The value of *a* = 3 is the one that satisfies the given condition, so the answer is 3.",
+            "explanation": "We can solve for *a* by substituting 10 for *f*( *a* ) in the equation and then solving the quadratic equation. This gives us  10 =  *a*<sup>2</sup>  +  *a*  - 2. Subtracting 10 from both sides of this equation, we get  0 =  *a*<sup>2</sup>  +  *a*  - 12. Factoring the quadratic expression, we get ( *a* + 4 )( *a* - 3 ) = 0. The solutions are *a* = -4 and *a* = 3. The value of *a* = 3 is the one that satisfies the given condition, so the answer is 3.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "13f17362",
         "domain": "Geometry and Trigonometry",
@@ -40327,6 +42247,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3d227c8",
         "domain": "Algebra",
@@ -40348,8 +42269,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_874e203572e6fbdb",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40369,8 +42291,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_ae6de049ca079293",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40390,6 +42313,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23c9d83a",
         "domain": "Algebra",
@@ -40411,6 +42335,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6c3a844e",
         "domain": "Advanced Math",
@@ -40432,6 +42357,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "87676666",
         "domain": "Algebra",
@@ -40453,6 +42379,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f872419e",
         "domain": "Algebra",
@@ -40474,8 +42401,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_20e0b943e6874764",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40495,8 +42423,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_0f2b32746e4e0e5c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -40516,6 +42445,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4793902d",
         "domain": "Geometry and Trigonometry",
@@ -40537,6 +42467,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "53c35c79",
         "domain": "Advanced Math",
@@ -40558,8 +42489,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_c259c5cf7ac94912",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40579,8 +42511,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_970e6b72aa1675de",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40600,6 +42533,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "7c38d13a",
         "domain": "Problem-Solving and Data Analysis",
@@ -40621,8 +42555,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_c89e9bbe41242b3d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40642,6 +42577,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "32d85d4f",
         "domain": "Algebra",
@@ -40663,8 +42599,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_7fd703e34b29a6f8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40684,8 +42621,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_46368d70cedec621",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40705,6 +42643,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9f12e366",
         "domain": "Advanced Math",
@@ -40726,8 +42665,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_272b9aefee7f6dfb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40747,8 +42687,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ad762216413ed1c9",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40768,8 +42709,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_d7e8246f16918e86",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -40789,6 +42731,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4b50a70e",
         "domain": "Problem-Solving and Data Analysis",
@@ -40810,8 +42753,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_c63c0459e50e5e0d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40831,6 +42775,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a12f3478",
         "domain": "Geometry and Trigonometry",
@@ -40852,6 +42797,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_f1",
         "domain": "Advanced Math",
@@ -40873,6 +42819,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "642e4e1a",
         "domain": "Advanced Math",
@@ -40894,8 +42841,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_2d24e69861ad23d1",
         "domain": "Advanced Math",
         "question": {
             "choices": {
@@ -40911,6 +42859,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "c7c7699b",
         "domain": "Algebra",
@@ -40932,6 +42881,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9d3fa25f",
         "domain": "Advanced Math",
@@ -40953,8 +42903,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_4868c3648206bf25",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -40974,8 +42925,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "45a109a3",
+        "id": "q_9ac00623ea0bb199",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -40995,6 +42947,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d68711e8",
         "domain": "Algebra",
@@ -41016,8 +42969,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_1760eb978eadc450",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41037,8 +42991,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_74cf60a3d86815b6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41058,8 +43013,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_c3ab5cce85e0c85e",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -41079,6 +43035,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_45",
         "domain": "Geometry and Trigonometry",
@@ -41088,20 +43045,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "34",
+                "B": "51",
+                "C": "68",
+                "D": "102"
             },
-            "question": "A regular hexagon is inscribed in a circle with radius 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with radius 17. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles. The side length of each equilateral triangle is equal to the radius of the circle, which is 6.  Therefore, the perimeter of the hexagon is 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 17, so the perimeter is 6 × 17 = 102.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_afc2c6b16d83e6f0",
         "domain": "Geometry and Trigonometry",
         "question": {
             "choices": {
@@ -41117,6 +43075,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "9e9f36e9",
         "domain": "Geometry and Trigonometry",
@@ -41138,8 +43097,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_1bf414b5cf04b661",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41159,8 +43119,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_912654855664dfe6",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41180,8 +43141,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e7",
+        "id": "q_c29e67a5cd063d7c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41201,6 +43163,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d72993bd",
         "domain": "Geometry and Trigonometry",
@@ -41222,6 +43185,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e404a748",
         "domain": "Advanced Math",
@@ -41243,8 +43207,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_27f36b14194eed62",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41264,8 +43229,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ed9442255bf7874c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -41285,8 +43251,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d1",
+        "id": "q_a28686f02f728419",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -41306,6 +43273,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f87e5493",
         "domain": "Problem-Solving and Data Analysis",
@@ -41327,6 +43295,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2c873e98",
         "domain": "Problem-Solving and Data Analysis",
@@ -41348,8 +43317,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_8b3245fc2d99697d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41357,18 +43327,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "18",
+                "B": "27",
+                "C": "36",
+                "D": "54"
             },
-            "question": "A regular hexagon is inscribed in a circle with a radius of 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with a radius 9. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles. The side of each equilateral triangle is equal to the radius of the circle, which is 6. Therefore, the perimeter of the hexagon is 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 9, so the perimeter is 6 × 9 = 54.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "1020439d",
         "domain": "Algebra",
@@ -41390,8 +43361,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_d2e21ac3eb4ec656",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41411,8 +43383,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_ade38352cdabe05a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41432,6 +43405,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "45763892",
         "domain": "Geometry and Trigonometry",
@@ -41453,8 +43427,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_4274d9d71ce57b4a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41474,6 +43449,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "84977e3c",
         "domain": "Advanced Math",
@@ -41495,8 +43471,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_386dd71f63293777",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41516,6 +43493,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f876c81c",
         "domain": "Problem-Solving and Data Analysis",
@@ -41537,8 +43515,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_470b9a69421a1521",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41558,6 +43537,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "768237bf",
         "domain": "Problem-Solving and Data Analysis",
@@ -41579,8 +43559,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_dde7900f93c6e0a6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41600,8 +43581,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_426a2e2195ad3295",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41609,20 +43591,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "20",
+                "B": "30",
+                "C": "40",
+                "D": "60"
             },
-            "question": "A regular hexagon is inscribed in a circle with a radius of 6.  What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with a radius 10.  What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles, each with a side length equal to the radius of the circle. The perimeter of the hexagon is 6 times the side length of one of these triangles, so the perimeter is 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 10, so the perimeter is 6 × 10 = 60.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e8",
+        "id": "q_17b24f9123ed9ca5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41642,6 +43625,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3d88374a",
         "domain": "Advanced Math",
@@ -41663,8 +43647,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_bc55956e0e68da7e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -41684,6 +43669,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "c85492a4",
         "domain": "Problem-Solving and Data Analysis",
@@ -41705,6 +43691,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "49d388b4",
         "domain": "Algebra",
@@ -41726,6 +43713,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9201b00f",
         "domain": "Advanced Math",
@@ -41747,8 +43735,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_a828344e8f3de748",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41768,8 +43757,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_c64caeb99fb2d6be",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41777,20 +43767,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "100",
+                "B": "200",
+                "C": "400",
+                "D": "800"
             },
-            "question": "A circle with a radius of 5 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
+            "question": "A circle with a radius of 10 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5 centimeters, the diameter is 10 centimeters. Therefore, the side length of the square is 10 centimeters, and the area of the square is (10 cm)(10 cm) = 100 square centimeters.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 10 = 20, so the square area is 20^2 = 400 square centimeters.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_021189423aac815f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -41810,8 +43801,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_f6ab0b7a48d6ef0f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41831,8 +43823,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_dc69dc0297f43e8b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41852,6 +43845,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3a6bd3a7",
         "domain": "Algebra",
@@ -41873,8 +43867,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_efd4514ba68f2f93",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -41894,6 +43889,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e89f2c9a",
         "domain": "Algebra",
@@ -41915,8 +43911,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_4",
+        "id": "q_54cf2e5bfb669a19",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41936,6 +43933,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "d04919d8",
         "domain": "Geometry and Trigonometry",
@@ -41957,8 +43955,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_9bed0b6e754be683",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -41978,8 +43977,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_0f4d5d06d2ba3b59",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -41999,6 +43999,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "846ef93c",
         "domain": "Advanced Math",
@@ -42020,8 +44021,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_10",
+        "id": "q_984d418708fee9bb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42029,18 +44031,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "100\\pi"
+                "A": "529",
+                "B": "1058",
+                "C": "2116",
+                "D": "4232"
             },
-            "question": "A circle has a radius of 5 units.  What is the area of the circle, in square units? ",
+            "question": "A circle has a radius of 23 units.  What is the area of the circle, in square units? ",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula $\\pi r^2$, where $r$ is the radius.  Since the radius is 5 units, the area of the circle is $\\pi (5)^2 = 25\\pi$ square units.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 23 = 46, so the square area is 46^2 = 2116 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f42fd89d",
         "domain": "Advanced Math",
@@ -42062,6 +44065,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4c90f53e",
         "domain": "Advanced Math",
@@ -42083,8 +44087,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d9",
+        "id": "q_adf3bbcdd628bf29",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42104,6 +44109,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a699428d",
         "domain": "Algebra",
@@ -42125,8 +44131,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_4b8dfc034b1cb68d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42134,20 +44141,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "36",
+                "B": "54",
+                "C": "72",
+                "D": "108"
             },
-            "question": "A regular hexagon is inscribed in a circle with radius 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with radius 18. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles.  The side of each equilateral triangle is equal to the radius of the circle, so the perimeter of the hexagon is 6 times the radius, or 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 18, so the perimeter is 6 × 18 = 108.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_5f03e5d8740f66b6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42167,8 +44175,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_7dafdeba3b967efe",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42188,6 +44197,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f21b71c2",
         "domain": "Geometry and Trigonometry",
@@ -42209,6 +44219,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "7178fa28",
         "domain": "Advanced Math",
@@ -42230,6 +44241,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a332f5f8",
         "domain": "Problem-Solving and Data Analysis",
@@ -42251,8 +44263,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_52e5c0a9e8ea192d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42272,6 +44285,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "54f7b56c",
         "domain": "Algebra",
@@ -42293,6 +44307,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "738f4933",
         "domain": "Advanced Math",
@@ -42314,8 +44329,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_3fb87a0930b74106",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42335,8 +44351,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_b685c1be04330ce8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42356,8 +44373,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_9313a9ef1d78e34c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42377,8 +44395,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_6285b472feefa106",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42398,6 +44417,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e8a7453f",
         "domain": "Problem-Solving and Data Analysis",
@@ -42419,8 +44439,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_d969e8eadb802eb4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42440,8 +44461,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_86584c03085273aa",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42461,8 +44483,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_dc7bbaa38ce87682",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42482,6 +44505,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "32df587a",
         "domain": "Advanced Math",
@@ -42503,8 +44527,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_8f211ccd7d4acaf9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -42524,6 +44549,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "95f8da71",
         "domain": "Algebra",
@@ -42545,8 +44571,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_f8e92263857eb6b3",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42566,6 +44593,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "84f9203b",
         "domain": "Algebra",
@@ -42587,8 +44615,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_31bb9c5a1486bce7",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42601,15 +44630,16 @@ export const questionBank = [
                 "C": "8",
                 "D": "10"
             },
-            "question": "The function *f* is defined by *f*(x) = 3x\u003Csup\u003E2\u003C/sup\u003E - 5x + 2. What is the value of *f*(2)?",
+            "question": "The function *f* is defined by *f*(x) = 3x<sup>2</sup> - 5x + 2. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 3(2)\u003Csup\u003E2\u003C/sup\u003E - 5(2) + 2 = 3(4) - 10 + 2 = 12 - 8 = 4. Therefore, *f*(2) = 4.",
+            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 3(2)<sup>2</sup> - 5(2) + 2 = 3(4) - 10 + 2 = 12 - 8 = 4. Therefore, *f*(2) = 4.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_f59b3d2d18ff3bac",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42629,8 +44659,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_d16eb5916747f07a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42650,6 +44681,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "random_id_b24",
         "domain": "Geometry and Trigonometry",
@@ -42671,8 +44703,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a6",
+        "id": "q_89e2d2fabb3843e1",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42692,8 +44725,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_720a416d3c0a88a5",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42713,6 +44747,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b646d131",
         "domain": "Geometry and Trigonometry",
@@ -42734,8 +44769,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_93e1df552c824635",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42755,8 +44791,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_aca0a4a41a6a0bdb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42776,6 +44813,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "2ac7b45a",
         "domain": "Problem-Solving and Data Analysis",
@@ -42797,6 +44835,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4a32f0f5",
         "domain": "Advanced Math",
@@ -42818,6 +44857,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "987fc19d",
         "domain": "Geometry and Trigonometry",
@@ -42839,8 +44879,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b10",
+        "id": "q_68ef48e498732e3a",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42860,8 +44901,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_862b8a6436b56e74",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42881,8 +44923,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_3b98df1549e174d8",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -42902,8 +44945,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_1742360b8ccbb379",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -42923,8 +44967,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_57f55e94974d9d85",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -42944,8 +44989,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_d2ac55d3bdd71a05",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -42965,6 +45011,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "13e622f4",
         "domain": "Advanced Math",
@@ -42986,8 +45033,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_74b9c92c71652178",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -43007,6 +45055,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f469d82a",
         "domain": "Advanced Math",
@@ -43028,6 +45077,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "981d5815",
         "domain": "Geometry and Trigonometry",
@@ -43049,8 +45099,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_b25d62936c0e43d7",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -43070,8 +45121,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e3",
+        "id": "q_41cece28c8bfa323",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43091,6 +45143,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e60f8e2e",
         "domain": "Advanced Math",
@@ -43112,6 +45165,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "1e20d548",
         "domain": "Advanced Math",
@@ -43133,8 +45187,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_45265e30c48507ae",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43154,8 +45209,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_4a152f8041fd540c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43175,8 +45231,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_37c2ae6166a1d26e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43196,8 +45253,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_c749d79a98a81787",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43217,6 +45275,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_f4",
         "domain": "Advanced Math",
@@ -43238,6 +45297,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e54c34a5",
         "domain": "Algebra",
@@ -43259,8 +45319,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_cc3d4104d2b7919c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43280,8 +45341,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_b067a48a9cb0f2f8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43301,6 +45363,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f691e728",
         "domain": "Geometry and Trigonometry",
@@ -43310,20 +45373,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "900",
+                "B": "1800",
+                "C": "3600",
+                "D": "7200"
             },
-            "question": "A circle has a radius of 5 units.  What is the area, in square units, of the circle?",
+            "question": "A circle has a radius of 30 units.  What is the area, in square units, of the circle?",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula $A = \\pi r^2$, where $r$ is the radius.  Substituting 5 for $r$, we get $A = \\pi (5)^2 = 25\\pi$.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 30 = 60, so the square area is 60^2 = 3600 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_83f596493cdf8ee0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43343,8 +45407,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_7b21643587fc31c0",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43364,8 +45429,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_df39536987d9f768",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43385,6 +45451,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a76bc7a",
         "domain": "Advanced Math",
@@ -43401,13 +45468,14 @@ export const questionBank = [
             },
             "question": "The function *f* is defined by *f*(x) = 3x^2 - 5x + 2. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4.",
+            "explanation": "Substitute 2 for x: f(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4. Therefore, choice A is correct.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "87654321",
+        "id": "q_54e54ab1d3639165",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43427,8 +45495,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_03b7b7b87d419233",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43448,8 +45517,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_f7568ddef3840461",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43469,8 +45539,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_e42ffdb1693cdd0a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43490,6 +45561,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2795ab32",
         "domain": "Advanced Math",
@@ -43511,8 +45583,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_85212adc1d092be2",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43520,18 +45593,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "15.7 cm",
-                "B": "31.4 cm",
-                "C": "78.5 cm",
-                "D": "157 cm"
+                "A": "18.8 cm",
+                "B": "37.7 cm",
+                "C": "113.0 cm",
+                "D": "226.1 cm"
             },
-            "question": "A circle has a radius of 5 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
+            "question": "A circle has a radius of 6 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting the given values, we get $C = 2 (3.14)(5) = 31.4$ cm.",
+            "explanation": "Use C = 2πr. With π = 3.14 and r = 6, C = 2(3.14)(6) = 37.7 cm.",
             "correct_answer": "B"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f81b648f",
         "domain": "Algebra",
@@ -43553,6 +45627,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4e93f543",
         "domain": "Algebra",
@@ -43574,8 +45649,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_acc7e64dccf6455a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43595,6 +45671,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "49e85755",
         "domain": "Advanced Math",
@@ -43616,8 +45693,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_7c739b8154ab02ba",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43637,6 +45715,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "234d5678",
         "domain": "Advanced Math",
@@ -43658,6 +45737,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "random_id_69",
         "domain": "Geometry and Trigonometry",
@@ -43679,8 +45759,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e4",
+        "id": "q_d5f9ea665b20270b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43700,8 +45781,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_95f948b4324be78d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43709,20 +45791,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "6\\pi",
+                "B": "12\\pi",
+                "C": "36\\pi",
+                "D": "72\\pi"
             },
-            "question": "A circle has a radius of 5. What is the circumference of the circle? ",
+            "question": "A circle has a radius of 6. What is the circumference of the circle? ",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula C = 2\\pi r, where r is the radius.  Substituting 5 for r, we get C = 2\\pi(5) = 10\\pi.",
+            "explanation": "The circumference formula is C = 2πr. With radius 6, C = 2π(6) = 12π.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_1e36e4449ce3c182",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43742,8 +45825,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_4021a6fa4339121f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43763,6 +45847,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_37",
         "domain": "Geometry and Trigonometry",
@@ -43784,8 +45869,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_12638aa0ebe965ea",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43805,8 +45891,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_a364a95720767e07",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43826,6 +45913,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6b4ebc8c",
         "domain": "Algebra",
@@ -43847,8 +45935,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_77026db9a5e7bed6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -43868,8 +45957,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_f039b07e5ccab3df",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -43889,8 +45979,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_686fcc023d48da1b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43910,8 +46001,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_740e797cb8fc5937",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -43931,8 +46023,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_3e4f8617827b2567",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43952,6 +46045,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f84e4372",
         "domain": "Geometry and Trigonometry",
@@ -43973,8 +46067,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_cd47f25064b74521",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -43994,6 +46089,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "70a90772",
         "domain": "Algebra",
@@ -44015,8 +46111,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_298389cb5710b2a6",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44036,8 +46133,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_bb759d4d20d11f85",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44045,20 +46143,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "38",
+                "B": "57",
+                "C": "76",
+                "D": "114"
             },
-            "question": "A regular hexagon is inscribed in a circle with radius 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with radius 19. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles.  The side length of each equilateral triangle is equal to the radius of the circle, which is 6.  Therefore, the perimeter of the hexagon is 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 19, so the perimeter is 6 × 19 = 114.",
             "correct_answer": "D"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_fffe2e88892cc1d0",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44078,8 +46177,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_80606c83f41a06b6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44099,8 +46199,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_8e1b67f022696084",
         "domain": "Advanced Math",
         "question": {
             "choices": {
@@ -44116,8 +46217,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_e9f0629598c0c204",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44137,8 +46239,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_e9ff4ddcf1bbc496",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44146,18 +46249,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "7\\pi",
+                "B": "14\\pi",
+                "C": "49\\pi",
+                "D": "98\\pi"
             },
-            "question": "A circle has a radius of 5. What is the circumference of the circle? ",
+            "question": "A circle has a radius of 7. What is the circumference of the circle? ",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula C = 2πr, where r is the radius.  Substituting 5 for r gives us C = 2π(5), or C = 10π.",
+            "explanation": "The circumference formula is C = 2πr. With radius 7, C = 2π(7) = 14π.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "243b498c",
         "domain": "Advanced Math",
@@ -44179,8 +46283,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_3a1a000fab202c7d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -44200,8 +46305,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_10",
+        "id": "q_56304e5144172fa1",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -44216,11 +46322,12 @@ export const questionBank = [
             },
             "question": "The function *f* is defined by  *f*(x) = 3x^2 - 5x + 2. What is the value of *f*(2)?",
             "paragraph": "null",
-            "explanation": "To find *f*(2), we substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4.",
+            "explanation": "Substitute 2 for x: f(2) = 3(2)^2 - 5(2) + 2 = 12 - 10 + 2 = 4. Therefore, choice A is correct.",
             "correct_answer": "A"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "3894c42a",
         "domain": "Problem-Solving and Data Analysis",
@@ -44242,6 +46349,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "61b8480a",
         "domain": "Advanced Math",
@@ -44263,6 +46371,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "173a5c22",
         "domain": "Algebra",
@@ -44284,8 +46393,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_b439af9d6b5d3d1d",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44305,8 +46415,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_b879702ee931a062",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44326,6 +46437,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a8e9d4f2",
         "domain": "Advanced Math",
@@ -44347,6 +46459,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "21f24749",
         "domain": "Geometry and Trigonometry",
@@ -44368,8 +46481,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_e4b3e1f22a26e525",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44389,8 +46503,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_23d973d190fc0029",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44410,8 +46525,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_7586d28ba08804f9",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44431,8 +46547,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_d4",
+        "id": "q_1a045b20e8f4d312",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44452,6 +46569,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a214b1b9",
         "domain": "Advanced Math",
@@ -44473,8 +46591,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_2cf2ae3e09fa11bc",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44494,8 +46613,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5bb974ddb587a395",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44515,6 +46635,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b61e7b1d",
         "domain": "Geometry and Trigonometry",
@@ -44536,8 +46657,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_a5cfed343d4bba6d",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44557,6 +46679,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "e29f31f4",
         "domain": "Algebra",
@@ -44578,6 +46701,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f29e588f",
         "domain": "Problem-Solving and Data Analysis",
@@ -44599,6 +46723,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "24d6843a",
         "domain": "Advanced Math",
@@ -44620,8 +46745,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f890dc20",
+        "id": "q_337e26157a1a67c6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44641,8 +46767,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5220c12810a32c26",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44662,8 +46789,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_f7",
+        "id": "q_aee4238842ec9ebe",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44683,6 +46811,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a2110dd",
         "domain": "Advanced Math",
@@ -44704,8 +46833,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_f3f59b820d667e7c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -44725,8 +46855,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_bb7c9ca9f048e8db",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -44746,8 +46877,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_b55ebaf02142e228",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44767,6 +46899,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "94831a0f",
         "domain": "Advanced Math",
@@ -44788,6 +46921,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a891379d",
         "domain": "Advanced Math",
@@ -44809,8 +46943,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_10",
+        "id": "q_cfaf6a0811dababc",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -44830,8 +46965,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_1e46f10347b9a620",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44851,6 +46987,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f87e32ac",
         "domain": "Algebra",
@@ -44867,11 +47004,12 @@ export const questionBank = [
             },
             "question": "If $3x + 2y = 12$ and $x - 2y = 4$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "Adding the two equations together eliminates $y$, giving us $4x = 16$. Dividing both sides by 4, we get $x = 4$. ",
+            "explanation": "Add the equations 3x + 2y = 12 and x - 2y = 4 to eliminate y. This gives 4x = 16, so x = 4. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f84948c7",
         "domain": "Advanced Math",
@@ -44893,6 +47031,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "23987fc8",
         "domain": "Advanced Math",
@@ -44914,6 +47053,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f86d849c",
         "domain": "Problem-Solving and Data Analysis",
@@ -44935,8 +47075,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_f7582b742c9eab95",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -44956,8 +47097,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_419b3edc70b77462",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -44977,6 +47119,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "97c2f6f4",
         "domain": "Geometry and Trigonometry",
@@ -44998,8 +47141,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_6b69732cd9220fc5",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45019,8 +47163,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_c5ade5f7f5b38ffc",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45040,8 +47185,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_d18acce76271ca72",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45061,6 +47207,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d0d9ede4",
         "domain": "Problem-Solving and Data Analysis",
@@ -45082,6 +47229,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f98f754f",
         "domain": "Algebra",
@@ -45103,6 +47251,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_55",
         "domain": "Geometry and Trigonometry",
@@ -45124,8 +47273,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_5c94bf6cdcc02a2c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45145,6 +47295,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "75288e9f",
         "domain": "Geometry and Trigonometry",
@@ -45154,20 +47305,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "196",
+                "B": "392",
+                "C": "784",
+                "D": "1568"
             },
-            "question": "A circle with a radius of 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with a radius of 14 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5, the diameter is 10.  Therefore, the area of the square is 10 * 10 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 14 = 28, so the square area is 28^2 = 784.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_a983735539bf49e0",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45175,20 +47327,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "17",
+                "B": "18",
+                "C": "19",
+                "D": "20"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 87$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x=3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 87 gives 5x = 90, so x = 18. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_c3197af03f636207",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45208,8 +47361,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_686d6ff4a0eebc5f",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45229,8 +47383,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7f34999d2af46c24",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45238,18 +47393,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "225",
+                "B": "450",
+                "C": "900",
+                "D": "1800"
             },
-            "question": "A circle with a radius of 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with a radius of 15 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5, the diameter is 10.  The area of the square is side length squared, or 10^2 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 15 = 30, so the square area is 30^2 = 900.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "73f19b0e",
         "domain": "Advanced Math",
@@ -45271,8 +47427,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_5e53b43d6e248066",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45292,6 +47449,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4444222",
         "domain": "Advanced Math",
@@ -45313,8 +47471,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5da2df4a8e7d2b82",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45334,6 +47493,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7777777",
         "domain": "Algebra",
@@ -45355,6 +47515,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "894961da",
         "domain": "Algebra",
@@ -45376,6 +47537,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "45322232",
         "domain": "Algebra",
@@ -45397,6 +47559,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3795d245",
         "domain": "Geometry and Trigonometry",
@@ -45418,8 +47581,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_866cee63593bdf06",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45439,8 +47603,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_2e532ce76e1b1b12",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45448,20 +47613,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "256",
+                "B": "512",
+                "C": "1024",
+                "D": "2048"
             },
-            "question": "A circle with a radius of 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with a radius of 16 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. The diameter of the circle is twice the radius, so the diameter is 10. The area of a square is equal to the side length squared, so the area of the square is 10^2 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 16 = 32, so the square area is 32^2 = 1024.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_b73d09305a680fe4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45481,8 +47647,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_86710df92a12abee",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45490,20 +47657,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "289",
+                "B": "578",
+                "C": "1156",
+                "D": "2312"
             },
-            "question": "A circle with a radius of 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with a radius of 17 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5, the diameter is 10. Therefore, the side length of the square is 10, and the area of the square is 10 * 10 = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 17 = 34, so the square area is 34^2 = 1156.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_9d154384bf67978b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45516,15 +47684,16 @@ export const questionBank = [
                 "C": "16",
                 "D": "26"
             },
-            "question": "The function *f* is defined by *f*(x) = 5*x*\u003Csup\u003E2\u003C/sup\u003E - 3*x* + 2. What is the value of *f*(-2)?",
+            "question": "The function *f* is defined by *f*(x) = 5*x*<sup>2</sup> - 3*x* + 2. What is the value of *f*(-2)?",
             "paragraph": "null",
-            "explanation": "Substituting -2 for *x* in the function, we get *f*(-2) = 5(-2)\u003Csup\u003E2\u003C/sup\u003E - 3(-2) + 2. Simplifying, we have *f*(-2) = 5(4) + 6 + 2 = 20 + 6 + 2 = 26.",
+            "explanation": "Substituting -2 for *x* in the function, we get *f*(-2) = 5(-2)<sup>2</sup> - 3(-2) + 2. Simplifying, we have *f*(-2) = 5(4) + 6 + 2 = 20 + 6 + 2 = 26.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a10",
+        "id": "q_4232d4d118077dd3",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45544,6 +47713,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4d3672ba",
         "domain": "Algebra",
@@ -45565,6 +47735,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d02193fb",
         "domain": "Algebra",
@@ -45586,6 +47757,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_26",
         "domain": "Problem-Solving and Data Analysis",
@@ -45607,8 +47779,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ecf3b264d2fb18cd",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45628,8 +47801,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_8f06a366c74b10d6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -45649,8 +47823,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_91667ac88513d2d0",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45670,8 +47845,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_99284c33361d58e7",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45691,8 +47867,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_08fc021ba4b8f4da",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45712,6 +47889,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1d6df679",
         "domain": "Algebra",
@@ -45733,8 +47911,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_0adfde44bb585e52",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45742,20 +47921,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "18",
+                "B": "19",
+                "C": "20",
+                "D": "21"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 92$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for x by using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 92 gives 5x = 95, so x = 19. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_e299e90ed76e380f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45775,8 +47955,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_49a29ab0fee9726a",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -45796,8 +47977,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_51366c444dfa7afe",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -45817,6 +47999,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d3897f3e",
         "domain": "Algebra",
@@ -45838,6 +48021,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "1f203579",
         "domain": "Geometry and Trigonometry",
@@ -45859,8 +48043,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_4667a9917a100857",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45880,6 +48065,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "98d37f8d",
         "domain": "Algebra",
@@ -45889,18 +48075,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "19",
+                "B": "20",
+                "C": "21",
+                "D": "22"
             },
-            "question": "If  $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If  $2x + 3y = 97$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for x by using elimination.  Multiplying the second equation by 3, we get  $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 97 gives 5x = 100, so x = 20. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b7539c69",
         "domain": "Advanced Math",
@@ -45922,8 +48109,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_f03fd9713dc9e3c9",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -45943,8 +48131,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_2676903e3c0bbfc2",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45964,8 +48153,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_346ca4773eec787b",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45985,8 +48175,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_5b086787fb82b44e",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -45994,18 +48185,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "20",
+                "B": "21",
+                "C": "22",
+                "D": "23"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 102$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for $x$, we can use elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$, so $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 102 gives 5x = 105, so x = 21. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6a12b9d6",
         "domain": "Problem-Solving and Data Analysis",
@@ -46027,6 +48219,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "e8923ac1",
         "domain": "Advanced Math",
@@ -46048,8 +48241,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_07358bbbb0aa66b7",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46069,6 +48263,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "82101135",
         "domain": "Algebra",
@@ -46090,6 +48285,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4534957f",
         "domain": "Geometry and Trigonometry",
@@ -46111,8 +48307,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_ffe94257b65a686f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -46132,8 +48329,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_a3fcdf2cb395eb0d",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46153,6 +48351,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2935a423",
         "domain": "Geometry and Trigonometry",
@@ -46174,8 +48373,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_14a5b70f88baa613",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -46195,6 +48395,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "37c9b215",
         "domain": "Advanced Math",
@@ -46216,6 +48417,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9823421a",
         "domain": "Algebra",
@@ -46237,6 +48439,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "d436b79a",
         "domain": "Geometry and Trigonometry",
@@ -46258,6 +48461,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "74d55478",
         "domain": "Algebra",
@@ -46279,8 +48483,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b1",
+        "id": "q_36f2dcb542608262",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -46300,6 +48505,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_d12",
         "domain": "Advanced Math",
@@ -46321,8 +48527,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_ff16bbca82c8ceb2",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46342,8 +48549,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_4f96d7a6126fe4a3",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46363,6 +48571,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "11d2b54a",
         "domain": "Algebra",
@@ -46384,6 +48593,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6835116d",
         "domain": "Algebra",
@@ -46405,8 +48615,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7cb85413010952ab",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46426,8 +48637,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_11",
+        "id": "q_503b01c50e18051b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46447,8 +48659,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_3f2559c982ca5944",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -46468,6 +48681,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "90853d62",
         "domain": "Advanced Math",
@@ -46489,8 +48703,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_11",
+        "id": "q_8cfe17450551a541",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -46510,8 +48725,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_0222e3a0bb86173b",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46531,8 +48747,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_278338025ee0b21a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46552,8 +48769,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_067977b53abc064e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46573,8 +48791,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_2b45d3fa68cd5833",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46594,8 +48813,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_69b214e40488cf7a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46615,8 +48835,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_4a4961974808e47a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46636,8 +48857,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_9e30f9da77569904",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46657,8 +48879,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_597e3871a35caa76",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46678,8 +48901,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_ab105c020250e556",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -46699,8 +48923,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_f8",
+        "id": "q_2b541adb52a4cc0c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46720,8 +48945,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_96a0ab3d9978d7fa",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46741,8 +48967,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_ffc26e4e40d94d40",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -46762,8 +48989,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_31b5d60df7847a54",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46771,20 +48999,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "$\\pi$",
-                "B": "$5\\pi$",
-                "C": "$10\\pi$",
-                "D": "$25\\pi$"
+                "A": "$18\\pi$",
+                "B": "$36\\pi$",
+                "C": "$324\\pi$",
+                "D": "$648\\pi$"
             },
-            "question": "A circle has a radius of 5 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
+            "question": "A circle has a radius of 18 centimeters. What is the circumference of the circle, in centimeters? (Express your answer in terms of $\\pi$.)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting 5 for $r$ gives us $C = 2\\pi (5) = 10\\pi$.",
-            "correct_answer": "C"
+            "explanation": "The circumference formula is C = 2πr. With radius 18, C = 2π(18) = 36π cm.",
+            "correct_answer": "B"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_48de0db1124f5821",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46804,8 +49033,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_2",
+        "id": "q_c6cf2f83dd44c373",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46825,8 +49055,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_308a90771155aa0c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46846,8 +49077,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_3bda54d51fcb6c75",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46867,8 +49099,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_bb4037a4d213ab75",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46888,8 +49121,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_7a0bcb067ea404f8",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46909,6 +49143,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "83a1729c",
         "domain": "Geometry and Trigonometry",
@@ -46930,8 +49165,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_317eb5fd9ba502ed",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -46951,6 +49187,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3a3f291c",
         "domain": "Advanced Math",
@@ -46972,8 +49209,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_2851ea72d438e5b8",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -46993,6 +49231,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "156d897b",
         "domain": "Algebra",
@@ -47014,6 +49253,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "728424a4",
         "domain": "Advanced Math",
@@ -47035,6 +49275,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f125a218",
         "domain": "Algebra",
@@ -47056,8 +49297,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_9d2cbac62e9b294a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47065,18 +49307,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "15.7 cm",
-                "B": "31.4 cm",
-                "C": "78.5 cm",
-                "D": "157 cm"
+                "A": "22.0 cm",
+                "B": "44.0 cm",
+                "C": "153.9 cm",
+                "D": "307.7 cm"
             },
-            "question": "A circle has a radius of 5 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
+            "question": "A circle has a radius of 7 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius. Plugging in the values, we get $C = 2(3.14)(5) = 31.4$ cm.",
+            "explanation": "Use C = 2πr. With π = 3.14 and r = 7, C = 2(3.14)(7) = 44.0 cm.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2d8c4434",
         "domain": "Advanced Math",
@@ -47098,6 +49341,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b678452b",
         "domain": "Algebra",
@@ -47119,8 +49363,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_eb0fc1bcce785b9a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -47140,8 +49385,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_e5279aaa4bbdd161",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47161,8 +49407,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_329b39dc035e9c77",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47170,18 +49417,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "64",
+                "B": "128",
+                "C": "256",
+                "D": "512"
             },
-            "question": "A circle with radius 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with radius 8 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5, the diameter is 10.  Therefore, the side length of the square is 10, and the area of the square is 10² = 100.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 8 = 16, so the square area is 16^2 = 256.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "714fd53a",
         "domain": "Advanced Math",
@@ -47203,8 +49451,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_0682a017de31f3fa",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47224,8 +49473,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_df883b9f5ab3d0b6",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47245,6 +49495,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "849804c5",
         "domain": "Geometry and Trigonometry",
@@ -47266,8 +49517,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_f7",
+        "id": "q_31bc1f80fb8ffa13",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -47287,8 +49539,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_7854839b1f013f48",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47308,8 +49561,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_7d344d0453b5cc93",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -47329,6 +49583,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4564a662",
         "domain": "Algebra",
@@ -47350,8 +49605,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_79216cdc21d2ccc7",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47371,8 +49627,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_11ef8e5bfd1fbbf8",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47380,9 +49637,9 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "$\\pi$",
-                "B": "$\\pi$",
-                "C": "$5\\pi$",
+                "A": "100$\\pi$",
+                "B": "5$\\pi$",
+                "C": "10$\\pi$",
                 "D": "$25\\pi$"
             },
             "question": "A circle has a diameter of 10 centimeters. What is the area of the circle, in square centimeters, in terms of $\\pi$?",
@@ -47392,8 +49649,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_982f990eca689fd7",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -47413,8 +49671,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_410033a9c6b4b986",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47434,6 +49693,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "51f9b47a",
         "domain": "Advanced Math",
@@ -47448,15 +49708,16 @@ export const questionBank = [
                 "C": "-1 and 1",
                 "D": "0 and 10"
             },
-            "question": "The function *f* is defined by *f*(x) = *x*\u003Csup\u003E2\u003C/sup\u003E + 5. If *f*(x) = 14, what are the possible values of *x*?",
+            "question": "The function *f* is defined by *f*(x) = *x*<sup>2</sup> + 5. If *f*(x) = 14, what are the possible values of *x*?",
             "paragraph": "null",
-            "explanation": "To solve for *x*, we first set *f*(x) equal to 14: *x*\u003Csup\u003E2\u003C/sup\u003E + 5 = 14. Subtracting 5 from both sides, we get *x*\u003Csup\u003E2\u003C/sup\u003E = 9. Taking the square root of both sides, we get *x* = ±3. Therefore, the possible values of *x* are -3 and 3.",
+            "explanation": "To solve for *x*, we first set *f*(x) equal to 14: *x*<sup>2</sup> + 5 = 14. Subtracting 5 from both sides, we get *x*<sup>2</sup> = 9. Taking the square root of both sides, we get *x* = ±3. Therefore, the possible values of *x* are -3 and 3.",
             "correct_answer": "B"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_3b05dbab9cc095af",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -47476,6 +49737,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "81a5872d",
         "domain": "Algebra",
@@ -47497,8 +49759,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_676ba05be9ef35d0",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47518,8 +49781,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_3",
+        "id": "q_38b5475e423f91eb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47527,18 +49791,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "100\\pi"
+                "A": "1156",
+                "B": "2312",
+                "C": "4624",
+                "D": "9248"
             },
-            "question": "A circle has a radius of 5 units. What is the area, in square units, of the circle?  ",
+            "question": "A circle has a radius of 34 units. What is the area, in square units, of the circle?  ",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula A = \\pi r^2, where r is the radius of the circle.  Substituting r = 5 into the formula gives A = \\pi (5)^2 = 25\\pi.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 34 = 68, so the square area is 68^2 = 4624 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "9284ac76",
         "domain": "Geometry and Trigonometry",
@@ -47560,6 +49825,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "94c7e66d",
         "domain": "Geometry and Trigonometry",
@@ -47581,6 +49847,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "42367894",
         "domain": "Geometry and Trigonometry",
@@ -47602,6 +49869,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f452410b",
         "domain": "Geometry and Trigonometry",
@@ -47623,8 +49891,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d2",
+        "id": "q_5bd14342f0489036",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -47644,8 +49913,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b2",
+        "id": "q_3eaf0399e50c33dd",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47653,18 +49923,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "8\\pi",
+                "B": "16\\pi",
+                "C": "64\\pi",
+                "D": "128\\pi"
             },
-            "question": "A circle has a radius of 5.  What is the circumference of the circle?",
+            "question": "A circle has a radius of 8.  What is the circumference of the circle?",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting $r = 5$ into the formula gives $C = 2\\pi(5) = 10\\pi$.",
+            "explanation": "The circumference formula is C = 2πr. With radius 8, C = 2π(8) = 16π.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "6f28325d",
         "domain": "Advanced Math",
@@ -47674,20 +49945,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "9\\pi",
+                "B": "18\\pi",
+                "C": "81\\pi",
+                "D": "162\\pi"
             },
-            "question": "A circle has a radius of 5.  What is the circumference of the circle? ",
+            "question": "A circle has a radius of 9.  What is the circumference of the circle? ",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting $r = 5$ into the formula gives us $C = 2\\pi (5) = 10\\pi$.",
+            "explanation": "The circumference formula is C = 2πr. With radius 9, C = 2π(9) = 18π.",
             "correct_answer": "B"
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_eda6ec862ee9cd86",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47707,8 +49979,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_afdf1e8729eab8e1",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47728,8 +50001,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_6e7f581a56f25303",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47749,8 +50023,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_0c857664fa464b77",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -47770,8 +50045,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_493f71af612504e6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -47791,8 +50067,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_ac68cf735b12f61b",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -47812,6 +50089,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "9110c120",
         "domain": "Problem-Solving and Data Analysis",
@@ -47833,8 +50111,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_2ef41a233d8089a9",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -47854,8 +50133,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_eff0d87ba4f59d65",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47875,6 +50155,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "837f97e2",
         "domain": "Problem-Solving and Data Analysis",
@@ -47896,8 +50177,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_acc435d2f1639ade",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -47917,6 +50199,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e54712ac",
         "domain": "Algebra",
@@ -47938,8 +50221,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_cf3afad2e7bd8be3",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -47959,8 +50243,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f452410b",
+        "id": "q_b69b7dc343a5f8f0",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -47980,8 +50265,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_c2f6977f55875ef3",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48001,8 +50287,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_a3af4c2db734c6f4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48022,8 +50309,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_ebd89d6bb0b7fbbb",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48043,8 +50331,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_40eeed37df0237ef",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48064,8 +50353,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_0f64ee8a621be6ab",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48085,8 +50375,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_f76ef672e2c2e96c",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48106,8 +50397,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_c1dcf05abe82252a",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48127,8 +50419,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_a52ccd3fe263fd92",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48148,6 +50441,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f4b36293",
         "domain": "Advanced Math",
@@ -48169,6 +50463,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a9478db4",
         "domain": "Advanced Math",
@@ -48190,6 +50485,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "834f21d4",
         "domain": "Problem-Solving and Data Analysis",
@@ -48211,8 +50507,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_b87ec4bf98d1a7dc",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48232,8 +50529,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b2",
+        "id": "q_c84bdd8aa66a644b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48253,8 +50551,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_de40001e940853d3",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48262,20 +50561,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "21",
+                "B": "22",
+                "C": "23",
+                "D": "24"
             },
-            "question": "If  $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If  $2x + 3y = 107$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we find that $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 107 gives 5x = 110, so x = 22. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_782d51cd2a7d92b5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48295,6 +50595,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f84c95a3",
         "domain": "Problem-Solving and Data Analysis",
@@ -48316,6 +50617,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1348f21a",
         "domain": "Advanced Math",
@@ -48337,8 +50639,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_5",
+        "id": "q_47b181baad66539f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48358,8 +50661,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_2311b04e3c832620",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48379,8 +50683,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_70429165eceee3f4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48388,20 +50693,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "50\\pi"
+                "A": "10\\pi",
+                "B": "20\\pi",
+                "C": "100\\pi",
+                "D": "200\\pi"
             },
-            "question": "A circle has a radius of 5.  What is the circumference of the circle?",
+            "question": "A circle has a radius of 10.  What is the circumference of the circle?",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius. In this case, $r = 5$, so the circumference is $C = 2\\pi (5) = 10\\pi$.",
+            "explanation": "The circumference formula is C = 2πr. With radius 10, C = 2π(10) = 20π.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_73da3373cdb997df",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48421,8 +50727,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_a75c7901bdd4b1ef",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48442,8 +50749,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_bad4be5fac6f0310",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48463,6 +50771,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2c31ff5c",
         "domain": "Advanced Math",
@@ -48484,8 +50793,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_1a776f8d3dd8c229",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48505,8 +50815,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "f54c918d",
+        "id": "q_1a48573b5cbd7ad6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48526,8 +50837,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "645fd11a",
+        "id": "q_7b63abdc1b61c8e5",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48547,8 +50859,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_6",
+        "id": "q_eb50606159840444",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -48568,8 +50881,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_05d7e520764263d1",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48589,6 +50903,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "132b6748",
         "domain": "Advanced Math",
@@ -48610,6 +50925,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "899b8d7b",
         "domain": "Advanced Math",
@@ -48631,8 +50947,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_47f0a658457c590e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48640,20 +50957,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "361",
+                "B": "722",
+                "C": "1444",
+                "D": "2888"
             },
-            "question": "A circle with a radius of 5 units is inscribed in a square.  What is the area, in square units, of the square?",
+            "question": "A circle with a radius of 19 units is inscribed in a square.  What is the area, in square units, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. The diameter of the circle is twice the radius, or 10 units.  The area of the square is the side length squared, so the area of the square is 10^2 = 100 square units.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 19 = 38, so the square area is 38^2 = 1444 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_7cc8b5788c69caa7",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48673,6 +50991,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d42b6e8f",
         "domain": "Algebra",
@@ -48694,8 +51013,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_2cdc93ca7a3ae205",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48715,6 +51035,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8b85219d",
         "domain": "Algebra",
@@ -48736,8 +51057,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_4d4b6250ce94b905",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48757,6 +51079,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d3d44ee4",
         "domain": "Algebra",
@@ -48778,6 +51101,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "b587417a",
         "domain": "Advanced Math",
@@ -48799,6 +51123,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a46732c5",
         "domain": "Advanced Math",
@@ -48820,8 +51145,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_c415dcd4602e94ff",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48841,8 +51167,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_b0b9a4bc64619ef4",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48862,8 +51189,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d6",
+        "id": "q_f4470be020d88833",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48883,8 +51211,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_3943951e75dba0d6",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -48904,6 +51233,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "89f3184c",
         "domain": "Advanced Math",
@@ -48925,6 +51255,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f2947dd1",
         "domain": "Advanced Math",
@@ -48946,8 +51277,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ad9aef26b2e2a1f9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -48967,8 +51299,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_3502a84330a46098",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -48989,6 +51322,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "209e74d9",
         "domain": "Advanced Math",
@@ -49010,8 +51344,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_2d306d24673b7cc8",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49031,6 +51366,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f456d12a",
         "domain": "Advanced Math",
@@ -49052,8 +51388,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_29d4d9895235e9bc",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49073,8 +51410,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_1e88c4834ff066d0",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49094,6 +51432,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "c789f218",
         "domain": "Algebra",
@@ -49115,8 +51454,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_ed7d1d1cf8414fc2",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49136,6 +51476,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "1c6d5542",
         "domain": "Geometry and Trigonometry",
@@ -49157,8 +51498,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_7a71930f58357e4b",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49178,8 +51520,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_89523d9d69a05c7e",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49187,18 +51530,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "22",
+                "B": "23",
+                "C": "24",
+                "D": "25"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 112$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use the elimination method. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 112 gives 5x = 115, so x = 23. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c5992217",
         "domain": "Problem-Solving and Data Analysis",
@@ -49220,6 +51564,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "545c7649",
         "domain": "Problem-Solving and Data Analysis",
@@ -49241,8 +51586,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_ef444c6078883b22",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49262,8 +51608,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_95c9d22635c58aec",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49283,8 +51630,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_fbdd5ca15469f7c5",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -49304,8 +51652,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a10",
+        "id": "q_cce5443b3e1b2420",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49325,8 +51674,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_0825d0245837ecce",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49334,18 +51684,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "121",
+                "B": "242",
+                "C": "484",
+                "D": "968"
             },
-            "question": "A circle with a radius of 5 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
+            "question": "A circle with a radius of 11 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5 centimeters, the diameter is 10 centimeters. Therefore, the side length of the square is 10 centimeters, and the area of the square is 10*10 = 100 square centimeters.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 11 = 22, so the square area is 22^2 = 484 square centimeters.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "232e1e87",
         "domain": "Advanced Math",
@@ -49367,8 +51718,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_ce52c874b5a1b998",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49376,18 +51728,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "23",
+                "B": "24",
+                "C": "25",
+                "D": "26"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 117$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for $x$, we can use elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 117 gives 5x = 120, so x = 24. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4f556789",
         "domain": "Problem-Solving and Data Analysis",
@@ -49409,6 +51762,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "7679a5a5",
         "domain": "Advanced Math",
@@ -49430,6 +51784,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "34b49314",
         "domain": "Geometry and Trigonometry",
@@ -49451,8 +51806,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_e5",
+        "id": "q_fce3f33fe81977fa",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49472,8 +51828,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_571a2687312579c4",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49493,6 +51850,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "60eb6869",
         "domain": "Geometry and Trigonometry",
@@ -49514,6 +51872,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "28f4d38a",
         "domain": "Advanced Math",
@@ -49535,8 +51894,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_bcafae6cdcfc5dd5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49556,8 +51916,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_584a7531b1fe5493",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49565,20 +51926,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "24",
+                "B": "25",
+                "C": "26",
+                "D": "27"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 122$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5 gives us $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 122 gives 5x = 125, so x = 25. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_f499cc5c1bb195f6",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49598,8 +51960,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_299e5e24e23ee06d",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -49619,6 +51982,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_17",
         "domain": "Geometry and Trigonometry",
@@ -49640,8 +52004,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b5",
+        "id": "q_f7ebab099ea8c71f",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -49661,8 +52026,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_26137ffcd169c528",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49682,8 +52048,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c5",
+        "id": "q_947ecb93d7d88b05",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -49703,8 +52070,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_525024c6b7e6d695",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49712,20 +52080,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "144",
+                "B": "288",
+                "C": "576",
+                "D": "1152"
             },
-            "question": "A circle with a radius of 5 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
+            "question": "A circle with a radius of 12 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square. Since the radius of the circle is 5 centimeters, the diameter is 10 centimeters. Therefore, the side length of the square is 10 centimeters, and the area of the square is 10^2 = 100 square centimeters.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 12 = 24, so the square area is 24^2 = 576 square centimeters.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_310747ebf133c968",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -49745,8 +52114,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_48dc26bc3ce44385",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49766,8 +52136,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b6",
+        "id": "q_fb7723ec5f5b705a",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -49775,20 +52146,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "25",
+                "B": "26",
+                "C": "27",
+                "D": "28"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 127$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "To solve for x, we can use elimination.  Multiplying the second equation by 3 gives us $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we find that $x=3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 127 gives 5x = 130, so x = 26. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_bdff54ac6c03a895",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -49808,6 +52180,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_c11",
         "domain": "Algebra",
@@ -49829,8 +52202,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_349c294e6a88d85c",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49850,6 +52224,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "52f9a246",
         "domain": "Problem-Solving and Data Analysis",
@@ -49871,8 +52246,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "98765432",
+        "id": "q_d4e184b70e199b5f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49892,8 +52268,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_57205b1effbd42b2",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49913,6 +52290,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "301a429b",
         "domain": "Advanced Math",
@@ -49934,6 +52312,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a94182ab",
         "domain": "Advanced Math",
@@ -49955,6 +52334,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "1743968a",
         "domain": "Algebra",
@@ -49976,8 +52356,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_b90a7b76613d2f1e",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -49997,8 +52378,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_9c6097ef200ca4a1",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50018,6 +52400,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "14f4c19a",
         "domain": "Advanced Math",
@@ -50039,8 +52422,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_f60b1a8b839a4118",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50060,6 +52444,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "28f5623d",
         "domain": "Algebra",
@@ -50081,6 +52466,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "b881f345",
         "domain": "Geometry and Trigonometry",
@@ -50102,6 +52488,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "77814f0c",
         "domain": "Algebra",
@@ -50123,8 +52510,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_b4bfc91319c1f4e5",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50144,8 +52532,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_7830239d91ee3356",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50165,8 +52554,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c7",
+        "id": "q_869e810fb3f3de92",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -50186,8 +52576,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_aa8a88d214603f23",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50207,6 +52598,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d7546482",
         "domain": "Geometry and Trigonometry",
@@ -50228,8 +52620,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_b4",
+        "id": "q_42d9f4fe12d85f6e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50237,20 +52630,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "5\\pi",
-                "B": "10\\pi",
-                "C": "25\\pi",
-                "D": "100\\pi"
+                "A": "1444",
+                "B": "2888",
+                "C": "5776",
+                "D": "11552"
             },
-            "question": "A circle has a radius of 5 units. What is the area of the circle in square units?",
+            "question": "A circle has a radius of 38 units. What is the area of the circle in square units?",
             "paragraph": "null",
-            "explanation": "The area of a circle is given by the formula A = \\pi r^2, where r is the radius.  Substituting 5 for r, we get A = \\pi (5)^2 = 25\\pi.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 38 = 76, so the square area is 76^2 = 5776 square units.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_6d04c90e39cf4086",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -50270,8 +52664,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a12",
+        "id": "q_ade5a8c27cd55d84",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50291,8 +52686,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_469c643ed74525a7",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -50312,8 +52708,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_a6f1c4c2c6f2e90e",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50333,6 +52730,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "8a67c85f",
         "domain": "Advanced Math",
@@ -50354,6 +52752,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d84e67c3",
         "domain": "Algebra",
@@ -50375,6 +52774,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a3d8c31d",
         "domain": "Algebra",
@@ -50396,8 +52796,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_8332c79d2a43608d",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -50417,8 +52818,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7aab3e808b96dddb",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50438,6 +52840,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f298c515",
         "domain": "Algebra",
@@ -50447,20 +52850,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "26",
+                "B": "27",
+                "C": "28",
+                "D": "29"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 132$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ using the elimination method.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 132 gives 5x = 135, so x = 27. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c8",
+        "id": "q_07c55fa7123f626c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50480,8 +52884,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_e16ea510efc0cd32",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -50489,20 +52894,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "27",
+                "B": "28",
+                "C": "29",
+                "D": "30"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 137$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve for $x$ by using the elimination method. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5, we get $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 137 gives 5x = 140, so x = 28. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a4",
+        "id": "q_975ea8e704a6cdf2",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -50522,8 +52928,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a2",
+        "id": "q_6a04c87d3f4ee286",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50543,8 +52950,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_56ae9c5a6422f32f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50564,8 +52972,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_b932da9272e83c5f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50585,8 +52994,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_27",
+        "id": "q_d17c780231cc9eff",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50606,6 +53016,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "4a1f5b7a",
         "domain": "Advanced Math",
@@ -50627,8 +53038,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_9",
+        "id": "q_b443e4e4952f41ad",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50648,8 +53060,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_4",
+        "id": "q_403732485c3148a6",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -50669,6 +53082,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4c9664d4",
         "domain": "Geometry and Trigonometry",
@@ -50690,8 +53104,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_d9",
+        "id": "q_3a8c5b26b2c322f0",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50711,8 +53126,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_24",
+        "id": "q_8ea2e2bb7555b8f9",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50732,6 +53148,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "2466792a",
         "domain": "Advanced Math",
@@ -50753,6 +53170,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f8f51193",
         "domain": "Advanced Math",
@@ -50774,6 +53192,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "c824d513",
         "domain": "Advanced Math",
@@ -50791,8 +53210,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_b9",
+        "id": "q_8c7395fe9ddce7ed",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50812,8 +53232,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_dc8e5cdb01bc9540",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -50833,6 +53254,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "28f140fd",
         "domain": "Problem-Solving and Data Analysis",
@@ -50854,8 +53276,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_4104635a8b29a6f7",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50863,20 +53286,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "81",
+                "B": "162",
+                "C": "324",
+                "D": "648"
             },
-            "question": "A circle with radius 5 is inscribed in a square. What is the area of the square?",
+            "question": "A circle with radius 9 is inscribed in a square. What is the area of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5, the diameter is 10.  The area of the square is then $10^2 = 100$.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 9 = 18, so the square area is 18^2 = 324.",
             "correct_answer": "C"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_a3341991bcad5e6a",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -50884,18 +53308,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "15.7 cm",
-                "B": "31.4 cm",
-                "C": "78.5 cm",
-                "D": "157 cm"
+                "A": "25.1 cm",
+                "B": "50.2 cm",
+                "C": "201.0 cm",
+                "D": "401.9 cm"
             },
-            "question": "A circle has a radius of 5 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
+            "question": "A circle has a radius of 8 cm. What is the circumference of the circle? (Use $\\pi = 3.14$)",
             "paragraph": "null",
-            "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius. Substituting 5 cm for $r$ and 3.14 for $\\pi$, we get $C = 2(3.14)(5) = 31.4$ cm.",
+            "explanation": "Use C = 2πr. With π = 3.14 and r = 8, C = 2(3.14)(8) = 50.2 cm.",
             "correct_answer": "B"
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "f1d7a634",
         "domain": "Geometry and Trigonometry",
@@ -50917,8 +53342,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d5",
+        "id": "q_d67dae54ad83e505",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -50938,8 +53364,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_c0ad97c312387ae5",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -50959,6 +53386,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "23ef2021",
         "domain": "Problem-Solving and Data Analysis",
@@ -50980,6 +53408,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "3d985142",
         "domain": "Algebra",
@@ -51001,8 +53430,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d8",
+        "id": "q_e35e0eab260cf456",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51022,6 +53452,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "13b8a32c",
         "domain": "Algebra",
@@ -51043,8 +53474,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a8",
+        "id": "q_ed85eb0fbacffbd5",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51064,6 +53496,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "random_id_b21",
         "domain": "Advanced Math",
@@ -51085,6 +53518,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "1453c4d6",
         "domain": "Geometry and Trigonometry",
@@ -51106,6 +53540,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "a22d8ac5",
         "domain": "Advanced Math",
@@ -51127,8 +53562,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c3",
+        "id": "q_215880d4354577d5",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51148,8 +53584,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c2",
+        "id": "q_d664c36853a99135",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51157,20 +53594,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "12",
-                "B": "18",
-                "C": "24",
-                "D": "36"
+                "A": "22",
+                "B": "33",
+                "C": "44",
+                "D": "66"
             },
-            "question": "A regular hexagon is inscribed in a circle with a radius of 6. What is the perimeter of the hexagon?",
+            "question": "A regular hexagon is inscribed in a circle with a radius 11. What is the perimeter of the hexagon?",
             "paragraph": "null",
-            "explanation": "A regular hexagon can be divided into 6 equilateral triangles. The side of each equilateral triangle is equal to the radius of the circle, which is 6. So the perimeter of the hexagon is 6 * 6 = 36.",
+            "explanation": "A regular hexagon inscribed in a circle can be divided into six equilateral triangles. Each side of the hexagon equals the circle radius, 11, so the perimeter is 6 × 11 = 66.",
             "correct_answer": "D"
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a5",
+        "id": "q_38cdf06d90bf8c7f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51190,8 +53628,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_1",
+        "id": "q_768ee58d6afc24eb",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51211,8 +53650,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_167059b2084e2ab9",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51232,6 +53672,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "d8c76f6a",
         "domain": "Algebra",
@@ -51253,6 +53694,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "e83839db",
         "domain": "Algebra",
@@ -51274,8 +53716,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_29",
+        "id": "q_97a2c2e0479b7656",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51295,8 +53738,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_ea3f6529e3dc87d3",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51316,6 +53760,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "a1293ac5",
         "domain": "Algebra",
@@ -51337,8 +53782,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_cd114e99a27526cc",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51358,8 +53804,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_c1",
+        "id": "q_7ab5917abc104da5",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -51379,6 +53826,7 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
         "id": "432ef812",
         "domain": "Algebra",
@@ -51400,8 +53848,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_db4367b4cf693d2c",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51421,6 +53870,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "f519561a",
         "domain": "Algebra",
@@ -51442,8 +53892,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_79856e6ab33815ea",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51463,8 +53914,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_c9",
+        "id": "q_12b6458bfdbf5cf4",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51484,8 +53936,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_b8",
+        "id": "q_f55dd8116e35d236",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51493,20 +53946,21 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "25",
-                "B": "50",
-                "C": "100",
-                "D": "200"
+                "A": "169",
+                "B": "338",
+                "C": "676",
+                "D": "1352"
             },
-            "question": "A circle with a radius of 5 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
+            "question": "A circle with a radius of 13 centimeters is inscribed in a square. What is the area, in square centimeters, of the square?",
             "paragraph": "null",
-            "explanation": "The diameter of the circle is equal to the side length of the square.  Since the radius of the circle is 5 centimeters, the diameter is 10 centimeters. Therefore, the side length of the square is 10 centimeters, and the area of the square is 10 * 10 = 100 square centimeters.",
+            "explanation": "The circle diameter equals the square side length. The side is 2 × 13 = 26, so the square area is 26^2 = 676 square centimeters.",
             "correct_answer": "C"
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_a7",
+        "id": "q_5bd8a9485e2d8c39",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51526,8 +53980,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d3",
+        "id": "q_c323f3d7d80d7472",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51547,8 +54002,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a9",
+        "id": "q_a4f71703cd41d298",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51568,8 +54024,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_12",
+        "id": "q_ebce8f4e927918c1",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51589,6 +54046,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "8f457e4f",
         "domain": "Advanced Math",
@@ -51610,8 +54068,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_a1",
+        "id": "q_e9c86c1182c35a5f",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51631,6 +54090,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "f21c6b4d",
         "domain": "Geometry and Trigonometry",
@@ -51652,8 +54112,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_15",
+        "id": "q_09a78e3d9ea8b9a9",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -51673,8 +54134,9 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     },
+
     {
-        "id": "random_id_a3",
+        "id": "q_28d6761c62da786f",
         "domain": "Advanced Math",
         "visuals": {
             "type": "null",
@@ -51694,6 +54156,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "25a57533",
         "domain": "Advanced Math",
@@ -51715,6 +54178,7 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
         "id": "d8982b12",
         "domain": "Advanced Math",
@@ -51736,8 +54200,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_ee49be107061251c",
         "domain": "Geometry and Trigonometry",
         "visuals": {
             "type": "null",
@@ -51757,8 +54222,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c4",
+        "id": "q_39df8209d8a729ac",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51778,8 +54244,9 @@ export const questionBank = [
         },
         "difficulty": "Hard"
     },
+
     {
-        "id": "12d8c11d",
+        "id": "q_c7a1fb79d441497c",
         "domain": "Algebra",
         "visuals": {
             "type": "null",
@@ -51787,18 +54254,19 @@ export const questionBank = [
         },
         "question": {
             "choices": {
-                "A": "2",
-                "B": "3",
-                "C": "4",
-                "D": "5"
+                "A": "28",
+                "B": "29",
+                "C": "30",
+                "D": "31"
             },
-            "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+            "question": "If $2x + 3y = 142$ and $x - y = 1$, what is the value of $x$?",
             "paragraph": "null",
-            "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$. Dividing both sides by 5 gives us $x = 3$.",
+            "explanation": "Multiply the second equation, x - y = 1, by 3 to get 3x - 3y = 3. Adding it to 2x + 3y = 142 gives 5x = 145, so x = 29. Therefore, choice B is correct.",
             "correct_answer": "B"
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "789054fe",
         "domain": "Geometry and Trigonometry",
@@ -51820,8 +54288,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_d7",
+        "id": "q_da19cef2573ad289",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51841,8 +54310,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_8",
+        "id": "q_5062df3160c47cb8",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51862,6 +54332,7 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
         "id": "4bc98d5f",
         "domain": "Geometry and Trigonometry",
@@ -51883,8 +54354,9 @@ export const questionBank = [
         },
         "difficulty": "Medium"
     },
+
     {
-        "id": "random_id_c6",
+        "id": "q_bfd86a89922ad564",
         "domain": "Problem-Solving and Data Analysis",
         "visuals": {
             "type": "null",
@@ -51904,4 +54376,4 @@ export const questionBank = [
         },
         "difficulty": "Easy"
     }
-]
+];

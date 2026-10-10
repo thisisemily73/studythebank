@@ -9,6 +9,13 @@ function normalizeText(value) {
         .toLowerCase();
 }
 
+function normalizeChoiceText(value) {
+    return String(value)
+        .normalize('NFKC')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
 export function prepareQuestions(questionBank) {
     const structurallySound = [];
     const rejected = [];
@@ -58,23 +65,35 @@ export function prepareQuestions(questionBank) {
             continue;
         }
 
-        const choiceTexts = ANSWER_KEYS.map((key) =>
-            normalizeText(choices[key])
-        );
+        const duplicateChoices = [];
+        const seenChoices = new Map();
 
-        if (new Set(choiceTexts).size !== choiceTexts.length) {
+        for (const key of ANSWER_KEYS) {
+            const normalized = normalizeChoiceText(choices[key]);
+
+            if (seenChoices.has(normalized)) {
+                duplicateChoices.push(
+                    `${seenChoices.get(normalized)} and ${key}`
+                );
+            } else {
+                seenChoices.set(normalized, key);
+            }
+        }
+
+        if (duplicateChoices.length > 0) {
             rejected.push({
                 ...item,
                 id,
-                reason_for_fault: 'Duplicate answer choices.',
+                reason_for_fault:
+                    `Duplicate answer choices: ${duplicateChoices.join("; ")}.`,
             });
             continue;
         }
 
         const paragraph =
             typeof innerQ.paragraph === 'string' &&
-            innerQ.paragraph.trim() &&
-            innerQ.paragraph.trim().toLowerCase() !== 'null'
+                innerQ.paragraph.trim() &&
+                innerQ.paragraph.trim().toLowerCase() !== 'null'
                 ? `${innerQ.paragraph.trim()}\n\n`
                 : '';
 
@@ -85,6 +104,7 @@ export function prepareQuestions(questionBank) {
 
         structurallySound.push({
             id,
+            source_index: i,
             section: String(item.domain || 'general').toLowerCase(),
             question: `${paragraph}${prompt.trim()}`,
             choices: ANSWER_KEYS.map(
@@ -104,18 +124,22 @@ export function findDuplicateQuestions(questions) {
     const duplicates = [];
 
     for (const question of questions) {
-        const signature = normalizeText(
-            question.question + '|' + question.choices.join('|')
-        );
+        const normalizedPrompt = normalizeText(question.question);
+        const normalizedChoices = question.choices
+            .map(normalizeChoiceText)
+            .join('|');
+        const signature = `${normalizedPrompt}|${normalizedChoices}`;
 
         if (seen.has(signature)) {
             duplicates.push({
                 id: question.id,
-                duplicate_of: seen.get(signature),
+                source_index: question.source_index,
+                duplicate_source_index: seen.get(signature).source_index,
+                duplicate_of: seen.get(signature).id,
                 reason_for_fault: 'Potential duplicate question and choices.',
             });
         } else {
-            seen.set(signature, question.id);
+            seen.set(signature, question);
         }
     }
 

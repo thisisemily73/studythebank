@@ -1,6 +1,22 @@
 [
   {
+    "id": "random_id_a1",
+    "source_index": 0,
+    "section": "information and ideas",
+    "question": "In the essay \"On Liberty,\" John Stuart Mill argues that \"the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it.\"  What is Mill's main point in this passage?\n\nWhat is Mill's main point in this passage from \"On Liberty\"?",
+    "choices": [
+      "A) Suppressing opinions robs future generations of the chance to hear them, even if they disagree with them.",
+      "B) It is harmful to silence opinions that are held by a majority of people.",
+      "C) People who dissent from an opinion are more likely to be harmed by its suppression than those who hold it.",
+      "D) It is important to respect all opinions, even if they are wrong."
+    ],
+    "correct_answer": "A",
+    "explanation": "Mill argues that suppressing opinions is a harm to everyone, including future generations, because it prevents them from hearing and potentially engaging with these ideas.  He also emphasizes that those who disagree with the silenced opinion are more likely to be harmed because it prevents them from developing their own understanding and potentially challenging it.",
+    "audit_flags": []
+  },
+  {
     "id": "9955574d",
+    "source_index": 2,
     "section": "expression of ideas",
     "question": "The article argues that the way people use technology can be divided into two categories. One category is the use of technology for specific tasks, which the authors call \"instrumental\" use. The other category is the use of technology for pleasure or entertainment, which the authors call \"noninstrumental\" use. This distinction is important because it can help explain why people use technology in different ways, and how these different uses can affect people’s lives.  The authors claim that the distinction between instrumental and noninstrumental use is important for understanding how people use technology in the twenty-first century.\n\nWhat is the main idea of this article?",
     "choices": [
@@ -15,6 +31,7 @@
   },
   {
     "id": "99315200",
+    "source_index": 3,
     "section": "information and ideas",
     "question": "The author is most interested in the impact of the internet on the way information is spread, focusing on the ways that individuals have become more powerful in shaping and distributing information. One of the key points the author makes is that information is no longer solely controlled by institutions and governments. This can be seen, for example, in the rise of citizen journalism, where individuals are able to share their own observations and perspectives on current events. Another major point is that the internet has made it easier for people to access and share information from around the world, making the world a smaller and more interconnected place. The author also notes the downsides of the internet, such as the spread of misinformation and the erosion of trust in traditional sources of information. However, the author’s primary focus is on the positive ways that the internet has changed the way information is shared and how it has empowered individuals. What is the main point of the passage?\n\nWhich statement best describes the author’s main point?",
     "choices": [
@@ -29,6 +46,7 @@
   },
   {
     "id": "random_id_e1",
+    "source_index": 4,
     "section": "standard english conventions",
     "question": "Which of the following sentences correctly uses a comma to separate a nonessential phrase?",
     "choices": [
@@ -39,6 +57,21 @@
     ],
     "correct_answer": "A",
     "explanation": "A nonessential phrase can be removed from a sentence without changing the meaning of the sentence. In this case, the phrase \"which was written by Shakespeare\" is a nonessential phrase, and it is correctly separated from the rest of the sentence by a comma. This is because the phrase doesn’t provide information that is essential to the meaning of the sentence. The other sentences are incorrect because they use the comma incorrectly to separate a nonessential phrase.",
+    "audit_flags": []
+  },
+  {
+    "id": "e5d337a9",
+    "source_index": 5,
+    "section": "information and ideas",
+    "question": "The text claims that the \"rise of the global middle class\" is a major factor in the increased demand for coffee. The text also mentions that in the past, coffee was \"associated with privilege,\" but today it is \"more widely consumed.\" What is the main idea of the passage?\n\nThe passage primarily suggests that",
+    "choices": [
+      "A) the global middle class is now a major force in the coffee industry.",
+      "B) coffee consumption has increased because it is now associated with privilege.",
+      "C) coffee is no longer associated with privilege, but instead is more widely consumed.",
+      "D) the global middle class has increased its demand for coffee because it is no longer associated with privilege."
+    ],
+    "correct_answer": "A",
+    "explanation": "The main idea of the passage is that the global middle class is a major factor in the increased demand for coffee. The passage supports this idea by mentioning that coffee was once associated with privilege, but is now more widely consumed. This suggests that the global middle class, which is growing, is driving the increased demand for coffee.",
     "audit_flags": []
   }
 ]

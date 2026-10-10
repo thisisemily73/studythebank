@@ -19,7 +19,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_b9",
@@ -41,7 +41,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C; A and D."
   },
   {
     "id": "67a4829f",
@@ -63,7 +63,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "f94c0c33",
@@ -85,7 +85,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "2175c79f",
@@ -107,7 +107,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "197df82e",
@@ -129,7 +129,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "f9939d2c",
@@ -151,7 +151,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C; A and D."
   },
   {
     "id": "152d892d",
@@ -173,7 +173,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "random_id_c3",
@@ -195,7 +195,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "random_id_e4",
@@ -217,7 +217,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_1",
@@ -239,29 +239,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
-  },
-  {
-    "id": "random_id_c7",
-    "domain": "Standard English Conventions",
-    "visuals": {
-      "type": "null",
-      "svg_content": "null"
-    },
-    "question": {
-      "choices": {
-        "A": "The scientist's hypothesis was that the new drug would have a positive effect on the patients.",
-        "B": "the scientist's hypothesis was that the new drug would have a positive effect on the patients.",
-        "C": "The Scientist's Hypothesis was that the new drug would have a positive effect on the patients.",
-        "D": "the scientist's Hypothesis was that the new drug would have a positive effect on the patients."
-      },
-      "question": "Which of the following changes to the sentence above would correct the capitalization error?",
-      "paragraph": "The scientist's hypothesis was that the new drug would have a positive effect on the patients.",
-      "explanation": "The only error in the sentence is the capitalization of the word \"Hypothesis.\" Only the first letter of the first word of a sentence should be capitalized, so the correct answer is A.",
-      "correct_answer": "A"
-    },
-    "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "random_id_a1",
@@ -283,7 +261,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_b3",
@@ -305,7 +283,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "6f54812c",
@@ -327,7 +305,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "2346d88f",
@@ -349,7 +327,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_c4",
@@ -371,7 +349,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "19f69a7c",
@@ -393,7 +371,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_b8",
@@ -415,7 +393,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_e8",
@@ -437,7 +415,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "6249b173",
@@ -459,7 +437,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and D."
   },
   {
     "id": "random_id_a9",
@@ -481,7 +459,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; C and D."
   },
   {
     "id": "random_id_c7",
@@ -503,7 +481,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "random_id_b7",
@@ -525,7 +503,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_a1",
@@ -547,29 +525,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
-  },
-  {
-    "id": "random_id_e4",
-    "domain": "Standard English Conventions",
-    "visuals": {
-      "type": "null",
-      "svg_content": "null"
-    },
-    "question": {
-      "choices": {
-        "A": "Avant-garde",
-        "B": "avant-garde",
-        "C": "Avant Garde",
-        "D": "Avant garde"
-      },
-      "question": "Which choice best completes the sentence with the correct capitalization? ",
-      "paragraph": "The artist was known for her *avant-garde* style, which often challenged the traditional norms of art making. ",
-      "explanation": "The word \"avant-garde\" is a proper noun when referring to a specific artistic movement. Proper nouns should be capitalized. ",
-      "correct_answer": "A"
-    },
-    "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "random_id_e8",
@@ -591,7 +547,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_a5",
@@ -613,7 +569,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and C; A and D."
   },
   {
     "id": "random_id_3",
@@ -635,7 +591,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_a5",
@@ -657,7 +613,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_42",
@@ -679,7 +635,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "245f9000",
@@ -701,7 +657,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C; B and D."
   },
   {
     "id": "9a152541",
@@ -723,7 +679,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "e88f7e33",
@@ -745,7 +701,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "random_id_a1",
@@ -767,7 +723,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "6758427d",
@@ -789,7 +745,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C; B and D."
   },
   {
     "id": "23456789",
@@ -811,7 +767,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and C; A and D."
   },
   {
     "id": "random_id_a10",
@@ -833,7 +789,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "random_id_english_1",
@@ -855,7 +811,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "c293e98a",
@@ -877,7 +833,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "7c629b53",
@@ -899,7 +855,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "54b7c3c3",
@@ -921,7 +877,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_d3",
@@ -943,7 +899,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "e64458b4",
@@ -965,7 +921,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_english_5",
@@ -987,7 +943,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; C and D."
   },
   {
     "id": "random_id_e1",
@@ -1009,7 +965,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C; A and D."
   },
   {
     "id": "random_id_e9",
@@ -1031,7 +987,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and D."
   },
   {
     "id": "random_id_e5",
@@ -1053,7 +1009,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_e8",
@@ -1075,7 +1031,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and C; A and D."
   },
   {
     "id": "random_id_c8",
@@ -1097,7 +1053,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "c891b25b",
@@ -1119,7 +1075,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "7a45c12b",
@@ -1141,7 +1097,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "random_id_e6",
@@ -1163,7 +1119,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "213957e6",
@@ -1185,7 +1141,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "7f7c3993",
@@ -1207,7 +1163,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_english_1",
@@ -1229,7 +1185,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B; A and C; A and D."
   },
   {
     "id": "f765438a",
@@ -1251,7 +1207,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "119b489c",
@@ -1273,7 +1229,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: C and D."
   },
   {
     "id": "87654321",
@@ -1295,7 +1251,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "92ef1d2e",
@@ -1317,7 +1273,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C; A and D."
   },
   {
     "id": "8f92374d",
@@ -1339,7 +1295,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_a2",
@@ -1361,7 +1317,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "54d6446b",
@@ -1383,7 +1339,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and D."
   },
   {
     "id": "9812ca7b",
@@ -1405,7 +1361,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_english_1",
@@ -1427,7 +1383,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and D."
   },
   {
     "id": "random_id_a2",
@@ -1449,7 +1405,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_a1",
@@ -1471,7 +1427,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "257f017c",
@@ -1493,7 +1449,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "89656d1c",
@@ -1515,7 +1471,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: B and C."
   },
   {
     "id": "random_id_e7",
@@ -1537,7 +1493,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_a1",
@@ -1559,7 +1515,7 @@
       "correct_answer": "B"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C; B and D."
   },
   {
     "id": "random_id_c10",
@@ -1581,7 +1537,7 @@
       "correct_answer": "A"
     },
     "difficulty": "Easy",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and C."
   },
   {
     "id": "random_id_c2",
@@ -1603,7 +1559,7 @@
       "correct_answer": "C"
     },
     "difficulty": "Medium",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_b8",
@@ -1625,7 +1581,7 @@
       "correct_answer": "D"
     },
     "difficulty": "Hard",
-    "reason_for_fault": "Duplicate answer choices."
+    "reason_for_fault": "Duplicate answer choices: A and B."
   },
   {
     "id": "random_id_a1",
@@ -1640,7 +1596,7 @@
     "correct_answer": "A",
     "explanation": "Mill argues that suppressing opinions is a harm to everyone, including future generations, because it prevents them from hearing and potentially engaging with these ideas.  He also emphasizes that those who disagree with the silenced opinion are more likely to be harmed because it prevents them from developing their own understanding and potentially challenging it.",
     "audit_flags": [],
-    "reason_for_fault": "The passage supports both choice A and choice C as valid interpretations, so the question has more than one correct answer. The answer key is not uniquely correct."
+    "reason_for_fault": "The passage supports both choice A and choice C as correct interpretations. Therefore the answer key, which lists only A, is incorrect, making the question ambiguous."
   },
   {
     "id": "random_id_d6",
@@ -1655,6 +1611,6 @@
     "correct_answer": "C",
     "explanation": "Choice C is the best option because it combines the two sentences while maintaining a correct grammatical structure and avoiding a comma splice.  The phrase \"a direct challenge to the accepted view\" is nonessential, so it should be set off with commas.  The phrase \"that female participation in hunting was negligible\" is a restrictive clause, so no comma is needed between the clause and the rest of the sentence.",
     "audit_flags": [],
-    "reason_for_fault": "The explanation incorrectly describes the grammatical structure of the correct choice. It claims that the phrase \"a direct challenge to the accepted view\" is nonessential and should be set off with commas, yet choice C does not contain that phrase at all. Consequently, the explanation is inaccurate."
+    "reason_for_fault": "The explanation incorrectly describes the structure of the correct choice and misidentifies which phrase is nonessential; it does not match the chosen answer C."
   }
 ]

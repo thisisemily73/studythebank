@@ -1,0 +1,11 @@
+{
+  "source_questions": 2473,
+  "candidate_questions": 2473,
+  "verified_fixes_applied": 27,
+  "remaining_structural_issues": 0,
+  "remaining_potential_duplicates": 104,
+  "full_ai_audit_complete": false,
+  "ready_for_live_app": false,
+  "duplicate_ids_replaced": 1273,
+  "locally_repaired_additionally": 116
+}

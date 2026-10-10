@@ -1,0 +1,730 @@
+[
+  {
+    "id": "5f4c918d",
+    "source_index": 88,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "9f6f96ff",
+    "source_index": 102,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "12d8c11d",
+    "source_index": 144,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_f930713aa3dc3147",
+    "source_index": 184,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "6f4c918d",
+    "source_index": 187,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "random_id_c5",
+    "source_index": 197,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_79079fbb755bef61",
+    "source_index": 218,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_1605e7e2e3647d02",
+    "source_index": 236,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_ed64142a76331142",
+    "source_index": 263,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_44c8f08c94dd1e45",
+    "source_index": 390,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_de37092e54574599",
+    "source_index": 518,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "a9285f0b",
+    "source_index": 550,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_63fef375571a63cc",
+    "source_index": 613,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_ae929ac56f240ce4",
+    "source_index": 635,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_6de273cf99401fc4",
+    "source_index": 667,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_72065516e0d0e2f8",
+    "source_index": 723,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "54f9a4d3",
+    "source_index": 724,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "a9f49382",
+    "source_index": 811,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_4f8442819da57006",
+    "source_index": 816,
+    "duplicate_source_index": 777,
+    "duplicate_of": "q_3a82e9b89ed18e5e",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_aa06cda9d83d1353",
+    "source_index": 819,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_bf4be2ba8ac87536",
+    "source_index": 826,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_8d1b57c4c81b56e3",
+    "source_index": 933,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_5a5791ed1a8889f8",
+    "source_index": 937,
+    "duplicate_source_index": 476,
+    "duplicate_of": "q_84768af6c4c6a29d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "9748c70a",
+    "source_index": 951,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "71f740dd",
+    "source_index": 956,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_d1a6dd5a0acc002e",
+    "source_index": 962,
+    "duplicate_source_index": 272,
+    "duplicate_of": "e677fa6c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_ec06b32b3f6ef38d",
+    "source_index": 998,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_24465c6e78c66a84",
+    "source_index": 1000,
+    "duplicate_source_index": 272,
+    "duplicate_of": "e677fa6c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "e6777a6c",
+    "source_index": 1044,
+    "duplicate_source_index": 272,
+    "duplicate_of": "e677fa6c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_dfcd873804a02760",
+    "source_index": 1109,
+    "duplicate_source_index": 476,
+    "duplicate_of": "q_84768af6c4c6a29d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_506e8230eb141b53",
+    "source_index": 1144,
+    "duplicate_source_index": 272,
+    "duplicate_of": "e677fa6c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_c1816ce291341e7b",
+    "source_index": 1185,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_768c08590eeabc81",
+    "source_index": 1288,
+    "duplicate_source_index": 476,
+    "duplicate_of": "q_84768af6c4c6a29d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "d4237e9c",
+    "source_index": 1295,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "8e9677e6",
+    "source_index": 1321,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "47598085",
+    "source_index": 1324,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "4f52918f",
+    "source_index": 1391,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "e642020c",
+    "source_index": 1404,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "848592c2",
+    "source_index": 1405,
+    "duplicate_source_index": 82,
+    "duplicate_of": "f54c918d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "f123456",
+    "source_index": 1504,
+    "duplicate_source_index": 1455,
+    "duplicate_of": "79802835",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_5471f7ef07f715d2",
+    "source_index": 1566,
+    "duplicate_source_index": 1491,
+    "duplicate_of": "q_df49f2b8d448174f",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "d66b53aa",
+    "source_index": 1611,
+    "duplicate_source_index": 1539,
+    "duplicate_of": "q_fe11ac741b28498a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_e29d7e60548d4f8b",
+    "source_index": 1629,
+    "duplicate_source_index": 1539,
+    "duplicate_of": "q_fe11ac741b28498a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_99edba761fcb0a40",
+    "source_index": 1646,
+    "duplicate_source_index": 1450,
+    "duplicate_of": "q_1f21aea6925fbd13",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "7a98f4e4",
+    "source_index": 1647,
+    "duplicate_source_index": 1491,
+    "duplicate_of": "q_df49f2b8d448174f",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "e51f3a8c",
+    "source_index": 1699,
+    "duplicate_source_index": 1490,
+    "duplicate_of": "3c28f16b",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_d622603b1cfacb8c",
+    "source_index": 1700,
+    "duplicate_source_index": 1548,
+    "duplicate_of": "q_66aacf08bbd44f2d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_fbcbf3cfe683e85c",
+    "source_index": 1705,
+    "duplicate_source_index": 1557,
+    "duplicate_of": "8493e142",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "9839f420",
+    "source_index": 1731,
+    "duplicate_source_index": 1571,
+    "duplicate_of": "q_32a55c7471755621",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "12e8c776",
+    "source_index": 1787,
+    "duplicate_source_index": 1459,
+    "duplicate_of": "q_3c0df81ce469b201",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "e8460d41",
+    "source_index": 1801,
+    "duplicate_source_index": 1659,
+    "duplicate_of": "q_4105f815e10f478a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "c4594b5d",
+    "source_index": 1820,
+    "duplicate_source_index": 1486,
+    "duplicate_of": "q_d9a2393b6ac3eb0d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_be27dee292bd763d",
+    "source_index": 1835,
+    "duplicate_source_index": 1652,
+    "duplicate_of": "4321657a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "f4a9fd2e",
+    "source_index": 1841,
+    "duplicate_source_index": 1728,
+    "duplicate_of": "q_d2afc1cf0c8d02f9",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_ab978046394d003c",
+    "source_index": 1846,
+    "duplicate_source_index": 1683,
+    "duplicate_of": "q_e503a319ed8f64b8",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_295af9d0369c53be",
+    "source_index": 1884,
+    "duplicate_source_index": 1817,
+    "duplicate_of": "a934f7dd",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_9509f25a2e1ff683",
+    "source_index": 1900,
+    "duplicate_source_index": 1536,
+    "duplicate_of": "q_1a1fbc92f3b4b247",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_75671a1a1b8c5a6b",
+    "source_index": 1906,
+    "duplicate_source_index": 1750,
+    "duplicate_of": "3d892d23",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "37a147e1",
+    "source_index": 1912,
+    "duplicate_source_index": 1633,
+    "duplicate_of": "random_id_6",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_1bf414b5cf04b661",
+    "source_index": 1960,
+    "duplicate_source_index": 1917,
+    "duplicate_of": "q_0df00efc30f5a6bb",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_27f36b14194eed62",
+    "source_index": 1965,
+    "duplicate_source_index": 1850,
+    "duplicate_of": "q_37dc7d5ffe8aedd6",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "3d88374a",
+    "source_index": 1984,
+    "duplicate_source_index": 1874,
+    "duplicate_of": "q_aac4e61e4a84a66e",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "a699428d",
+    "source_index": 2006,
+    "duplicate_source_index": 1487,
+    "duplicate_of": "q_516c93b2d32dc83d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "54f7b56c",
+    "source_index": 2014,
+    "duplicate_source_index": 1834,
+    "duplicate_of": "q_c87ff784341d1fc4",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_3fb87a0930b74106",
+    "source_index": 2016,
+    "duplicate_source_index": 1995,
+    "duplicate_of": "q_efd4514ba68f2f93",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "random_id_b24",
+    "source_index": 2032,
+    "duplicate_source_index": 1917,
+    "duplicate_of": "q_0df00efc30f5a6bb",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_d2ac55d3bdd71a05",
+    "source_index": 2046,
+    "duplicate_source_index": 1746,
+    "duplicate_of": "q_354c70cc5536e8c2",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_c749d79a98a81787",
+    "source_index": 2058,
+    "duplicate_source_index": 1873,
+    "duplicate_of": "q_0cbc9ed2a71c05f7",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_83f596493cdf8ee0",
+    "source_index": 2064,
+    "duplicate_source_index": 2034,
+    "duplicate_of": "q_720a416d3c0a88a5",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_7b21643587fc31c0",
+    "source_index": 2065,
+    "duplicate_source_index": 1873,
+    "duplicate_of": "q_0cbc9ed2a71c05f7",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "8a76bc7a",
+    "source_index": 2067,
+    "duplicate_source_index": 1459,
+    "duplicate_of": "q_3c0df81ce469b201",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_03b7b7b87d419233",
+    "source_index": 2069,
+    "duplicate_source_index": 1750,
+    "duplicate_of": "3d892d23",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_4021a6fa4339121f",
+    "source_index": 2084,
+    "duplicate_source_index": 1593,
+    "duplicate_of": "q_50781f340f920c54",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_298389cb5710b2a6",
+    "source_index": 2097,
+    "duplicate_source_index": 1837,
+    "duplicate_of": "e9ff8933",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_3a1a000fab202c7d",
+    "source_index": 2105,
+    "duplicate_source_index": 1746,
+    "duplicate_of": "q_354c70cc5536e8c2",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_56304e5144172fa1",
+    "source_index": 2106,
+    "duplicate_source_index": 1459,
+    "duplicate_of": "q_3c0df81ce469b201",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "3894c42a",
+    "source_index": 2107,
+    "duplicate_source_index": 1838,
+    "duplicate_of": "q_b3c59f2957ef8af0",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_5bb974ddb587a395",
+    "source_index": 2120,
+    "duplicate_source_index": 1979,
+    "duplicate_of": "q_470b9a69421a1521",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "f87e32ac",
+    "source_index": 2137,
+    "duplicate_source_index": 1659,
+    "duplicate_of": "q_4105f815e10f478a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "f84948c7",
+    "source_index": 2138,
+    "duplicate_source_index": 1989,
+    "duplicate_of": "q_a828344e8f3de748",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_419b3edc70b77462",
+    "source_index": 2142,
+    "duplicate_source_index": 1917,
+    "duplicate_of": "q_0df00efc30f5a6bb",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "894961da",
+    "source_index": 2161,
+    "duplicate_source_index": 1659,
+    "duplicate_of": "q_4105f815e10f478a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_91667ac88513d2d0",
+    "source_index": 2175,
+    "duplicate_source_index": 2048,
+    "duplicate_of": "q_74b9c92c71652178",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_51366c444dfa7afe",
+    "source_index": 2182,
+    "duplicate_source_index": 1708,
+    "duplicate_of": "234e3498",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "4534957f",
+    "source_index": 2196,
+    "duplicate_source_index": 2040,
+    "duplicate_of": "987fc19d",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_278338025ee0b21a",
+    "source_index": 2217,
+    "duplicate_source_index": 1588,
+    "duplicate_of": "q_87159c85044520c8",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_2b541adb52a4cc0c",
+    "source_index": 2225,
+    "duplicate_source_index": 1974,
+    "duplicate_of": "45763892",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_410033a9c6b4b986",
+    "source_index": 2259,
+    "duplicate_source_index": 2037,
+    "duplicate_of": "q_aca0a4a41a6a0bdb",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_676ba05be9ef35d0",
+    "source_index": 2263,
+    "duplicate_source_index": 1887,
+    "duplicate_of": "f486a329",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_0c857664fa464b77",
+    "source_index": 2275,
+    "duplicate_source_index": 1796,
+    "duplicate_of": "f254610a",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_ebd89d6bb0b7fbbb",
+    "source_index": 2288,
+    "duplicate_source_index": 1513,
+    "duplicate_of": "q_8f97627ea67bea19",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_782d51cd2a7d92b5",
+    "source_index": 2300,
+    "duplicate_source_index": 2273,
+    "duplicate_of": "q_afdf1e8729eab8e1",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "899b8d7b",
+    "source_index": 2316,
+    "duplicate_source_index": 2177,
+    "duplicate_of": "q_08fc021ba4b8f4da",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_1e88c4834ff066d0",
+    "source_index": 2338,
+    "duplicate_source_index": 2048,
+    "duplicate_of": "q_74b9c92c71652178",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "1c6d5542",
+    "source_index": 2341,
+    "duplicate_source_index": 1668,
+    "duplicate_of": "q_64f6a8174fd6877f",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "34b49314",
+    "source_index": 2355,
+    "duplicate_source_index": 1529,
+    "duplicate_of": "q_6d25fca9f068f912",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "28f4d38a",
+    "source_index": 2359,
+    "duplicate_source_index": 1746,
+    "duplicate_of": "q_354c70cc5536e8c2",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_57205b1effbd42b2",
+    "source_index": 2377,
+    "duplicate_source_index": 2219,
+    "duplicate_of": "q_2b45d3fa68cd5833",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_7830239d91ee3356",
+    "source_index": 2389,
+    "duplicate_source_index": 1993,
+    "duplicate_of": "q_dc69dc0297f43e8b",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_6d04c90e39cf4086",
+    "source_index": 2394,
+    "duplicate_source_index": 1918,
+    "duplicate_of": "q_b835bdb20664611c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_07c55fa7123f626c",
+    "source_index": 2404,
+    "duplicate_source_index": 1853,
+    "duplicate_of": "q_0364138dc7eef705",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "f1d7a634",
+    "source_index": 2425,
+    "duplicate_source_index": 2157,
+    "duplicate_of": "q_5e53b43d6e248066",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_e35e0eab260cf456",
+    "source_index": 2430,
+    "duplicate_source_index": 1519,
+    "duplicate_of": "q_7a89505aee7d331c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  },
+  {
+    "id": "q_cd114e99a27526cc",
+    "source_index": 2446,
+    "duplicate_source_index": 1918,
+    "duplicate_of": "q_b835bdb20664611c",
+    "reason_for_fault": "Potential duplicate question and choices."
+  }
+]
